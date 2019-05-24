@@ -11,14 +11,14 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: NLB Mobile
+hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
+  - text: Download
+    url: https://qr.nlb.sg/nlbmobile
     
 key-highlights:
   - title: Highlight A
@@ -32,6 +32,45 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
+
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Enjoy eBooks and eAudiobooks
+    section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to.
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path:  
+  - section-title: 
+    section-subtitle: Read eNewspapers and eMagazines
+    section-description: Choose from more than 7,000 current, digitised issues of international newspapers and magazines.
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path:  
+  - section-title: 
+    section-subtitle: Learn New Skills
+    section-description: Learn new skills from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning). These video tutorials cover business, technology, photography and more! 
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path:  
+  - section-title: 
+    section-subtitle: Scan to Borrow
+    section-description: Use the in-app camera or scan your virtual library to borrow books.
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path: 
+  - section-title: 
+    section-subtitle: Manage Your Account 
+    section-description: Manage yours and your family members’ accounts from a single app. Check your loans, manage reservations, pay outstanding charges and update your contact details.
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path: 
+  - section-title: 
+    section-subtitle: Search and Reserve Books 
+    section-description: Search for books, eBooks and audiovisual items simultaneously. Reserve items and bookmark your favourite titles. 
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path: 
 
 resources-title: Resources
 resources-subtitle: Be in the know
