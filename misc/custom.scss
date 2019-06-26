@@ -196,6 +196,10 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.bp-section {
+  overflow: hidden;
+}
+
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
 }
