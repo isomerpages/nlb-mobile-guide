@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Merlion Park
-permalink: /merlion-park/
+permalink: /merlion/
 breadcrumb: Merlion Park
 ---
 
