@@ -5,7 +5,12 @@ permalink: /merlion/
 breadcrumb: Merlion Park
 ---
 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0-beta.1/angular.min.js"></script> 
 <script src="https://rawgit.com/oriongunning/gridder/master/dist/js/jquery.gridder.js"></script>
+<script src="http://oriongunning.github.io/gridder/js/app.js"></script>
+<script src="http://oriongunning.github.io/gridder/js/controllers/data.js"></script>  
+<script src="http://oriongunning.github.io/gridder/js/controllers/mainController.js"></script>  
+
 <link href='/misc/gridder-style.css' rel='stylesheet' type='text/css' />
 
 
