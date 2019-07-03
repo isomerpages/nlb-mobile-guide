@@ -5,9 +5,9 @@ permalink: /merlion/
 breadcrumb: Merlion Park
 ---
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/default.min.css">
+<script src="https://rawgit.com/oriongunning/gridder/master/dist/js/jquery.gridder.js"></script>
 <link href='/misc/gridder-style.css' rel='stylesheet' type='text/css' />
+
 
  <!-- Gridder navigation -->
 	<ul class="gridder">
