@@ -15,7 +15,7 @@ breadcrumb: Buddha Tooth Temple
 
 <script type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
 
-<div id="nanogallery2">Buddha Tooth Temple</div>
+<div id="nanogallery2"><h2>Buddha Tooth Temple</h2></div>
 
 <h1>gallery made with nanogallery2</h1>
 
