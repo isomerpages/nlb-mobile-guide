@@ -19,13 +19,13 @@ breadcrumb: Buddha Tooth Temple
         // ### gallery settings ### 
         thumbnailHeight:  150,
         thumbnailWidth:   150,
-        itemsBaseURL:     'https://nanogallery2.nanostudio.org/samples/',
+        itemsBaseURL:     'https://staging-nlb-mobile-guide/images/merlion/',
                         
         // ### gallery content ### 
         items: [
-			{ src: 'berlin1.jpg', srct: 'berlin1_t.jpg', title: 'Berlin 1' },
-            { src: 'berlin2.jpg', srct: 'berlin2_t.jpg', title: 'Berlin 2' },
-            { src: 'berlin3.jpg', srct: 'berlin3_t.jpg', title: 'Berlin 3' }
+			{ src: 'merlion-01.jpg', srct: 'merlion-01.jpg', title: 'Merlion 1' },
+            { src: 'merlion-02.jpg', srct: 'merlion-02.jpg', title: 'Merlion 2' },
+            { src: 'merlion-03.jpg', srct: 'merlion-03.jpg', title: 'Merlion 3' }
 			]
         });
     });
