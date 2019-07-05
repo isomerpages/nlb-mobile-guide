@@ -76,13 +76,13 @@ body {
     <img src="/images/merlion/merlion-01.jpg" alt="merlion-01" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/images/merlion/merlion-01.jpg" alt="merlion-02" style="width:100%" onclick="myFunction(this);">
+    <img src="/images/merlion/merlion-02.jpg" alt="merlion-02" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/images/merlion/merlion-01.jpg" alt="merlion-03" style="width:100%" onclick="myFunction(this);">
+    <img src="/images/merlion/merlion-03.jpg" alt="merlion-03" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/images/merlion/merlion-01.jpg" alt="merlion-04" style="width:100%" onclick="myFunction(this);">
+    <img src="/images/merlion/merlion-04.jpg" alt="merlion-04" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
