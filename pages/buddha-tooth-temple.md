@@ -6,7 +6,40 @@ breadcrumb: Buddha Tooth Temple
 ---
 
 <style>
-	@import /zoomwall/zoomwall.css;
+.zoomwall {
+	font-size: 0;
+
+	overflow: hidden;	
+}
+
+.zoomwall img {
+	height: 15vw;
+	opacity: 1;
+	vertical-align: top;
+	
+	transform-origin: 0% 0%;
+	transition-property: transform, opacity;
+	transition-duration: 0.3s;
+	transition-timing-function: ease-out;
+
+	-webkit-transform-origin: 0% 0%;
+	-webkit-transition-property: transform, opacity;
+	-webkit-transition-duration: 0.3s;
+	-webkit-transition-timing-function: ease-out;
+}
+
+.zoomwall.lightbox img {
+	transition-timing-function: ease-in;
+	-webkit-transition-timing-function: ease-in;
+}
+
+.zoomwall.lightbox img {
+	opacity: 0.3;
+}
+
+.zoomwall.lightbox img.active {
+	opacity: 1;
+}
 </style>
 
 <script type="text/javascript" src="/zoomwall/zoomwall.js"></script>
