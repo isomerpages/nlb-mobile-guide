@@ -21,7 +21,6 @@ body {
   justify-content: center;
   width: 100%;
   background-color: #f2f2f2;
-  overflow-x: hidden;
 }
 
 .vintalight {
