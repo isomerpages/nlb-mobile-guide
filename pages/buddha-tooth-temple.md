@@ -17,20 +17,21 @@ breadcrumb: Buddha Tooth Temple
 
 <div id="nanogallery2">Buddha Tooth Temple</div>
 
-<script>
-    jQuery(document).ready(function () {
-		jQuery("#nanogallery2").nanogallery2( {
-        // ### gallery settings ### 
-        thumbnailHeight:  150,
-        thumbnailWidth:   150,
-        itemsBaseURL:     'https://staging-nlb-mobile-guide.netlify.com/images/merlion/',
-                        
-        // ### gallery content ### 
-        items: [
-			{ src: 'merlion-01.jpg', srct: 'merlion-01.jpg', title: 'Merlion 1' },
-            { src: 'merlion-02.jpg', srct: 'merlion-02.jpg', title: 'Merlion 2' },
-            { src: 'merlion-03.jpg', srct: 'merlion-03.jpg', title: 'Merlion 3' }
-			]
-        });
-    });
-</script>
+<h1>gallery made with nanogallery2</h1>
+
+              <!-- ### start of the gallery definition ### -->
+              <div id="nanogallery2"
+              
+                  <!-- gallery settings -->
+                  data-nanogallery2 = '{
+                        "thumbnailHeight":  150,
+                        "thumbnailWidth":   150,
+                        "itemsBaseURL":     "https://staging-nlb-mobile-guide.netlify.com/images/merlion/"
+                      }' >
+                      
+                  <!-- gallery content -->
+                  <a href = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-01.jpg" data-ngThumb = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-01.jpg" > Merlion 1 </a>
+                  <a href = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-02.jpg" data-ngThumb = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-02.jpg" > Merlion 2 </a>
+                  <a href = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-03.jpg" data-ngThumb = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-03.jpg" > Merlion 3 </a>
+              </div>
+              <!-- ### end of the gallery definition ### -->
