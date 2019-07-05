@@ -6,7 +6,8 @@ breadcrumb: Buddha Tooth Temple
 ---
 
 <!-- nanogallery2 -->
-<link  href="https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+<style type="text/css"> @import url("https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css"); </style>
+
 <script  type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
 
 <div id="nanogallery2">Buddha Tooth Temple</div>
