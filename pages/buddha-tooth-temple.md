@@ -5,7 +5,6 @@ permalink: /buddha-tooth-temple/
 breadcrumb: Buddha Tooth Temple
 ---
 
-<link rel="stylesheet" href="/gallerly.js/css/bootstrap.min.css" />
 <link rel="stylesheet" href="/gallerly.js/css/gallerly.css" />
 
 <div id="gallerly" class="container">
