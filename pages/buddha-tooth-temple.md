@@ -8,8 +8,10 @@ breadcrumb: Buddha Tooth Temple
 <style>
 .zoomwall {
 	font-size: 0;
-
 	overflow: hidden;	
+	float: left;
+	width: 25%;
+	padding: 10px;
 }
 
 .zoomwall img {
@@ -45,8 +47,8 @@ breadcrumb: Buddha Tooth Temple
 <script type="text/javascript" src="/zoomwall/zoomwall.js"></script>
 
 <div id="gallery" class="zoomwall">
-	<img src="/images/merlion/merlion-01.jpg" data-highres="/images/merlion/merlion-01.jpg" />
-    <img src="/images/merlion/merlion-02.jpg" data-highres="/images/merlion/merlion-02.jpg" />
+	<img src="/images/merlion/merlion-01.jpg" data-highres="/images/merlion/merlion-01.jpg" style="width:100%" />
+    <img src="/images/merlion/merlion-02.jpg" data-highres="/images/merlion/merlion-02.jpg" style="width:100%" />
 </div>
 
 <script>
