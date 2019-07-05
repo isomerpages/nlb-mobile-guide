@@ -1,0 +1,18 @@
+---
+galleries:
+ # gallery number one
+ 1:
+   # row one in gallery one
+   -
+     - { url: '/images/merlion/merlion-01.jpg', alt: 'alt 1'}
+   # row two in gallery one
+   -
+     - { url: '/images/merlion/merlion-02.jpg', alt: 'alt 2'}
+     - { url: '/images/merlion/merlion-03.jpg', alt: 'alt 3'}
+
+ # gallery number two
+ 2:
+  # row one in gallery two
+   -
+     - { url: '/images/merlion/merlion-04.jpg', alt: 'alt 4'}
+     - { url: '/images/merlion/merlion-05.jpg', alt: 'alt 5'}
