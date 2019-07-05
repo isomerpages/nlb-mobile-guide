@@ -4,11 +4,12 @@ title: Buddha Tooth Temple
 permalink: /buddha-tooth-temple/
 breadcrumb: Buddha Tooth Temple
 ---
+<script  type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
 
 <!-- nanogallery2 -->
-<style type="text/css"> @import url("https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css"); </style>
-
-<script  type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
+<style>
+	@import url("https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css");
+</style>
 
 <div id="nanogallery2">Buddha Tooth Temple</div>
 
