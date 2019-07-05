@@ -66,7 +66,7 @@ body {
 </style>
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
+  <p>The Merlion is the official mascot of Singapore, depicted as a mythical creature with a lion's head and the body of a fish. Being of prominent symbolic nature to Singapore and Singaporeans in general, it is widely used to represent both the city state and its people in sports teams, advertising, branding, tourism and as a national personification.</p>
   <p>Click on the images below:</p>
 </div>
 
