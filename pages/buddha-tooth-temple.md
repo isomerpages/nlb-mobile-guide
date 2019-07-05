@@ -5,33 +5,34 @@ permalink: /buddha-tooth-temple/
 breadcrumb: Buddha Tooth Temple
 ---
 
-<!-- jQuery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/gallerly.js/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/gallerly.js/css/gallerly.css" />
 
-<!-- nanogallery2 -->
-<style>
-	@import url("https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css");
-</style>
+<div id="gallerly" class="container">
+	<h1>Buddha Tooth Temple</h1>
+	<div class="image-viewer">
+		<a class="thumbnail"><img src="/images/merlion/merlion-01.jpg" data-title="Merlion 01" data-description="Lorem ipsum Merlion 1"/></a>
+		<a class="thumbnail"><img src="/images/merlion/merlion-02.jpg" data-title="Merlion 02" data-description="Lorem ipsum Merlion 2"/></a>
+		<a class="thumbnail"><img src="/images/merlion/merlion-03.jpg" data-title="Merlion 03" data-description="Lorem ipsum Merlion 3"/></a>
+		
+		<div class="preview hide">
+			<div class="wrapper">
+				<span class="arrow"></span>
+				<a class="prev">&larr; Prev</a>
+				<div class="preview-content">
+					<img src="" />
+					<div class="content">
+						<h3 class="title"></h3>
+						<span class="description"></span>
+					</div>
+				</div>
+				<a class="next">Next &rarr;</a>
+				<a class="close-preview">Close</a>
+			</div>
+		</div>
+		
+	</div>
+</div>
 
-<script type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
-
-<div id="nanogallery2"><h2>Buddha Tooth Temple</h2></div>
-
-<h1>gallery made with nanogallery2</h1>
-
-              <!-- ### start of the gallery definition ### -->
-              <div id="nanogallery2"
-              
-                  <!-- gallery settings -->
-                  data-nanogallery2 = '{
-                        "thumbnailHeight":  150,
-                        "thumbnailWidth":   150,
-                        "itemsBaseURL":     "https://staging-nlb-mobile-guide.netlify.com/images/merlion/"
-                      }' >
-                      
-                  <!-- gallery content -->
-                  <a href = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-01.jpg" data-ngThumb = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-01.jpg" > Merlion 1 </a>
-                  <a href = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-02.jpg" data-ngThumb = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-02.jpg" > Merlion 2 </a>
-                  <a href = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-03.jpg" data-ngThumb = "https://staging-nlb-mobile-guide.netlify.com/images/merlion/merlion-03.jpg" > Merlion 3 </a>
-              </div>
-              <!-- ### end of the gallery definition ### -->
+<script src="/gallerly.js/js/gallerly.js"></script>
+<script src="/gallerly.js/js/main.js"></script>
