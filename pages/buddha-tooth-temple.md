@@ -19,7 +19,7 @@ breadcrumb: Buddha Tooth Temple
         // ### gallery settings ### 
         thumbnailHeight:  150,
         thumbnailWidth:   150,
-        itemsBaseURL:     'https://staging-nlb-mobile-guide/images/merlion/',
+        itemsBaseURL:     'https://staging-nlb-mobile-guide.netlify.com/images/merlion/',
                         
         // ### gallery content ### 
         items: [
