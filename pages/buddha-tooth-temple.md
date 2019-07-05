@@ -5,7 +5,10 @@ permalink: /buddha-tooth-temple/
 breadcrumb: Buddha Tooth Temple
 ---
 
-<link rel="stylesheet" type="text/css" href="/zoomwall/zoomwall.css" />
+<style>
+	@import /zoomwall/zoomwall.css;
+</style>
+
 <script type="text/javascript" src="/zoomwall/zoomwall.js"></script>
 
 <div id="gallery" class="zoomwall">
