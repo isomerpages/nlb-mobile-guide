@@ -64,8 +64,6 @@ body {
   cursor: pointer;
 }
 </style>
-</head>
-<body>
 
 <div style="text-align:center">
   <h2>Tabbed Image Gallery</h2>
