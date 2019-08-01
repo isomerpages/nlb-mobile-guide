@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: digigov-landing-page
 title: NLB Mobile app - User Guide
 permalink: /
 ---
