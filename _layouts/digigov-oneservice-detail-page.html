@@ -1,0 +1,75 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.div-row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+  margin: 0 auto;
+  max-width: 85%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Create two equal columns that sits next to each other */
+.div-column {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+  max-width: 50%;
+  padding: 0 4px;
+}
+
+.div-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 80%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .div-column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .div-column {
+    -ms-flex: 70%;
+    flex: 70%;
+    max-width: 70%;
+  }
+}
+</style>
+
+<div class="div-row">
+	<div class="div-column">
+		<h1>OneService</h2>
+		<h6>Municipal Services Office</h6>
+
+		<p>OneService provides a convenient channel to report municipal issues within Singapore. With the OneService app, municipal services can be delivered more effectively to improve the living environment for citizens.</p>
+
+		<p>What you can do with OneService:</p>
+		<ul>
+			<li>Select from a range of common categories and sub-categories to submit a case</li>
+			<li>Attach photos and geo-tag for more complete and precise reporting</li>
+			<li>Track updates of submitted cases and rate services</li>
+			<li>Receive alerts if you are near dengue clusters, view the number of cases in the neighbourhood and the block of flats where these cases are located</li>
+			<li>Locate public and commercial car parks at your destination and obtain information such as parking rates, opening hours, car park types and entry points</li>
+			<li>View parking lot availability and height restrictions of HDB Electronic Parking System car parks and selected commercial car parks</li>
+			<li>Pay parking fees for HDB and URA coupon car parks</li>
+		</ul>
+	</div>
+	
+	<div class="div-column">
+		<video controls>
+			<source type="video/mp4" src="/videos/OneService.mp4" />	
+		</video>
+	</div>
+</div>
