@@ -2,7 +2,7 @@
 layout: default
 ---
 <style>
-.div-row {
+.row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
@@ -13,14 +13,14 @@ layout: default
 }
 
 /* Create four equal columns that sits next to each other */
-.div-column {
+.column {
   -ms-flex: 15%; /* IE10 */
   flex: 25%;
   max-width: 15%;
   padding: 0 4px;
 }
 
-.div-column img {
+.column img {
   margin-top: 8px;
   vertical-align: middle;
   width: 80%;
@@ -28,7 +28,7 @@ layout: default
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
-  .div-column {
+  .column {
     -ms-flex: 50%;
     flex: 50%;
     max-width: 50%;
@@ -37,7 +37,7 @@ layout: default
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .div-column {
+  .column {
     -ms-flex: 70%;
     flex: 70%;
     max-width: 70%;
@@ -45,8 +45,8 @@ layout: default
 }
 </style>
 
-<div class="div-row">
-	<div class="div-column">
+<div class="row">
+	<div class="column">
 		<h2>Did you know that you can:</h3>
 		<li>
 			<ul>Borrow books without having to queue?</ul>
@@ -54,16 +54,16 @@ layout: default
 			<ul>Locate the nearest car park and its parking rates?</ul>
 		</li>
 	</div>
-	<div class="div-column">
+	<div class="column">
 		<img src="/images/logos/logo-oneservice.png" style"width:70%">
 		<img src="/images/logos/logo-myresponder.png" style"width:70%">
 		<img src="/images/logos/logo-health-hub.png" style"width:70%">
 	</div>
-	<div class="div-column">
+	<div class="column">
 		<img src="/images/logos/logo-mobile-hdb.png" style"width:70%">
 		<img src="/images/logos/logo-mycpf.png" style"width:70%">
 	</div>
-	<div class="div-column">
+	<div class="column">
 		<img src="/images/logos/logo-parkingsg.png" style"width:70%">
 		<img src="/images/logos/logo-nlb-mobile.png" style"width:70%">
 	</div>
