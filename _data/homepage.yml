@@ -20,19 +20,6 @@ button:
   - text: Download
     url: https://qr.nlb.sg/nlbmobile
     
-key-highlights:
-  - title: Highlight A
-    description: Highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-
 # Call to Action Dropdown
 i-want-to:
   - title: apply hotel licence
@@ -47,6 +34,19 @@ i-want-to:
     url: /application-guidelines/change-of-hotel-name/
   - title: renew hotel licence
     url: /application-guidelines/renew-hotel-licence/
+
+key-highlights:
+  - title: Highlight A
+    description: Highlight A is important
+    url: https://google.com
+    external: true
+  - title: Highlight B
+    description: Important highlight B is equally important
+    url: https://yahoo.com
+    external: true
+  - title: Page A
+    description: Page A is important too
+    url: /page-A/
 
 # Info Sections
 info-sections:
