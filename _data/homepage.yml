@@ -15,6 +15,11 @@ hero-title: NLB Mobile
 hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/hero-banner.png
 
+#Call to Action Button
+button:
+  - text: Download
+    url: https://qr.nlb.sg/nlbmobile
+
 key-highlights:
   - title: Highlight A
     description: Highlight A is important
@@ -27,11 +32,7 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
-    
-#Call to Action Button
-button:
-  - text: Download
-    url: https://qr.nlb.sg/nlbmobile
+   
     
 # Info Sections
 info-sections:
