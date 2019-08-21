@@ -15,9 +15,8 @@ hero-title: NLB Mobile
 hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/hero-banner.png
 
-| # Hero Dropdown Main Text |                               |
-| ------------------------- | ----------------------------- |
-|                           | hero-dropdown-text: "I am..." |
+# Hero Dropdown Main Text
+hero-dropdown-text: "I am..."
 
 # I want to dropdown
 i-want-to:
