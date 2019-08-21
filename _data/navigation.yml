@@ -7,11 +7,17 @@
 - title: Contact Us
   url: /contact-us/
 - title: Get Started With...
+<<<<<<< HEAD
   url: /get-started-with/NLB-Mobile/
   sub-links:
   - title: NLB Mobile
     url: /get-started-with/NLB-Mobile/
-  - title: PressReader
+=======
+  url: /get-started-with/nlb-mobile/
+  sub-links:
+  - title: NLB Mobile
+    url: /get-started-with/nlb-mobile/
+>>>>>>>   - title: PressReader
     url: /get-started-with/PressReader/
 - title: Left Nav Two
   url: /left-nav-two/sub-page-C/
