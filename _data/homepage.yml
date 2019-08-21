@@ -15,11 +15,6 @@ hero-title: NLB Mobile
 hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/hero-banner.png
 
-#Call to Action Button
-button:
-  - text: Download
-    url: https://qr.nlb.sg/nlbmobile
-    
 # Call to Action Dropdown
 i-want-to:
   - title: apply hotel licence
