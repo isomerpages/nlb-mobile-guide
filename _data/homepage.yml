@@ -21,13 +21,13 @@ hero-dropdown-text: "I am..."
 # I want to dropdown
 i-want-to:
   - title: an Individual
-    url: /users/individual/
+    url: www.google.com
   - title: a Business
-    url: /users/business/
+    url: www.google.com
   - title: an NGO
-    url: /users/ngo/
+    url: www.google.com
   - title: a Teacher
-    url: /users/teacher/
+    url: www.google.com
 
 key-highlights:
   - title: Highlight A
