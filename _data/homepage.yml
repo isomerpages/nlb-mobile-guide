@@ -21,9 +21,9 @@ hero-dropdown-text: "I am..."
 # I want to dropdown
 i-want-to:
   - title: a parent. I want opportunities to bond with my family through reading and learning. 
-    url: /application-guidelines/application-for-licence/
+    url: /parent/
   - title: an avid reader. I read for pleasure, mostly.
-    url: /application-guidelines/application_for_exemption/
+    url: /reader/
   - title: a learner. I read for a purpose – to further skills or interests, and/or advance my career.
     url: /learner/
     
