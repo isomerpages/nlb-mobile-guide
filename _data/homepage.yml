@@ -15,19 +15,10 @@ hero-title: NLB Mobile
 hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/hero-banner.png
 
-# Hero Dropdown Main Text
-hero-dropdown-text: "I am..."
-
-# I want to dropdown
-i-want-to:
-  - title: an Individual
-    url: www.google.com
-  - title: a Business
-    url: www.google.com
-  - title: an NGO
-    url: www.google.com
-  - title: a Teacher
-    url: www.google.com
+#Call to Action Button
+button:
+  - text: Download
+    url: https://qr.nlb.sg/nlbmobile
 
 key-highlights:
   - title: Highlight A
