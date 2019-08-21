@@ -8,7 +8,3 @@ breadcrumb: Download eBooks and audiobooks
 collection_name: Fill in collection of the nav bar. You may get this from other pages in the navbar folder
 ---
 ```
-
-
-
-images/HowtoSetUpLibby _Flowchart.png
