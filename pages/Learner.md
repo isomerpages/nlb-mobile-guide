@@ -5,7 +5,7 @@ breadcrumb: FAQ
 title: FAQ
 ---
 
-images/Learner_notfinalupdateURL.png
+<img src="https://github.com/isomerpages/nlb-mobile-guide/blob/staging/images/Learner_notfinalupdateURL.png">
 
 ### FAQ**
 
