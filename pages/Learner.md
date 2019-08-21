@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-permalink: /learner/
-breadcrumb: Learner
-title: Learner
+permalink: /faq/
+breadcrumb: FAQ
+title: FAQ
 ---
 
 ### **FAQ**
