@@ -6,13 +6,13 @@
 
 - title: Contact Us
   url: /contact-us/
-- title: Left Nav One
-  url: /left-nav-one/sub-page-A/
+- title: Get Started With...
+  url: /get-started-with/NLB-Mobile/
   sub-links:
-  - title: Sub Page A
-    url: /left-nav-one/sub-page-A/
-  - title: Sub Page B
-    url: /left-nav-one/sub-page-B/
+  - title: NLB Mobile
+    url: /get-started-with/NLB-Mobile/
+  - title: PressReader
+    url: /get-started-with/PressReader/
 - title: Left Nav Two
   url: /left-nav-two/sub-page-C/
   sub-links:
