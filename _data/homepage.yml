@@ -28,11 +28,20 @@ key-highlights:
     description: Page A is important too
     url: /page-A/
     
-#Call to Action Button
-button:
-  - text: Download
-    url: https://qr.nlb.sg/nlbmobile
+# Hero Dropdown Main Text
+hero-dropdown-text: "I am..."
 
+# I want to dropdown
+i-want-to:
+  - title: an Individual
+    url: www.google.com
+  - title: a Business
+    url: www.google.com
+  - title: an NGO
+    url: www.google.com
+  - title: a Teacher
+    url: www.google.com
+    
 # Info Sections
 info-sections:
   - section-title: 
