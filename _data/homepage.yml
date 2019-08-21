@@ -33,6 +33,21 @@ key-highlights:
     description: Page A is important too
     url: /page-A/
 
+# Call to Action Dropdown
+i-want-to:
+  - title: apply hotel licence
+    url: /application-guidelines/application-for-licence/
+  - title: apply for exemption
+    url: /application-guidelines/application_for_exemption/
+  - title: cancel hotel licence
+    url: /application-guidelines/cancellation-of-licence/
+  - title: change hotel-keeper
+    url: /application-guidelines/change-of-hotel-keeper/
+  - title: change hotel name
+    url: /application-guidelines/change-of-hotel-name/
+  - title: renew hotel licence
+    url: /application-guidelines/renew-hotel-licence/
+
 # Info Sections
 info-sections:
   - section-title: 
