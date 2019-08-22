@@ -1,9 +1,11 @@
 ---
-layout: simple-page
+layout: our-journey-parent
 permalink: /parent/
 breadcrumb: Parent
 title: Parent
 ---
+
+![ParentInfographic](images/ParentInfographic.png)
 
 ### **FAQ**
 
