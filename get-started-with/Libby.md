@@ -6,4 +6,4 @@ breadcrumb: Libby
 collection_name: get-started-with
 ---
 
-![Libby_Flowchart](C:\Users\morph\Documents\GitHub\nlb-mobile-guide\images\Libby_Flowchart.png)
+![Libby_Flowchart](images/Libby_Flowchart.png)
