@@ -69,7 +69,6 @@ can use the in-app features to read downloaded eBooks and listen to downloaded
 audiobooks.</p>
 <p><b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/
 audiobooks, but with a simpler user interface.</p>
-</div>
 
 <button class="accordion">Section 2</button>
 <div class="panel">
@@ -97,7 +96,4 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 </script>
-
-</body>
-</html>
 
