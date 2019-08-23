@@ -52,11 +52,10 @@ collection_name: get-started-with
 <body>
 
 <h2>Getting Started</h2>
-
+<p>
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-
 <div class="panel">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s
+<p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s
 eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such
 as OverDrive.
 <p>
@@ -71,13 +70,11 @@ audiobooks, but with a simpler user interface.</p>
 </div>
 
 <button class="accordion">Section 2</button>
-
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
 <button class="accordion">Section 3</button>
-
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
@@ -101,3 +98,4 @@ for (i = 0; i < acc.length; i++) {
 
 </body>
 </html>
+
