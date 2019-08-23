@@ -7,7 +7,6 @@ collection_name: get-started-with
 ---
 ![A flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_Flowchart.png)
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
