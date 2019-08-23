@@ -53,7 +53,7 @@ collection_name: get-started-with
 
 <h2>Getting Started</h2>
 <p></p>
-<button class="accordion">Section 1</button>
+<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
@@ -87,3 +87,4 @@ for (i = 0; i < acc.length; i++) {
 
 </body>
 </html>
+
