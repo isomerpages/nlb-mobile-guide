@@ -5,6 +5,9 @@ permalink: /get-started-with/nlb-mobile/
 breadcrumb: NLB Mobile
 collection_name: get-started-with
 ---
+
+![A flowchart describing how to borrow physical and electronic items with the NLB Mobile app.](/images/NLBMobileFlowchart.png)
+
 <!--- Q1 What is NLB Mobile -->
 <div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 	<div class="col is-expanded is-fullwidth is-paddingless">
