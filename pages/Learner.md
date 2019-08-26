@@ -1,11 +1,10 @@
 ---
 layout: simple-page
-permalink: /faq/
-breadcrumb: FAQ
-title: FAQ
+permalink: /learner/
+breadcrumb: Learner
+title: Learner
 ---
 
-<img src="https://github.com/isomerpages/nlb-mobile-guide/blob/staging/images/Learner_notfinalupdateURL.png">
 
 ### **FAQ**
 
