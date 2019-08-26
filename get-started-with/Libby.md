@@ -20,7 +20,7 @@ collection_name: get-started-with
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 20px;
   transition: 0.4s;
 }
 
@@ -53,7 +53,7 @@ collection_name: get-started-with
 
 <h2>Getting Started</h2>
 <p></p>
-<button class="accordion"><h4>What is the difference between NLB Mobile, OverDrive app and Libby?</h4></button>
+<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 <div class="panel">
   <div class="libby">
   <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
