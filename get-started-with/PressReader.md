@@ -31,7 +31,6 @@ can use the in-app features to read downloaded eBooks and listen to downloaded
 audiobooks.</p>
 <p><b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/
 audiobooks, but with a simpler user interface.</p>
-</div>
 
 <button onclick="myFunction('Demo1')" class="w3-btn w3-block w3-black w3-left-align">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 <div id="Demo1" class="w3-container w3-hide">
@@ -49,7 +48,6 @@ can use the in-app features to read downloaded eBooks and listen to downloaded
 audiobooks.</p>
 <p><b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/
 audiobooks, but with a simpler user interface.</p>
-</div>
 
 <button onclick="myFunction('Demo1')" class="w3-btn w3-block w3-black w3-left-align">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 <div id="Demo1" class="w3-container w3-hide">
