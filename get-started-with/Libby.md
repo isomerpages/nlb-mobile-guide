@@ -66,9 +66,10 @@ collection_name: get-started-with
   <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
-<button class="accordion">Section 2</button>
+<button class="accordion">What’s the point of Libby when there is an existing OverDrive app?</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <div class="libby">
+  <p>Both Libby and the OverDrive app allow you to borrow and read the same digital library collection. Libby has a simpler user experience, and is the best choice for first-time users.</p>
 </div>
 
 <button class="accordion">Section 3</button>
