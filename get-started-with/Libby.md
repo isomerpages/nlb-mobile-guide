@@ -69,7 +69,7 @@ collection_name: get-started-with
 <button class="accordion">What’s the point of Libby when there is an existing OverDrive app?</button>
 <div class="panel">
     <div class="libby">
-  <p>Both Libby and the OverDrive app allow you to borrow and read the same digital library collection. Libby has a simpler user experience, and is the best choice for first-time users.</p>
+  <p>Both Libby and the OverDrive app allow you to borrow and read the same digital library collection. Libby has a simpler user experience, and is the best choice for first-time users.</p></div>
 </div>
 
 <button class="accordion">Section 3</button>
