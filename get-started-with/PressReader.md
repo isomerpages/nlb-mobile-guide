@@ -51,19 +51,25 @@ collection_name: get-started-with
 </head>
 <body>
 
+PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as *The Washington Post*, *The Guardian*, *Bloomberg Businessweek* (Asia), and local publications such as *Female*, *Women’s Weekly*, and *Singapore Tatler*.
+
 <h2>Getting Started</h2>
 <p></p>
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">How do I get complimentary access to PressReader?</button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
+  <p>There are many ways to get complimentary access to the publications in PressReader. If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries. 
 <p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
+Here are the details of each access mode:<br>
+1. NLB Mobile app<br>
+<ul><li>Tap the “eNewspapers & eMagazines” icon on your NLB Mobile app. You will be prompted to download the PressReader app if you don’t have it. When you launch the PressReader app through NLB Mobile, you can get one hour of complimentary access to the publications. When the hour is up, you can re-launch PressReader from NLB Mobile to get complimentary access again.</li></ul>
+2. Internet browser<br> 
+<ul><li>Go to NLB’s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on “PressReader” to gain complimentary access to the publications. </li></ul>
+3. NLB libraries<br>  
+<ul><li>Connect your device to the Wireless@SG/SGx network at our libraries, and open <a href="www.pressreader.com">PressReader on your browser</a> or the PressReader app. You will have complimentary access to PressReader’s publications for three days, even after you leave the library. However, do note that access to <i>The Straits Times, The Business Times</i> and <i>Lianhe Zaobao</i> is only available while you are connected to the Wireless@SG/SGx network at any library.</li></ul> 
+      <ul><li>You can also use the eNewspaper stations at our libraries.</li></ul></p>  
 
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
 <button class="accordion">What is the point of Libby when there is an existing OverDrive app?</button>
