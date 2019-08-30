@@ -97,9 +97,9 @@ collection_name: get-started-with
 <button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does “Sponsored Access” mean?</button>
 <div class="panel">
   <div class="libby">
-  <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at PressReader.com. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.
-<p>
-With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div></div>
+  <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at PressReader.com. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
+<p>With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div>
+</div>
 
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 <div class="panel">
