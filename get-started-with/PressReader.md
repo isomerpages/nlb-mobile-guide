@@ -107,7 +107,7 @@ collection_name: get-started-with
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
     <p>
-    ![PressReader app logo.](/images/PressReader_applogo.png)
+      ![PressReader app logo](/images/PressReader_applogo.png)</p>
     </p></div>
 
 </div>
