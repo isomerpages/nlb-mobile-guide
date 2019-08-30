@@ -5,7 +5,8 @@ permalink: /get-started-with/PressReader/
 breadcrumb: PressReader
 collection_name: get-started-with
 ---
-![A flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_Flowchart.png)
+![A flowchart describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_Flowchart.png)
+<a href="/images/PressReader_Flowchart.png">Click to enlarge</a>
 
 <html>
 <head>
