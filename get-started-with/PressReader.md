@@ -52,7 +52,7 @@ collection_name: get-started-with
 </head>
 
 <body>
-  <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, and Singapore Tatler</i>.
+  <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, and Singapore Tatler</i>.</p>
 
 <h2>Getting Started</h2>
 <p></p>
@@ -72,10 +72,26 @@ collection_name: get-started-with
   
 </div>
 
-<button class="accordion">What is the point of Libby when there is an existing OverDrive app?</button>
+<button class="accordion">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
 <div class="panel">
     <div class="libby">
-  <p>Both Libby and the OverDrive app allow you to borrow and read the same digital library collection. Libby has a simpler user experience, and is the best choice for first-time users.</p></div>
+  <p>Yes, you can. But it is important to note that you are only able to read SPH newspapers <u>onsite</u> at NLB&rsquo;s libraries via:</p>
+<ul>
+<li>The libraries&rsquo; computers
+<ul>
+<li>eNewspaper Stations (using PressReader Windows app)</li>
+<li>Multimedia stations</li>
+</ul>
+</li>
+<li>Your device, <u>only</u> while it is connected to NLB&rsquo;s Wireless@SG/SGx networks
+<ul>
+<li>PressReader app (Android, iOS and Windows)</li>
+<li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
+</ul>
+</li>
+</ul>
+<p>You can download SPH newspapers to your personal device and continue to read the downloaded content even when you are away from the library premises. You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content!</p>
+<p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p></div>
 </div>
 
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
