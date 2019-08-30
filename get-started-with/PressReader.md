@@ -68,9 +68,9 @@ Here are the details of each access mode:<br>
 <ul><li>Go to NLB’s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on “PressReader” to gain complimentary access to the publications. </li></ul>
 3. NLB libraries<br>  
 <ul><li>Connect your device to the Wireless@SG/SGx network at our libraries, and open <a href="www.pressreader.com">PressReader on your browser</a> or the PressReader app. You will have complimentary access to PressReader’s publications for three days, even after you leave the library. However, do note that access to <i>The Straits Times, The Business Times</i> and <i>Lianhe Zaobao</i> is only available while you are connected to the Wireless@SG/SGx network at any library.</li></ul> 
-      <ul><li>You can also use the eNewspaper stations at our libraries.</li></ul></p>  
+      <ul><li>You can also use the eNewspaper stations at our libraries.</li></ul></p</div> 
 
-</div></div>
+</div>
 
 <button class="accordion">What is the point of Libby when there is an existing OverDrive app?</button>
 <div class="panel">
