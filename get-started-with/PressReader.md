@@ -53,7 +53,6 @@ collection_name: get-started-with
 
 <body>
   <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, and Singapore Tatler</i>.</p>
-
 <h2>Getting Started</h2>
 <p></p>
 <button class="accordion">How do I get complimentary access to PressReader?</button>
@@ -69,7 +68,7 @@ collection_name: get-started-with
     <p>3. NLB libraries</p>
     <ul><li>Connect your device to the Wireless@SG/SGx network at our libraries, and open <a href="http://www.pressreader.com">PressReader on your browser</a> or the PressReader app. You will have complimentary access to PressReader’s publications for three days, even after you leave the library. However, do note that access to <i>The Straits Times, The Business Times</i> and <i>Lianhe Zaobao</i> is only available while you are connected to the Wireless@SG/SGx network at any library.</li></ul>
     <ul><li>You can also use the eNewspaper stations at our libraries.</li></ul></p></div>
-  
+
 </div>
 
 <button class="accordion">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
@@ -106,8 +105,8 @@ collection_name: get-started-with
   <div class="libby">
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
-    <p>
-      ![PressReader app logo](/images/PressReader_applogo.png)</p>
+      <p><img src="/images/PressReader_applogo.png"></img>
+     </p>
     </p></div>
 
 </div>
