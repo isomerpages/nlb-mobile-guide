@@ -91,7 +91,7 @@ collection_name: get-started-with
 </li>
 </ul>
 <p>You can download SPH newspapers to your personal device and continue to read the downloaded content even when you are away from the library premises. You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content!</p>
-<p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p></div>
+<p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p><p></div>
 </div>
 
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
