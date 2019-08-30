@@ -50,9 +50,11 @@ collection_name: get-started-with
 }
 </style>
 </head>
+
+<body>
 <div class="panel">
   <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, and Singapore Tatler</i>.</p></div>
-<body>
+
 <h2>Getting Started</h2>
 <p></p>
 <button class="accordion">How do I get complimentary access to PressReader?</button>
