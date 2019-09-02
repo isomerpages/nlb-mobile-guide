@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: PressReader
-permalink: /get-started-with/PressReader/
-breadcrumb: PressReader
+title: Library Membership and myLibrary ID
+permalink: /get-started-with/myLibrary/
+breadcrumb: Library Membership and myLibrary ID
 collection_name: get-started-with
 ---
 ![A flowchart describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_Flowchart.png)
