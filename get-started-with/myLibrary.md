@@ -174,8 +174,8 @@ collection_name: get-started-with
 <div class="panel">
   <div class="libby">
   <ul>
-<li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a></li>
-<li>You can start using our digital collection immediately! Download the <a href="https://qr.nlb.gov.sg">NLB Mobile app</a> to read eBooks, listen to eAudiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries.</li>
+<li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
+<li>You can start using our digital collection immediately! Download the <a href="https://www.nlb.gov.sg/static/nlbmobileguide/">NLB Mobile app</a> to read eBooks, listen to eAudiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries.</li>
 </ul>
 <p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
 <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
