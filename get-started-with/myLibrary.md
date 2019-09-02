@@ -72,33 +72,32 @@ collection_name: get-started-with
 <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
 <li>If you are a PR and a student at an MOE school, you are eligible for a waiver on the one-time registration fee. To receive the waiver, sign up for library membership at the libraries instead of online.</li>
 </ul>
-      </p></div>
+      </div>
 
 </div>
 
-<button class="accordion">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
+<button class="accordion">Can I sign my child up for library membership online?</button>
+
 <div class="panel">
     <div class="libby">
-  <p>Yes, you can. But it is important to note that you are only able to read SPH newspapers <u>onsite</u> at NLB&rsquo;s libraries via:</p>
+  <p>Yes, you can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
 <ul>
-<li>The libraries&rsquo; computers
+<li>Your child is a Singaporean or Permanent Resident, and</li>
+<li>Your child is born in Singapore</li>
+</ul>
+<p>Do note that:</p>
 <ul>
-<li>eNewspaper Stations (using PressReader Windows app)</li>
-<li>Multimedia stations</li>
+<li>If your child is a PR and a student at a MOE school, he/she is eligible for a waiver on the one-time registration fee. To receive the waiver, sign up for library membership at the libraries instead of online.
+<ul>
+<li>If you have more than one child, you can choose to register just one child or all your children at the same time.</li>
 </ul>
 </li>
-<li>Your device, <u>only</u> while it is connected to NLB's Wireless@SG/SGx networks
-<ul>
-<li>PressReader app (Android, iOS and Windows)</li>
-<li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
 </ul>
-</li>
-</ul>
-<p>You can download SPH newspapers to your personal device and continue to read the downloaded content even when you are away from the library premises. You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content!</p>
-<p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p></div>
+    </div>
 </div>
 
 <button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does “Sponsored Access” mean?</button>
+
 <div class="panel">
   <div class="libby">
   <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at PressReader.com. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
