@@ -186,31 +186,77 @@ collection_name: get-started-with
     <h2>myLibrary ID</h2>
 </p>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">Why do I need a myLibrary ID? </button>
 
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+  <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a User ID and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">What can I do with a myLibrary ID? </button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+  <p>You need a myLibrary ID to enjoy these digital library services:</p>
+<table style="border-collapse: collapse; width: 100%; height: 122px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 30.3949%; height: 17px;">
+<p><strong>Various online services</strong></p>
+</td>
+<td style="width: 69.6051%; height: 17px;">
+<p>This includes:</p>
+<ul>
+<li>Checking your account</li>
+<li>Accessing your loan history</li>
+<li>Updating your contact details</li>
+<li>Redeeming rewards and making reservations</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 30.3949%; height: 17px;">
+<p><strong>NLB Mobile app</strong></p>
+</td>
+<td style="width: 69.6051%; height: 17px;">
+<p>The app lets you:</p>
+<ul>
+<li>Borrow books</li>
+<li>Check your account</li>
+<li>Pay fees/ fines</li>
+<li>Redeem rewards, e.g. Book Bugs cards</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 30.3949%; height: 17px;">
+<p><strong>Borrow or read digital items</strong></p>
+</td>
+<td style="width: 69.6051%; height: 17px;">
+<p>E.g. eBooks, eNewspapers, eMagazines</p>
+</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 30.3949%; height: 20px;"><strong>Access NLB&rsquo;s eResources</strong></td>
+<td style="width: 69.6051%; height: 20px;">E.g. research databases and eLearning tutorial videos</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 30.3949%; height: 17px;"><strong>Use the Multimedia Stations</strong></td>
+<td style="width: 69.6051%; height: 17px;">These are located at libraries and you can use them to access the Internet and surf NLB&rsquo;s websites</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 30.3949%; height: 17px;"><strong>Receive alerts </strong></td>
+<td style="width: 69.6051%; height: 17px;">You will be alerted on loans, reservations, fees/fines and membership expiry (specifically for Premium Plus and Foreign members), via SMS, email and/or the NLB Mobile app.</td>
+</tr>
+</tbody>
+</table>
+<p>You may also use a myLibrary ID to:</p>
+<ol>
+<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <span style="background: aqua;">here [links to NLB Mobile infographic]</span> to learn how to do this</li>
+<li><strong>Register for programmes</strong></li>
+</ol>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
