@@ -96,15 +96,20 @@ collection_name: get-started-with
     </div>
 </div>
 
-<button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does “Sponsored Access” mean?</button>
+<button class="accordion">What do I need to sign up for library membership online?</button>
 
 <div class="panel">
   <div class="libby">
-  <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at PressReader.com. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
-<p>With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div>
+  <p>You will need a:</p>
+<ul>
+<li>SingPass login ID and password</li>
+<li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
+</ul>
+    </div>
 </div>
 
 <button class="accordion">Where can I get the PressReader app?</button>
+
 <div class="panel">
   <div class="libby">
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
