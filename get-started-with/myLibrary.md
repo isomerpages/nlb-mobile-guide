@@ -108,29 +108,22 @@ collection_name: get-started-with
     </div>
 </div>
 
-<button class="accordion">Where can I get the PressReader app?</button>
+<button class="accordion">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</button>
 
 <div class="panel">
   <div class="libby">
- <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
-<p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
-      <p><img src="/images/PressReader_applogo.png" size="10%">
-     </p>
-    </p></div>
+ <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is not required to complete the registration. </p>
+    </div>
 
 </div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">If I sign up for membership online, when will the membership be activated? Will I receive a library card? </button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+  <p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration fees if you are a PR.</p>
+<p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
