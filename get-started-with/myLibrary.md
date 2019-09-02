@@ -182,7 +182,12 @@ collection_name: get-started-with
 
 </div></div>
 
+<p>
+    <h2>myLibrary ID</h2>
+</p>
+
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+
 <div class="panel">
   <div class="libby">
   <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
