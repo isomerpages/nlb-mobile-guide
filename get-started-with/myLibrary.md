@@ -199,7 +199,7 @@ collection_name: get-started-with
 <div class="panel">
   <div class="libby">
   <p>You need a myLibrary ID to enjoy these digital library services:</p>
-<table style="border-collapse: collapse; width: 100%; height: 122px;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 188px;" border="1">
 <tbody>
 <tr style="height: 17px;">
 <td style="width: 30.3949%; height: 17px;">
@@ -237,24 +237,36 @@ collection_name: get-started-with
 <p>E.g. eBooks, eNewspapers, eMagazines</p>
 </td>
 </tr>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 20px;"><strong>Access NLB&rsquo;s eResources</strong></td>
-<td style="width: 69.6051%; height: 20px;">E.g. research databases and eLearning tutorial videos</td>
+<tr style="height: 47px;">
+<td style="width: 30.3949%; height: 47px;">
+<p><strong>Access NLB's eResources</strong></p>
+</td>
+<td style="width: 69.6051%; height: 47px;">
+<p>E.g. research databases and eLearning tutorial videos</p>
+</td>
 </tr>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;"><strong>Use the Multimedia Stations</strong></td>
-<td style="width: 69.6051%; height: 17px;">These are located at libraries and you can use them to access the Internet and surf NLB&rsquo;s websites</td>
+<tr style="height: 45px;">
+<td style="width: 30.3949%; height: 45px;">
+<p><strong> Use the Multimedia Stations</strong></p>
+</td>
+<td style="width: 69.6051%; height: 45px;">
+<p>These are located at libraries and you can use them to access the Internet and surf NLB&rsquo;s websites</p>
+</td>
 </tr>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;"><strong>Receive alerts </strong></td>
-<td style="width: 69.6051%; height: 17px;">You will be alerted on loans, reservations, fees/fines and membership expiry (specifically for Premium Plus and Foreign members), via SMS, email and/or the NLB Mobile app.</td>
+<tr style="height: 45px;">
+<td style="width: 30.3949%; height: 45px;">
+<p><strong> Receive alerts&nbsp;</strong></p>
+</td>
+<td style="width: 69.6051%; height: 45px;">
+<p>You will be alerted on loans, reservations, fees/fines and membership expiry (specifically for members who are foreigners), via SMS, email and/or the NLB Mobile app.</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p>You may also use a myLibrary ID to:</p>
 <ol>
-<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <span style="background: aqua;">here [links to NLB Mobile infographic]</span> to learn how to do this</li>
-<li><strong>Register for programmes</strong></li>
+<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <span style="background: aqua;">here [links to NLB Mobile infographic]</span> to learn how to do this.</li>
+<li><strong>Register for programmes.</strong></li>
 </ol>
 
 </div></div>
