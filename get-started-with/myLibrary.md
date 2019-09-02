@@ -126,33 +126,28 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">Where can I sign up for library membership if I cannot use the online registration service? </button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+  <p>You can sign up for library membership at our libraries:</p>
+<ul>
+<li>If you are a Singaporean/PR, go to a Borrowing Station at any library. If you are a PR studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee.</li>
+<li>If you are a foreigner, go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring. If you study at an MOE school, remember to bring your School Smart Card to receive a waiver on both the registration fee and annual fee.</li>
+</ul>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
+</div></div>
 
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
+<button class="accordion">I am a Foreigner with SingPass.  Can I sign up for library membership online?</button>
+
+<div class="panel">
+  <div class="libby">
+  <p>No. The online registration service is currently open only to Singaporeans and PRs with SingPass. Please sign up at a Reservation Locker in any library (except library@Chinatown). For more information on what documents to bring, please refer to our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a>.</p>
+
 </div></div>
 
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 <div class="panel">
   <div class="libby">
   <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
