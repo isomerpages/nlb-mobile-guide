@@ -111,7 +111,6 @@ Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eA
   <p>eBooks added to the Libby app are in the Read or Listen formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the Read or Listen formats), it will not display in Libby and cannot be returned early via the Libby app. 
       <p>With the exception of Read or Listen formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
 </p>
-
 </div></div>
 
 <button class="accordion">Can I use more than one library card or cards from different libraries in Libby?</button>
