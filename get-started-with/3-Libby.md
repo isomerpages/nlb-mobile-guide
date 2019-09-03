@@ -90,8 +90,8 @@ Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eA
 
 <div class="panel">
   <div class="libby">
-  <p>NLB currently does not purchase and support eBooks in Kindle, Kobo or Nook formats as they are not officially available to the Singapore market. 
-  <p>Format availability for eBooks is subject to the negotiations between OverDrive and the eReader companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.
+  <p>NLB currently does not purchase and support eBooks in Kindle, Kobo or Nook formats as they are not officially available to the Singapore market.</p> 
+  <p>Format availability for eBooks is subject to the negotiations between OverDrive and the eReader companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.</p>
 <p>Hence, Libby and OverDrive are not supported on such eReaders in Singapore for now.</p>
 
 </div></div>
