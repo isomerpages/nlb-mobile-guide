@@ -49,13 +49,6 @@ title: Bond through Reading and Learning
 </head>
 
 <body>
-  <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, and Singapore Tatler</i>.</p>
-<h2>How to Bond with your Loved Ones through Reading and Learning</h2>
-<p></p>
-
-![A flowchart describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_Flowchart.png)
-<a href="/images/PressReader_Flowchart.png">Click to enlarge</a>
-
 <p>For more information on how to use the NLB Mobile app, click <span style="background-color: #00ffff;">here</span>.</p>
 <p>For more information on how to use the Libby app, click <span style="background-color: #00ffff;">here</span>.</p>
 
@@ -75,7 +68,7 @@ title: Bond through Reading and Learning
 <li>If you have more than one child, you can choose to register just one child or all your children at the same time.</li>
 </ul>
 </li>
-</ul></p></div>
+</ul></div>
 
 </div>
 
@@ -87,7 +80,7 @@ title: Bond through Reading and Learning
 <ul>
 <li>SingPass login ID and password</li>
 <li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
-      </ul></p></div>
+      </ul></div>
 </div>
 
 <button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does “Sponsored Access” mean?</button>
