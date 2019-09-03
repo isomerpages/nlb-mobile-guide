@@ -4,6 +4,7 @@ permalink: /parent/
 breadcrumb: Bond through Reading and Learning
 title: Bond through Reading and Learning
 ---
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -52,7 +53,9 @@ title: Bond through Reading and Learning
 <p>For more information on how to use the Libby app, click <span style="background-color: #00ffff;">here</span>.</p>
 <button class="accordion">It’s great that I can sign my child up to be an NLB member online! How do I do that?</button>
 
-<p>You can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
+<div class="panel">
+  <div class="libby">
+      <p>You can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
 <ul>
 <li>Your child is a Singaporean or Permanent Resident, and</li>
 <li>Your child is born in Singapore</li>
@@ -65,6 +68,7 @@ title: Bond through Reading and Learning
 </ul>
 </li>
 </ul>
+
     </div>
 </div>
 
@@ -77,5 +81,8 @@ title: Bond through Reading and Learning
 <ul>
 <li>SingPass login ID and password</li>
 <li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
-</ul>
+      </ul></div>
+
+</div>
+
 
