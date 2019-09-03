@@ -94,6 +94,7 @@ Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eA
   <p>Format availability for eBooks is subject to the negotiations between OverDrive and the eReader companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.</p>
 <p>Hence, Libby and OverDrive are not supported on such eReaders in Singapore for now.</p>
 
+
 </div></div>
 
 <button class="accordion">Can I read in landscape mode on my phone using Libby?</button>
@@ -108,8 +109,8 @@ Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eA
 
 <div class="panel">
   <div class="libby">
-  <p>eBooks added to the Libby app are in the Read or Listen formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the Read or Listen formats), it will not display in Libby and cannot be returned early via the Libby app. 
-      <p>With the exception of Read or Listen formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
+      <p>eBooks added to the Libby app are in the <i>Read or Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>Read or Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
+      <p>With the exception of <i>Read or Listen</i> formats, titles you dew</i>nload can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
 </p>
 
 </div></div>
