@@ -53,10 +53,8 @@ collection_name: get-started-with
 </head>
 <body>
 
-Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eAudiobooks offline.
+<p>Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eAudiobooks offline.</p>
 
-<h2>Getting Started</h2>
-<p></p>
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 
 <div class="panel">
@@ -135,23 +133,24 @@ Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eA
 
 <div class="panel">
   <div class="libby">
-  <p>There is currently no limit to the number of devices that you can use to sign in to Libby. In comparison, users can use up to six different devices to sign in to the OverDrive app with an OverDrive account or library card.</p>
+  <p>There is currently no limit to the number of devices that you can use to sign in to Libby.</p>
 
 </div></div>
 
-<button class="accordion">Will my loans, holds and book progress <i>(e.g. bookmarks) </i>be synced across multiple devices and apps if I am using:  </button>
+<button class="accordion">Will my loans, holds and book progress <i>(e.g. bookmarks) </i>be synced across multiple devices and apps if I am using Libby / the NLB Mobile app and Libby?</button>
 
 <div class="panel">
   <div class="libby">
       <p><em>Libby</em></p>
 <ul>
-<li>Libby automatically syncs your loans, holds and book progress between devices, as long as you have an internet connection and your library cards are on each device. To manually sync your Shelf, go to Shelf &gt; Actions. Select Synchronize Shelf.</li>
+<li>Libby automatically syncs your loans, holds and book progress between devices, as long as you have an internet connection and your library cards are on each device. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
 </ul>
-<p><em>NLB Mobile app, OverDrive and Libby</em></p>
+<p><em>NLB Mobile app and Libby</em></p>
 <ul>
 <li>Only the loans and holds will be synced across these apps.</li>
 <li>Bookmarks from NLB Mobile will not be seen in Libby as they are actually different features on NLB Mobile and Libby. 'Bookmarks' on NLB Mobile refer to bookmarks of favourite physical and digital items, while 'Bookmarks' on Libby refer to the bookmarking of pages or timestamps within the digital items.</li>
 </ul>
+
 
 
 
@@ -161,7 +160,7 @@ Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eA
 
 <div class="panel">
   <div class="libby">
-  <p>Please <a href="mailto:enquiry@nlb.gov.sg">email</a> our contact centre and provide details of the issue you face. A good practice is to include the screenshot of the issue encountered so that we may assist you better.</p>
+  <p>Please <a href="mailto:enquiry@nlb.gov.sg">email</a> our contact centre and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
 <p>Help topics are also available on the <a href="https://help.libbyapp.com/">Libby support site</a>.</p>
 
 </div></div>
