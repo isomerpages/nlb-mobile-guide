@@ -67,11 +67,8 @@ title: Bond through Reading and Learning
 <li>If you have more than one child, you can choose to register just one child or all your children at the same time.</li>
 </ul>
 </li>
-</ul>
-
-    </div>
+</ul></p></div>
 </div>
-
 
 <button class="accordion">What do I need to sign up for library membership online?</button>
 
@@ -81,7 +78,7 @@ title: Bond through Reading and Learning
 <ul>
 <li>SingPass login ID and password</li>
 <li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
-      </ul></div>
+      </ul></p></div>
 
 </div>
 
