@@ -51,6 +51,9 @@ collection_name: get-started-with
 </head>
 
 <body>
+
+<p><h2>About NLB Mobile</h2></p>
+
  <p>NLB Mobile is an app that gives library members access to our digital services. With this app, you can conveniently borrow library materials and read eBooks, eMagazines and eNewspapers as well as listen to eAudiobooks from anywhere.<p>
 
 You can also easily check your account information, transact, search and access eLearning courses anytime you want. 
@@ -94,8 +97,9 @@ You can also easily check your account information, transact, search and access 
 <li>Get library addresses, directions and operating hours easily</li>
 </ul>
       </div>
-
 </div>
+
+<p><h2>Setting Up NLB Mobile</h2></p>
 
 <button class="accordion">Why should I sign in?</button>
 
@@ -145,8 +149,9 @@ You can also easily check your account information, transact, search and access 
 <div class="panel">
   <div class="libby">
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
-
 </div></div>
+
+<p><h2>Borrowing physical items, eBooks and eAudiobooks</h2></p>
 
 <button class="accordion">How can I borrow physical items with the NLB Mobile app?</button>
 
