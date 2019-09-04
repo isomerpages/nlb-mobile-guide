@@ -50,11 +50,10 @@ title: Bond through Reading and Learning
 
 <body>
 
+<p>There are many ways to bond with your loved ones through reading and learning! The infographic below is a great place to start.</p>
 <p>For more information on how to use the NLB Mobile app, click <span style="background-color: #00ffff;">here</span>.</p>
 <p>For more information on how to use the Libby app, click <span style="background-color: #00ffff;">here</span>.</p>
-
 <h2>More Tips</h2>
-
 <button class="accordion">It’s great that I can sign my child up to be an NLB member online! How do I do that?</button>
 
 <div class="panel">
