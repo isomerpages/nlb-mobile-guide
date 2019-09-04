@@ -1,9 +1,5 @@
----
-layout: simple-page
-permalink: /reader/
-breadcrumb: Avid Reader
-title: Avid Reader
----
+
+
 <html>
 
 <head>
@@ -56,9 +52,7 @@ title: Avid Reader
 <p>For more information on how to use the Libby app, click <span style="background-color: #00ffff;">here</span>.</p>
 <p>For more information on how to use the NLB Mobile app, click <span style="background-color: #00ffff;">here</span>.</p>
 <p>To find out how to access eNewspapers and eMagazines on PressReader, click <span style="background-color: #00ffff;">here</span>.</p>
-
 <p><h2>More Tips</h2></p>
-
 <button class="accordion">Any recommendations on what to read next?</button>
 
 <div class="panel">
@@ -71,9 +65,10 @@ title: Avid Reader
 <div class="panel">
   <div class="libby">
   <p>How about eAudiobooks? You can listen to them while doing chores, driving –even right before bed as part of your wind-down routine. Some of these books are read by famous authors themselves, especially autobiographies such as Becoming by Michelle Obama. To check if the book you want has an audiobook version, simply search for the title. The word “audiobook” will appear underneath your search term if available.
-      <p>
-        ![A screenshot showing how to filter search results by eAudiobooks.](/images/Reader_eAudiobook_screenshot.jpg)
-    </p>
+  <p>
+      <img src="/images/Reader_eAudiobook_screenshot.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">
+  </p>
+
 
 <p>If you just want to explore what is available, tap on 'Library' in the Libby app and select 'Available Audiobooks'. If you listen before bedtime, Libby can automatically pause the narration after a specific amount of time set by you. Open the audiobook and tap, hold and drag down the moon icon to set the sleep timer.</p>
 <p>Short stories are also a great way to squeeze in some reading. To find them, go to Library -> Explore -> Subjects -> Short Stories. Some of these are also available as eAudiobooks! </p>
