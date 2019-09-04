@@ -17,7 +17,6 @@
   font-size: 20px;
   transition: 0.4s;
 }
-
 .active, .accordion:hover {
   background-color: #ccc;
 }
@@ -64,10 +63,7 @@
 
 <div class="panel">
   <div class="libby">
-  <p>How about eAudiobooks? You can listen to them while doing chores, driving –even right before bed as part of your wind-down routine. Some of these books are read by famous authors themselves, especially autobiographies such as Becoming by Michelle Obama. To check if the book you want has an audiobook version, simply search for the title. The word “audiobook” will appear underneath your search term if available.
-  <p>
-      <img src="/images/Reader_eAudiobook_screenshot.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">
-  </p>
+      <p>How about eAudiobooks? You can listen to them while doing chores, driving –even right before bed as part of your wind-down routine. Some of these books are read by famous authors themselves, especially autobiographies such as Becoming by Michelle Obama. To check if the book you want has an audiobook version, simply search for the title. The word “audiobook” will appear underneath your search term if available.</p>
 
 
 <p>If you just want to explore what is available, tap on 'Library' in the Libby app and select 'Available Audiobooks'. If you listen before bedtime, Libby can automatically pause the narration after a specific amount of time set by you. Open the audiobook and tap, hold and drag down the moon icon to set the sleep timer.</p>
