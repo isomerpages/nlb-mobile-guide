@@ -195,162 +195,92 @@ You can also easily check your account information, transact, search and access 
 <div class="panel">
   <div class="libby">
  <p>Here are the steps:</p>
-<p>Step One: In the app, select 'Account&rsquo;, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
-<p>Step Two: You will see a &lsquo;Read Online&rsquo; option for eBooks or a &lsquo;Listen Online&rsquo; option for eAudiobooks. Select this option to read / listen online immediately within the app. </p>
+<p><b>Step One:</b> In the app, select 'Account&rsquo;, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
+<p><b>Step Two:</b> You will see a &lsquo;Read Online&rsquo; option for eBooks or a &lsquo;Listen Online&rsquo; option for eAudiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi.</em></p>
 <p>If you wish to read or listen offline, you may select the &lsquo;Download&rsquo; option. The app will automatically launch a third-party app, Overdrive, to download the title.</p>
 
 </div></div>
 
-<button class="accordion">What can I do with a myLibrary ID? </button>
+<button class="accordion">How do I return eBooks / eAudiobooks?</button>
 
 <div class="panel">
   <div class="libby">
-  <p>You need a myLibrary ID to enjoy these digital library services:</p>
-<table style="border-collapse: collapse; width: 100%; height: 188px;" border="1">
-<tbody>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;">
-<p><strong>Various online services</strong></p>
-</td>
-<td style="width: 69.6051%; height: 17px;">
-<p>This includes:</p>
-<ul>
-<li>Checking your account</li>
-<li>Accessing your loan history</li>
-<li>Updating your contact details</li>
-<li>Redeeming rewards and making reservations</li>
-</ul>
-</td>
-</tr>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;">
-<p><strong>NLB Mobile app</strong></p>
-</td>
-<td style="width: 69.6051%; height: 17px;">
-<p>The app lets you:</p>
-<ul>
-<li>Borrow books</li>
-<li>Check your account</li>
-<li>Pay fees/ fines</li>
-<li>Redeem rewards, e.g. Book Bugs cards</li>
-</ul>
-</td>
-</tr>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;">
-<p><strong>Borrow or read digital items</strong></p>
-</td>
-<td style="width: 69.6051%; height: 17px;">
-<p>E.g. eBooks, eNewspapers, eMagazines</p>
-</td>
-</tr>
-<tr style="height: 47px;">
-<td style="width: 30.3949%; height: 47px;">
-<p><strong>Access NLB's eResources</strong></p>
-</td>
-<td style="width: 69.6051%; height: 47px;">
-<p>E.g. research databases and eLearning tutorial videos</p>
-</td>
-</tr>
-<tr style="height: 45px;">
-<td style="width: 30.3949%; height: 45px;">
-<p><strong> Use the Multimedia Stations</strong></p>
-</td>
-<td style="width: 69.6051%; height: 45px;">
-<p>These are located at libraries and you can use them to access the Internet and surf NLB&rsquo;s websites</p>
-</td>
-</tr>
-<tr style="height: 45px;">
-<td style="width: 30.3949%; height: 45px;">
-<p><strong> Receive alerts&nbsp;</strong></p>
-</td>
-<td style="width: 69.6051%; height: 45px;">
-<p>You will be alerted on loans, reservations, fees/fines and membership expiry (specifically for members who are foreigners), via SMS, email and/or the NLB Mobile app.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>You may also use a myLibrary ID to:</p>
-<ol>
-<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <span style="background: aqua;">here [links to NLB Mobile infographic]</span> to learn how to do this.</li>
-<li><strong>Register for programmes.</strong></li>
-</ol>
+  <p>One of the most convenient features of borrowing eBooks / eAudiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
+<p>Just go to &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return early&rsquo; under the title&rsquo;s cover image.</p>
 
 </div></div>
 
-<button class="accordion">Who can create a myLibrary ID? How do I create one?</button>
+<button class="accordion">How do I reserve eBooks / eAudiobooks? And can I cancel the reservation?</button>
 
 <div class="panel">
   <div class="libby">
-  <ul>
-<li>All library members, even children and babies, can have a myLibrary ID.</li>
-<li>Creating a myLibrary ID will only take a few minutes! You may create it:
-<ul>
-<li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your SingPass or NRIC / FIN number</a>.</li>
-<li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number.</li>
-<li>At the<strong> libraries&rsquo; borrowing stations</strong> with your original NRIC, Birth Certificate or any of the compatible cards listed in our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_registration">membership guide</a>.</li>
-</ul>
-</li>
-<li>To complete the process, key in your <strong>email address</strong> and your <strong>mobile number</strong>, and you will receive a one-time password (OTP) on your mobile phone.</li>
-</ul>
+  <p>If the title you wish to borrow is not available, you can reserve it free of charge and it will be checked out for you automatically when it is available. You may reserve up to 16 eBooks / eAudiobooks. </p>
+      <p>If you don’t need the reservation anymore, you can cancel it. In the app, go to ‘Account’, ‘eBook Loans’, and look for the title under the ‘Reserved’ tab. Select the title to see the option to cancel the reservation.</p>      
 
 </div></div>
 
-<button class="accordion">What do I need to take note of when creating my User ID and password?  </button>
+<p><h2>Reading eMagazines/ eNewspapers</h2></p>
+<button class="accordion">How do I read eMagazines/ eNewspapers from NLB Mobile?  </button>
 
 <div class="panel">
   <div class="libby">
-  <ul>
-<li>Your <strong>User ID</strong> must contain six to 20 alphanumeric characters. You cannot use special characters nor your NRIC number. Your User ID cannot be changed once created.</li>
-<li>Your <strong>password</strong> must have eight to 24 characters, and include one letter and one number.</li>
-</ul>
+  <p>NLB Mobile lets you read over 7,000 current eNewspapers and eMagazines from local and international publishers.</p>
+<p>First, sign in with a myLibrary ID. Next, tap the &lsquo;eMagazines &amp; eNewspapers&rsquo; icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access to these local and international publications. Do note that this complimentary access is for one hour only. Don&rsquo;t worry, when the one hour is up, you can re-launch PressReader from NLB Mobile to get complimentary access again.</p>
+<p>In addition, local newspapers such as<em> The Straits Times, The Business Times</em> and <em>Lianhe Zaobao</em> can only be accessed when your device is connected to the Wireless@SG/SGx network at any library.</p>
+<p>For more information on accessing eMagazines / eNewspapers, click <span style="background-color: #00ffff;">here [PressReader FAQ Isomer]</span>.</p>
 
 </div></div>
 
-<button class="accordion">I can’t remember if I have a myLibrary ID. How can I check? </button>
+<p><h2>Accessing eLearning courses</h2></p>
+<button class="accordion">How do I access eLearning courses from NLB Mobile? </button>
 
 <div class="panel">
   <div class="libby">
-  <p><strong>Online</strong></p>
-<ul>
-<li>Click <a href="https://account.nlb.gov.sg">here</a> and:
-<ul>
-<li>Sign in with your SingPass. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-<li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-</ul>
-</li>
-</ul>
-<p><strong>At libraries </strong></p>
-<ul>
-<li>Go to any of the borrowing stations at the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-</ul>
+  <p>Sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
+      </p>
 
 </div></div>
 
-<button class="accordion">What should I do if I forget my User ID or password? </button>
+<button class="accordion">Do I need a Lynda.com account? </button>
 
 <div class="panel">
   <div class="libby">
-  <p><strong>Online</strong></p>
-<ul>
-<li>You can retrieve your User ID and reset your password <a href="https://account.nlb.gov.sg">here</a>.
-<ul>
-<li>Sign in with your SingPass. The system will display your User ID and ask if you wish to reset your password.</li>
-<li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
-</ul>
-</li>
-</ul>
-<p><strong>At libraries</strong></p>
-<ul>
-<li>You can also retrieve your User ID and reset your password at any of the borrowing stations in the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
-</ul>
+      <p>This is optional as long as you access the online courses from the NLB Mobile app. As an NLB library member, you have free access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
+    </div>
 
+</div>
+
+<button class="accordion">Do I need to install the Lynda mobile app?</button>
+
+<div class="panel">
+  <div class="libby">
+      <p>You don't need the Lynda mobile app to access the online courses.</p>
+    </div>
+
+</div>
+
+<p><h2>Reading Challenges and Points</h2></p>
+<button class="accordion">What is the ‘Reading Challenge’ that shows up on my account page about?</button>
+
+<div class="panel">
+  <div class="libby">
+      <p>We periodically hold Challenges to encourage our library members to read. During the Challenge period, eligible library members can register to participate.</p>
+    </div>
+
+</div>
+<button class="accordion">What can I do with ‘My Points’ showing on my account page?</button>
+
+<div class="panel">
+  <div class="libby">
+      <p>During promotional periods, the points earned from borrowing library items may be redeemed for rewards, e.g. Book Bugs II cards in 2018.</p>
+    </div>
+
+</div>
 
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
-
 for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function() {
     this.classList.toggle("active");
