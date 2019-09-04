@@ -51,7 +51,8 @@ collection_name: get-started-with
 </head>
 
 <body>
- <p>NLB Mobile is an app that gives library members access to our digital services. With this app, you can conveniently borrow library materials and read eBooks, eMagazines and eNewspapers as well as listen to eAudiobooks from anywhere. 
+ <p>NLB Mobile is an app that gives library members access to our digital services. With this app, you can conveniently borrow library materials and read eBooks, eMagazines and eNewspapers as well as listen to eAudiobooks from anywhere.<p>
+
 You can also easily check your account information, transact, search and access eLearning courses anytime you want. 
 </p>
 
@@ -115,7 +116,8 @@ You can also easily check your account information, transact, search and access 
 
 <div class="panel">
   <div class="libby">
-  <p>You will need a myLibrary ID. If you do not have it, you may create one online at <a href="https://www.nlb.gov.sg/account">account.nlb.gov.sg</a> or at a borrowing station in any library.</p>
+      <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://www.nlb.gov.sg/account">online</a> or at a Borrowing Station in any library.</p>
+    </div>
 </div>
 
 <button class="accordion">What can I do if I have protected my app using the four-digit passcode but have forgotten the passcode?</button>
@@ -133,9 +135,10 @@ You can also easily check your account information, transact, search and access 
   <div class="libby">
   <p>You can retrieve your myLibrary ID and password:</p>
 <ul>
-<li><a href="https://account.nlb.gov.sg">Online</a> with your SingPass or NRIC / FIN number. Once you have signed in, the system will automatically detect if you have a myLibrary ID and display it. It will also let you reset your password if you have forgotten it.</li>
+<li><b><a href="https://account.nlb.gov.sg">Online</a></b> with your SingPass or NRIC / FIN number. Once you have signed in, the system will automatically detect if you have a myLibrary ID and display it. It will also let you reset your password if you have forgotten it.</li>
 <li>Via the <strong>NLB Mobile app&rsquo;s</strong> login page with your SingPass or NRIC / FIN number &ndash; tap &ldquo;Forgot ID&rdquo; or &ldquo;Forgot Password&rdquo;.</li>
 </ul>
+
 </div></div>
 
 <button class="accordion">Do I need to set my preferred library in the profile? </button>
@@ -151,7 +154,7 @@ You can also easily check your account information, transact, search and access 
 <div class="panel">
   <div class="libby">
   <p>First, sign in with your myLibrary ID. 
-      <p>Next, tap on the “Camera” icon on top left corner of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item.</p>
+      <p>Next, tap on the camera icon on the top left corner of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item.</p>
       <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, tap the “Show Barcode” icon in your account profile (at the top right corner of the NLB Mobile app). Your virtual membership card will appear. Scan the membership QR/barcode at the Borrowing Station to borrow the library items.</p>  
 </p>
 
