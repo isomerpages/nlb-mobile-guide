@@ -116,17 +116,8 @@ You can also easily check your account information, transact, search and access 
 
 <div class="panel">
   <div class="libby">
-      <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://www.nlb.gov.sg/account">online</a> or at a Borrowing Station in any library.</p>
+      <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or at a Borrowing Station in any library.</p>
     </div>
-</div>
-
-<button class="accordion">What can I do if I have protected my app using the four-digit passcode but have forgotten the passcode?</button>
-
-<div class="panel">
-  <div class="libby">
- <p>You can delete the app, then re-download it before signing in again.</p>
-    </div>
-
 </div>
 
 <button class="accordion">What if I forget my myLibrary ID or password? </button>
@@ -140,6 +131,14 @@ You can also easily check your account information, transact, search and access 
 </ul>
 
 </div></div>
+
+<button class="accordion">What can I do if I have protected my app using the four-digit passcode but have forgotten the passcode?</button>
+
+<div class="panel">
+  <div class="libby">
+ <p>You can delete the app, then re-download it before signing in again.</p>
+    </div>
+</div>
 
 <button class="accordion">Do I need to set my preferred library in the profile? </button>
 
@@ -176,28 +175,30 @@ You can also easily check your account information, transact, search and access 
 
 </div></div>
 
-<button class="accordion">I have completed the registration to be a library member. When and how can I start using library services?</button>
+<button class="accordion">How do I borrow eBooks / eAudiobooks with this app?</button>
 
 <div class="panel">
   <div class="libby">
-  <ul>
-<li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
-<li>You can start using our digital collection immediately! Download the <a href="https://www.nlb.gov.sg/static/nlbmobileguide/">NLB Mobile app</a> to read eBooks, listen to eAudiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries.</li>
-</ul>
-<p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
-<p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
+ <p>Follow these simple steps:</p>
+<p><strong>Step One:</strong> In the app, search the catalogue for the titles you want.</p>
+<p><strong>Step Two:</strong> The search results will include both physical books you can find at the actual libraries as well as digital items that match your search terms. Select your desired title.</p>
+<p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page.</p>
+<p><strong>Step Four:</strong> After the title has been checked out, you will be prompted to choose among these options: read / listen online, download the item so you can read / listen offline or return to &lsquo;Home&rsquo;.</p>
+<p>You may view all your borrowed eBook / eAudiobook titles by selecting &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;. </p>
 
 </div></div>
 
-<p>
-    <h2>myLibrary ID</h2>
-</p>
 
-<button class="accordion">Why do I need a myLibrary ID? </button>
+
+<button class="accordion">How do I read the eBooks or listen to the eAudiobooks that I have borrowed?</button>
 
 <div class="panel">
   <div class="libby">
-  <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a User ID and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
+ <p>Here are the steps:</p>
+<p>Step One: In the app, select 'Account&rsquo;, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
+<p>Step Two: You will see a &lsquo;Read Online&rsquo; option for eBooks or a &lsquo;Listen Online&rsquo; option for eAudiobooks. Select this option to read / listen online immediately within the app. </p>
+<p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi.</em></p>
+<p>If you wish to read or listen offline, you may select the &lsquo;Download&rsquo; option. The app will automatically launch a third-party app, Overdrive, to download the title.</p>
 
 </div></div>
 
