@@ -50,11 +50,12 @@ collection_name: get-started-with
 </head>
 
 <body>
-</p>
+
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
+
 <button class="accordion">Can I sign up for library membership online?</button>
 
 <div class="panel">
