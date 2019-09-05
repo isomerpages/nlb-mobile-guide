@@ -16,15 +16,15 @@ hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/hero-banner.png
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "I am..."
+hero-dropdown-text: "I want to.."
 
 # I want to dropdown
 i-want-to:
-  - title: a parent. I want opportunities to bond with my family through reading and learning. 
+  - title: bond with my loved ones through reading and learning. 
     url: /parent/
-  - title: an avid reader. I read for pleasure, mostly.
+  - title: fuel my reading habit.
     url: /reader/
-  - title: a learner. I read for a purpose – to further skills or interests, and/or advance my career.
+  - title: learn – to further skills or interests, and/or advance my career.
     url: /learner/
     
 # Info Sections
