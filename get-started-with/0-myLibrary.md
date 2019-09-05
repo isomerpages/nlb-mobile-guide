@@ -50,11 +50,13 @@ collection_name: get-started-with
 </head>
 
 <body>
- <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
+<p><a href="#mylibrary">Test</a>
+    
+</p>
+<p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
-
 <button class="accordion">Can I sign up for library membership online?</button>
 
 <div class="panel">
@@ -176,11 +178,10 @@ collection_name: get-started-with
 </ul>
 <p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
 <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
-
 </div></div>
 
 <p>
-    <h2>myLibrary ID</h2>
+    <a name="mylibrary"><h2>myLibrary ID</h2></a>
 </p>
 
 <button class="accordion">Why do I need a myLibrary ID? </button>
