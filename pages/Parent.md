@@ -96,7 +96,7 @@ title: Bond through Reading and Learning
 
 <div class="panel">
   <div class="libby">
-      <p>Both types of interactive eBooks feature professionally-recorded narration that play along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the “Read-alongs” in Libby are more like eBooks with the words highlighted as they are read.</p>
+      <p>Both types of interactive eBooks feature professionally-recorded narration that play along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the 'Read-alongs' in Libby are more like eBooks with the words highlighted as they are read.</p>
       <p>Find out more about Tumblebook Library <a href="https://www.tumblebooklibrary.com/Help.aspx">here</a>.</p>
 <p>Find out more about Libby&rsquo;s 'Read-alongs' <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">here</a>.</p>
 </div>
