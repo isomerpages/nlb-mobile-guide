@@ -136,22 +136,19 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">Will my loans, holds and book progress <i>(e.g. bookmarks) </i>be synced across multiple devices and apps if I am using Libby / the NLB Mobile app and Libby?</button>
+<button class="accordion">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</button>
 
 <div class="panel">
   <div class="libby">
-      <p><em>Libby</em></p>
+      <p>If you are using Libby across multiple devices:</p>
 <ul>
 <li>Libby automatically syncs your loans, holds and book progress between devices, as long as you have an internet connection and your library cards are on each device. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
 </ul>
-<p><em>NLB Mobile app and Libby</em></p>
+<p>If you are using NLB Mobile and Libby across multiple devices:</p>
 <ul>
 <li>Only the loans and holds will be synced across these apps.</li>
 <li>Bookmarks from NLB Mobile will not be seen in Libby as they are actually different features on NLB Mobile and Libby. 'Bookmarks' on NLB Mobile refer to bookmarks of favourite physical and digital items, while 'Bookmarks' on Libby refer to the bookmarking of pages or timestamps within the digital items.</li>
 </ul>
-
-
-
 
 </div></div>
 
