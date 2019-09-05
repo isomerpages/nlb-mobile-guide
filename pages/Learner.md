@@ -59,7 +59,7 @@ title: Learn
        <p>We recommend eAudiobooks as they allow you to multitask. You can learn something just by listening to eAudiobooks anytime, anywhere, whether you're stuck in traffic or doing chores. Just search for a subject you wish to explore and tap on 'audiobooks' underneath the search term to see what is available.</p>
         <p><img src="/images/Libby_screenshot_audiobooksearch.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">        
         </p>
-        
+
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
