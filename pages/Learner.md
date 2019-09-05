@@ -50,7 +50,6 @@ title: Learn
 </head>
 
 <body>
-
 <p>We offer different ways for you to learn in your own time, whether you want to develop skills, get that promotion, and/or pursue your passions. The infographic below is your starter kit:</p>
 <p>For more information on how to use the NLB Mobile app, click <span style="background-color: #00ffff;">here</span>.</p>
 <p>To find out how to access eNewspapers and eMagazines on PressReader, click <span style="background-color: #00ffff;">here</span>.</p>
