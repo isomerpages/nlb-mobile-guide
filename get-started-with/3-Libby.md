@@ -54,7 +54,6 @@ collection_name: get-started-with
 <body>
 
 <p>Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eAudiobooks offline.</p>
-
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 
 <div class="panel">
@@ -107,8 +106,8 @@ collection_name: get-started-with
 
 <div class="panel">
   <div class="libby">
-      <p>eBooks added to the Libby app are in the <i>Read or Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>Read or Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
-      <p>With the exception of <i>Read or Listen</i> formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
+      <p>eBooks added to the Libby app are in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
+      <p>With the exception of <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
 </p>
 
 </div></div>
