@@ -1,10 +1,9 @@
 ---
 layout: simple-page
-permalink: /learner/
-breadcrumb: Learn
-title: Learn
+permalink: /parent/
+breadcrumb: Bond through Reading and Learning
+title: Bond through Reading and Learning
 ---
-
 <html>
 
 <head>
@@ -51,18 +50,70 @@ title: Learn
 
 <body>
 
-<p>We offer different ways for you to learn in your own time, whether you want to develop skills, get that promotion, and/or pursue your passions. The infographic below is your starter kit:</p>
+<p>There are many ways to bond with your loved ones through reading and learning! The infographic below is a great place to start.</p>
 <p>For more information on how to use the NLB Mobile app, click <span style="background-color: #00ffff;">here</span>.</p>
-<p>To find out how to access eNewspapers and eMagazines on PressReader, click <span style="background-color: #00ffff;">here</span>.</p>
 <p>For more information on how to use the Libby app, click <span style="background-color: #00ffff;">here</span>.</p>
+<<<<<<< HEAD
 <h3>I want to learn but I can't seem to find the time to do it! Do you have tips for me?</h3>
        <p>We recommend eAudiobooks as they allow you to multitask. You can learn something just by listening to eAudiobooks anytime, anywhere, whether you're stuck in traffic or doing chores. Just search for a subject you wish to explore and tap on 'audiobooks' underneath the search term to see what is available.</p>
         <p><img src="/images/Libby_screenshot_audiobooksearch.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">        
         </p>
+=======
+<h2>More Tips</h2>
+<button class="accordion">It’s great that I can sign my child up to be an NLB member online! How do I do that?</button>
+
+<div class="panel">
+  <div class="libby">
+    <p>You can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
+<ul>
+<li>Your child is a Singaporean or Permanent Resident, and</li>
+<li>Your child is born in Singapore</li>
+</ul>
+<p>Do note that:</p>
+<ul>
+<li>If your child is a PR and a student at a MOE school, he/she is eligible for a waiver on the one-time registration fee. To receive the waiver, sign up for library membership at the libraries instead of online.
+<ul>
+<li>If you have more than one child, you can choose to register just one child or all your children at the same time.</li>
+</ul>
+</li>
+</ul></div>
+
+</div>
+
+<button class="accordion">What do I need to sign up for library membership online?</button>
+
+<div class="panel">
+    <div class="libby">
+  <p>You will need a:</p>
+<ul>
+<li>SingPass login ID and password</li>
+<li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
+      </ul></div>
+</div>
+
+<button class="accordion">eBooks with narration sounds interesting. How do I search for these books?</button>
+
+<div class="panel">
+  <div class="libby">
+  <p>In the Libby app, tap on Library -> Explore -> Guide: Kids and scroll down until you see 'I Can Read! Series Read-Alongs' and 'Read-Alongs'.</p></div>
+</div>
+
+<button class="accordion">I noticed that you offer a few types of interactive eBooks. What is the difference between the eBooks with narration in Libby (“Read-alongs”) and the animated picture books in Tumblebook Library?</button>
+
+<div class="panel">
+  <div class="libby">
+      <p>Both types of interactive eBooks feature professionally-recorded narration that play along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the 'Read-alongs' in Libby are more like eBooks with the words highlighted as they are read.</p>
+      <p>Find out more about Tumblebook Library <a href="https://www.tumblebooklibrary.com/Help.aspx">here</a>.</p>
+<p>Find out more about Libby&rsquo;s 'Read-alongs' <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">here</a>.</p>
+</div>
+
+</div>
+>>>>>>> a63e656f27352a91b8d256082c7f0b17766e40f2
 
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
+
 for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function() {
     this.classList.toggle("active");
