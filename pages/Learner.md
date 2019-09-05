@@ -1,10 +1,9 @@
 ---
 layout: simple-page
-permalink: /learner/
-breadcrumb: Learn
-title: Learn
+permalink: /parent/
+breadcrumb: Bond through Reading and Learning
+title: Bond through Reading and Learning
 ---
-
 <html>
 
 <head>
@@ -120,8 +119,3 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 </script>
-
-
-
-
-
