@@ -49,7 +49,7 @@ title: Fuel My Reading Habit
 </head>
 
 <body>
-<p>If you love reading for pleasure, you are in the right place! Here are some tips:</p>
+<p>If you love reading, you are in the right place! Here are some tips:</p>
 <p> 
 </p>
 
