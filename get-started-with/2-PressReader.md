@@ -55,19 +55,31 @@ collection_name: get-started-with
   <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, and Singapore Tatler</i>.</p>
 <h2>Getting Started</h2>
 <p></p>
-<button class="accordion">How do I get complimentary access to PressReader?</button>
+<button class="accordion">How do I get complimentary access (also known as ‘sponsored access’) to PressReader?</button>
 
 <div class="panel">
   <div class="libby">
-    <p>There are many ways to get complimentary access to the publications in PressReader. If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p> 
-    <p>Here are the details of each access mode:<br>
-      <p>1. NLB Mobile app</p>
-      <ul><li>Tap the “eNewspapers & eMagazines” icon on your NLB Mobile app. You will be prompted to download the PressReader app if you don’t have it. When you launch the PressReader app through NLB Mobile, you can get one hour of complimentary access to the publications. When the hour is up, you can re-launch PressReader from NLB Mobile to get complimentary access again.</li></ul>
-    <p>2. Internet browser</p>
-    <ul><li>Go to NLB’s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on “PressReader” to gain complimentary access to the publications. </li></ul>
-    <p>3. NLB libraries</p>
-    <ul><li>Connect your device to the Wireless@SG/SGx network at our libraries, and open <a href="http://www.pressreader.com">PressReader on your browser</a> or the PressReader app. You will have complimentary access to PressReader’s publications for three days, even after you leave the library. However, do note that access to <i>The Straits Times, The Business Times</i> and <i>Lianhe Zaobao</i> is only available while you are connected to the Wireless@SG/SGx network at any library.</li></ul>
-    <ul><li>You can also use the eNewspaper stations at our libraries.</li></ul></p></div>
+    <p>There are many ways to get complimentary access to the publications in PressReader. If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
+<p>Here are the details of each access mode:</p>
+<ol>
+<li>NLB Mobile app
+<ol>
+<li>Tap the &ldquo;eNewspapers &amp; eMagazines&rdquo; icon on your NLB Mobile app. You will be prompted to download the PressReader app if you don&rsquo;t have it. When you launch the PressReader app through NLB Mobile, you can get one hour of complimentary access to the publications. When the hour is up, you can re-launch PressReader from NLB Mobile to get complimentary access again.</li>
+</ol>
+</li>
+<li>Internet browser
+<ol>
+<li>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications.</li>
+</ol>
+</li>
+<li>NLB libraries
+<ol>
+<li>Connect your device to the Wireless@SG/SGx network at our libraries, and open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, do note that access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
+<li>You can also use the eNewspaper stations at our libraries.</li>
+</ol>
+</li>
+</ol>
+    </div>
 
 </div>
 
