@@ -68,19 +68,21 @@ collection_name: get-started-with
 <p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p></div>
 </div>
 
-<button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does “Sponsored Access” mean?</button>
+<button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</button>
+
 <div class="panel">
   <div class="libby">
-  <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at PressReader.com. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
+  <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at <a href="http://www.PressReader.com">PressReader.com</a>. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
 <p>With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div>
 </div>
 
 <button class="accordion">Where can I get the PressReader app?</button>
+
 <div class="panel">
   <div class="libby">
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
-      <p><img src="/images/PressReader_applogo.png" size="10%">
+      <p><img src="/images/PressReader_applogo.png" width="50px">
      </p>
     </p></div>
 
