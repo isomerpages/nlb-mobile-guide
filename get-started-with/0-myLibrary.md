@@ -9,44 +9,7 @@ collection_name: get-started-with
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
 
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.accordion:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-</style>
 </head>
 
 <body>
@@ -55,7 +18,6 @@ collection_name: get-started-with
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
-
 <button class="accordion">Can I sign up for library membership online?</button>
 
 <div class="panel">
@@ -74,7 +36,7 @@ collection_name: get-started-with
 
 </div>
 
-<button class="accordion">Can I sign my child up for library membership online?</button>
+<button class="accordion1">Can I sign my child up for library membership online?</button>
 
 <div class="panel">
     <div class="libby">
@@ -106,7 +68,7 @@ collection_name: get-started-with
     </div>
 </div>
 
-<button class="accordion">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</button>
+<button class="accordion1">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</button>
 
 <div class="panel">
   <div class="libby">
@@ -124,7 +86,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">Where can I sign up for library membership if I cannot use the online registration service? </button>
+<button class="accordion1">Where can I sign up for library membership if I cannot use the online registration service? </button>
 
 <div class="panel">
   <div class="libby">
@@ -144,7 +106,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</button>
+<button class="accordion1">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</button>
 
 <div class="panel">
   <div class="libby">
@@ -167,7 +129,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">I have completed the registration to be a library member. When and how can I start using library services?</button>
+<button class="accordion1">I have completed the registration to be a library member. When and how can I start using library services?</button>
 
 <div class="panel">
   <div class="libby">
@@ -191,7 +153,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">What can I do with a myLibrary ID? </button>
+<button class="accordion1">What can I do with a myLibrary ID? </button>
 
 <div class="panel">
   <div class="libby">
@@ -286,7 +248,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">What do I need to take note of when creating my User ID and password?  </button>
+<button class="accordion1">What do I need to take note of when creating my User ID and password?  </button>
 
 <div class="panel">
   <div class="libby">
@@ -317,7 +279,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">What should I do if I forget my User ID or password? </button>
+<button class="accordion1">What should I do if I forget my User ID or password? </button>
 
 <div class="panel">
   <div class="libby">
@@ -351,5 +313,21 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
+
+var acc = document.getElementsByClassName("accordion1");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+
 </script>
 
