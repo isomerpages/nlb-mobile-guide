@@ -84,10 +84,12 @@ collection_name: get-started-with
   <div class="libby">
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
-      <p><table>
-     <tbody><tr><td><img src="/images/PressReader_applogo.png"></td></tr>
-      </tbody>
-      </table>
+      <p><table style="height: 170px; width: 170px;">
+<tbody><tr>
+<td style="height: 150px; width: 150px;"><img src="/images/PressReader_applogo.png" /></td>
+</tr>
+</tbody>
+</table>
      </p>
     </p></div>
 
@@ -98,9 +100,9 @@ collection_name: get-started-with
 <div class="panel">
   <div class="libby">
   <p>To confirm this, go to the &lsquo;Browse&rsquo; tab and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
-<table style="height: 60px; width: 60px;">
+<table style="height: 170px; width: 170px;">
 <tbody><tr>
-<td style="height: 50px; width: 50px;"><img src="/images/Pressreader_cup.png" /></td>
+<td style="height: 150px; width: 150px;"><img src="/images/Pressreader_cup.png" /></td>
 </tr>
 </tbody>
 </table>
