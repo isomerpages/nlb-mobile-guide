@@ -21,9 +21,8 @@ title: Bond through Reading and Learning
   font-size: 20px;
   transition: 0.4s;
 }
-
 .accordion {
-  background-color: #CAFAFE;
+  background-color: #E9E1F5;
   color: #444;
   cursor: pointer;
   padding: 18px;
