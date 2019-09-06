@@ -15,6 +15,7 @@ collection_name: get-started-with
 </head>
 
 <body>
+
 <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
 <h2>Getting Started</h2>
 <p></p>
@@ -84,24 +85,28 @@ collection_name: get-started-with
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
       <p><table>
-      <table border=0><tr><td><img src="/images/PressReader_applogo.png"></td></tr>
+     <tbody><tr><td><img src="/images/PressReader_applogo.png"></td></tr>
+      </tbody>
       </table>
      </p>
     </p></div>
 
 </div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">How do I confirm if I have connected to PressReader and can enjoy complimentary downloads of eNewspapers and eMagazines?</button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+  <p>To confirm this, go to the &lsquo;Browse&rsquo; tab and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
+<table>
+<tbody>
+<tr>
+<td><img src="/images/Pressreader_cup.png" /></td>
+</tr>
+</tbody>
+</table>
+<p>Tap the tea cup to confirm that the access is being provided by NLB.</p>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
