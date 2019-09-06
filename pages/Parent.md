@@ -99,7 +99,7 @@ title: Bond through Reading and Learning
 
 </div>
 
-<button class="accordion">What do I need to sign up for library membership online?</button>
+<button class="accordion1">What do I need to sign up for library membership online?</button>
 
 <div class="panel">
     <div class="libby">
@@ -117,7 +117,7 @@ title: Bond through Reading and Learning
   <p>In the Libby app, tap on Library -> Explore -> Guide: Kids and scroll down until you see 'I Can Read! Series Read-Alongs' and 'Read-Alongs'.</p></div>
 </div>
 
-<button class="accordion">I noticed that you offer a few types of interactive eBooks. What is the difference between the eBooks with narration in Libby (“Read-alongs”) and the animated picture books in Tumblebook Library?</button>
+<button class="accordion1">I noticed that you offer a few types of interactive eBooks. What is the difference between the eBooks with narration in Libby (“Read-alongs”) and the animated picture books in Tumblebook Library?</button>
 
 <div class="panel">
   <div class="libby">
