@@ -98,10 +98,9 @@ collection_name: get-started-with
 <div class="panel">
   <div class="libby">
   <p>To confirm this, go to the &lsquo;Browse&rsquo; tab and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
-<table>
-<tbody>
-<tr>
-<td><img src="/images/Pressreader_cup.png" /></td>
+<table style="height: 60px; width: 60px;">
+<tbody><tr>
+<td style="height: 50px; width: 50px;"><img src="/images/Pressreader_cup.png" /></td>
 </tr>
 </tbody>
 </table>
