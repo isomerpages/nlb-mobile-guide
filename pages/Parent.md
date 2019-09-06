@@ -8,69 +8,7 @@ title: Bond through Reading and Learning
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.accordion1 {
-  background-color: #FFE161;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
 
-.accordion {
-  background-color: #ffeb94;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #fffae2;
-}
-
-.accordion:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
-.active, .accordion1:hover {
-  background-color: #fffae2;
-}
-
-.accordion1:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-</style>
 </head>
 
 <body>
@@ -158,6 +96,7 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
+
 </script>
 
 
