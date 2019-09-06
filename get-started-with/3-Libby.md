@@ -12,44 +12,6 @@ collection_name: get-started-with
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.accordion:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-</style>
 </head>
 <body>
 
@@ -65,7 +27,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">What’s the point of Libby when there is an existing OverDrive app?</button>
+<button class="accordion1">What’s the point of Libby when there is an existing OverDrive app?</button>
 
 <div class="panel">
     <div class="libby">
@@ -83,7 +45,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">Can I use Libby or OverDrive on Kindle, Kobo or Nook e-Readers?</button>
+<button class="accordion1">Can I use Libby or OverDrive on Kindle, Kobo or Nook e-Readers?</button>
 
 <div class="panel">
   <div class="libby">
@@ -102,7 +64,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">I checked out a book using the OverDrive app or using the OverDrive website on my computer, and now I can’t return it early on Libby.</button>
+<button class="accordion1">I checked out a book using the OverDrive app or using the OverDrive website on my computer, and now I can’t return it early on Libby.</button>
 
 <div class="panel">
   <div class="libby">
@@ -120,7 +82,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID'? </button>
+<button class="accordion1">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID'? </button>
 
 <div class="panel">
   <div class="libby">
@@ -136,7 +98,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</button>
+<button class="accordion1">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</button>
 
 <div class="panel">
   <div class="libby">
