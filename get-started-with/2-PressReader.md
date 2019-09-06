@@ -46,7 +46,8 @@ collection_name: get-started-with
 
 </div>
 
-<button class="accordion">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
+<button class="accordion1">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
+
 <div class="panel">
     <div class="libby">
   <p>Yes, you can. But it is important to note that you are only able to read SPH newspapers <u>onsite</u> at NLB&rsquo;s libraries via:</p>
@@ -76,13 +77,15 @@ collection_name: get-started-with
 <p>With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div>
 </div>
 
-<button class="accordion">Where can I get the PressReader app?</button>
+<button class="accordion1">Where can I get the PressReader app?</button>
 
 <div class="panel">
   <div class="libby">
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
-      <p><img src="/images/PressReader_applogo.png" width="50px">
+      <p><table>
+      <table border=0><tr><td><img src="/images/PressReader_applogo.png"></td></tr>
+      </table>
      </p>
     </p></div>
 
