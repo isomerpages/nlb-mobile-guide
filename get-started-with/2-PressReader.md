@@ -106,203 +106,52 @@ collection_name: get-started-with
 </tr>
 </tbody>
 </table>
-<p>Tap the tea cup to confirm that the access is being provided by NLB.</p>
+<p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
 
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion1">I’m already at the library and connected to the Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+    <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger on the centre of app and pull down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">Will I incur any costs when I download the eNewspapers and eMagazines on the PressReader mobile app?</button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+  <p>No, you will not be charged for the eNewspapers and eMagazines subscribed by NLB. (Do note that if you download the publications using your mobile data plan, you may incur charges from your telco for the data used.)</p>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion1">How many eNewspaper and eMagazine titles or issues can I download?</button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
+  <p>Good news! There is no limit for the number of titles or issues that you can download from PressReader as long as your device has enough space to store the downloaded content.</p>
 
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">Where are the eNewspapers / eMagazines that I have downloaded? I can’t find them.</button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
+  <p>Select the ‘Downloaded’ tab in the PressReader app to view the content that you have downloaded. </p>
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion1">Do I need an internet connection to read the downloaded eNewspapers / eMagazines?</button>
+
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
+  <p>No, you don’t need to connect to the Internet for this as the downloaded files can be accessed while your device is offline.</p>
 </div></div>
 
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
+<button class="accordion">I cannot use the app and I need help. What should I do? </button>
 <div class="panel">
   <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
-</div></div>
-
-<button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
-<div class="panel">
-  <div class="libby">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB’s eBooks/audiobooks. NLB’s eBooks/audiobooks are hosted on third-party platforms such as OverDrive.</p>
-    <p><b>NLB Mobile</b> is an NLB app designed for access and transactions. It lets you borrow and read eBooks online, but does not have an in-built eBook reader to read a downloaded eBook. Additionally, it lets you access eMagazines / eNewspapers, eLearning courses, and check your library account.</p>
-
-<p>
-  <b>OverDrive</b> lets you borrow and download eBooks/audiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to downloaded audiobooks.</p>
-
-<p>
-  <b>Libby</b> is a new app by OverDrive. It also lets you borrow and download eBooks/ audiobooks, but with a simpler user interface.</p>
+  <p>You can <a href="mailto:enquiry@nlb.gov.sg>email us</a> and tell us about the issue(s) you have encountered. Sending us screenshots related to the issue(s) would help us assist you better! </p>
 </div></div>
 
 
