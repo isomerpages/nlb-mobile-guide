@@ -9,8 +9,8 @@ title: Bond through Reading and Learning
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.accordion {
-  background-color: #eee;
+.accordion1 {
+  background-color: #3D949F;
   color: #444;
   cursor: pointer;
   padding: 18px;
@@ -18,7 +18,20 @@ title: Bond through Reading and Learning
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.accordion {
+  background-color: #629F3D;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
   transition: 0.4s;
 }
 
@@ -36,6 +49,18 @@ title: Bond through Reading and Learning
 
 .active:after {
   content: "\2212";
+}
+
+.active, .accordion1:hover {
+  background-color: #ccc;
+}
+
+.accordion1:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
 }
 
 .panel {
@@ -105,6 +130,21 @@ title: Bond through Reading and Learning
 
 <script>
 var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+
+var acc = document.getElementsByClassName("accordion1");
 var i;
 
 for (i = 0; i < acc.length; i++) {
