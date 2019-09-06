@@ -36,7 +36,7 @@ title: Bond through Reading and Learning
 }
 
 .active, .accordion:hover {
-  background-color: #ccc;
+  background-color: #fffae2;
 }
 
 .accordion:after {
@@ -52,7 +52,7 @@ title: Bond through Reading and Learning
 }
 
 .active, .accordion1:hover {
-  background-color: #ccc;
+  background-color: #fffae2;
 }
 
 .accordion1:after {
