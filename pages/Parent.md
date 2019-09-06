@@ -10,7 +10,7 @@ title: Bond through Reading and Learning
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion1 {
-  background-color: #ffeb94;
+  background-color: #e8fafe;
   color: #444;
   cursor: pointer;
   padding: 18px;
@@ -23,7 +23,7 @@ title: Bond through Reading and Learning
 }
 
 .accordion {
-  background-color: #f8cac6;
+  background-color: #ffeb94;
   color: #444;
   cursor: pointer;
   padding: 18px;
