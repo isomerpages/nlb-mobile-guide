@@ -11,51 +11,13 @@ collection_name: get-started-with
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
-}
 
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.accordion:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-</style>
 </head>
 
 <body>
 <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
 <h2>Getting Started</h2>
 <p></p>
-
 <button class="accordion">How do I get complimentary access (also known as ‘sponsored access’) to PressReader?</button>
 
 <div class="panel">
