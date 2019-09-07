@@ -359,9 +359,9 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-
+//previously #FFE161
 .accordion1 {
-  background-color: #FFE161;
+  background-color: #FFFAE2;
   color: #444;
   cursor: pointer;
   padding: 18px;
@@ -387,7 +387,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .active, .accordion:hover {
-  background-color: #fffae2;
+  background-color: #fce160;
 }
 
 .accordion:after {
