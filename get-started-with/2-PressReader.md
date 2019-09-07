@@ -151,7 +151,7 @@ collection_name: get-started-with
 <button class="accordion">I cannot use the app and I need help. What should I do? </button>
 <div class="panel">
   <div class="libby">
-  <p>You can <a href="mailto:enquiry@nlb.gov.sg>email us</a> and tell us about the issue(s) you have encountered. Sending us screenshots related to the issue(s) would help us assist you better! </p>
+  <p>You can <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered. Sending us screenshots related to the issue(s) would help us assist you better!</p>
 </div></div>
 
 
