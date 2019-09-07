@@ -402,8 +402,9 @@ $desktop: 960px + (2 * $gap) !default;
   content: "\2212";
 }
 
+//previously #fffae2
 .active, .accordion1:hover {
-  background-color: #fffae2;
+  background-color: #fce160;
 }
 
 .accordion1:after {
@@ -417,9 +418,9 @@ $desktop: 960px + (2 * $gap) !default;
 .active:after {
   content: "\2212";
 }
-
+//panel to have bottom padding of 8px 
 .panel {
-  padding: 0 18px;
+  padding: 0 18px 8px;
   background-color: white;
   max-height: 0;
   overflow: hidden;
