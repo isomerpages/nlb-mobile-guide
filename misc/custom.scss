@@ -373,9 +373,10 @@ $desktop: 960px + (2 * $gap) !default;
   transition: 0.4s;
 }
 
-.FAQ-section div:nth-child(2n) button {background-color:#FFFAE2;}
-.FAQ-section div:nth-child(2n+1) button {background-color:#FFEB94;}
-.FAQ-section div:nth-child(2n) p{background-color:#FFEB94;}
+.FAQ-section div:nth-child(4n+3) button {background-color:#FFFAE2;}
+.FAQ-section div:nth-child(4n+1) button {background-color:#FFEB94;}
+.FAQ-section div:nth-child(2n) p{background-color:#00FF00;}
+
 .accordion {
   color: #444;
   cursor: pointer;
