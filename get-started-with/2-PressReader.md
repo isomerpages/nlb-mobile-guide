@@ -22,7 +22,7 @@ collection_name: get-started-with
 <div class="FAQ-section">
   <div><!--div for each button-->
   <button>Button1</button> <button>Button2</button> <button>Button3</button> <button>Button4</button>
-  </div><!--div for each button-->
+  </div><!--close div for each button-->
   
   <div><!--div for each button-->
 <button class="accordion">Where can I get the PressReader app?</button>
@@ -38,16 +38,19 @@ collection_name: get-started-with
 </table>
      </p>
     </p></div>
-</div><!--for class panel-->
-</div><!--div for each button-->
+</div><!--close for class panel-->
+</div><!--close div for each button-->
 
+<div><!--div for each button-->
 <button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</button>
 <div class="panel">
   <div class="panel-text">
   <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at <a href="http://www.PressReader.com">PressReader.com</a>. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
 <p>With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div>
-</div>
+</div><!--close div for class panel-->
+</div><!--close div for each button-->
 
+<div><!--div for each button-->
 <button class="accordion">How do I get complimentary access (also known as ‘sponsored access’) to PressReader?</button>
 <div class="panel">
   <div class="panel-text">
@@ -72,9 +75,11 @@ collection_name: get-started-with
 </li>
 </ol>
   </div>
-</div>
+</div><!--close div for class panel-->
+</div><!--close div for each button-->
 
 
+<div><!--div for each button-->
 <button class="accordion">How do I confirm if I have connected to PressReader and can enjoy complimentary downloads of eNewspapers and eMagazines?</button>
 
 <div class="panel">
@@ -88,7 +93,8 @@ collection_name: get-started-with
 </table>
 <p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
   </div>
-</div> <!--of class panel-->
+</div> <!--close div of class panel-->
+</div><!-- close div for each button-->
 
 <button class="accordion">Will I incur any costs when I download the eNewspapers and eMagazines on the PressReader mobile app?</button>
 
