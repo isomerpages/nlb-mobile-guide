@@ -20,7 +20,11 @@ collection_name: get-started-with
 
 <h2>Getting Started</h2>
 <div class="FAQ-section">
+  <div><!--div for each button-->
   <button>Button1</button> <button>Button2</button> <button>Button3</button> <button>Button4</button>
+  </div><!--div for each button-->
+  
+  <div><!--div for each button-->
 <button class="accordion">Where can I get the PressReader app?</button>
 <div class="panel">
   <div class="panel-text">
@@ -34,8 +38,8 @@ collection_name: get-started-with
 </table>
      </p>
     </p></div>
-
-</div>
+</div><!--for class panel-->
+</div><!--div for each button-->
 
 <button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</button>
 <div class="panel">
