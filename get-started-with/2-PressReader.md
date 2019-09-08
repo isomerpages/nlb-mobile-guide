@@ -83,7 +83,7 @@ collection_name: get-started-with
 </table>
 <p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
   </div>
-</div>
+</div> <!--of class panel-->
 
 <button class="accordion">Will I incur any costs when I download the eNewspapers and eMagazines on the PressReader mobile app?</button>
 
@@ -91,7 +91,7 @@ collection_name: get-started-with
   <div class="panel-text">
   <p>No, you will not be charged for the eNewspapers and eMagazines subscribed by NLB. (Do note that if you download the publications using your mobile data plan, you may incur charges from your telco for the data used.)</p>
   </div>
-</div> //of class panel
+</div> <!--of class panel-->
 
 <button class="accordion">How many eNewspaper and eMagazine titles or issues can I download?</button>
 
@@ -99,9 +99,9 @@ collection_name: get-started-with
   <div class="panel-text">
   <p>Good news! There is no limit for the number of titles or issues that you can download from PressReader as long as your device has enough space to store the downloaded content.</p>
   </div>
-</div> //of class panel 
+</div> <!--of class panel-->
 
-</div> //of class FAQ-section 
+</div> <!--of class FAQ-section--> 
 
 <h2>Reading local newspapers</h2>
 
