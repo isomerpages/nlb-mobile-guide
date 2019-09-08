@@ -372,7 +372,7 @@ $desktop: 960px + (2 * $gap) !default;
   font-size: 20px;
   transition: 0.4s;
 }
-div.accordion:nth-child(even){background-color:#FFFAE2;}
+.accordion div:nth-child(even){background-color:#FFFAE2;}
 
 .accordion {
   background-color: #ffeb94;
