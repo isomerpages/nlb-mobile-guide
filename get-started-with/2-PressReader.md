@@ -19,9 +19,10 @@ collection_name: get-started-with
 <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
 
 <h2>Getting Started</h2>
-<button class="accordion1">Where can I get the PressReader app?</button>
+<div class="accordion-faq">
+<button class="accordion">Where can I get the PressReader app?</button>
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
  <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
       <p><table style="height: 170px; width: 170px;">
@@ -37,14 +38,14 @@ collection_name: get-started-with
 
 <button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</button>
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at <a href="http://www.PressReader.com">PressReader.com</a>. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
 <p>With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div>
 </div>
 
 <button class="accordion">How do I get complimentary access (also known as ‘sponsored access’) to PressReader?</button>
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
     <p>There are many ways to get complimentary access to the publications in PressReader. If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
 <p>Here are the details of each access mode:</p>
 <ol>
@@ -72,7 +73,7 @@ collection_name: get-started-with
 <button class="accordion">How do I confirm if I have connected to PressReader and can enjoy complimentary downloads of eNewspapers and eMagazines?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>To confirm this, go to the &lsquo;Browse&rsquo; tab and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
 <table style="height: 170px; width: 170px;">
 <tbody><tr>
@@ -81,25 +82,26 @@ collection_name: get-started-with
 </tbody>
 </table>
 <p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
-
-</div></div>
+  </div>
+</div>
 
 <button class="accordion">Will I incur any costs when I download the eNewspapers and eMagazines on the PressReader mobile app?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>No, you will not be charged for the eNewspapers and eMagazines subscribed by NLB. (Do note that if you download the publications using your mobile data plan, you may incur charges from your telco for the data used.)</p>
-
-</div></div>
+  </div>
+</div>
 
 <button class="accordion1">How many eNewspaper and eMagazine titles or issues can I download?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>Good news! There is no limit for the number of titles or issues that you can download from PressReader as long as your device has enough space to store the downloaded content.</p>
+  </div>
+</div>
 
-</div></div>
-
+</div>
 
 <h2>Reading local newspapers</h2>
 
