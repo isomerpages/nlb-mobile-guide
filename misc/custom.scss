@@ -359,7 +359,7 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-//previously #FFE161
+//FAQ accordion buttons; background-color previously #FFE161
 .accordion1 {
   background-color: #FFFAE2;
   color: #444;
@@ -373,9 +373,9 @@ $desktop: 960px + (2 * $gap) !default;
   transition: 0.4s;
 }
 
-.FAQ-section div:nth-child(even) button {background-color:#FFFAE2;}
-.FAQ-section div:nth-child(odd) button {background-color:#FFEB94;}
-
+.FAQ-section div:nth-child(2n) button {background-color:#FFFAE2;}
+.FAQ-section div:nth-child(2n+1) button {background-color:#FFEB94;}
+.FAQ-section div:nth-child(2n) p{background-color:#FFEB94;}
 .accordion {
   color: #444;
   cursor: pointer;
