@@ -373,9 +373,9 @@ $desktop: 960px + (2 * $gap) !default;
   transition: 0.4s;
 }
 .FAQ-section div:nth-child(even) button {background-color:#FFFAE2;}
+.FAQ-section div:nth-child(odd) button {backgrounud-color:#FFEB94;}
 
 .accordion {
-  background-color: #ffeb94;
   color: #444;
   cursor: pointer;
   padding: 18px;
