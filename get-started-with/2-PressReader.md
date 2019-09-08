@@ -20,6 +20,7 @@ collection_name: get-started-with
 
 <h2>Getting Started</h2>
 <div class="FAQ-section">
+  <button type="button">Test-odd</button><button type="button">Test-even</button>  
 <button class="accordion">Where can I get the PressReader app?</button>
 <div class="panel">
   <div class="panel-text">
