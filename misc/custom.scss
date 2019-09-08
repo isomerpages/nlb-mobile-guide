@@ -372,6 +372,7 @@ $desktop: 960px + (2 * $gap) !default;
   font-size: 20px;
   transition: 0.4s;
 }
+div.accordion:nth-child(even){background-color:#FFFAE2;}
 
 .accordion {
   background-color: #ffeb94;
@@ -418,9 +419,9 @@ $desktop: 960px + (2 * $gap) !default;
 .active:after {
   content: "\2212";
 }
-//panel to have bottom padding of 8px 
+//panel to have bottom padding of 2px 
 .panel {
-  padding: 0 18px 8px;
+  padding: 0 18px 2px;
   background-color: white;
   max-height: 0;
   overflow: hidden;
