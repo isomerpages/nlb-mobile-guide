@@ -19,11 +19,7 @@ collection_name: get-started-with
 <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
 
 <h2>Getting Started</h2>
-<div class="FAQ-section">
-  <div><!--div for each button-->
-  <button>Button1</button> <button>Button2</button> <button>Button3</button> <button>Button4</button>
-  </div><!--close div for each button-->
-  
+<div class="FAQ-section">  
   <div><!--div for each button-->
 <button class="accordion">Where can I get the PressReader app?</button>
 <div class="panel">
@@ -93,24 +89,28 @@ collection_name: get-started-with
 </table>
 <p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
   </div>
-</div> <!--close div of class panel-->
-</div><!-- close div for each button-->
+</div> <!--close div for class panel-->
+</div><!--close div for each button-->
 
+<div><!--div for each button-->
 <button class="accordion">Will I incur any costs when I download the eNewspapers and eMagazines on the PressReader mobile app?</button>
 
 <div class="panel">
   <div class="panel-text">
   <p>No, you will not be charged for the eNewspapers and eMagazines subscribed by NLB. (Do note that if you download the publications using your mobile data plan, you may incur charges from your telco for the data used.)</p>
   </div>
-</div> <!--of class panel-->
+</div> <!--close div for class panel-->
+</div><!--close div for each button-->
 
+<div><!--div for each button-->
 <button class="accordion">How many eNewspaper and eMagazine titles or issues can I download?</button>
 
 <div class="panel">
   <div class="panel-text">
   <p>Good news! There is no limit for the number of titles or issues that you can download from PressReader as long as your device has enough space to store the downloaded content.</p>
   </div>
-</div> <!--of class panel-->
+</div> <!--close div for class panel-->
+</div><!--close div for each button-->
 
 </div> <!--of class FAQ-section--> 
 
