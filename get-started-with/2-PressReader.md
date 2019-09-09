@@ -38,7 +38,7 @@ collection_name: get-started-with
 </div><!--close div for each button-->
 
 <div><!--div for each button-->
-<button class="accordion">How do I get complimentary access (also known as ‘sponsored access’) to PressReader?</button>
+<button class="accordion">How do I get complimentary access (also known as ‘Sponsored Access’) to PressReader?</button>
 <div class="panel">
   <div class="panel-text">
     <p>There are many ways to get complimentary access to the publications in PressReader. If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
