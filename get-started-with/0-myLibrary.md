@@ -5,14 +5,7 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 collection_name: get-started-with
 ---
-<html>
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-</head>
-
-<body>
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
@@ -144,6 +137,7 @@ collection_name: get-started-with
 </div></div>
 </div><!--close FAQ-section-->
 
+<div class="FAQ-section">
 <p>
     <a name="mylibrary"><h2>myLibrary ID</h2></a>
 </p>
@@ -156,7 +150,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion1">What can I do with a myLibrary ID? </button>
+<button class="accordion">What can I do with a myLibrary ID? </button>
 
 <div class="panel">
   <div class="libby">
@@ -251,7 +245,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion1">What do I need to take note of when creating my User ID and password?  </button>
+<button class="accordion">What do I need to take note of when creating my User ID and password?  </button>
 
 <div class="panel">
   <div class="libby">
@@ -282,7 +276,7 @@ collection_name: get-started-with
 
 </div></div>
 
-<button class="accordion1">What should I do if I forget my User ID or password? </button>
+<button class="accordion">What should I do if I forget my User ID or password? </button>
 
 <div class="panel">
   <div class="libby">
@@ -299,7 +293,8 @@ collection_name: get-started-with
 <ul>
 <li>You can also retrieve your User ID and reset your password at any of the borrowing stations in the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
 </ul>
-
+  </div></div><!--close panel div-->
+</div><!--close FAQ-section-->
 
 <script>
 var acc = document.getElementsByClassName("accordion");
