@@ -19,7 +19,7 @@ collection_name: get-started-with
 <p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have an in-built reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
 <p><strong>OverDrive </strong>lets you borrow and download eBooks / eAudiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to eAudiobooks.</p>
 <p><strong>Libby </strong>is a new app by OverDrive. It also lets you borrow and download eBooks / eAudiobooks, but with a simpler user interface.</p>
-
+  </div>
   </div><!--close div for panel-->
   </div><!--close div for each button-->
 
