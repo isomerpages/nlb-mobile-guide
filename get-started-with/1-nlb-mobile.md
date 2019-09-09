@@ -210,7 +210,7 @@ You can also easily check your account information, transact, search and access 
 
 <div class="panel">
   <div class="libby">
-      <p>This is optional as long as you access the online courses from the NLB Mobile app. As an NLB library member, you have free access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
+      <p>This is optional as long as you access the online courses from the NLB Mobile app. As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
     </div>
 
 </div>
