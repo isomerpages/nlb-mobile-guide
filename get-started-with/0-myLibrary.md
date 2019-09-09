@@ -16,7 +16,7 @@ collection_name: get-started-with
 <button class="accordion">Can I sign up for library membership online?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
     <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
 <ul>
 <li>You are a Singaporean or Permanent Resident (PR)</li>
@@ -34,7 +34,7 @@ collection_name: get-started-with
 <button class="accordion1">Can I sign my child up for library membership online?</button>
 
 <div class="panel">
-    <div class="libby">
+    <div class="panel-text">
   <p>Yes, you can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
 <ul>
 <li>Your child is a Singaporean or Permanent Resident, and</li>
@@ -54,7 +54,7 @@ collection_name: get-started-with
 <button class="accordion">What do I need to sign up for library membership online?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>You will need a:</p>
 <ul>
 <li>SingPass login ID and password</li>
@@ -66,7 +66,7 @@ collection_name: get-started-with
 <button class="accordion1">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
  <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is not required to complete the registration. </p>
     </div>
 
@@ -75,7 +75,7 @@ collection_name: get-started-with
 <button class="accordion">If I sign up for membership online, when will the membership be activated? Will I receive a library card? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration fees if you are a PR.</p>
 <p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
 
@@ -84,7 +84,7 @@ collection_name: get-started-with
 <button class="accordion1">Where can I sign up for library membership if I cannot use the online registration service? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>You can sign up for library membership at our libraries:</p>
 <ul>
 <li>If you are a Singaporean/PR, go to a Borrowing Station at any library. If you are a PR studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee.</li>
@@ -96,7 +96,7 @@ collection_name: get-started-with
 <button class="accordion">I am a Foreigner with SingPass.  Can I sign up for library membership online?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>No. The online registration service is currently open only to Singaporeans and PRs with SingPass. Please sign up at a Reservation Locker in any library (except library@Chinatown). For more information on what documents to bring, please refer to our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a>.</p>
 
 </div></div>
@@ -104,7 +104,7 @@ collection_name: get-started-with
 <button class="accordion1">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
 <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). You will need the myLibrary ID to check your account online, read eBooks and access the resources in our digital collection. Please click <span style="font-size: 11.0pt; font-family: 'Segoe UI','sans-serif'; background: aqua;">here [links to NLB Mobile infographic]</span> to find out how to borrow library materials.</p>
 <p>(Note: For existing PAssion card holders and PAssion card holders who are foreigners, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
@@ -114,7 +114,7 @@ collection_name: get-started-with
 <button class="accordion">I can’t remember if I am a library member. Can I check my library membership online?  </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
 <ul>
 <li>You are a Singaporean or Permanent Resident (PR)</li>
@@ -127,7 +127,7 @@ collection_name: get-started-with
 <button class="accordion1">I have completed the registration to be a library member. When and how can I start using library services?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <ul>
 <li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
 <li>You can start using our digital collection immediately! Download the <a href="https://www.nlb.gov.sg/static/nlbmobileguide/">NLB Mobile app</a> to read eBooks, listen to eAudiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries.</li>
@@ -141,19 +141,21 @@ collection_name: get-started-with
 <p>
     <a name="mylibrary"><h2>myLibrary ID</h2></a>
 </p>
-
+<div class ="FAQ-set">
 <button class="accordion">Why do I need a myLibrary ID? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-set">
   <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a User ID and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
 
 </div></div>
+</div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">What can I do with a myLibrary ID? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>You need a myLibrary ID to enjoy these digital library services:</p>
 <table style="border-collapse: collapse; width: 100%; height: 188px;" border="1">
 <tbody>
@@ -226,11 +228,13 @@ collection_name: get-started-with
 </ol>
 
 </div></div>
+</div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">Who can create a myLibrary ID? How do I create one?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <ul>
 <li>All library members, even children and babies, can have a myLibrary ID.</li>
 <li>Creating a myLibrary ID will only take a few minutes! You may create it:
@@ -244,22 +248,26 @@ collection_name: get-started-with
 </ul>
 
 </div></div>
+</div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">What do I need to take note of when creating my User ID and password?  </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <ul>
 <li>Your <strong>User ID</strong> must contain six to 20 alphanumeric characters. You cannot use special characters nor your NRIC number. Your User ID cannot be changed once created.</li>
 <li>Your <strong>password</strong> must have eight to 24 characters, and include one letter and one number.</li>
 </ul>
 
 </div></div>
+</div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">I can’t remember if I have a myLibrary ID. How can I check? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p><strong>Online</strong></p>
 <ul>
 <li>Click <a href="https://account.nlb.gov.sg">here</a> and:
@@ -275,11 +283,13 @@ collection_name: get-started-with
 </ul>
 
 </div></div>
+</div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">What should I do if I forget my User ID or password? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p><strong>Online</strong></p>
 <ul>
 <li>You can retrieve your User ID and reset your password <a href="https://account.nlb.gov.sg">here</a>.
@@ -294,6 +304,7 @@ collection_name: get-started-with
 <li>You can also retrieve your User ID and reset your password at any of the borrowing stations in the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
 </ul>
   </div></div><!--close panel div-->
+  </div><!--close FAQ set-->
 </div><!--close FAQ-section-->
 
 <script>
