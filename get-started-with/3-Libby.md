@@ -11,6 +11,62 @@ collection_name: get-started-with
 <p>Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eAudiobooks offline.</p>
 
 <div class="FAQ-section">  
+  <h2>Getting Started</h2>
+  <div><!--div for each button-->
+<button class="accordion">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID'? </button>
+<div class="panel">
+  <div class="panel-text">
+  <p>Your 'User ID' refers to your NLB myLibrary ID. </p>
+
+</div></div><!--close div for panel-->
+</div><!--close div for each button-->
+
+<div><!--div for each button-->
+<button class="accordion">Can I use more than one library card or cards from different libraries in Libby?</button>
+
+<div class="panel">
+  <div class="panel-text">
+  <p>Yes, you can! Libby makes it easy to switch between library cards or between different libraries (for e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, then select ‘See Library Cards’ or ‘Add A Library’. All your digital checkouts from different cards and libraries are on the same virtual shelf, so there is no need to switch between libraries or cards to read your books.</p>
+</div></div><!--close div for panel-->
+</div><!--close div for each button-->
+
+</div><!--Close div for FAQ-section-->
+
+<div class="FAQ-section">  
+  <h2>Different Devices</h2>
+  <div><!--div for each button-->
+<button class="accordion">Is there a device limit for Libby?</button>
+
+<div class="panel">
+  <div class="panel-text">
+  <p>There is currently no limit to the number of devices that you can use to sign in to Libby.</p>
+
+</div></div><!--close div for each panel-->
+</div><!--close div for each button-->
+  <div><!--div for each button-->
+<button class="accordion">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</button>
+
+<div class="panel">
+  <div class="panel-text">
+      <p>If you are using Libby across multiple devices:</p>
+<ul>
+<li>Libby automatically syncs your loans, holds and book progress between devices, as long as you have an internet connection and your library cards are on each device. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
+</ul>
+<p>If you are using NLB Mobile and Libby across multiple devices:</p>
+<ul>
+<li>Only the loans and holds will be synced across these apps.</li>
+<li>Bookmarks from NLB Mobile will not be seen in Libby as they are actually different features on NLB Mobile and Libby. 'Bookmarks' on NLB Mobile refer to bookmarks of favourite physical and digital items, while 'Bookmarks' on Libby refer to the bookmarking of pages or timestamps within the digital items.</li>
+</ul>
+
+</div></div><!--close div for panel-->
+</div><!--close div for each button-->
+  
+  
+</div><!--Close div for FAQ-section-->
+
+<div class="FAQ-section" id="LibbyVsOverDrive">  
+  <h2>Libby vs OverDrive</h2>
+  
   <div><!--div for each button-->
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
 <div class="panel">
@@ -52,7 +108,10 @@ collection_name: get-started-with
 <p>Hence, Libby and OverDrive are not supported on such eReaders in Singapore for now.</p>
 </div></div><!--close div for panel-->
   </div><!--close div for each button-->
+</div><!--close div for FAQ-section-->
 
+<div class="FAQ-section" id="LibbyTroubleshoot">
+  <h2>Troubleshooting</h2>
 <div><!--div for each button-->
 <button class="accordion">Can I read in landscape mode on my phone using Libby?</button>
 
@@ -73,52 +132,8 @@ collection_name: get-started-with
 </div></div><!--close div for panel-->
 </div><!--close div for each button-->
 
-<div><!--div for each button-->
-<button class="accordion">Can I use more than one library card or cards from different libraries in Libby?</button>
 
-<div class="panel">
-  <div class="panel-text">
-  <p>Yes, you can! Libby makes it easy to switch between library cards or between different libraries (for e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, then select ‘See Library Cards’ or ‘Add A Library’. All your digital checkouts from different cards and libraries are on the same virtual shelf, so there is no need to switch between libraries or cards to read your books.</p>
-</div></div><!--close div for panel-->
-</div><!--close div for each button-->
 
-<div><!--div for each button-->
-<button class="accordion1">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID'? </button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p>Your 'User ID' refers to your NLB myLibrary ID. </p>
-
-</div></div><!--close div for panel-->
-</div><!--close div for each button-->
-
-<div><!--div for each button-->
-<button class="accordion">Is there a device limit for Libby?</button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p>There is currently no limit to the number of devices that you can use to sign in to Libby.</p>
-
-</div></div><!--close div for each panel-->
-</div><!--close div for each button-->
-
-<div><!--div for each button-->
-<button class="accordion">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</button>
-
-<div class="panel">
-  <div class="panel-text">
-      <p>If you are using Libby across multiple devices:</p>
-<ul>
-<li>Libby automatically syncs your loans, holds and book progress between devices, as long as you have an internet connection and your library cards are on each device. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
-</ul>
-<p>If you are using NLB Mobile and Libby across multiple devices:</p>
-<ul>
-<li>Only the loans and holds will be synced across these apps.</li>
-<li>Bookmarks from NLB Mobile will not be seen in Libby as they are actually different features on NLB Mobile and Libby. 'Bookmarks' on NLB Mobile refer to bookmarks of favourite physical and digital items, while 'Bookmarks' on Libby refer to the bookmarking of pages or timestamps within the digital items.</li>
-</ul>
-
-</div></div><!--close div for panel-->
-</div><!--close div for each button-->
 
 <div><!--div for each button-->
 <button class="accordion">I am not able to sign in to Libby and I need help. What should I do?</button>
