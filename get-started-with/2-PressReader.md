@@ -27,13 +27,13 @@ collection_name: get-started-with
     </p></div>
 </div><!--close for class panel-->
 </div><!--close div for each button-->
-
 <div><!--div for each button-->
 <button class="accordion">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</button>
 <div class="panel">
   <div class="panel-text">
-  <p>You will be granted NLB’s PressReader ‘Sponsored Access’ if you connect your device to Wireless@SG/SGx at the libraries via the PressReader app or online at <a href="http://www.PressReader.com">PressReader.com</a>. You will also be granted this when you tap on the 'eNewspapers & eMagazines' icon in the NLB Mobile app.</p>
-<p>With ‘Sponsored Access’ activated, you will be able to access and download PressReader content for an extended period <u>even after leaving the library</u> premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p></div>
+  <p>‘Sponsored Access’ means that you have been granted complimentary access to PressReader. This allows you to download PressReader content for an extended period even after leaving the library premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p> 
+<p>‘Sponsored Access’ is granted when you connect your device to Wireless@SG/SGx at the libraries via the PressReader app, or online at PressReader.com.
+</p></div>
 </div><!--close div for class panel-->
 </div><!--close div for each button-->
 
@@ -106,7 +106,6 @@ collection_name: get-started-with
 </div> <!--of class FAQ-section--> 
 
 <h2>Reading Local Newspapers</h2>
-
 <button class="accordion1">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
 <div class="panel">
     <div class="libby">
