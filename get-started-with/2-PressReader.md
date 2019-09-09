@@ -8,9 +8,10 @@ collection_name: get-started-with
 ![A flowchart describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_Flowchart.png)
 <a href="/images/PressReader_Flowchart.png">Click to enlarge</a>
 
-<p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
-<h2>Getting Started</h2>
-<div class="FAQ-section">  
+<p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i>  (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
+
+<div class="FAQ-section" id="PressReaderStart"> 
+  <h2>Getting Started</h2> 
   <div><!--div for each button-->
 <button class="accordion">Where can I get the PressReader app?</button>
 <div class="panel">
@@ -105,10 +106,12 @@ collection_name: get-started-with
 
 </div> <!--of class FAQ-section--> 
 
+<div class="FAQ-section" id="PressReaderLocalNews"> <!--of class FAQ-section--> 
 <h2>Reading Local Newspapers</h2>
-<button class="accordion1">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
+  <div><!--div for each button-->
+<button class="accordion">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
 <div class="panel">
-    <div class="libby">
+    <div class="panel-text">
   <p>Yes, you can. Do note that you can read SPH newspapers only <u>onsite</u> at NLB&rsquo;s libraries via:</p>
 <ul>
 <li>The libraries&rsquo; computers
@@ -127,37 +130,47 @@ collection_name: get-started-with
 <p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
         <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
 </div>
-</div>
+</div><!--close div for panel-->
+    </div><!--close div for each button-->
+</div><!--close div for FAQ-section-->
 
+<div class="FAQ-section" id="PressReaderTroubleShooting">
 <h2>Troubleshooting</h2>
-<button class="accordion1">I’m already at the library and connected to the Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</button>
+  <div><!--div for each button-->
+<button class="accordion">I’m already at the library and connected to the Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
     <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger on the centre of app and drag down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
 
 </div></div>
+</div><!--close div for each button-->
 
+<div><!--div for each button-->
 <button class="accordion">Where are the eNewspapers / eMagazines that I have downloaded? I can’t find them.</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>Select the ‘Downloaded’ tab in the PressReader app to view the content that you have downloaded. </p>
 </div></div>
-
-<button class="accordion1">Do I need an internet connection to read the downloaded eNewspapers / eMagazines?</button>
+</div><!--close div for each button-->
+<div><!--div for each button-->
+<button class="accordion">Do I need an internet connection to read the downloaded eNewspapers / eMagazines?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>No, you don’t need to connect to the Internet for this as the downloaded files can be accessed while your device is offline.</p>
 </div></div>
+</div><!--close div for each button-->
 
+<div><!--div for each button-->
 <button class="accordion">I cannot use the app and I need help. What should I do? </button>
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>You can <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered. Sending us screenshots related to the issue(s) would help us assist you better!</p>
 </div></div>
-
+  </div><!--close div for each button-->
+</div><!--close div for FAQ-section-->
 
 <script>
 var acc = document.getElementsByClassName("accordion");
@@ -173,23 +186,5 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
-
-
-
-var acc = document.getElementsByClassName("accordion1");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight){
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-
 </script>
 
