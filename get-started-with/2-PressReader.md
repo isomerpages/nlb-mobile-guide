@@ -9,7 +9,6 @@ collection_name: get-started-with
 <a href="/images/PressReader_Flowchart.png">Click to enlarge</a>
 
 <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i> (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
-
 <h2>Getting Started</h2>
 <div class="FAQ-section">  
   <div><!--div for each button-->
@@ -106,7 +105,7 @@ collection_name: get-started-with
 
 </div> <!--of class FAQ-section--> 
 
-<h2>Reading local newspapers</h2>
+<h2>Reading Local Newspapers</h2>
 
 <button class="accordion1">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</button>
 <div class="panel">
@@ -126,12 +125,12 @@ collection_name: get-started-with
 </ul>
 </li>
 </ul>
-<p>You can download SPH newspapers to your personal device and continue to read the downloaded content even when you are away from the library premises. You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content!</p>
-<p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p></div>
+<p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
+        <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
+</div>
 </div>
 
 <h2>Troubleshooting</h2>
-
 <button class="accordion1">I’m already at the library and connected to the Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</button>
 
 <div class="panel">
