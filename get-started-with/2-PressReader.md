@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: PressReader
+layout: simple-page
 permalink: /get-started-with/PressReader/
 breadcrumb: PressReader
-collection_name: get-started-with
+title: PressReader
 ---
+
 ![A flowchart describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_Flowchart.png)
 <a href="/images/PressReader_Flowchart.png">Click to enlarge</a>
 
