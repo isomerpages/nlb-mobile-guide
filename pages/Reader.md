@@ -4,8 +4,8 @@ permalink: /reader/
 breadcrumb: Fuel My Reading Habit
 title: Fuel My Reading Habit
 ---
-
-![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)
+If you love reading, you are in the right place! Here are some tips:
+<p>![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)</p>
 <a href="/images/Reader.png">Click to enlarge</a>
 
 <html>
@@ -16,13 +16,10 @@ title: Fuel My Reading Habit
 </head>
 
 <body>
-<p>If you love reading, you are in the right place! Here are some tips:</p>
-<p> 
-</p>
 
-<p>For more information on how to use the Libby app, click <span style="background-color: #00ffff;">here</span>.</p>
-<p>For more information on how to use the NLB Mobile app, click <span style="background-color: #00ffff;">here</span>.</p>
-<p>To find out how to access eNewspapers and eMagazines on PressReader, click <span style="background-color: #00ffff;">here</span>.</p>
+<p>For more information on how to use the Libby app, click <a href="/get-started-with/Libby/">here</a>.</p>
+<p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
+<p>To find out how to access eNewspapers and eMagazines on PressReader, click <a href="/get-started-with/PressReader/">here</a>.</p>
 <p><h2>More Tips</h2></p>
 <button class="accordion">Any recommendations on what to read next?</button>
 
