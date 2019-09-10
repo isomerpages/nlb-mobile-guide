@@ -12,8 +12,10 @@ title: NLB Mobile
 </head>
 
 <body>
+
 ![A flowchart describing how to borrow physical and digital items using the NLB Mobile app.](/images/NLB Mobile_Flowchart_OverDrive.png)
 <a href="/images/NLB Mobile_Flowchart_OverDrive.png">Click to enlarge</a>
+
 <p><h2>About NLB Mobile</h2></p>
  <p>NLB Mobile is an app that gives library members access to our digital services. With this app, you can conveniently borrow library materials and read eBooks, eMagazines and eNewspapers as well as listen to eAudiobooks from anywhere.<p>
 
