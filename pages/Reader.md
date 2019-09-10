@@ -5,6 +5,9 @@ breadcrumb: Fuel My Reading Habit
 title: Fuel My Reading Habit
 ---
 
+![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)
+<a href="/images/Reader.png">Click to enlarge</a>
+
 <html>
 
 <head>
