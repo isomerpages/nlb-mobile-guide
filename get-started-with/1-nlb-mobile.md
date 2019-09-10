@@ -147,7 +147,7 @@ You can also easily check your account information, transact, search and access 
 <p><strong>Step One:</strong> In the app, search the catalogue for the titles you want.</p>
 <p><strong>Step Two:</strong> The search results will include both physical books you can find at the actual libraries as well as digital items that match your search terms. Select your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page.</p>
-<p><strong>Step Four:</strong> After the title has been checked out, you will be prompted to choose among these options: read / listen online, <a href="/get-started-with/3-Libby/">download the item</a> so you can read / listen offline or return to &lsquo;Home&rsquo;.</p>
+<p><strong>Step Four:</strong> After the title has been checked out, you will be prompted to choose among these options: read / listen online, <a href="/get-started-with/Libby/">download the item</a> so you can read / listen offline or return to &lsquo;Home&rsquo;.</p>
 <p>You may view all your borrowed eBook / eAudiobook titles by selecting &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;. </p>
 
 </div></div>
