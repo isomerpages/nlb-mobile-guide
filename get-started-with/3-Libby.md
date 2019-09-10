@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Libby
+layout: simple-page
 permalink: /get-started-with/Libby/
 breadcrumb: Libby
-collection_name: get-started-with
+title: Libby
 ---
+
 ![A flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_Flowchart.png)
 <a href="/images/Libby_Flowchart.png">Click to enlarge</a>
 
