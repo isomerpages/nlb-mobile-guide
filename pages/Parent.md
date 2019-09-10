@@ -5,7 +5,8 @@ breadcrumb: Bond through Reading and Learning
 title: Bond through Reading and Learning
 ---
 There are many ways to bond with your loved ones through reading and learning! The infographic below is a great place to start.<br>
-[![An infographic with tips on how to bond through reading and learning.](/images/Parent.png)
+
+![An infographic with tips on how to bond through reading and learning.](/images/Parent.png)
 <a href="/images/Parent.png">Click to enlarge</a>
 
 <html>
