@@ -1,11 +1,9 @@
 ---
-layout: leftnav-page-content
-title: Library Membership and myLibrary ID
+layout: simple-page
 permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
-collection_name: get-started-with
+title: Library Membership and myLibrary ID
 ---
-
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
