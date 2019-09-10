@@ -5,6 +5,9 @@ breadcrumb: Learn
 title: Learn
 ---
 
+![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)
+<a href="/images/Learner.png">Click to enlarge</a>
+
 <html>
 
 <head>
