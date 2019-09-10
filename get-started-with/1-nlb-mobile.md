@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
-title: NLB Mobile
+layout: simple-page
 permalink: /get-started-with/nlb-mobile/
 breadcrumb: NLB Mobile
-collection_name: get-started-with
+title: NLB Mobile
 ---
 
 <html>
