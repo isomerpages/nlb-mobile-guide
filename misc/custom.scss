@@ -376,9 +376,19 @@ $desktop: 960px + (2 * $gap) !default;
 .FAQ-section div:nth-child(2n+1) button {background-color:#FFFAE2;}
 .FAQ-section div:nth-child(2n) button {background-color:#FFEB94;}
 
+
+.FAQ-section div:nth-child(2n+1) button:active {background-color:#FCE160;}
+.FAQ-section div:nth-child(2n) button:active {background-color:#FCE160;}
+
+.FAQ-section div:nth-child(2n+1) button:hover {background-color:#FCE160;}
+.FAQ-section div:nth-child(2n+1) button:hover {background-color:#FCE160;}
+     
+
+
 .accordion {
   color: #444;
   cursor: pointer;
+  background-color:#FFFB94;
   padding: 18px;
   width: 100%;
   border: none;
