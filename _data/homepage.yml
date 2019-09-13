@@ -31,45 +31,33 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Download
-    section-description: The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google PlayStore</a>.
+    section-description: The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.
     section-more-button: Download Now
     section-more-button-url: http://qr.nlb.sg/nlbmobile
     section-image-path: 
   - section-title: 
     section-subtitle: Enjoy eBooks and eAudiobooks
     section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to.
-    section-more-button: 
-    section-more-button-url: 
     section-image-path:  
   - section-title: 
     section-subtitle: Read eNewspapers and eMagazines
     section-description: Choose from more than 7,000 current, digitised issues of international newspapers and magazines.
-    section-more-button: 
-    section-more-button-url: 
     section-image-path:  
   - section-title: 
     section-subtitle: Learn New Skills
     section-description: Learn new skills from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning). These video tutorials cover business, technology, photography and more! 
-    section-more-button: 
-    section-more-button-url: 
     section-image-path:  
   - section-title: 
     section-subtitle: Scan to Borrow
     section-description: Use the in-app camera or scan your virtual library to borrow books.
-    section-more-button: 
-    section-more-button-url: 
     section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
   - section-title: 
     section-subtitle: Manage Your Account 
     section-description: Manage yours and your family members’ accounts from a single app. Check your loans, manage reservations, pay outstanding charges and update your contact details.
-    section-more-button: 
-    section-more-button-url: 
     section-image-path: 
   - section-title: 
     section-subtitle: Search and Reserve Books 
     section-description: Search for books, eBooks and audiovisual items simultaneously. Reserve items and bookmark your favourite titles. 
-    section-more-button: 
-    section-more-button-url: 
     section-image-path: 
 
 
