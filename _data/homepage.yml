@@ -54,17 +54,17 @@ info-sections:
     section-more-button-url: /images/Learner.png
     section-image-path:  
   - section-title: 
-    section-subtitle: Scan to Borrow
-    section-description: Use the in-app camera or scan your virtual library to borrow books.
-    section-more-button: Learn How
-    section-more-button-url: /images/NLB Mobile_Flowchart_OverDrive.png
-    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
-  - section-title: 
     section-subtitle: Manage Your Account 
     section-description: Manage yours and your family members’ accounts from a single app. Check your loans, manage reservations, pay outstanding charges and update your contact details.
     section-more-button: Download NLB Mobile Now
     section-more-button-url: http://qr.nlb.sg/nlbmobile
     section-image-path: 
+  - section-title: 
+    section-subtitle: Scan to Borrow
+    section-description: Use the in-app camera or scan your virtual library to borrow books.
+    section-more-button: Learn How
+    section-more-button-url: /images/NLB Mobile_Flowchart_OverDrive.png
+    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
 
 # resources-title: Resources
 # resources-subtitle: Be in the know
