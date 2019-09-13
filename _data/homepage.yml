@@ -52,7 +52,7 @@ info-sections:
     section-description: Use the in-app camera or scan your virtual library to borrow books.
     section-more-button: Learn more
     section-more-button-url: 
-    section-image-path: /images/Home_ScantoBorrow_tut1.png
+    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
   - section-title: 
     section-subtitle: Manage Your Account 
     section-description: Manage yours and your family members’ accounts from a single app. Check your loans, manage reservations, pay outstanding charges and update your contact details.
