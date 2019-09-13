@@ -21,6 +21,7 @@ title: NLB Mobile
 
 You can also easily check your account information, transact, search and access eLearning courses anytime you want. 
 </p>
+<p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
 
 <button class="accordion">Can you tell me more about the app’s features?</button>
 
