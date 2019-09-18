@@ -36,11 +36,17 @@ info-sections:
     section-more-button-url: /get-started-with/nlb-mobile/
     section-image-path: /images/NLB-Mobile-Logo-and-Name.png
   - section-title: 
-    section-subtitle: Search and Reserve Books 
-    section-description: Search for books, eBooks and audiovisual items simultaneously. Reserve items and bookmark your favourite titles. Read on the go - with more than half a million eBooks and eAudiobooks, there’s always something to read or listen to.
+    section-subtitle: Read on the Go 
+    section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to - even when you are on the go! You can also search for books, eBooks and audiovisual items simultaneously. Reserve items and bookmark your favourite titles. 
     section-more-button: Learn How to Download eBooks and eAudiobooks
-    section-more-button-url: /images/Libby_Flowchart.png
+    section-more-button-url: /images/Home_ReadOnTheGo_tut2_landscape.png
     section-image-path: 
+  - section-title: 
+    section-subtitle: Scan to Borrow
+    section-description: Use the in-app camera or scan your virtual library to borrow books.
+    section-more-button: Learn How
+    section-more-button-url: /images/NLB Mobile_Flowchart_OverDrive.png
+    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
   - section-title: 
     section-subtitle: Read eNewspapers and eMagazines
     section-description: Choose from more than 7,000 current, digitised issues of international newspapers and magazines.
@@ -59,12 +65,7 @@ info-sections:
     section-more-button: Download NLB Mobile Now
     section-more-button-url: http://qr.nlb.sg/nlbmobile
     section-image-path: 
-  - section-title: 
-    section-subtitle: Scan to Borrow
-    section-description: Use the in-app camera or scan your virtual library to borrow books.
-    section-more-button: Learn How
-    section-more-button-url: /images/NLB Mobile_Flowchart_OverDrive.png
-    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
+
 
 # resources-title: Resources
 # resources-subtitle: Be in the know
