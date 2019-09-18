@@ -39,11 +39,11 @@ info-sections:
     section-subtitle: Read on the Go 
     section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to - even when you are on the go! You can also search for books, eBooks and audiovisual items simultaneously. Reserve items and bookmark your favourite titles. 
     section-more-button: Learn How to Download eBooks and eAudiobooks
-    section-more-button-url: /images/Home_ReadOnTheGo_tut2_landscape.png
-    section-image-path: 
+    section-more-button-url: /get-started-with/Libby/
+    section-image-path: /images/Home_ReadOnTheGo_tut2_landscape.png
   - section-title: 
     section-subtitle: Scan to Borrow
-    section-description: Use the in-app camera or scan your virtual library to borrow books.
+    section-description: Use the in-app camera or scan your virtual library card to borrow books.
     section-more-button: Learn How
     section-more-button-url: /images/NLB Mobile_Flowchart_OverDrive.png
     section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
