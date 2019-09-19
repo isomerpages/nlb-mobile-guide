@@ -31,7 +31,7 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Download Now
-    section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store.
+    section-description: The NLB Mobile app is available on the [Apple AppStore](https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile).
     section-more-button: Learn More About NLB Mobile 
     section-more-button-url: /get-started-with/nlb-mobile/
     section-image-path: /images/Home_download.png
