@@ -9,7 +9,6 @@ title: PressReader
 <a href="/images/PressReader_Flowchart.png">Click to enlarge</a>
 
 <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i>  (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
-
 <div class="FAQ-section" id="PressReaderStart"> 
   <h2>Getting Started</h2> 
   <div><!--div for each button-->
@@ -137,7 +136,7 @@ title: PressReader
 <div class="FAQ-section" id="PressReaderTroubleShooting">
 <h2>Troubleshooting</h2>
   <div><!--div for each button-->
-<button class="accordion">I’m already at the library and connected to the Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</button>
+<button class="accordion">I’m already at the library and connected to Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</button>
 
 <div class="panel">
   <div class="panel-text">
