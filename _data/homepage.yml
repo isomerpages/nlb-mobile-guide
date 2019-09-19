@@ -30,11 +30,11 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: Download
+    section-subtitle: Download Now
     section-description: The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.
     section-more-button: Learn More About NLB Mobile 
     section-more-button-url: /get-started-with/nlb-mobile/
-    section-image-path: /images/NLB-Mobile-Logo-and-Name.png
+    section-image-path: /images/Home_download.png
   - section-title: 
     section-subtitle: Read on the Go 
     section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to - even when you are on the go! You can also search for books, eBooks and audiovisual items simultaneously. Reserve items and bookmark your favourite titles. 
