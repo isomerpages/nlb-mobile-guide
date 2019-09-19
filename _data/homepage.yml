@@ -31,9 +31,9 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Download Now
-    section-description: Click <a href="http://onelink.to/uk5vxc">here</a> to install NLB Mobile on your device.
-    section-more-button: Learn More About NLB Mobile 
-    section-more-button-url: /get-started-with/nlb-mobile/
+    section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store.
+    section-more-button: Install NLB Mobile
+    section-more-button-url: http://onelink.to/uk5vxc
     section-image-path: /images/Home_download.png
   - section-title: 
     section-subtitle: Read on the Go 
