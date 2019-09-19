@@ -52,7 +52,7 @@ info-sections:
     section-description: Choose from more than 7,000 current, digitised issues of international newspapers and magazines.
     section-more-button: Learn How
     section-more-button-url: /images/PressReader_Flowchart.png
-    section-image-path:
+    section-image-path: /images/Home_news_landscape.png
   - section-title: 
     section-subtitle: Learn New Skills
     section-description: Learn new skills from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning). These video tutorials cover business, technology, photography and more! 
