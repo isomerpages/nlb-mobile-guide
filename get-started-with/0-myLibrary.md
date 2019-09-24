@@ -104,7 +104,7 @@ title: Library Membership and myLibrary ID
 <div class="panel">
   <div class="panel-text">
   <p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
-<p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). You will need the myLibrary ID to check your account online, read eBooks and access the resources in our digital collection. Please click <span style="font-size: 11.0pt; font-family: 'Segoe UI','sans-serif'; background: aqua;">here [links to NLB Mobile infographic]</span> to find out how to borrow library materials.</p>
+<p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). You will need the myLibrary ID to check your account online, read eBooks and access the resources in our digital collection. Please click <a href="/images/NLB Mobile_Flowchart_OverDrive.png">here</a> to find out how to borrow library materials.</p>
 <p>(Note: For existing PAssion card holders and PAssion card holders who are foreigners, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
 
 </div></div>
@@ -221,7 +221,7 @@ title: Library Membership and myLibrary ID
 </table>
 <p>You may also use a myLibrary ID to:</p>
 <ol>
-<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <a href="images/NLB Mobile_Flowchart_OverDrive.png">here</a> to learn how to do this.</li>
+<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <a href="/images/NLB Mobile_Flowchart_OverDrive.png">here</a> to learn how to do this.</li>
 <li><strong>Register for programmes.</strong></li>
 </ol>
 
