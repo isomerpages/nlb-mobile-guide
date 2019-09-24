@@ -221,7 +221,7 @@ title: Library Membership and myLibrary ID
 </table>
 <p>You may also use a myLibrary ID to:</p>
 <ol>
-<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <span style="background: aqua;">here [links to NLB Mobile infographic]</span> to learn how to do this.</li>
+<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <a href="images/NLB Mobile_Flowchart_OverDrive.png">here</a> to learn how to do this.</li>
 <li><strong>Register for programmes.</strong></li>
 </ol>
 
@@ -275,7 +275,7 @@ title: Library Membership and myLibrary ID
 </ul>
 </li>
 </ul>
-<p><strong>At libraries </strong></p>
+<p><strong>At libraries</strong></p>
 <ul>
 <li>Go to any of the borrowing stations at the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
 </ul>
