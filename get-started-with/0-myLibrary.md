@@ -11,6 +11,7 @@ title: Library Membership and myLibrary ID
 <div class="FAQ-section">
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
+  
   <div class ="FAQ-set">
 <button class="accordion">Can I sign up for library membership online?</button>
 
@@ -78,6 +79,7 @@ title: Library Membership and myLibrary ID
 </div>
 </div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">If I sign up for membership online, when will the membership be activated? Will I receive a library card? </button>
 
 <div class="panel">
@@ -86,8 +88,10 @@ title: Library Membership and myLibrary ID
 <p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
 
 </div></div>
+</div><!--close FAQ set-->
 
-<button class="accordion1">Where can I sign up for library membership if I cannot use the online registration service? </button>
+<div class ="FAQ-set">
+<button class="accordion">Where can I sign up for library membership if I cannot use the online registration service? </button>
 
 <div class="panel">
   <div class="panel-text">
@@ -98,7 +102,9 @@ title: Library Membership and myLibrary ID
 </ul>
 
 </div></div>
+</div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">I am a Foreigner with SingPass.  Can I sign up for library membership online?</button>
 
 <div class="panel">
@@ -106,8 +112,11 @@ title: Library Membership and myLibrary ID
   <p>No. The online registration service is currently open only to Singaporeans and PRs with SingPass. Please sign up at a Reservation Locker in any library (except library@Chinatown). For more information on what documents to bring, please refer to our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a>.</p>
 
 </div></div>
+</div><!--close FAQ set-->
 
-<button class="accordion1">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</button>
+
+<div class ="FAQ-set">
+<button class="accordion">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</button>
 
 <div class="panel">
   <div class="panel-text">
@@ -116,7 +125,10 @@ title: Library Membership and myLibrary ID
 <p>(Note: For existing PAssion card holders and PAssion card holders who are foreigners, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
 
 </div></div>
+</div><!--close FAQ set-->
 
+
+<div class ="FAQ-set">
 <button class="accordion">I can’t remember if I am a library member. Can I check my library membership online?  </button>
 
 <div class="panel">
@@ -129,8 +141,11 @@ title: Library Membership and myLibrary ID
 <p>Once you have signed in, the online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
 
 </div></div>
+</div><!--close FAQ set-->
 
-<button class="accordion1">I have completed the registration to be a library member. When and how can I start using library services?</button>
+
+<div class ="FAQ-set">
+<button class="accordion">I have completed the registration to be a library member. When and how can I start using library services?</button>
 
 <div class="panel">
   <div class="panel-text">
