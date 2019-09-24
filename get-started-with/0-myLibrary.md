@@ -31,7 +31,8 @@ title: Library Membership and myLibrary ID
 </div>
 </div><!--close FAQ set-->
 
-<button class="accordion1">Can I sign my child up for library membership online?</button>
+<div class ="FAQ-set">
+<button class="accordion">Can I sign my child up for library membership online?</button>
 
 <div class="panel">
     <div class="panel-text">
@@ -50,7 +51,9 @@ title: Library Membership and myLibrary ID
 </ul>
     </div>
 </div>
+</div><!--close FAQ set-->
 
+<div class ="FAQ-set">
 <button class="accordion">What do I need to sign up for library membership online?</button>
 
 <div class="panel">
@@ -62,8 +65,10 @@ title: Library Membership and myLibrary ID
 </ul>
     </div>
 </div>
+</div><!--close FAQ set-->
 
-<button class="accordion1">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</button>
+<div class ="FAQ-set">
+<button class="accordion">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</button>
 
 <div class="panel">
   <div class="panel-text">
@@ -71,6 +76,7 @@ title: Library Membership and myLibrary ID
     </div>
 
 </div>
+</div><!--close FAQ set-->
 
 <button class="accordion">If I sign up for membership online, when will the membership be activated? Will I receive a library card? </button>
 
