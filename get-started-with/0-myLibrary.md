@@ -11,6 +11,7 @@ title: Library Membership and myLibrary ID
 <div class="FAQ-section">
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
+  <div class ="FAQ-set">
 <button class="accordion">Can I sign up for library membership online?</button>
 
 <div class="panel">
@@ -28,6 +29,7 @@ title: Library Membership and myLibrary ID
       </div>
 
 </div>
+</div><!--close FAQ set-->
 
 <button class="accordion1">Can I sign my child up for library membership online?</button>
 
