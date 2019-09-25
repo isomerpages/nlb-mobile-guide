@@ -16,6 +16,7 @@ title: NLB Mobile
 
 <body>
 
+<div class="FAQ-section">
 <p><h2>About NLB Mobile</h2></p>
  <p>NLB Mobile is an app that gives library members access to our digital services. With this app, you can conveniently borrow library materials and read eBooks, eMagazines and eNewspapers as well as listen to eAudiobooks from anywhere.<p>
 
@@ -62,7 +63,9 @@ You can also easily check your account information, transact, search and access 
 </ul>
       </div>
 </div>
+</div><!--close FAQ-section-->
 
+<div class="FAQ-section">
 <p><h2>Setting Up NLB Mobile</h2></p>
 <button class="accordion">Why should I sign in?</button>
 
@@ -113,7 +116,9 @@ You can also easily check your account information, transact, search and access 
   <div class="libby">
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div></div>
+</div><!--close FAQ-section-->
 
+<div class="FAQ-section">
 <p><h2>Borrowing physical items, eBooks and eAudiobooks</h2></p>
 <button class="accordion1">How can I borrow physical items with the NLB Mobile app?</button>
 
@@ -186,7 +191,9 @@ You can also easily check your account information, transact, search and access 
       <p>If you don’t need the reservation anymore, you can cancel it. In the app, go to ‘Account’, ‘eBook Loans’, and look for the title under the ‘Reserved’ tab. Select the title to see the option to cancel the reservation.</p>      
 
 </div></div>
+</div><!--close FAQ-section-->
 
+<div class="FAQ-section">
 <p><h2>Reading eMagazines/ eNewspapers</h2></p>
 <button class="accordion">How do I read eMagazines/ eNewspapers from NLB Mobile?  </button>
 
@@ -198,7 +205,9 @@ You can also easily check your account information, transact, search and access 
 <p>For more information on accessing eMagazines / eNewspapers, click <span style="background-color: #00ffff;">here [PressReader FAQ Isomer]</span>.</p>
 
 </div></div>
+</div><!--close FAQ-section-->
 
+<div class="FAQ-section">
 <p><h2>Accessing eLearning courses</h2></p>
 <button class="accordion1">How do I access eLearning courses from NLB Mobile? </button>
 
@@ -226,7 +235,9 @@ You can also easily check your account information, transact, search and access 
     </div>
 
 </div>
+</div><!--close FAQ-section-->
 
+<div class="FAQ-section">
 <p><h2>Reading Challenges and Points</h2></p>
 <button class="accordion">What is the ‘Reading Challenge’ that shows up on my account page about?</button>
 
@@ -243,6 +254,7 @@ You can also easily check your account information, transact, search and access 
     </div>
 
 </div>
+</div><!--close FAQ-section-->
 
 <script>
 var acc = document.getElementsByClassName("accordion");
