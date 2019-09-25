@@ -61,8 +61,7 @@ You can also easily check your account information, transact, search and access 
 <li>Locate nearby libraries based on your current location</li>
 <li>Get library addresses, directions and operating hours easily</li>
 </ul>
-      </div>
-</div>
+</div></div>
 </div><!--close FAQ-section-->
 
 <div class="FAQ-section">
