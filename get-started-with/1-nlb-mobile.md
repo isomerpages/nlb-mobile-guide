@@ -24,10 +24,12 @@ You can also easily check your account information, transact, search and access 
 </p>
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
 
+
+<div class ="FAQ-set">
 <button class="accordion">Can you tell me more about the app’s features?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
     <p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 <p><strong>Borrow and read / listen</strong></p>
 <ul>
@@ -66,10 +68,12 @@ You can also easily check your account information, transact, search and access 
 
 <div class="FAQ-section">
 <p><h2>Setting Up NLB Mobile</h2></p>
+
+<div class ="FAQ-set">
 <button class="accordion">Why should I sign in?</button>
 
 <div class="panel">
-    <div class="libby">
+    <div class="panel-text">
   <p>By signing in, you will be able to enjoy the full suite of services available to library members such as borrowing items and reading eMagazines and eNewspapers. But even if you don&rsquo;t sign in, you can still:</p>
 <ul>
 <li>Search the library catalogue</li>
@@ -80,19 +84,25 @@ You can also easily check your account information, transact, search and access 
 </ul>
     </div>
 </div>
+</div><!--close FAQ set-->
 
-<button class="accordion1">What do I need to sign in?</button>
+
+<div class ="FAQ-set">
+<button class="accordion">What do I need to sign in?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
       <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or at a Borrowing Station in any library.</p>
     </div>
 </div>
+</div><!--close FAQ set-->
 
+
+<div class ="FAQ-set">
 <button class="accordion">What if I forget my myLibrary ID or password? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>You can retrieve your myLibrary ID and password:</p>
 <ul>
 <li><b><a href="https://account.nlb.gov.sg">Online</a></b> with your SingPass or NRIC / FIN number. Once you have signed in, the system will automatically detect if you have a myLibrary ID and display it. It will also let you reset your password if you have forgotten it.</li>
@@ -100,29 +110,37 @@ You can also easily check your account information, transact, search and access 
 </ul>
 
 </div></div>
+</div><!--close FAQ set-->
 
-<button class="accordion1">What can I do if I have protected my app using the four-digit passcode but have forgotten the passcode?</button>
+
+<div class ="FAQ-set">
+<button class="accordion">What can I do if I have protected my app using the four-digit passcode but have forgotten the passcode?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
  <p>You can delete the app, then re-download it before signing in again.</p>
     </div>
 </div>
+</div><!--close FAQ set-->
 
+
+<div class ="FAQ-set">
 <button class="accordion">Do I need to set my preferred library in the profile? </button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div></div>
 </div><!--close FAQ-section-->
 
 <div class="FAQ-section">
 <p><h2>Borrowing physical items, eBooks and eAudiobooks</h2></p>
-<button class="accordion1">How can I borrow physical items with the NLB Mobile app?</button>
+
+<div class ="FAQ-set">
+<button class="accordion">How can I borrow physical items with the NLB Mobile app?</button>
 
 <div class="panel">
-  <div class="libby">
+  <div class="panel-text">
   <p>First, sign in with your myLibrary ID. 
       <p>Next, tap on the camera icon on the top left corner of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item.</p>
       <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, tap the “Show Barcode” icon in your account profile (at the top right corner of the NLB Mobile app). Your virtual membership card will appear. Scan the membership QR/barcode at the Borrowing Station to borrow the library items.</p>  
