@@ -55,16 +55,16 @@ info-sections:
     section-image-path: /images/Home_news_landscape.png
   - section-title: 
     section-subtitle: Learn New Skills
-    section-description: Learn new skills from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning). These video tutorials cover business, technology, photography and more! 
+    section-description: Learn on the go from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning). These video tutorials cover business, technology, photography and more! 
     section-more-button: Ways to learn anytime, anywhere
     section-more-button-url: /images/Learner.png
-    section-image-path:  
+    section-image-path: /images/Home_learn.png
   - section-title: 
     section-subtitle: Manage Your Account 
     section-description: Manage yours and your family members’ accounts from a single app. Check your loans, manage reservations, pay outstanding charges and update your contact details.
     section-more-button: Download NLB Mobile Now
     section-more-button-url: http://qr.nlb.sg/nlbmobile
-    section-image-path: 
+    section-image-path: /images/Home_ManageAccts.png
 
 
 # resources-title: Resources
