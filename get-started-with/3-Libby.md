@@ -26,7 +26,7 @@ title: Libby
 
 <div class="panel">
   <div class="panel-text">
-  <p>Yes, you can! Libby makes it easy to switch between library cards or between different libraries (for e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, then select ‘See Library Cards’ or ‘Add A Library’. All your digital checkouts from different cards and libraries are on the same virtual shelf, so there is no need to switch between libraries or cards to read your books.</p>
+  <p>Yes, you can! Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, then select ‘See Library Cards’ or ‘Add A Library’. All your digital checkouts from different cards and libraries are on the same virtual shelf, so there is no need to switch between libraries or cards to read your books.</p>
 </div></div><!--close div for panel-->
 </div><!--close div for each button-->
 
@@ -65,7 +65,7 @@ title: Libby
 </div><!--Close div for FAQ-section-->
 
 <div class="FAQ-section" id="LibbyVsOverDrive">  
-  <h2>Libby vs OverDrive</h2>
+  <h2>Libby versus OverDrive</h2>
   
   <div><!--div for each button-->
 <button class="accordion">What is the difference between NLB Mobile, OverDrive app and Libby?</button>
