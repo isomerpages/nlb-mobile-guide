@@ -8,7 +8,7 @@ title: Libby
 ![A flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_Flowchart.png)
 <a href="/images/Libby_Flowchart.png">Click to enlarge</a>
 
-<p>Libby is the one-tap reading app that allows you to enjoy downloaded eBooks / eAudiobooks offline.</p>
+<p>Libby is the one-tap reading app by OverDrive that allows you to enjoy downloaded eBooks / eAudiobooks offline.</p>
 
 <div class="FAQ-section">  
   <h2>Getting Started</h2>
@@ -74,7 +74,7 @@ title: Libby
   <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks. They are hosted on third-party platforms such as OverDrive.</p>
 <p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have an in-built reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
 <p><strong>OverDrive </strong>lets you borrow and download eBooks / eAudiobooks from the library. You can use the in-app features to read downloaded eBooks and listen to eAudiobooks.</p>
-<p><strong>Libby </strong>is a new app by OverDrive. It also lets you borrow and download eBooks / eAudiobooks, but with a simpler user interface.</p>
+<p><strong>Libby </strong>is a new app by OverDrive. It also lets you borrow and download eBooks / eAudiobooks, but with a simpler user interface. With effect from December 2019, Libby will replace the OverDrive app as the NLB Mobile reading companion app. This means that when you select 'Download' after borrowing an eBook or eAudiobook on <b>NLB Mobile</b>, it will launch Libby or prompt you to install it. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Here</a> is a short introduction video with instructions on how to set Libby up.</p>
   </div>
   </div><!--close div for panel-->
   </div><!--close div for each button-->
@@ -90,6 +90,22 @@ title: Libby
 </div><!--close div for each button-->
 
 <div>
+<button class="accordion">I still prefer OverDrive to Libby. How can I continue to use OverDrive to download eBooks and eAudiobooks?  </button>
+<div class="panel">
+  <div class="panel-text">
+    <p><ol><li>Launch OverDrive.</li>
+    <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
+    <li>Log in using your myLibrary ID.</li>
+    <li>(Skip this step if you have already borrowed all the titles you wish to download.) Borrow the titles you want.</li>
+    <li>Tap on Shelf.</li>
+    <li>Tap on the "Download" button underneath each of the items you want to download. </li>
+    <li>Go to the <b>OverDrive app menu</b> and select "Bookshelf". Tap on the book you want to read. That's it!</li></ol>
+      </p>
+  </div>
+</div><!--close div for panel-->
+</div><!--close div for each button-->
+
+<div>
 <button class="accordion">Is Libby replacing the OverDrive app?</button>
 <div class="panel">
   <div class="panel-text">
@@ -100,10 +116,10 @@ title: Libby
 </div><!--close div for each button-->
 
 <div><!--div for each button-->
-<button class="accordion">Can I use Libby or OverDrive on Kindle, Kobo or Nook e-Readers?</button>
+<button class="accordion">Can I use Libby on Kindle, Kobo or Nook e-Readers?</button>
 <div class="panel">
   <div class="panel-text">
-  <p>NLB currently does not purchase and support eBooks in Kindle, Kobo or Nook formats as they are not officially available to the Singapore market.</p> 
+  <p>NLB currently does not purchase and support eBooks in Kindle, Kobo or Nook formats.</p> 
   <p>Format availability for eBooks is subject to the negotiations between OverDrive and the eReader companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.</p>
 <p>Hence, Libby and OverDrive are not supported on such eReaders in Singapore for now.</p>
 </div></div><!--close div for panel-->
