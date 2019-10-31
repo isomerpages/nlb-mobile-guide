@@ -31,10 +31,7 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Download Now
-    section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. <script type="text/javascript" src="//eservice-stg.nlb.gov.sg/components/js/bundle.js?key=[9krBAsmPQIJy]"></script>
-<nlb-qrcode
-data-url="https://qr.nlb.sg/nlbmobile"
-data-size="1"></nlb-qrcode>
+    section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. 
     section-more-button: Install NLB Mobile
     section-more-button-url: https://qr.nlb.sg/nlbmobile
     section-image-path: /images/Home_download.png
