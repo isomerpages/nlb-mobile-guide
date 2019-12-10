@@ -26,6 +26,8 @@ i-want-to:
     url: /reader/
   - title: learn – to further skills or interests, and/or advance my career.
     url: /learner/
+    title: test
+    url: /test/
     
 # Info Sections
 info-sections:
