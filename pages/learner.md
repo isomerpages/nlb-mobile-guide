@@ -7,9 +7,6 @@ title: Learn
 We offer different ways for you to learn in your own time, whether you want to develop skills, get that promotion, and/or pursue your passions. The infographic below is your starter kit:<br>
 ![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)
 <a href="/images/Learner.png">Click to enlarge</a>
-<p>
-  [![Test](https://i.ibb.co/n6R2BR1/https-i-ytimg-com-vi-udzy-Gtd20-8-maxresdefault.jpg)](https://youtu.be/udzyGtd20-8 "Test")
-<html>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
