@@ -9,7 +9,7 @@ We offer different ways for you to learn in your own time, whether you want to d
 <a href="/images/Learner.png">Click to enlarge</a>
 
 <p>
-    ![Test animated gif](/images/Learner.png)
+![Test animated gif](/images/Learner.png)
 </p>
 
 <head>
