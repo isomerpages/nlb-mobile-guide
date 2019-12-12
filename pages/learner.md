@@ -10,6 +10,7 @@ We offer different ways for you to learn in your own time, whether you want to d
 
 <p>
 ![Test animated gif](/images/Learner.png)
+![Home_download](\images\Home_download.png)
 </p>
 
 <head>
