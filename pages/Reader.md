@@ -21,7 +21,6 @@ If you love reading, you are in the right place! Here are some tips:<br>
 <p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
 <p>To find out how to access eNewspapers and eMagazines on PressReader, click <a href="/get-started-with/PressReader/">here</a>.</p>
 <p><h2>More Tips</h2></p>
-
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
@@ -45,38 +44,5 @@ If you love reading, you are in the right place! Here are some tips:<br>
   </p>
 <p>If you just want to explore what is available, tap on 'Library' in the Libby app and select 'Available Audiobooks'. If you listen before bedtime, Libby can automatically pause the narration after a specific amount of time set by you. Open the audiobook and tap, hold and drag down the moon icon to set the sleep timer.</p>
 <p>Short stories are also a great way to squeeze in some reading. To find them, go to Library -> Explore -> Subjects -> Short Stories. Some of these are also available as eAudiobooks! </p>
-
 </div>
 </div>
-
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight){
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-
-var acc = document.getElementsByClassName("accordion1");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight){
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-
-</script>
