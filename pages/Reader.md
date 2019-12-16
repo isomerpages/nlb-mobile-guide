@@ -21,18 +21,25 @@ If you love reading, you are in the right place! Here are some tips:<br>
 <p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
 <p>To find out how to access eNewspapers and eMagazines on PressReader, click <a href="/get-started-with/PressReader/">here</a>.</p>
 <p><h2>More Tips</h2></p>
-<button class="accordion">Any recommendations on what to read next?</button>
 
-<div class="panel">
-    <div class="libby">
-        <p>Tap on 'Library' in the Libby app, located at the bottom left corner of your screen,  and scroll down to browse book lists by category,  e.g. thrillers or what’s trending. Just tap on the theme you’re in the mood for and let Libby lead you to your next great read!</p></div>
+<div class="acc-kontainer">          
+	<div>
+		<input type="radio" name="acc" id="acc1" checked>
+		<label for="acc1"><i></i> Any recommendations on what to read next?</label>
+		<div class="acc-body">
+		Tap on 'Library' in the Libby app, located at the bottom left corner of your screen,  and scroll down to browse book lists by category,  e.g. thrillers or what’s trending. Just tap on the theme you’re in the mood for and let Libby lead you to your next great read!
+		</div>
+	</div>
+    <div>
+        <input type="radio" name="acc" id="acc2">
+        <label for="acc2"><i></i> I love reading but I’m too busy!</label>
+        <div class="acc-body">
+			How about eAudiobooks? You can listen to them while doing chores, driving –even right before bed as part of your wind-down routine. Some of these books are read by famous authors themselves, especially autobiographies such as Becoming by Michelle Obama. To check if the book you want has an audiobook version, simply search for the title. The word “audiobook” will appear underneath your search term if available.
+		</div>
+	</div>
+    </div>
 </div>
 
-<button class="accordion1">I love reading but I’m too busy!</button>
-
-<div class="panel">
-  <div class="libby">
-      <p>How about eAudiobooks? You can listen to them while doing chores, driving –even right before bed as part of your wind-down routine. Some of these books are read by famous authors themselves, especially autobiographies such as Becoming by Michelle Obama. To check if the book you want has an audiobook version, simply search for the title. The word “audiobook” will appear underneath your search term if available.</p>
   <p>
       <img src="/images/Reader_screenshot_audiobook_search_Becoming.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">
   </p>
