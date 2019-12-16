@@ -360,81 +360,62 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 //FAQ accordion buttons; background-color previously #FFE161
-.accordion1 {
-  background-color: #FFFAE2;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
+<style>
+/*--------Accordion-------*/
+.acc-kontainer {
+	width: 100%;
+	margin: auto;
+}
+.acc-kontainer .acc-body {
+	width: 98%;
+	width: calc(100% - 20px);
+	margin: 0 auto;
+	height: 0;
+	color: rgba(0, 0, 0, 0);;
+	background-color: rgba(192,192,192,0.3);
+	line-height: 28px;
+	padding: 0 20px;
+	box-sizing: border-box;
+	transition: 0.5s;
 }
 
-.FAQ-section div:nth-child(2n+1) button {background-color:#FFFAE2;}
-.FAQ-section div:nth-child(2n) button {background-color:#FFEB94;}
-
-
-.FAQ-section div:nth-child(2n+1) button:active {background-color:#FCE160;}
-.FAQ-section div:nth-child(2n) button:active {background-color:#FCE160;}
-
-.FAQ-section div:nth-child(2n+1) button:hover {background-color:#FCE160;}
-.FAQ-section div:nth-child(2n) button:hover {background-color:#FCE160;}
-     
-
-
-.accordion {
-  color: #444;
-  cursor: pointer;
-  background-color:#FFFB94;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 20px;
-  transition: 0.4s;
+.acc-kontainer label {
+	cursor: pointer;
+	background-color: rgba(3,113,130);
+	border-bottom: 1px solid rgba(192,192,192);
+	display: block;
+	padding: 15px;
+	width: 100%;
+	color: #FFF;
+	font-weight: 400;
+	box-sizing: border-box;
+	z-index: 100;
 }
 
-button.accordion:hover, button.accordion:active {
-  background-color: #fce160;
+.acc-kontainer input{
+	display: none;
 }
 
-.accordion:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
+.acc-kontainer label:before {
+	content: '+';
+	font-weight: bolder;
+	float: right;
 }
 
-.active:after {
-  content: "\2212";
+.acc-kontainer input:checked+label {
+	background-color: rgba(3,113,130);
 }
 
-//previously #fffae2
-.active, .accordion1:hover {
-  background-color: #fce160;
+.acc-kontainer input:checked+label:before {
+	content: '-';
+	transition: 0.5s;
 }
 
-.accordion1:after {
-  content: '\002B';
-  color: #777;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
+.acc-kontainer input:checked~.acc-body {
+	height: auto;
+	color: #000;
+	font-size: 16px;
+	padding: 20px;
+	transition: 0.5s;
 }
-
-.active:after {
-  content: "\2212";
-}
-//panel to have bottom padding of 2px 
-.panel {
-  padding: 0 18px 2px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
+</style>
