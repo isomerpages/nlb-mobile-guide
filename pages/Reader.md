@@ -13,6 +13,66 @@ If you love reading, you are in the right place! Here are some tips:<br>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<style>
+/*--------Accordion-------*/
+.acc-kontainer {
+	width: 100%;
+	margin: auto;
+}
+.acc-kontainer .acc-body {
+	width: 98%;
+	width: calc(100% - 20px);
+	margin: 0 auto;
+	height: 0;
+	color: rgba(0, 0, 0, 0);;
+	background-color: rgba(192,192,192,0.3);
+	line-height: 28px;
+	padding: 0 20px;
+	box-sizing: border-box;
+	transition: 0.5s;
+}
+
+.acc-kontainer label {
+	cursor: pointer;
+	background-color: rgba(3,113,130);
+	border-bottom: 1px solid rgba(192,192,192);
+	display: block;
+	padding: 15px;
+	width: 100%;
+	color: #FFF;
+	font-weight: 400;
+	box-sizing: border-box;
+	z-index: 100;
+}
+
+.acc-kontainer input{
+	display: none;
+}
+
+.acc-kontainer label:before {
+	content: '+';
+	font-weight: bolder;
+	float: right;
+}
+
+.acc-kontainer input:checked+label {
+	background-color: rgba(3,113,130);
+}
+
+.acc-kontainer input:checked+label:before {
+	content: '-';
+	transition: 0.5s;
+}
+
+.acc-kontainer input:checked~.acc-body {
+	height: auto;
+	color: #000;
+	font-size: 16px;
+	padding: 20px;
+	transition: 0.5s;
+}
+</style>
+
 </head>
 
 <body>
