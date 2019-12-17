@@ -34,7 +34,7 @@ If you love reading, you are in the right place! Here are some tips:<br>
 
 .acc-kontainer label {
 	cursor: pointer;
-	background-color: rgba(3,113,130);
+	background-color: rgba(255,250,226);
 	border-bottom: 1px solid rgba(192,192,192);
 	display: block;
 	padding: 15px;
