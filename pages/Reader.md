@@ -53,7 +53,7 @@ If you love reading, you are in the right place! Here are some tips:<br>
 }
 
 .acc-kontainer input:checked+label {
-	background-color: rgba(3,113,130);
+	background-color: rgba(252, 225, 96);
 }
 
 .acc-kontainer input:checked+label:before {
