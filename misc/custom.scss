@@ -401,3 +401,11 @@ $desktop: 960px + (2 * $gap) !default;
 	font-weight: bolder;
 	float: right;
 }
+
+.acc-kontainer input:checked+label {
+	background-color: black;
+}
+
+.acc-kontainer input:checked+label:before {
+	content: '-';
+}
