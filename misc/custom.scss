@@ -399,3 +399,11 @@ $desktop: 960px + (2 * $gap) !default;
 	font-weight: bolder;
 	float: right;
 }
+
+.acc-kontainer input:checked+label {
+	background-color: rgba(3,113,130);
+}
+
+.acc-kontainer input:checked+label:before {
+	content: '-';
+}
