@@ -36,7 +36,7 @@ If you love reading, you are in the right place! Here are some tips:<br>
 	display: block;
 	padding: 15px;
 	width: 100%;
-	color: #FFF;
+	color: #000000;
 	font-weight: 400;
 	box-sizing: border-box;
 	z-index: 100;
