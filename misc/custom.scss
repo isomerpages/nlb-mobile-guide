@@ -380,6 +380,13 @@ $desktop: 960px + (2 * $gap) !default;
 	overflow: hidden;
 }
 
+.acc-kontainer label {
+	background-color: rgba(3,113,130);
+	border-bottom: 1px solid rgba(192,192,192);
+	color: #FFF;
+	font-weight: 400;
+}
+
 .acc-kontainer input {
 	display: none;
 }
