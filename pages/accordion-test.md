@@ -12,7 +12,7 @@ title: Accordion Test
 		<div class="acc-body">
 			Level 1 body here
 		</div>
-		<input type="radio" name="acc" id="acc2" checked>
+		<input type="radio" name="acc" id="acc2">
 		<label for="acc2">Level 2</label>
 		<div class="acc-body">
 			Level 2 body here
