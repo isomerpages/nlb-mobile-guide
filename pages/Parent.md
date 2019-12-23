@@ -21,6 +21,9 @@ There are many ways to bond with your loved ones through reading and learning! T
 
 <p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
 <p>For more information on how to use the Libby app, click <a href="/get-started-with/Libby/">here</a>.</p>
+   <p>Find out more about Tumblebook Library <a href="https://www.tumblebooklibrary.com/Help.aspx">here</a>.</p>
+<p>Find out more about Libby&rsquo;s 'Read-alongs' <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">here</a>.</p>
+	
 <h2>More Tips</h2>
 <div class="acc-kontainer">          
 	<div>
@@ -59,16 +62,13 @@ There are many ways to bond with your loved ones through reading and learning! T
 			<p>In the Libby app, tap on Library -> Explore -> Guide: Kids and scroll down until you see 'I Can Read! Series Read-Alongs' and 'Read-Alongs'.</p>
 		</div>
     </div>
-</div>
 
   <div>
         <input type="radio" name="acc" id="acc4">
         <label for="acc4"><i></i>I noticed that you offer a few types of interactive eBooks. What is the difference between the eBooks with narration in Libby (“Read-alongs”) and the animated picture books in Tumblebook Library?</label>
         <div class="acc-body">
 			<p>Both types of interactive eBooks feature professionally-recorded narration that play along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the 'Read-alongs' in Libby are more like eBooks with the words highlighted as they are read.</p>
-      <p>Find out more about Tumblebook Library <a href="https://www.tumblebooklibrary.com/Help.aspx">here</a>.</p>
-<p>Find out more about Libby&rsquo;s 'Read-alongs' <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">here</a>.</p>
-		</div>
+   	</div>
 	</div>
 
 
