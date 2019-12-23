@@ -359,3 +359,60 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// NLB Accordion
+.acc-kontainer {
+	width: 100%;
+	margin: auto;
+}
+
+.acc-kontainer .acc-body {
+	width: 98%;
+	width: calc(100% - 20px);
+	margin: 0 auto;
+	height: 0;
+	color: white;
+	background-color: white;
+	line-height: 28px;
+	padding: 0 20px;
+	box-sizing: border-box;
+	font-size: 0;
+	overflow: hidden;
+}
+
+.acc-kontainer label {
+	background-color: black;
+	border-bottom: 1px solid white;
+	display: block;
+	padding: 15px;
+	width: 100%;
+	color: white;
+	font-weight: 400;
+	box-sizing: border-box;
+	z-index: 100;
+}
+
+.acc-kontainer input {
+	display: none;
+}
+
+.acc-kontainer label:before {
+	content: '+';
+	font-weight: bolder;
+	float: right;
+}
+
+.acc-kontainer input:checked+label {
+	background-color: black;
+}
+
+.acc-kontainer input:checked+label:before {
+	content: '-';
+}
+
+.acc-kontainer input:checked~.acc-body {
+	height: auto;
+	color: black;
+	font-size: 16px;
+	padding: 20px;
+}
