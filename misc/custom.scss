@@ -381,6 +381,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .acc-kontainer label {
+	background-color: black;
+	border-bottom: 1px solid white;
 	display: block;
 	padding: 15px;
 	width: 100%;
