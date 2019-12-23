@@ -379,3 +379,13 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 0;
 	overflow: hidden;
 }
+
+.acc-kontainer input {
+	display: none;
+}
+
+.acc-kontainer label:before {
+	content: '+';
+	font-weight: bolder;
+	float: right;
+}
