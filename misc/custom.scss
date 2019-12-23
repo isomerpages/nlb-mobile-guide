@@ -379,16 +379,3 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 0;
 	overflow: hidden;
 }
-
-.acc-kontainer label {
-	cursor: pointer;
-	background-color: rgba(3,113,130);
-	border-bottom: 1px solid rgba(192,192,192);
-	display: block;
-	padding: 15px;
-	width: 100%;
-	color: #FFF;
-	font-weight: 400;
-	box-sizing: border-box;
-	z-index: 100;
-}
