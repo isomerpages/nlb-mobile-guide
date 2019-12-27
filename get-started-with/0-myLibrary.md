@@ -7,17 +7,15 @@ title: Library Membership and myLibrary ID
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
-
 <div class="FAQ-section">
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
-  
-  <div class ="FAQ-set">
-<button class="accordion">Can I sign up for library membership online?</button>
 
-<div class="panel">
-  <div class="panel-text">
-    <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
+<div class="acc-kontainer">          
+	<div>
+		<input type="radio" name="acc" id="acc1" checked>
+		<label for="acc1"><i></i>Can I sign up for library membership online?</label>
+		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
 <ul>
 <li>You are a Singaporean or Permanent Resident (PR)</li>
 <li>You have a SingPass login ID and password</li>
@@ -27,10 +25,9 @@ title: Library Membership and myLibrary ID
 <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
 <li>If you are a PR and a student at an MOE school, you are eligible for a waiver on the one-time registration fee. To receive the waiver, sign up for library membership at the libraries instead of online.</li>
 </ul>
-      </div>
-
-</div>
-</div><!--close FAQ set-->
+      </p>
+		</div>
+	</div>
 
 <div class ="FAQ-set">
 <button class="accordion">Can I sign my child up for library membership online?</button>
