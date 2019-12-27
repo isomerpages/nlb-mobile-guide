@@ -47,86 +47,63 @@ title: Library Membership and myLibrary ID
     </div>
 </div>
 
-<div class ="FAQ-set">
-<button class="accordion">What do I need to sign up for library membership online?</button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p>You will need a:</p>
+<div>
+		<input type="radio" name="acc" id="acc3">
+        <label for="acc3"><i></i>What do I need to sign up for library membership online?</label>
+        <div class="acc-body"><p>You will need a:</p>
 <ul>
 <li>SingPass login ID and password</li>
 <li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
 </ul>
     </div>
 </div>
-</div><!--close FAQ set-->
 
-<div class ="FAQ-set">
-<button class="accordion">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</button>
-
-<div class="panel">
-  <div class="panel-text">
- <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is not required to complete the registration. </p>
+<div>
+		<input type="radio" name="acc" id="acc4">
+        <label for="acc4">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</label>
+         <div class="acc-body"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is not required to complete the registration. </p>
     </div>
-
 </div>
-</div><!--close FAQ set-->
 
-<div class ="FAQ-set">
-<button class="accordion">If I sign up for membership online, when will the membership be activated? Will I receive a library card? </button>
+<input type="radio" name="acc" id="acc5">
+        <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label
+          <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration fees if you are a PR.</p>
+          <p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
+          </div>
+          </div>
 
-<div class="panel">
-  <div class="panel-text">
-  <p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration fees if you are a PR.</p>
-<p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
+<div>
+		<input type="radio" name="acc" id="acc6">
+        <label for="acc6">Where can I sign up for library membership if I cannot use the online registration service? </label>
+        <div class="acc-body">
+        <p>You can sign up for library membership at our libraries:</p>
+        <ul>
+        <li>If you are a Singaporean/PR, go to a Borrowing Station at any library. If you are a PR studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee.</li>
+        <li>If you are a foreigner, go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring. If you study at an MOE school, remember to bring your School Smart Card to receive a waiver on both the registration fee and annual fee.</li>
+        </ul>
+        </div>
+        </div>
 
-</div></div>
-</div><!--close FAQ set-->
+<div>
+		<input type="radio" name="acc" id="acc7"> 
+		<label for="acc7">I am a Foreigner with SingPass.  Can I sign up for library membership online?</label>
+		    <div class="acc-body"><p>No. The online registration service is currently open only to Singaporeans and PRs with SingPass. Please sign up at a Reservation Locker in any library (except library@Chinatown). For more information on what documents to bring, please refer to our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a>.</p>
+		    </div>
+		    </div>
 
-<div class ="FAQ-set">
-<button class="accordion">Where can I sign up for library membership if I cannot use the online registration service? </button>
+<div>
+		<input type="radio" name="acc" id="acc8">
+        <label for="acc8">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</label>
+          <div class="acc-body"><p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
+          <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). With this myLibrary ID, you can instantly check your account online, <a href="/images/NLB Mobile_Flowchart_OverDrive.png">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
+          <p>(Note: For existing PAssion card holders and PAssion card holders who are foreigners, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
+          </div>
+          </div>
 
-<div class="panel">
-  <div class="panel-text">
-  <p>You can sign up for library membership at our libraries:</p>
-<ul>
-<li>If you are a Singaporean/PR, go to a Borrowing Station at any library. If you are a PR studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee.</li>
-<li>If you are a foreigner, go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring. If you study at an MOE school, remember to bring your School Smart Card to receive a waiver on both the registration fee and annual fee.</li>
-</ul>
-
-</div></div>
-</div><!--close FAQ set-->
-
-<div class ="FAQ-set">
-<button class="accordion">I am a Foreigner with SingPass.  Can I sign up for library membership online?</button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p>No. The online registration service is currently open only to Singaporeans and PRs with SingPass. Please sign up at a Reservation Locker in any library (except library@Chinatown). For more information on what documents to bring, please refer to our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a>.</p>
-
-</div></div>
-</div><!--close FAQ set-->
-
-
-<div class ="FAQ-set">
-<button class="accordion">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
-<p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). You will need the myLibrary ID to check your account online, read eBooks and access the resources in our digital collection. Please click <a href="/images/NLB Mobile_Flowchart_OverDrive.png">here</a> to find out how to borrow library materials.</p>
-<p>(Note: For existing PAssion card holders and PAssion card holders who are foreigners, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
-
-</div></div>
-</div><!--close FAQ set-->
-
-
-<div class ="FAQ-set">
-<button class="accordion">I can’t remember if I am a library member. Can I check my library membership online?  </button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p>Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
+<div>
+		<input type="radio" name="acc" id="acc9">
+        <label for="acc9">I can’t remember if I am a library member. Can I check my library membership online? </label>
+         <div class="acc-body"><p>Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
 <ul>
 <li>You are a Singaporean or Permanent Resident (PR)</li>
 <li>You have a SingPass login ID and password</li>
@@ -134,22 +111,19 @@ title: Library Membership and myLibrary ID
 <p>Once you have signed in, the online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
 
 </div></div>
-</div><!--close FAQ set-->
 
 
-<div class ="FAQ-set">
-<button class="accordion">I have completed the registration to be a library member. When and how can I start using library services?</button>
+<div>
+		<input type="radio" name="acc" id="acc10">
+        <label for="acc10">I have completed the registration to be a library member. When and how can I start using library services?</label>
+           <div class="acc-body"><ul>
+           <li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
+           <li>You can start using our digital collection immediately! Download the <a href="https://www.nlb.gov.sg/static/nlbmobileguide/">NLB Mobile app</a> to read eBooks, listen to eAudiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries </li></ul>
+           <p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
+           <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
+           </div>
+           </div>
 
-<div class="panel">
-  <div class="panel-text">
-  <ul>
-<li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
-<li>You can start using our digital collection immediately! Download the <a href="https://www.nlb.gov.sg/static/nlbmobileguide/">NLB Mobile app</a> to read eBooks, listen to eAudiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries.</li>
-</ul>
-<p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
-<p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
-</div></div>
-</div><!--close FAQ-section-->
 
 <div class="FAQ-section">
 <p>
