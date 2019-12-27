@@ -130,7 +130,7 @@ title: Library Membership and myLibrary ID
 </p>
 <div class="acc-kontainer">          
 	<div>
-		<input type="radio" name="acc" id="acc11" checked>
+		<input type="radio" name="acc" id="acc11">
 		<label for="acc11">Why do I need a myLibrary ID? </label>
 		<div class="acc-body">
         <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a User ID and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
