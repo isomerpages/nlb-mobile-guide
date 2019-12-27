@@ -4,7 +4,7 @@ permalink: /reader/
 breadcrumb: Fuel My Reading Habit
 title: Fuel My Reading Habit
 ---
-![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)
+<a href="/images/Reader.png">![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)</a>
 <a href="/images/Reader.png">Click to enlarge</a>
 
 <p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
