@@ -7,9 +7,9 @@ title: Fuel My Reading Habit
 ![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)
 <a href="/images/Reader.png">Click to enlarge</a>
 
-<p>For more information on how to use the Libby app, click <a href="/get-started-with/Libby/">here</a>.</p>
-<p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
-<p>To find out how to access eNewspapers and eMagazines on PressReader, click <a href="/get-started-with/PressReader/">here</a>.</p>
+<p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
+<p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
+<p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
 <p><h2>More Tips</h2></p>
 <div class="acc-kontainer">          
 	<div>
@@ -31,3 +31,4 @@ title: Fuel My Reading Habit
 		</div>
 	</div>
 </div>
+
