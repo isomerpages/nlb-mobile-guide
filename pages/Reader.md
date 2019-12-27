@@ -8,68 +8,6 @@ If you love reading, you are in the right place! Here are some tips:<br>
 ![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)
 <a href="/images/Reader.png">Click to enlarge</a>
 
-<style>
-/*--------Accordion-------*/
-.acc-kontainer {
-	width: 100%;
-	margin: auto;
-}
-.acc-kontainer .acc-body {
-	width: 98%;
-	width: calc(100% - 20px);
-	margin: 0 auto;
-	height: 0;
-	color: rgba(0, 0, 0, 0);;
-	background-color: rgba(192,192,192,0.3);
-	line-height: 28px;
-	padding: 0 20px;
-	box-sizing: border-box;
-	transition: 0.5s;
-	font-size: 0;
-	overflow: hidden;
-}
-
-.acc-kontainer label {
-	cursor: pointer;
-	background-color: rgba(255,250,226);
-	border-bottom: 1px solid rgba(192,192,192);
-	display: block;
-	padding: 15px;
-	width: 100%;
-	color: #000000;
-	font-weight: 400;
-	box-sizing: border-box;
-	z-index: 100;
-}
-
-.acc-kontainer input{
-	display: none;
-}
-
-.acc-kontainer label:before {
-	content: '+';
-	font-weight: bolder;
-	float: right;
-}
-
-.acc-kontainer input:checked+label {
-	background-color: rgba(252, 225, 96);
-}
-
-.acc-kontainer input:checked+label:before {
-	content: '-';
-	transition: 0.5s;
-}
-
-.acc-kontainer input:checked~.acc-body {
-	height: auto;
-	color: #000;
-	font-size: 16px;
-	padding: 20px;
-	transition: 0.5s;
-}
-</style>
-
 <p>For more information on how to use the Libby app, click <a href="/get-started-with/Libby/">here</a>.</p>
 <p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
 <p>To find out how to access eNewspapers and eMagazines on PressReader, click <a href="/get-started-with/PressReader/">here</a>.</p>
