@@ -4,7 +4,6 @@ permalink: /reader/
 breadcrumb: Fuel My Reading Habit
 title: Fuel My Reading Habit
 ---
-If you love reading, you are in the right place! Here are some tips:<br>
 ![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)
 <a href="/images/Reader.png">Click to enlarge</a>
 
