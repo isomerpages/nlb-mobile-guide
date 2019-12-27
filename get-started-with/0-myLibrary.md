@@ -14,7 +14,7 @@ title: Library Membership and myLibrary ID
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
-		<label for="acc1"><i></i>Can I sign up for library membership online?</label>
+		<label for="acc1">Can I sign up for library membership online?</label>
 		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
 <ul>
 <li>You are a Singaporean or Permanent Resident (PR)</li>
@@ -30,7 +30,7 @@ title: Library Membership and myLibrary ID
 
     <div>
         <input type="radio" name="acc" id="acc2">
-        <label for="acc2"><i></i>Can I sign my child up for library membership online?</label>
+        <label for="acc2">Can I sign my child up for library membership online?</label>
         <div class="acc-body"><p>Yes, you can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
 <ul>
 <li>Your child is a Singaporean or Permanent Resident, and</li>
@@ -49,7 +49,7 @@ title: Library Membership and myLibrary ID
 
 <div>
 		<input type="radio" name="acc" id="acc3">
-        <label for="acc3"><i></i>What do I need to sign up for library membership online?</label>
+        <label for="acc3">What do I need to sign up for library membership online?</label>
         <div class="acc-body"><p>You will need a:</p>
 <ul>
 <li>SingPass login ID and password</li>
