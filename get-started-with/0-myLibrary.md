@@ -66,7 +66,7 @@ title: Library Membership and myLibrary ID
 </div>
 
 <input type="radio" name="acc" id="acc5">
-        <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label
+        <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
           <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration fees if you are a PR.</p>
           <p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
           </div>
@@ -95,7 +95,7 @@ title: Library Membership and myLibrary ID
 		<input type="radio" name="acc" id="acc8">
         <label for="acc8">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</label>
           <div class="acc-body"><p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
-          <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). With this myLibrary ID, you can instantly check your account online, <a href="/images/NLB Mobile_Flowchart_OverDrive.png">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
+          <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). With this myLibrary ID, you can instantly check your account online, <a href="/get-started-with/nlb-mobile/">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
           <p>(Note: For existing PAssion card holders and PAssion card holders who are foreigners, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
           </div>
           </div>
