@@ -22,7 +22,6 @@ title: NLB Mobile
 You can also easily check your account information, transact, search and access eLearning courses anytime you want. 
 </p>
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
-
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
@@ -39,6 +38,7 @@ You can also easily check your account information, transact, search and access 
 		<ul>
 		<li>Pay outstanding fees and/or fines using PayPal or credit cards</li>
 		<li>Check and/or renew your loans</li>
+		<li>Reserve library items</li>
 		<li>View the titles you borrowed from the libraries for the last three years</li>
 		<li>Update your particulars such as email address and mobile number</li>
 		<li>Switch between family members&rsquo; accounts for quick access to library transactions</li>
@@ -64,7 +64,6 @@ You can also easily check your account information, transact, search and access 
 		</div>
 
 <p><h2>Setting Up NLB Mobile</h2></p>
-
     <div>
         <input type="radio" name="acc" id="acc2">
         <label for="acc2">Why should I sign in?</label>
@@ -115,7 +114,6 @@ You can also easily check your account information, transact, search and access 
 </div></div>
 
 <p><h2>Borrowing physical items, eBooks and eAudiobooks</h2></p>
-
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">How can I borrow physical items with the NLB Mobile app?</label>
@@ -164,7 +162,7 @@ You can also easily check your account information, transact, search and access 
 <p><b>Step One:</b> In the app, select 'Account&rsquo;, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
 <p><b>Step Two:</b> You will see a &lsquo;Read Online&rsquo; option for eBooks or a &lsquo;Listen Online&rsquo; option for eAudiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi.</em></p>
-<p>If you wish to read or listen offline, you may select the &lsquo;Download&rsquo; option. The app will automatically launch a third-party app, Overdrive, to download the title.</p>
+<p>If you wish to read or listen offline, you may select the &lsquo;Download&rsquo; option. The app will automatically launch a third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
 </div></div>
 
   <div>
