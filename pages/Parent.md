@@ -16,9 +16,9 @@ title: Bond through Reading and Learning
 
 <body>
 
-<p>Find out more about how to use the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
-<p>Find out more about how to use the <a href="/get-started-with/Libby/">Libby app</a>.</p>
-   <p>Find out more about <a href="https://www.tumblebooklibrary.com/Help.aspx">Tumblebook Library </a>.</p>
+<p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
+<p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
+   <p>Find out more about <a href="https://www.tumblebooklibrary.com/Help.aspx">Tumblebook Library</a>.</p>
 <p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">Libby&rsquo;s 'Read-alongs'</a>.</p>
 <h2>More Tips</h2>
 <div class="acc-kontainer">          
