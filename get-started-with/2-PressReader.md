@@ -125,7 +125,6 @@ title: PressReader
 </div>
 </div><!--close div for acc7 (question)-->
     </div><!--close div for acc body (answer)-->
-</div><!--close div for FAQ-section-->
 
 <div class="FAQ-section" id="PressReaderTroubleShooting">
 <h2>Troubleshooting</h2>
