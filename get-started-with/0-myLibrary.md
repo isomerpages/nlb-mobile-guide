@@ -208,7 +208,7 @@ title: Library Membership and myLibrary ID
         </table>
         <p>You may also use a myLibrary ID to:</p>
         <ol>
-        <li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <a href="/images/NLB Mobile_Flowchart_OverDrive.png">here</a> to learn how to do this.</li>
+        <li><a href="/get-started-with/nlb-mobile/"><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations</a> .</li>
         <li><strong>Register for programmes.</strong></li>
         </ol>
         </div>
@@ -216,21 +216,21 @@ title: Library Membership and myLibrary ID
 
 	<div>
 		<input type="radio" name="acc" id="acc13">
-        <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
-        <div class="acc-body">
-        <ul>
-        <li>All library members, even children and babies, can have a myLibrary ID.</li>
-        <li>Creating a myLibrary ID will only take a few minutes! You may create it:
-        <ul>
-        <li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your SingPass or NRIC / FIN number</a>.</li>
-        <li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number.</li>
-        <li>At the<strong> libraries&rsquo; borrowing stations</strong> with your original NRIC, Birth Certificate or any of the compatible cards listed in our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_registration">membership guide</a>.</li>
-        </ul>
-        </li>
-        <li>To complete the process, key in your <strong>email address</strong> and your <strong>mobile number</strong>, and you will receive a one-time password (OTP) on your mobile phone.</li>
-        </ul>
-        </div>
-        </div>
+	    <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
+	    <div class="acc-body">
+	    <ul>
+	    <li>All library members, even children and babies, can have a myLibrary ID.</li>
+	    <li>Creating a myLibrary ID will only take a few minutes! You may create it:
+	    <ul>
+	    <li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your SingPass or NRIC / FIN number</a>.</li>
+	    <li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number.</li>
+	    <li>At the<strong> libraries&rsquo; borrowing stations</strong> with your original NRIC, Birth Certificate or any of the compatible cards listed in our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_registration">membership guide</a>.</li>
+	    </ul>
+	    </li>
+	    <li>To complete the process, key in your <strong>email address</strong> and your <strong>mobile number</strong>, and you will receive a one-time password (OTP) on your mobile phone.</li>
+	    </ul>
+	    </div>
+	    </div>
 
 <div>
 		<input type="radio" name="acc" id="acc14">
@@ -269,7 +269,7 @@ title: Library Membership and myLibrary ID
         <div class="acc-body">
         <p><strong>Online</strong></p>
         <ul>
-        <li>You can retrieve your User ID and reset your password <a href="https://account.nlb.gov.sg">here</a>.
+        <li>You can <a href="https://account.nlb.gov.sg">retrieve your User ID and reset your password</a>.
         <ul>
         <li>Sign in with your SingPass. The system will display your User ID and ask if you wish to reset your password.</li>
         <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
