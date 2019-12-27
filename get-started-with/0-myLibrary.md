@@ -65,6 +65,7 @@ title: Library Membership and myLibrary ID
     </div>
 </div>
 
+<div>
 <input type="radio" name="acc" id="acc5">
         <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
           <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration fees if you are a PR.</p>
