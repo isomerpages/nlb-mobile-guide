@@ -4,8 +4,6 @@ permalink: /parent/
 breadcrumb: Bond through Reading and Learning
 title: Bond through Reading and Learning
 ---
-There are many ways to bond with your loved ones through reading and learning! The infographic below is a great place to start.<br>
-
 ![An infographic with tips on how to bond through reading and learning.](/images/Parent.png)
 <a href="/images/Parent.png">Click to enlarge</a>
 
@@ -18,12 +16,10 @@ There are many ways to bond with your loved ones through reading and learning! T
 
 <body>
 
-
-<p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
-<p>For more information on how to use the Libby app, click <a href="/get-started-with/Libby/">here</a>.</p>
-   <p>Find out more about Tumblebook Library <a href="https://www.tumblebooklibrary.com/Help.aspx">here</a>.</p>
-<p>Find out more about Libby&rsquo;s 'Read-alongs' <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">here</a>.</p>
-	
+<p>Find out more about how to use the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
+<p>Find out more about how to use the <a href="/get-started-with/Libby/">Libby app</a>.</p>
+   <p>Find out more about <a href="https://www.tumblebooklibrary.com/Help.aspx">Tumblebook Library </a>.</p>
+<p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">Libby&rsquo;s 'Read-alongs'</a>.</p>
 <h2>More Tips</h2>
 <div class="acc-kontainer">          
 	<div>
@@ -62,6 +58,7 @@ There are many ways to bond with your loved ones through reading and learning! T
 			<p>In the Libby app, tap on Library -> Explore -> Guide: Kids and scroll down until you see 'I Can Read! Series Read-Alongs' and 'Read-Alongs'.</p>
 		</div>
     </div>
+
 
   <div>
         <input type="radio" name="acc" id="acc4">
