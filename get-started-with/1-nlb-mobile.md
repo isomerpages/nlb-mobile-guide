@@ -155,7 +155,7 @@ You can also easily check your account information, transact, search and access 
 
 <div class="acc-kontainer">          
 	<div>
-		<input type="radio" name="acc" id="acc11" checked>
+		<input type="radio" name="acc" id="acc11">
 		<label for="acc11">How do I read the eBooks or listen to the eAudiobooks that I have borrowed?</label>
 <div class="acc-body">
  <p>Here are the steps:</p>
