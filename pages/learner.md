@@ -4,8 +4,7 @@ permalink: /learner/
 breadcrumb: Learn
 title: Learn
 ---
-We offer different ways for you to learn in your own time, whether you want to develop skills, get that promotion, and/or pursue your passions. The infographic below is your starter kit:<br>
-![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)
+<a href="/images/Learner.png">![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)</a>
 <a href="/images/Learner.png">Click to enlarge</a>
 
 <head>
@@ -52,9 +51,9 @@ We offer different ways for you to learn in your own time, whether you want to d
 
 <body>
 
-<p>For more information on how to use the NLB Mobile app, click <a href="/get-started-with/nlb-mobile/">here</a>.</p>
-<p>To find out how to access eNewspapers and eMagazines on PressReader, click <a href="/get-started-with/PressReader/">here</a>.</p>
-<p>For more information on how to use the Libby app, click <a href="/get-started-with/Libby/">here</a>.</p>
+<p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
+<p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
+<p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
 <h3>I want to learn but I can't seem to find the time to do it! Do you have tips for me?</h3>
        <p>We recommend eAudiobooks as they allow you to multitask. You can learn something just by listening to eAudiobooks anytime, anywhere, whether you're stuck in traffic or doing chores. Just search for a subject you wish to explore and tap on 'audiobooks' underneath the search term to see what is available.</p>
         <p><img src="/images/Libby_screenshot_audiobooksearch.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">        
