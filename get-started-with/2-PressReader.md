@@ -99,8 +99,6 @@ title: PressReader
   </div>
 </div> 
 
-</div> <!--of class FAQ-section--> 
-
 <div class="FAQ-section" id="PressReaderLocalNews"> <!--of class FAQ-section--> 
 <h2>Reading Local Newspapers</h2>
 <div><!--div for each button-->
@@ -137,7 +135,7 @@ title: PressReader
 
 <div class="acc-body">
     <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger on the centre of app and drag down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
-    
+
 </div><!--close div for acc7 (question)-->
     </div><!--close div for acc body (answer)-->
 
@@ -161,5 +159,5 @@ title: PressReader
 		<div class="acc-body">
   <p>You can <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered. Sending us screenshots related to the issue(s) would help us assist you better!</p>
 </div></div>
-</div><!--close div for acc kontainer (div class)-->
+
 
