@@ -131,7 +131,7 @@ title: PressReader
 <h2>Troubleshooting</h2>
   <div><!--div for each button-->
 <input type="radio" name="acc" id="acc8">
-        <label for="acc8">I’m already at the library and connected to Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</button>
+        <label for="acc8">I’m already at the library and connected to Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
 
 <div class="acc-body">
     <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger on the centre of app and drag down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
