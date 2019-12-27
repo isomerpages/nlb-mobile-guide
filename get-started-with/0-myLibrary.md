@@ -125,207 +125,162 @@ title: Library Membership and myLibrary ID
            </div>
            </div>
 
-
-<div class="FAQ-section">
 <p>
     <a name="mylibrary"><h2>myLibrary ID</h2></a>
 </p>
-<div class ="FAQ-set">
-<button class="accordion">Why do I need a myLibrary ID? </button>
+<div class="acc-kontainer">          
+	<div>
+		<input type="radio" name="acc" id="acc11" checked>
+		<label for="acc11">Why do I need a myLibrary ID? </label>
+		<div class="acc-body">
+        <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a User ID and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
+        </div>
+        </div>
 
-<div class="panel">
-  <div class="panel-set">
-  <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a User ID and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
+  <div>
+        <input type="radio" name="acc" id="acc12">
+        <label for="acc12">What can I do with a myLibrary ID? </label>
+        <div class="acc-body">
+        <p>You need a myLibrary ID to enjoy these digital library services:</p>
+        <table style="border-collapse: collapse; width: 100%; height: 188px;" border="1">
+        <tbody>
+        <tr style="height: 17px;">
+        <td style="width: 30.3949%; height: 17px;">
+        <p><strong>Various online services</strong></p>
+        </td>
+        <td style="width: 69.6051%; height: 17px;">
+        <p>This includes:</p>
+        <ul>
+        <li>Checking your account</li>
+        <li>Accessing your loan history</li>
+        <li>Updating your contact details</li>
+        <li>Redeeming rewards and making reservations</li>
+        </ul>
+        </td>
+        </tr>
+        <tr style="height: 17px;">
+        <td style="width: 30.3949%; height: 17px;">
+        <p><strong>NLB Mobile app</strong></p>
+        </td>
+        <td style="width: 69.6051%; height: 17px;">
+        <p>The app lets you:</p>
+        <ul>
+        <li>Borrow books</li>
+        <li>Check your account</li>
+        <li>Pay fees/ fines</li>
+        <li>Redeem rewards, e.g. Book Bugs cards</li>
+        </ul>
+        </td>
+        </tr>
+        <tr style="height: 17px;">
+        <td style="width: 30.3949%; height: 17px;">
+        <p><strong>Borrow or read digital items</strong></p>
+        </td>
+        <td style="width: 69.6051%; height: 17px;">
+        <p>E.g. eBooks, eNewspapers, eMagazines</p>
+        </td>
+        </tr>
+        <tr style="height: 47px;">
+        <td style="width: 30.3949%; height: 47px;">
+        <p><strong>Access NLB's eResources</strong></p>
+        </td>
+        <td style="width: 69.6051%; height: 47px;">
+        <p>E.g. research databases and eLearning tutorial videos</p>
+        </td>
+        </tr>
+        <tr style="height: 45px;">
+        <td style="width: 30.3949%; height: 45px;">
+        <p><strong> Use the Multimedia Stations</strong></p>
+        </td>
+        <td style="width: 69.6051%; height: 45px;">
+        <p>These are located at libraries and you can use them to access the Internet and surf NLB&rsquo;s websites</p>
+        </td>
+        </tr>
+        <tr style="height: 45px;">
+        <td style="width: 30.3949%; height: 45px;">
+        <p><strong> Receive alerts&nbsp;</strong></p>
+        </td>
+        <td style="width: 69.6051%; height: 45px;">
+        <p>You will be alerted on loans, reservations, fees/fines and membership expiry (specifically for members who are foreigners), via SMS, email and/or the NLB Mobile app.</p>
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        <p>You may also use a myLibrary ID to:</p>
+        <ol>
+        <li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <a href="/images/NLB Mobile_Flowchart_OverDrive.png">here</a> to learn how to do this.</li>
+        <li><strong>Register for programmes.</strong></li>
+        </ol>
+        </div>
+        </div>
 
-</div></div>
-</div><!--close FAQ set-->
+	<div>
+		<input type="radio" name="acc" id="acc13">
+        <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
+        <div class="acc-body">
+        <ul>
+        <li>All library members, even children and babies, can have a myLibrary ID.</li>
+        <li>Creating a myLibrary ID will only take a few minutes! You may create it:
+        <ul>
+        <li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your SingPass or NRIC / FIN number</a>.</li>
+        <li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number.</li>
+        <li>At the<strong> libraries&rsquo; borrowing stations</strong> with your original NRIC, Birth Certificate or any of the compatible cards listed in our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_registration">membership guide</a>.</li>
+        </ul>
+        </li>
+        <li>To complete the process, key in your <strong>email address</strong> and your <strong>mobile number</strong>, and you will receive a one-time password (OTP) on your mobile phone.</li>
+        </ul>
+        </div>
+        </div>
 
-<div class ="FAQ-set">
-<button class="accordion">What can I do with a myLibrary ID? </button>
+<div>
+		<input type="radio" name="acc" id="acc14">
+        <label for="acc14">What do I need to take note of when creating my User ID and password? </label>
+        <div class="acc-body">
+        <ul>
+        <li>Your <strong>User ID</strong> must contain six to 20 alphanumeric characters. You cannot use special characters nor your NRIC number. Your User ID cannot be changed once created.</li>
+        <li>Your <strong>password</strong> must have eight to 24 characters, and include one letter and one number.</li>
+        </ul>
+        </div>
+        </div>
 
-<div class="panel">
-  <div class="panel-text">
-  <p>You need a myLibrary ID to enjoy these digital library services:</p>
-<table style="border-collapse: collapse; width: 100%; height: 188px;" border="1">
-<tbody>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;">
-<p><strong>Various online services</strong></p>
-</td>
-<td style="width: 69.6051%; height: 17px;">
-<p>This includes:</p>
-<ul>
-<li>Checking your account</li>
-<li>Accessing your loan history</li>
-<li>Updating your contact details</li>
-<li>Redeeming rewards and making reservations</li>
-</ul>
-</td>
-</tr>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;">
-<p><strong>NLB Mobile app</strong></p>
-</td>
-<td style="width: 69.6051%; height: 17px;">
-<p>The app lets you:</p>
-<ul>
-<li>Borrow books</li>
-<li>Check your account</li>
-<li>Pay fees/ fines</li>
-<li>Redeem rewards, e.g. Book Bugs cards</li>
-</ul>
-</td>
-</tr>
-<tr style="height: 17px;">
-<td style="width: 30.3949%; height: 17px;">
-<p><strong>Borrow or read digital items</strong></p>
-</td>
-<td style="width: 69.6051%; height: 17px;">
-<p>E.g. eBooks, eNewspapers, eMagazines</p>
-</td>
-</tr>
-<tr style="height: 47px;">
-<td style="width: 30.3949%; height: 47px;">
-<p><strong>Access NLB's eResources</strong></p>
-</td>
-<td style="width: 69.6051%; height: 47px;">
-<p>E.g. research databases and eLearning tutorial videos</p>
-</td>
-</tr>
-<tr style="height: 45px;">
-<td style="width: 30.3949%; height: 45px;">
-<p><strong> Use the Multimedia Stations</strong></p>
-</td>
-<td style="width: 69.6051%; height: 45px;">
-<p>These are located at libraries and you can use them to access the Internet and surf NLB&rsquo;s websites</p>
-</td>
-</tr>
-<tr style="height: 45px;">
-<td style="width: 30.3949%; height: 45px;">
-<p><strong> Receive alerts&nbsp;</strong></p>
-</td>
-<td style="width: 69.6051%; height: 45px;">
-<p>You will be alerted on loans, reservations, fees/fines and membership expiry (specifically for members who are foreigners), via SMS, email and/or the NLB Mobile app.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>You may also use a myLibrary ID to:</p>
-<ol>
-<li><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations. Click <a href="/images/NLB Mobile_Flowchart_OverDrive.png">here</a> to learn how to do this.</li>
-<li><strong>Register for programmes.</strong></li>
-</ol>
+<div>
+		<input type="radio" name="acc" id="acc15">
+        <label for="acc15">I can’t remember if I have a myLibrary ID. How can I check?</label>
+        <div class="acc-body">
+        <p><strong>Online</strong></p>
+        <ul>
+        <li>Click <a href="https://account.nlb.gov.sg">here</a> and:
+        <ul>
+        <li>Sign in with your SingPass. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
+        <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
+        </ul>
+        </li>
+        </ul>
+        <p><strong>At libraries</strong></p>
+        <ul>
+        <li>Go to any of the borrowing stations at the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
+        </ul>
+        </div>
+        </div>
 
-</div></div>
-</div><!--close FAQ set-->
-
-<div class ="FAQ-set">
-<button class="accordion">Who can create a myLibrary ID? How do I create one?</button>
-
-<div class="panel">
-  <div class="panel-text">
-  <ul>
-<li>All library members, even children and babies, can have a myLibrary ID.</li>
-<li>Creating a myLibrary ID will only take a few minutes! You may create it:
-<ul>
-<li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your SingPass or NRIC / FIN number</a>.</li>
-<li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number.</li>
-<li>At the<strong> libraries&rsquo; borrowing stations</strong> with your original NRIC, Birth Certificate or any of the compatible cards listed in our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_registration">membership guide</a>.</li>
-</ul>
-</li>
-<li>To complete the process, key in your <strong>email address</strong> and your <strong>mobile number</strong>, and you will receive a one-time password (OTP) on your mobile phone.</li>
-</ul>
-
-</div></div>
-</div><!--close FAQ set-->
-
-<div class ="FAQ-set">
-<button class="accordion">What do I need to take note of when creating my User ID and password?  </button>
-
-<div class="panel">
-  <div class="panel-text">
-  <ul>
-<li>Your <strong>User ID</strong> must contain six to 20 alphanumeric characters. You cannot use special characters nor your NRIC number. Your User ID cannot be changed once created.</li>
-<li>Your <strong>password</strong> must have eight to 24 characters, and include one letter and one number.</li>
-</ul>
-
-</div></div>
-</div><!--close FAQ set-->
-
-<div class ="FAQ-set">
-<button class="accordion">I can’t remember if I have a myLibrary ID. How can I check? </button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p><strong>Online</strong></p>
-<ul>
-<li>Click <a href="https://account.nlb.gov.sg">here</a> and:
-<ul>
-<li>Sign in with your SingPass. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-<li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-</ul>
-</li>
-</ul>
-<p><strong>At libraries</strong></p>
-<ul>
-<li>Go to any of the borrowing stations at the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-</ul>
-
-</div></div>
-</div><!--close FAQ set-->
-
-<div class ="FAQ-set">
-<button class="accordion">What should I do if I forget my User ID or password? </button>
-
-<div class="panel">
-  <div class="panel-text">
-  <p><strong>Online</strong></p>
-<ul>
-<li>You can retrieve your User ID and reset your password <a href="https://account.nlb.gov.sg">here</a>.
-<ul>
-<li>Sign in with your SingPass. The system will display your User ID and ask if you wish to reset your password.</li>
-<li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
-</ul>
-</li>
-</ul>
-<p><strong>At libraries</strong></p>
-<ul>
-<li>You can also retrieve your User ID and reset your password at any of the borrowing stations in the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
-</ul>
-  </div></div><!--close panel div-->
-  </div><!--close FAQ set-->
-</div><!--close FAQ-section-->
-
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight){
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-
-var acc = document.getElementsByClassName("accordion1");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight){
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-
-</script>
+<div>
+		<input type="radio" name="acc" id="acc16">
+        <label for="acc16">What should I do if I forget my User ID or password? </label>
+        <div class="acc-body">
+        <p><strong>Online</strong></p>
+        <ul>
+        <li>You can retrieve your User ID and reset your password <a href="https://account.nlb.gov.sg">here</a>.
+        <ul>
+        <li>Sign in with your SingPass. The system will display your User ID and ask if you wish to reset your password.</li>
+        <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
+        </ul>
+        </li>
+        </ul>
+        <p><strong>At libraries</strong></p>
+        <ul>
+        <li>You can also retrieve your User ID and reset your password at any of the borrowing stations in the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
+        </ul>
+        </div>
+        </div>
+  </div><!--close accordion style-->
 
