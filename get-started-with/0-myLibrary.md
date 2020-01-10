@@ -23,7 +23,6 @@ title: Library Membership and myLibrary ID
 		<li>the one-time registration fee (for PRs)</li>
 		<li>the annual fee (for foreigners)</li>
 	<p>To receive the waiver, sign up for library membership <b>at the libraries</b> instead of online.</p>
-</div>
 			
  <div>
         <input type="radio" name="acc" id="acc2">
