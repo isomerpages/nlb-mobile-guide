@@ -15,16 +15,16 @@ title: Library Membership and myLibrary ID
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
 		<label for="acc1">Can I sign up for library membership online?</label>
-		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you meet all the criteria below:</p>
-<ul>
-<li>You are a Singaporean or Permanent Resident (PR)</li>
-<li>You have a SingPass login ID and password</li>
-</ul>
+		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.
 <p>Do note that:</p>
 <ul>
 <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
-<li>If you are a PR and a student at an MOE school, you are eligible for a waiver on the one-time registration fee. To receive the waiver, sign up for library membership at the libraries instead of online.</li>
-</ul>
+<li>If you are a PR or a foreigner who is a student at an MOE school, you are eligible for a waiver on:
+	<ul>
+		<li>the one-time registration fee (for PRs)</li>
+		<li>the annual fee (for foreigners)</li>
+	</ul>
+	To receive the waiver, sign up for library membership <b>at the libraries</b> instead of online.
 		</div>
 	</div>
 
@@ -38,7 +38,7 @@ title: Library Membership and myLibrary ID
 </ul>
 <p>Do note that:</p>
 <ul>
-<li>If your child is a PR and a student at a MOE school, he/she is eligible for a waiver on the one-time registration fee. To receive the waiver, sign up for library membership at the libraries instead of online.
+<li>If your child is a PR and a student at a MOE school, he/she is eligible for a waiver on the one-time registration fee. To receive the waiver, sign up for library membership <b>at the libraries</b> instead of online.
 <ul>
 <li>If you have more than one child, you can choose to register just one child or all your children at the same time.</li>
 </ul>
@@ -84,13 +84,6 @@ title: Library Membership and myLibrary ID
         </ul>
         </div>
         </div>
-
-<div>
-		<input type="radio" name="acc" id="acc7"> 
-		<label for="acc7">I am a Foreigner with SingPass.  Can I sign up for library membership online?</label>
-		    <div class="acc-body"><p>No. The online registration service is currently open only to Singaporeans and PRs with SingPass. Please sign up at a Reservation Locker in any library (except library@Chinatown). For more information on what documents to bring, please refer to our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a>.</p>
-		    </div>
-		    </div>
 
 <div>
 		<input type="radio" name="acc" id="acc8">
