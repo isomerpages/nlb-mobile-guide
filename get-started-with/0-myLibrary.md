@@ -5,6 +5,12 @@ breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary ID
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
 
@@ -19,9 +25,11 @@ title: Library Membership and myLibrary ID
 <p>Do note that:</p>
 <ul>
 <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
-<li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:
-		<li>the one-time registration fee (for PRs)</li>
-		<li>the annual fee (for foreigners)</li>
+<li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:</li></ul>
+			<ul>
+				<li>the one-time registration fee (for PRs)</li>
+				<li>the annual fee (for foreigners)</li>
+			</ul>
 	<p>To receive the waiver, sign up for library membership <b>at the libraries</b> instead of online.</p>
 			
 		</div>
