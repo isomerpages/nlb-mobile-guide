@@ -63,6 +63,7 @@ title: Library Membership and myLibrary ID
 <ul>
 <li>SingPass login ID and password</li>
 <li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
+<li>[For foreigners] Debit/credit card to pay the one-time registration fee of $10.50 and the annual fee of $42.80</li>
 </ul>
     </div>
 </div>
