@@ -107,7 +107,10 @@ title: Library Membership and myLibrary ID
 <div>
 		<input type="radio" name="acc" id="acc9">
         <label for="acc9">I can’t remember if I am a library member. Can I check my library membership online? </label>
-         <div class="acc-body"><p>Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.
+         <div class="acc-body">
+		 <p>
+			 Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.
+		 </p>
 <p>Once you have signed in, the online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
 
 </div></div>
