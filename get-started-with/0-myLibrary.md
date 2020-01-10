@@ -22,11 +22,9 @@ title: Library Membership and myLibrary ID
 <li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:
 		<li>the one-time registration fee (for PRs)</li>
 		<li>the annual fee (for foreigners)</li>
-	</ul>
 	<p>To receive the waiver, sign up for library membership <b>at the libraries</b> instead of online.</p>
 </div>
-</div>
-
+			
  <div>
         <input type="radio" name="acc" id="acc2">
         <label for="acc2">Can I sign my child up for library membership online?</label>
