@@ -15,7 +15,7 @@ title: Library Membership and myLibrary ID
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
 		<label for="acc1">Can I sign up for library membership online?</label>
-		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.
+		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.</p>
 <p>Do note that:</p>
 <ul>
 <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
@@ -24,6 +24,9 @@ title: Library Membership and myLibrary ID
 		<li>the annual fee (for foreigners)</li>
 	<p>To receive the waiver, sign up for library membership <b>at the libraries</b> instead of online.</p>
 			
+		</div>
+	</div>
+	
  <div>
         <input type="radio" name="acc" id="acc2">
         <label for="acc2">Can I sign my child up for library membership online?</label>
