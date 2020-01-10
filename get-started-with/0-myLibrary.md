@@ -19,12 +19,13 @@ title: Library Membership and myLibrary ID
 <p>Do note that:</p>
 <ul>
 <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
-<li>If you are a PR or a foreigner who is a student at an MOE school, you are eligible for a waiver on:
+<li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:
 	<ul>
 		<li>the one-time registration fee (for PRs)</li>
 		<li>the annual fee (for foreigners)</li>
 	</ul>
 	To receive the waiver, sign up for library membership <b>at the libraries</b> instead of online.
+			</ul>
 		</div>
 	</div>
 
