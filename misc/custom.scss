@@ -387,7 +387,7 @@ $desktop: 960px + (2 * $gap) !default;
 	width: 100%;
 	color: white;
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 20px;
 	box-sizing: border-box;
 	z-index: 100;
 }
@@ -404,6 +404,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .acc-kontainer input:checked+label {
 	background-color: #3a1f6b;
+	font-size: 20px;
 }
 
 .acc-kontainer input:checked+label:before {
