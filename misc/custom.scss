@@ -388,6 +388,7 @@ $desktop: 960px + (2 * $gap) !default;
 	width: 100%;
 	color: white;
 	font-weight: 400;
+	font-size: 0;
 	box-sizing: border-box;
 	z-index: 100;
 }
