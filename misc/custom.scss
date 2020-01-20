@@ -414,6 +414,7 @@ $desktop: 960px + (2 * $gap) !default;
 .acc-kontainer input:checked~.acc-body {
 	height: auto;
 	color: black;
+	background-color: #dddddd;
 	font-size: 16px;
 	padding: 20px;
 }
