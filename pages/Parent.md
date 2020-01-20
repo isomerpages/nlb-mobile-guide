@@ -23,7 +23,7 @@ title: Bond through Reading and Learning
 <h2>More Tips</h2>
 <div class="acc-kontainer">          
 	<div>
-		<input type="radio" name="acc" id="acc1" checked>
+		<input type="radio" name="acc" id="acc1">
 		<label for="acc1"><i></i> It’s great that I can sign my child up to be an NLB member online! How do I do that?</label>
 		<div class="acc-body">
 			 <p>You can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
