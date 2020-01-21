@@ -34,7 +34,7 @@ info-sections:
     section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. 
     section-more-button: Install NLB Mobile
     section-more-button-url: https://qr.nlb.sg/nlbmobile
-    section-image-path: /images/Home_download.png
+    section-image-path: /images/home_download_210120.png
   - section-title: 
     section-subtitle: Read on the Go 
     section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to - even when you are on the go! You can also search for books, eBooks and audiovisual items simultaneously. Reserve items and bookmark your favourite titles. 
