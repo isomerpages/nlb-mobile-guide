@@ -5,8 +5,8 @@ breadcrumb: NLB Mobile
 title: NLB Mobile
 ---
 
-<a href="/images/NLB Mobile_Flowchart_OverDrive.png">![A flowchart describing how to borrow physical and digital items using the NLB Mobile app.](/images/NLB Mobile_Flowchart_OverDrive.png)</a>
-<a href="/images/NLB Mobile_Flowchart_OverDrive.png">Click to enlarge</a>
+<a href="/images/NLB_Mobile_Flowchart.png">![A flowchart describing how to borrow physical and digital items using the NLB Mobile app.](/images/NLB_Mobile_Flowchart.png)</a>
+<a href="/images/NLB_Mobile_Flowchart.png">Click to enlarge</a>
 
 <html>
 
