@@ -4,8 +4,8 @@ permalink: /learner/
 breadcrumb: Learn
 title: Learn
 ---
-<a href="/images/Learner.png">![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)</a>
-<a href="/images/Learner.png">Click to enlarge</a>
+<a href="/images/Learner_highres.png">![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)</a>
+<a href="/images/Learner_highres.png">Click to enlarge</a>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
