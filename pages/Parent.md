@@ -4,8 +4,8 @@ permalink: /parent/
 breadcrumb: Bond through Reading and Learning
 title: Bond through Reading and Learning
 ---
-<a href="/images/Parent.png">![An infographic with tips on how to bond through reading and learning.](/images/Parent.png)</a>
-<a href="/images/Parent.png">Click to enlarge</a>
+<a href="/images/Parent_highres.png">![An infographic with tips on how to bond through reading and learning.](/images/Parent.png)</a>
+<a href="/images/Parent_highres.png">Click to enlarge</a>
 
 <html>
 
