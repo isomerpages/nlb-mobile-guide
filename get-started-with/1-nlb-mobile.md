@@ -99,6 +99,35 @@ You can also easily check your account information, transact, search and access 
 </div>
 
 <div>
+		<input type="radio" name="acc" id="acc20">
+        <label for="acc20">When I try to log in, the app says “Profile already exists”. What do I do?</label>
+        <div class="acc-body">
+		<p>We are sorry that you are encountering this problem! Here are the steps.</p>
+		<p><b>If you are using an iPhone:</b></p>
+		<p>Go to your phone’s Settings menu.</p>
+		<p>Tap on <b>General -> Storage & iCloud Usage</b>.</p>
+		<p>In the top section (Storage), tap on "Manage Storage".</p>
+		<p>Select “NLB Mobile”.</p>
+		<p>Take a look at the entry for "Documents &amp; Data".&nbsp;</p>
+		<p>Tap on “Delete App”.</p>
+		<p>Head to the App Store to re-download it.</p>
+		<p>Try signing in again. It should work this time. If not, please take a screenshot of the error message and email it to enquiry@nlb.gov.sg.</p>
+		<p>
+  <br>
+</p>
+		<p><strong>If you are using an Android phone:&nbsp;</strong></p>
+		<p>Go to your phone’s Settings menu.</p>
+		<p>Select "Apps" or "Application manager" or "Applications".</p>
+		<p>Tap on “NLB Mobile”.&nbsp;</p>
+		<p>Tap on “Storage”.</p>
+		<p>Select “Clear Data”.</p>
+		<p>Select “Clear Cache”&nbsp;</p>
+		<p>Try signing in again. It should work this time. If not, please take a screenshot of the error message and email it to enquiry@nlb.gov.sg.</p>
+    </div>
+</div>
+
+
+<div>
 		<input type="radio" name="acc" id="acc5">
         <label for="acc5">What can I do if I have protected my app using the four-digit passcode but have forgotten the passcode?</label>
         <div class="acc-body">
@@ -120,7 +149,7 @@ You can also easily check your account information, transact, search and access 
 <div class="acc-body">
   <p>First, sign in with your myLibrary ID.</p> 
       <p>Next, tap on the camera icon on the top left corner of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item.</p>
-      <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, tap the “Show Barcode” icon in your account profile (at the top right corner of the NLB Mobile app). Your virtual membership card will appear. Scan the membership QR/barcode at the Borrowing Station to borrow the library items.</p>  
+      <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, tap the “eCard” icon (at the top right corner of the NLB Mobile app). Your virtual membership card will appear. Scan the membership QR code at the Borrowing Station to borrow the library items.</p>  
 </div></div>
 
 <div>
