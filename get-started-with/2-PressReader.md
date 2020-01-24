@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 permalink: /get-started-with/PressReader/
-breadcrumb: PressReader
-title: PressReader
+breadcrumb: Reading eMagazines and eNewspapers
+title: Reading eMagazines and eNewspapers
 ---
 
 <a href="/images/PressReader_Flowchart.png">![A flowchart describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_Flowchart.png)</a>
@@ -99,6 +99,7 @@ title: PressReader
   </div>
 </div> 
 
+<p>
 <div class="FAQ-section" id="PressReaderLocalNews"> <!--of class FAQ-section--> 
 <h2>Reading Local Newspapers</h2>
 <div><!--div for each button-->
@@ -126,6 +127,7 @@ title: PressReader
 </div><!--close div for acc7 (question)-->
     </div><!--close div for acc body (answer)-->
 
+<p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">
 <h2>Troubleshooting</h2>
   <div><!--div for each button-->
