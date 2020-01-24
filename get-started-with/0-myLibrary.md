@@ -21,7 +21,7 @@ title: Library Membership and myLibrary ID
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
 		<label for="acc1">Can I sign up for library membership online?</label>
-		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.</p>
+		<div class="acc-body"><p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass ID and password.</p>
 <p>Do note that:</p>
 <ul>
   <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
@@ -61,9 +61,8 @@ title: Library Membership and myLibrary ID
         <label for="acc3">What do I need to sign up for library membership online?</label>
         <div class="acc-body"><p>You will need a:</p>
 <ul>
-<li>SingPass login ID and password</li>
-<li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
-<li>[For foreigners] Debit/credit card to pay the one-time registration fee of $10.50 and the annual fee of $42.80</li>
+<li>SingPass ID and password</li>
+<li>[For PRs/foreigners] Debit/credit card to pay the registration and/or membership fee(s)</li>
 </ul>
     </div>
 </div>
@@ -78,7 +77,7 @@ title: Library Membership and myLibrary ID
 <div>
 <input type="radio" name="acc" id="acc5">
         <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
-          <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration fees if you are a PR or a foreigner.</p>
+          <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration and/or membership fee(s) if you are a PR or a foreigner.</p>
           <p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
           </div>
           </div>
