@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 permalink: /get-started-with/Libby/
-breadcrumb: Libby
+breadcrumb: Reading eBooks and eAudiobooks
 title: Reading eBooks and eAudiobooks
 ---
 
@@ -54,7 +54,7 @@ title: Reading eBooks and eAudiobooks
 
 </div></div>
 
-
+<p>
 <div class="FAQ-section" id="LibbyVsOverDrive">  
   <h2>Libby versus OverDrive</h2>
 
@@ -62,9 +62,9 @@ title: Reading eBooks and eAudiobooks
 		<input type="radio" name="acc" id="acc5">
         <label for="acc5">What is the difference between NLB Mobile, OverDrive app and Libby?</label>
         <div class="acc-body">
-  <p>NLB Mobile, OverDrive and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks. They are hosted on third-party platforms such as OverDrive.</p>
+  <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks.</p>
 <p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
-<p><strong>Libby </strong>is a new app by OverDrive. It also lets you borrow and download eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
+<p><strong>Libby </strong>is an app by a third-party platform, OverDrive. It also lets you borrow and download NLB's eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
   </div>
   </div>
   
@@ -110,8 +110,7 @@ title: Reading eBooks and eAudiobooks
   <p>“Skip the Line” is a feature that allows you to borrow popular digital titles immediately, instead of joining a long reservations list. “Skip the Line” copies have special rules:</p>
 <ul>
   <li>Unlike other copies which you can borrow for 21 days, “Skip the Line” copies expire after only seven days. This is to allow more people to access these popular books.</li>
-  <li>You can only borrow one “Skip the Line” title at any one time, regardless of how many eBooks / eAudiobooks you currently have on loan. To borrow another “Skip the Line” title, you must first return your “Skip the Line” copy. Read 
-    <a href="http://eresources.nlb.gov.sg/main/Help/Overdrive#libby_app" style="user-select: auto; font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">this article</a> to find out how to return titles earlier.
+	<li>You can only borrow <b>one</b> “Skip the Line” title at any one time, regardless of how many eBooks / eAudiobooks you currently have on loan. To borrow another “Skip the Line” title, you must first return your “Skip the Line” copy. To return it, select "Shelf" at the bottom right of the screen. Then, tap on the square icon next to your title and select "Return Early".
   </li>
   <li>You cannot renew a “Skip the Line” loan.&nbsp;</li>
 </ul>
@@ -155,9 +154,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
 
 <div>
 		<input type="radio" name="acc" id="acc18">
-        <label for="acc18">Can I browse / borrow “Skip the Line” titles on NLB Mobile or <a href="www.nlb.overdrive.com">nlb.overdrive.com</a>?</label>
+        <label for="acc18">Can I browse / borrow “Skip the Line” titles on NLB Mobile or nlb.overdrive.com?</label>
         <div class="acc-body">
-  <p>No. Currently, you can only browse / borrow “Skip the Line” titles using Libby.</p>
+  <p>No. Currently, you can only browse / borrow “Skip the Line” titles using the Libby app.</p>
   </div>
 </div>
 <p>
@@ -169,7 +168,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <div class="acc-body">
 <p>Format availability for eBooks is subject to the negotiations between OverDrive and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
 <p><strong>Kindle</strong>: Currently, Kindle is not supported but do check this page again for updates.</p>
-<p><strong>Kobo</strong>: Yes, you can access NLB eBooks directly, if you have any of the following models:&nbsp;</p>
+		<p><strong>Kobo</strong>: Yes, you can access NLB eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
 <ul>
   <li>Kobo Libra H2O,&nbsp;</li>
   <li>Forma,&nbsp;</li>
@@ -178,10 +177,10 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <li>Aura H2O Edition 2, or&nbsp;</li>
   <li>Clara HD devices.</li>
 </ul>
-<p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive on these Kobo devices to read NLB eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
+<p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
   <a href="https://help.overdrive.com/en-us/2194.htm">Read this article</a> for a step-by-step guide on how to borrow OverDrive ebooks on your Kobo device.
 </p>
-<p>For earlier models of Kobo eReaders such as those below, you will need to transfer NLB eBooks from a computer using the free Adobe Digital Editions software:</p>
+<p>For older models of Kobo eReaders such as those below, you will need to transfer NLB's eBooks from a computer using the free Adobe Digital Editions software:</p>
 <ul>
   <li>Kobo Aura</li>
   <li>Touch 2.0</li>
@@ -194,19 +193,20 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>iii. Download an EPUB or PDF eBook to ADE from your library’s digital collection. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
-  <a href="https://help.overdrive.com/en-us/0047.html">what to do if your ereader is not detected by ADE</a>.&nbsp;
+  <a href="https://help.overdrive.com/en-us/0047.html">what to do if your eReader is not detected by ADE</a>.&nbsp;
 </p>
 <p><strong>Nook</strong>: NLB currently does not purchase and support eBooks in the Nook format as it is not officially available to the Singapore market.&nbsp;</p>
 <p><strong>Apple Books</strong>: Currently, Apple Books is not supported but do check this page again for updates.</p>
 <p><strong>Google Play Books</strong>: Currently, Google Play Books is not supported but do check this page again for updates.</p>
 <p><strong>Adobe Digital Editions</strong>: Yes, you can. Read this article on 
-  <a href="https://help.overdrive.com/en-us/0005.html">how to transfer eBooks to an ereader using Adobe Digital Editions</a>.
+  <a href="https://help.overdrive.com/en-us/0005.html">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
 </p>
 <p>
   <br>
 </p>
 </div></div>
 
+<p>
 <div class="FAQ-section" id="LibbyTroubleshoot">
   <h2>Troubleshooting</h2>
 <div>
