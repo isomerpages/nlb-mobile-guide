@@ -5,7 +5,7 @@ breadcrumb: Libby
 title: Libby
 ---
 
-![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_gif_WS.mp4)
+![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_gif_WS.gif)
 
 <p>Libby is the one-tap reading app by OverDrive that allows you to enjoy downloaded eBooks / eAudiobooks offline.</p>
 
