@@ -64,7 +64,7 @@ title: Reading eBooks and eAudiobooks
         <div class="acc-body">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks.</p>
 <p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
-<p><strong>Libby </strong>is an app by a third-party platform, OverDrive. It also lets you borrow and download NLB's eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
+<p><strong>Libby </strong>is a third-party app by OverDrive. It also lets you borrow and download NLB's eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
   </div>
   </div>
   
@@ -164,11 +164,11 @@ eBooks / eAudiobooks you currently have on loan.</p>
   
 <div>
 		<input type="radio" name="acc" id="acc9">
-        <label for="acc9">Can I read NLB eBooks using Kindle / Kobo / Nook / Apple Books / Google Play Books / Adobe Digital Editions?</label>
+        <label for="acc9">Can I read NLB's eBooks using Kindle / Kobo / Nook / Apple Books / Google Play Books / Adobe Digital Editions?</label>
         <div class="acc-body">
 <p>Format availability for eBooks is subject to the negotiations between OverDrive and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
 <p><strong>Kindle</strong>: Currently, Kindle is not supported but do check this page again for updates.</p>
-		<p><strong>Kobo</strong>: Yes, you can access NLB eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
+		<p><strong>Kobo</strong>: Yes, you can access NLB's eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
 <ul>
   <li>Kobo Libra H2O,&nbsp;</li>
   <li>Forma,&nbsp;</li>
@@ -186,7 +186,6 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <li>Touch 2.0</li>
   <li>Glo</li>
 </ul>
-<p>For older Kobo eReaders, such as Kobo Aura, Touch 2.0 or Glo, you have to use a free software, Adobe Digital Editions, to transfer the eBooks from a computer.&nbsp;</p>
 <p>Here are the steps to do so:</p>
 <p>i. Connect your eReader to your computer</p>
 <p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer</p>
