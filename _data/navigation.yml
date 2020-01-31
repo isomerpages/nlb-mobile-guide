@@ -6,28 +6,26 @@
 
 - title: Contact Us
   url: /contact-us/
-- title: Left Nav One
-  url: /left-nav-one/sub-page-A/
+
+- title: Get Started With...
+  url: /get-started-with/NLB-Mobile/
   sub-links:
-  - title: Sub Page A
-    url: /left-nav-one/sub-page-A/
-  - title: Sub Page B
-    url: /left-nav-one/sub-page-B/
-- title: Left Nav Two
-  url: /left-nav-two/sub-page-C/
-  sub-links:
-  - title: Sub Page C
-    url: /left-nav-two/sub-page-C/
-  - title: Sub Page D
-    url: /left-nav-two/sub-page-D/
-- title: Resource Room
-  url: /resource-room/
-  sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
+  - title: Library Membership and myLibrary ID 
+    url: /get-started-with/myLibrary/
+  - title: NLB Mobile
+    url: /get-started-with/nlb-mobile/
+  - title: Reading eMagazines and eNewspapers
+    url: /get-started-with/PressReader/
+  - title: Reading eBooks and eAudiobooks
+    url: /get-started-with/Libby/
+#- title: Resource Room
+#  url: /resource-room/
+#  sub-links:
+#  - title: All
+#    url: /resource-room/
+#  - title: Subcategory A
+#    url: /resource-room/subcategory-A/
+#  - title: Subcategory B
+#  url: /resource-room/subcategory-B/
+#  - title: Subcategory C
+#    url: /resource-room/subcategory-C/
