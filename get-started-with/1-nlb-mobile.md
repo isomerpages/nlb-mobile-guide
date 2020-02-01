@@ -4,9 +4,8 @@ permalink: /get-started-with/nlb-mobile/
 breadcrumb: NLB Mobile
 title: NLB Mobile
 ---
-
-<a href="/images/NLB_Mobile_Flowchart.png">![A flowchart describing how to borrow physical and digital items using the NLB Mobile app.](/images/NLB_Mobile_Flowchart.png)</a>
-<a href="/images/NLB_Mobile_Flowchart.png">Click to enlarge</a>
+<h2>How to Borrow eBooks using the NLB Mobile app</h2>
+<p><a href="/images/NLB_Mobile_Flowchart.png">![An animated GIF describing how to borrow digital items using the NLB Mobile app.](/images/NLBMobile_BorroweBooks_flowchart_animatedGIF.gif)</a></p>
 
 <html>
 
