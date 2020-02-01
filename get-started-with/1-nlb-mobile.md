@@ -6,7 +6,7 @@ title: NLB Mobile
 ---
 <h2>How to Borrow Physical Items using the NLB Mobile app</h2>
 <a href="/images/NLB_Mobile_Flowchart.png">![An animated GIF describing how to borrow physical items using the NLB Mobile app.](/images/NLBMobile_BorrowPhysical_flowchart_animatedGIF.gif)</a>
-<p>
+
 <h2>How to Borrow eBooks using the NLB Mobile app</h2>
 <a href="/images/NLB_Mobile_Flowchart.png">![An animated GIF describing how to borrow digital items using the NLB Mobile app.](/images/NLBMobile_BorroweBooks_flowchart_animatedGIF.gif)</a>
 
