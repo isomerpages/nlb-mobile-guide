@@ -5,9 +5,11 @@ breadcrumb: Reading eBooks and eAudiobooks
 title: Reading eBooks and eAudiobooks
 ---
 
-<p>Our eBook and eAudiobook collection allows you to read or learn anytime, anywhere. There are two apps that let you access the entire library from your smartphone. The NLB Mobile app allows you to read or listen to eBooks / eAudiobooks online. To download eBooks / eAudiobooks so that you can enjoy them even without an internet connection, use the Libby app.</p>
+<p>Our eBook and eAudiobook collection allows you to read or learn anytime, anywhere. There are two apps that let you access the entire library from your smartphone. The <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a> allows you to read or listen to eBooks / eAudiobooks online. To download eBooks / eAudiobooks so that you can enjoy them even without an internet connection, use the Libby app.</p>
+<p>Download the Libby app from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby">Google Play</a> now.</p>
 
-![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_gif_WS.gif)
+![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/
+Libby_flowchart_animatedGIF.gif)
 
   <h2>Getting Started with Libby</h2>
 <div class="acc-kontainer"><!--accordion-->          
@@ -60,7 +62,7 @@ title: Reading eBooks and eAudiobooks
 
 <div>
 		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">What is the difference between NLB Mobile, OverDrive app and Libby?</label>
+        <label for="acc5">What is the difference between NLB Mobile and Libby?</label>
         <div class="acc-body">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks.</p>
 <p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
