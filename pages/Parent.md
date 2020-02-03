@@ -63,7 +63,7 @@ title: Bond through Reading and Learning
         <input type="radio" name="acc" id="acc4">
         <label for="acc4"><i></i>I noticed that you offer a few types of interactive eBooks. What is the difference between the eBooks with narration in Libby (“Read-alongs”) and the animated picture books in Tumblebook Library?</label>
         <div class="acc-body">
-			<p>Both types of interactive eBooks feature professionally-recorded narration that play along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the 'Read-alongs' in Libby are more like eBooks with the words highlighted as they are read.</p>
+			<p>Both types of interactive eBooks feature professionally-recorded narration that plays along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the 'Read-alongs' in Libby are more like eBooks with the words highlighted as they are read.</p>
 			 <p>Find out more about <a href="https://www.tumblebooklibrary.com/Help.aspx">Tumblebook Library</a>.</p>
 <p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">Libby&rsquo;s 'Read-alongs'</a>.</p>
    	</div>

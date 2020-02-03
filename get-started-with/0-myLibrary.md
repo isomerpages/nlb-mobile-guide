@@ -68,13 +68,6 @@ title: Library Membership and myLibrary ID
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc4">
-        <label for="acc4">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</label>
-         <div class="acc-body"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is not required to complete the registration. </p>
-    </div>
-</div>
-
-<div>
 <input type="radio" name="acc" id="acc5">
         <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
           <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration and/or membership fee(s) if you are a PR or a foreigner.</p>

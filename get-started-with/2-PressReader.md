@@ -5,8 +5,7 @@ breadcrumb: Reading eMagazines and eNewspapers
 title: Reading eMagazines and eNewspapers
 ---
 
-<a href="/images/PressReader_Flowchart.png">![A flowchart describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_Flowchart.png)</a>
-<a href="/images/PressReader_Flowchart.png">Click to enlarge</a>
+<a href="/images/PressReader_Flowchart.png">![An animated GIF describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)</a>
 
 <p>PressReader is an international digital newsstand that lets you read over 7,000 of the world’s leading newspapers and magazines from more than 100 countries. These include international newspapers such as <i>The Washington Post, The Guardian, Bloomberg Businessweek</i>  (Asia), and local publications such as <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>.</p>
 <div class="FAQ-section" id="PressReaderStart"> 
@@ -71,7 +70,7 @@ title: Reading eMagazines and eNewspapers
         <label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary downloads of eNewspapers and eMagazines?</label>
 
 <div class="acc-body">
-  <p>To confirm this, go to the &lsquo;Browse&rsquo; tab and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
+  <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
 <table style="height: 170px; width: 170px;">
 <tbody><tr>
 <td style="height: 150px; width: 150px;"><img src="/images/Pressreader_cup.png" /></td>
@@ -87,7 +86,7 @@ title: Reading eMagazines and eNewspapers
         <label for="acc5">Will I incur any costs when I download the eNewspapers and eMagazines on the PressReader mobile app?</label>
 
 <div class="acc-body">
-  <p>No, you will not be charged for the eNewspapers and eMagazines subscribed by NLB. (Do note that if you download the publications using your mobile data plan, you may incur charges from your telco for the data used.)</p>
+  <p>No, you will not be charged for the eNewspapers and eMagazines which NLB has subscribed to. (Do note that if you download the publications using your mobile data plan, you may incur charges from your telco for the data used.)</p>
   </div>
 </div> 
 
@@ -135,7 +134,7 @@ title: Reading eMagazines and eNewspapers
         <label for="acc8">I’m already at the library and connected to Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
 
 <div class="acc-body">
-    <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger on the centre of app and drag down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
+    <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger at the centre of the screen and drag down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
 
 </div><!--close div for acc7 (question)-->
     </div><!--close div for acc body (answer)-->
