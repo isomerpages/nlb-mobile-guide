@@ -8,10 +8,11 @@ title: Reading eMagazines and eNewspapers
 <a href="/images/PressReader_Flowchart.png">![An animated GIF describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)</a>
 
 <h2>PressReader</h2> 
+
 An **international** digital newsstand on the go:
 
 - Current issues
-- Over 7,000 of the world’s leading newspapers and magazines
+- Over 7,000 of the world’s leading publications
 - Over 100 countries
 - International newspapers, e.g. <i>The Washington Post, The Guardian, Bloomberg Businessweek</i>  (Asia)
 - Local publications, e.g. <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i></p>
