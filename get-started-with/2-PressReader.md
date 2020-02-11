@@ -15,7 +15,7 @@ An **international** digital newsstand on the go:
 - Over 7,000 of the world’s leading publications
 - Over 100 countries
 - International newspapers, e.g. <i>The Washington Post, The Guardian, Bloomberg Businessweek</i>  (Asia)
-- Local publications, e.g. <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i></p>
+- Local publications, e.g. <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>
 
 <div class="FAQ-section" id="PressReaderStart"> 
   <h2>Getting Started</h2> 
