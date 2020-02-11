@@ -19,10 +19,15 @@ title: NLB Mobile
 <body>
 
 <p><h2>About NLB Mobile</h2></p>
- <p>NLB Mobile is an app that gives library members access to our digital services. With this app, you can conveniently borrow library materials and read eBooks, eMagazines and eNewspapers as well as listen to eAudiobooks from anywhere.<p>
+ <p>Your personal library, anywhere, anytime:
+     <ul>
+     <li>Read eBooks and listen to audiobooks online</li>
+     <li>Access eMagazines and eNewspapers</li>
+     <li>Borrow physical items using your mobile device</li>
+     <li>Take online courses</li>
+     <li>Check the accounts of you and your family</li>
+</ul>
 
-You can also easily check your account information, transact, search and access eLearning courses anytime you want. 
-</p>
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
 <div class="acc-kontainer">          
 	<div>
