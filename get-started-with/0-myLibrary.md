@@ -8,7 +8,6 @@ title: Library Membership and myLibrary ID
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body><p>
 <h2>myLibrary ID</h2>
 A user ID for library members that lets you:
 <ul>
@@ -18,7 +17,7 @@ A user ID for library members that lets you:
 <li>Borrow physical items using your mobile device</li>
 <li>Check the accounts of you and your family</li>
 </ul>
-<br>...and much more!</br>
+<br>...and much more!
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p>
@@ -72,6 +71,13 @@ A user ID for library members that lets you:
 <li>SingPass ID and password</li>
 <li>[For PRs/foreigners] Debit/credit card to pay the registration and/or membership fee(s)</li>
 </ul>
+    </div>
+</div>
+
+<div>
+		<input type="radio" name="acc" id="acc4">
+        <label for="acc4">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</label>
+         <div class="acc-body"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is <u>not</u> required to complete the registration <b>if you use your SingPass</b> instead of NRIC to sign up. </p>
     </div>
 </div>
 
