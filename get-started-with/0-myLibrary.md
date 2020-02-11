@@ -11,12 +11,22 @@ title: Library Membership and myLibrary ID
 
 <body>
 
-<p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
-<p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
+<h2>myLibrary ID</h2>
 
+A user ID for library members that lets you:
+
+- Borrow eBooks and audiobooks 
+- Read eMagazines and eNewspapers 
+- Take online courses
+- Borrow physical items using your mobile device
+- Check the accounts of you and your family
+
+...and much more!
+
+<p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
+<p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p>
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
-
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
@@ -33,10 +43,11 @@ title: Library Membership and myLibrary ID
   </li>
 </ul>
 <p>To receive the waiver, sign up for library membership <strong>at the libraries</strong> instead of online.</p>
-			
+
+
 		</div>
 	</div>
-	
+
  <div>
         <input type="radio" name="acc" id="acc2">
         <label for="acc2">Can I sign my child up for library membership online?</label>
