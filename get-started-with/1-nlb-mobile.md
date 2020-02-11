@@ -23,8 +23,9 @@ title: NLB Mobile
      <ul>
      <li>Read eBooks and listen to audiobooks online</li>
      <li>Access eMagazines and eNewspapers</li>
-     <li>Borrow physical items using your mobile device</li>
+     <li>Search for both online and physical resources to borrow</li>
      <li>Take online courses</li>
+     <li>Borrow physical items using your mobile device</li>
      <li>Check the accounts of you and your family</li>
 </ul>
 
