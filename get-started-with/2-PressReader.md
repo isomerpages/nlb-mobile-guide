@@ -7,7 +7,7 @@ title: Reading eMagazines and eNewspapers
 
 <a href="/images/PressReader_Flowchart.png">![An animated GIF describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)</a>
 
-<h2>PressReader</h2> 
+<h2>About PressReader</h2> 
 
 An **international** digital newsstand on the go:
 
