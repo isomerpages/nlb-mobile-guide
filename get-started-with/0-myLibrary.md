@@ -8,20 +8,17 @@ title: Library Membership and myLibrary ID
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-
-<body>
-
+<body><p>
 <h2>myLibrary ID</h2>
-
 A user ID for library members that lets you:
-
-- Borrow eBooks and audiobooks 
-- Read eMagazines and eNewspapers 
-- Take online courses
-- Borrow physical items using your mobile device
-- Check the accounts of you and your family
-
-...and much more!
+<ul>
+<li>Borrow eBooks and audiobooks</li>
+<li>Read eMagazines and eNewspapers</li>
+<li>Take online courses</li>
+<li>Borrow physical items using your mobile device</li>
+<li>Check the accounts of you and your family</li>
+</ul>
+<br>...and much more!</br>
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p>
