@@ -4,7 +4,7 @@ permalink: /get-started-with/Libby/
 breadcrumb: Reading eBooks and eAudiobooks
 title: Reading eBooks and eAudiobooks
 ---
-<h2>Two Ways to Read Anytime, Anywhere</i></h2>
+<h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
 <li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
 <li>Want to read even when offline? Use the Libby app</li>
@@ -12,30 +12,34 @@ title: Reading eBooks and eAudiobooks
 
 <p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby">Google Play</a> now.</p>
 
+<h2>How to Download eBooks and eAudiobooks with Libby</h2>
+
 ![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/
 Libby_flowchart_animatedGIF.gif)
 
   <h2>Libby versus NLB Mobile</h2>
+<div class="acc-kontainer"><!--accordion-->          
+
 <div>
-		<input type="radio" name="acc" id="acc5">
+		<input type="radio" name="acc" id="acc5"><!--question 1-->
         <label for="acc5">What is the difference between Libby and NLB Mobile?</label>
-        <div class="acc-body">
+        <div class="acc-body"><!--answer for question 1-->
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks.</p>
 <p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
 <p><strong>Libby </strong>is a third-party app by OverDrive. It also lets you borrow and download NLB's eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
-  </div>
-  </div>
-
-  <h2>Getting Started with Libby</h2>
-<div class="acc-kontainer"><!--accordion-->          
-	<div>
-		<input type="radio" name="acc" id="acc1"><!--question 1-->
-		<label for="acc1">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID'? </label>
-
-<div class="acc-body"><!--answer for question 1-->
-  <p>Your 'User ID' refers to your NLB myLibrary ID. </p>
 </div><!--close div for acc1 (question)-->
 </div><!--close div for acc-body (answer)-->
+
+  <h2>Getting Started with Libby</h2>
+<div class="acc-kontainer">          
+	<div>
+		<input type="radio" name="acc" id="acc1">
+		<label for="acc1">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID'? </label>
+
+<div class="acc-body">
+  <p>Your 'User ID' refers to your NLB myLibrary ID. </p>
+</div>
+</div>
 
  <div>
         <input type="radio" name="acc" id="acc2">
