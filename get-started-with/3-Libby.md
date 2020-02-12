@@ -4,12 +4,27 @@ permalink: /get-started-with/Libby/
 breadcrumb: Reading eBooks and eAudiobooks
 title: Reading eBooks and eAudiobooks
 ---
+<h2>Two Ways to Read Anytime, Anywhere</i></h2>
+<ul>
+<li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
+<li>Want to read even when offline? Use the Libby app</li>
+</ul>
 
-<p>Our eBook and eAudiobook collection allows you to read or learn anytime, anywhere. There are two apps that let you access the entire library from your smartphone. The <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a> allows you to read or listen to eBooks / eAudiobooks online. To download eBooks / eAudiobooks so that you can enjoy them even without an internet connection, use the Libby app.</p>
-<p>Download the Libby app from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby">Google Play</a> now.</p>
+<p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby">Google Play</a> now.</p>
 
 ![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/
 Libby_flowchart_animatedGIF.gif)
+
+  <h2>Libby versus NLB Mobile</h2>
+<div>
+		<input type="radio" name="acc" id="acc5">
+        <label for="acc5">What is the difference between Libby and NLB Mobile?</label>
+        <div class="acc-body">
+  <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks.</p>
+<p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
+<p><strong>Libby </strong>is a third-party app by OverDrive. It also lets you borrow and download NLB's eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
+  </div>
+  </div>
 
   <h2>Getting Started with Libby</h2>
 <div class="acc-kontainer"><!--accordion-->          
@@ -19,7 +34,6 @@ Libby_flowchart_animatedGIF.gif)
 
 <div class="acc-body"><!--answer for question 1-->
   <p>Your 'User ID' refers to your NLB myLibrary ID. </p>
-
 </div><!--close div for acc1 (question)-->
 </div><!--close div for acc-body (answer)-->
 
@@ -34,10 +48,9 @@ Libby_flowchart_animatedGIF.gif)
  <div>
 		<input type="radio" name="acc" id="acc3">
         <label for="acc3">Is there a device limit for Libby?</label>
-        
+
         <div class="acc-body">
   <p>There is currently no limit to the number of devices that you can use to sign in to Libby.</p>
-
 </div></div>
 
 <div>
@@ -60,16 +73,6 @@ Libby_flowchart_animatedGIF.gif)
 <div class="FAQ-section" id="LibbyVsOverDrive">  
   <h2>Libby versus OverDrive</h2>
 
-<div>
-		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">What is the difference between NLB Mobile and Libby?</label>
-        <div class="acc-body">
-  <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks.</p>
-<p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
-<p><strong>Libby </strong>is a third-party app by OverDrive. It also lets you borrow and download NLB's eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
-  </div>
-  </div>
-  
 <div>
 		<input type="radio" name="acc" id="acc6">
         <label for="acc6">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / eAudiobook?</label>
@@ -163,7 +166,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div>
 <p>
   <h2>Compatibility with eReaders / apps like Kindle, Kobo, Apple Books</h2>
-  
+
 <div>
 		<input type="radio" name="acc" id="acc9">
         <label for="acc9">Can I read NLB's eBooks using Kindle / Kobo / Nook / Apple Books / Google Play Books / Adobe Digital Editions?</label>
@@ -213,7 +216,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <div>
 		<input type="radio" name="acc" id="acc10">
         <label for="acc10">Can I read in landscape mode on my phone using Libby?</label>
-        
+
         <div class="acc-body">
   <p>For regular eBooks in Libby, OverDrive has not settled on a landscape reading experience on small screens that meet their standard. These books are always presented in portrait mode on small screens. For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
