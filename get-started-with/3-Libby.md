@@ -158,7 +158,7 @@ Libby_flowchart_animatedGIF.gif)
 		<input type="radio" name="acc" id="acc17">
         <label for="acc17">Does my “Skip the Line” loan contribute to my loan quota?</label>
         <div class="acc-body">
-  <p>Yes, it contributes to your loan quota (i.e. 16 eBooks/eAudiobooks).</p><p>Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
+  <p>Yes, it contributes to your loan quota (i.e. 16 eBooks/eAudiobooks).</p><p class="end-note">Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
 eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 </div>
@@ -224,7 +224,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc10">Can I read in landscape mode on my phone using Libby?</label>
 
         <div class="acc-body">
-  <p>Regular eBooks are always presented in portrait mode on small screens. This is because OverDrive has not settled on a landscape reading experience on small screens that meet their standard. For picture books, landscape mode is usually available regardless of screen size.</p>
+  <p>Regular eBooks are always presented in portrait mode on small screens. For picture books, landscape mode is usually available regardless of screen size.</p><p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p>
   </div></div>
 
 <div>
