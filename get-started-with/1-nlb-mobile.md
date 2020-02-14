@@ -4,6 +4,7 @@ permalink: /get-started-with/nlb-mobile/
 breadcrumb: NLB Mobile
 title: NLB Mobile
 ---
+![alt text](/images/NLB_Mobile_Flowchart.png)
 <h2>About NLB Mobile</h2>
  <p>Your personal library, anywhere, anytime:
      <ul>
@@ -18,7 +19,7 @@ title: NLB Mobile
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
 <h2>How to Borrow Physical Items using the NLB Mobile app</h2>
 <p><a href="/images/NLB_Mobile_Flowchart.png">![How to borrow physical items with the NLB Mobile app](/images/NLBMobile_BorrowPhysical_flowchart_animatedGIF.gif)</a></p>
-![alt text](/images/NLB_Mobile_Flowchart.png)
+
 
 <h2>How to Borrow eBooks using the NLB Mobile app</h2>
 <p><a href="/images/NLB_Mobile_Flowchart.png">![How to borrow digital items with the NLB Mobile app](/images/NLBMobile_BorroweBooks_flowchart_animatedGIF.gif)</a></p>
