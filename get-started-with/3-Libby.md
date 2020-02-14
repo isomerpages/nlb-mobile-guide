@@ -46,7 +46,7 @@ Libby_flowchart_animatedGIF.gif)
         <label for="acc2">Can I use more than one library card or cards from different libraries in Libby?</label>
         <div class="acc-body">
 		<p>Yes, you can! </p>
-		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform).Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p></p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
+		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
 
   <h2>Different Devices</h2>
@@ -158,7 +158,7 @@ Libby_flowchart_animatedGIF.gif)
 		<input type="radio" name="acc" id="acc17">
         <label for="acc17">Does my “Skip the Line” loan contribute to my loan quota?</label>
         <div class="acc-body">
-  <p>Yes, it contributes to your loan quota (i.e. 16 eBooks/eAudiobooks).</p><p class="end-note">Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
+  <p>Yes, it contributes to your loan quota (i.e. 16 eBooks/ eAudiobooks).</p><p class="end-note">Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
 eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 </div>
