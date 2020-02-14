@@ -380,12 +380,12 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .acc-kontainer label {
-	background-color: #5C2FAE;
-	border-bottom: 1px solid white;
+	background-color: #ffff99;
+	border-bottom: 2px solid white;
 	display: block;
 	padding: 15px;
 	width: 100%;
-	color: white;
+	color: #111111;
 	font-weight: 400;
 	font-size: 20px;
 	box-sizing: border-box;
@@ -403,7 +403,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .acc-kontainer input:checked+label {
-	background-color: #3a1f6b;
+	background-color: #ffff66;
 	font-size: 20px;
 }
 
@@ -414,7 +414,7 @@ $desktop: 960px + (2 * $gap) !default;
 .acc-kontainer input:checked~.acc-body {
 	height: auto;
 	color: black;
-	background-color: #dddddd;
+	background-color: #f0f0f0;
 	font-size: 16px;
 	padding: 20px;
 }
