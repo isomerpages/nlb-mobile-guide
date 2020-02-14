@@ -86,7 +86,7 @@ A user ID for library members that lets you:
 <input type="radio" name="acc" id="acc5">
         <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
           <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration and/or membership fee(s) if you are a PR or a foreigner.</p>
-          <p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
+          <p>Access your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. Use the eCard to borrow library materials and pick up reserved materials.</p> <p>You can check your library account directly in the app, or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>.</p><p> We will not send you a physical membership card.</p>
           </div>
           </div>
 
@@ -118,7 +118,7 @@ A user ID for library members that lets you:
 		 <p>
 			 Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.
 		 </p>
-<p>Once you have signed in, the online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
+<p>The online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
 
 </div></div>
 
