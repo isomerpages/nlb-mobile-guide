@@ -11,7 +11,7 @@ An **international** digital newsstand on the go:
 <li>Current issues from over 7,000 of the world’s leading publications</li>
 <li>From more than 100 countries</li>
 <li>International papers and magazines - <i>The Washington Post, The Guardian, Newsweek, 
-	- Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
+	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
 <li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
 	</ul>
 
