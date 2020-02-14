@@ -13,7 +13,7 @@ An **international** digital newsstand on the go:
 
 - Current issues
 - Over 7,000 of the world’s leading publications
-- Over 100 countries
+- More than 100 countries
 - International newspapers, e.g. <i>The Washington Post, The Guardian, Bloomberg Businessweek</i>  (Asia)
 - Local publications, e.g. <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>
 
@@ -24,7 +24,7 @@ An **international** digital newsstand on the go:
 		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">Where can I get the PressReader app?</label>
 <div class="acc-body">
- <p>Currently, you can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
+ <p>You can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
       <p><table style="height: 170px; width: 170px;">
 <tbody><tr>
@@ -42,8 +42,8 @@ An **international** digital newsstand on the go:
         <label for="acc2">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</label>
 
  <div class="acc-body">
-  <p>‘Sponsored Access’ means that you have been granted complimentary access to PressReader. This allows you to download PressReader content for an extended period even after leaving the library premises. You can continue to read the content that you have downloaded on the mobile app until you decide to delete the files.</p> 
-<p>‘Sponsored Access’ is granted when you connect your device to Wireless@SG/SGx at the libraries via the PressReader app, or online at PressReader.com.
+  <p>‘Sponsored Access’ means that you have been granted complimentary access to PressReader. During this period, you can download PressReader content and continue to read the downloaded content until you decide to delete the files.</p> 
+<p>‘Sponsored Access’ is granted when you access PressReader via the NLB Mobile app, or when you connect your device to Wireless@SG/SGx at the libraries.
 </p></div>
 </div>
 
@@ -51,7 +51,7 @@ An **international** digital newsstand on the go:
 		<input type="radio" name="acc" id="acc3">
         <label for="acc3">How do I get complimentary access (also known as ‘Sponsored Access’) to PressReader?</label>
 <div class="acc-body">
-    <p>There are many ways to get complimentary access to the publications in PressReader. If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
+    <p>There are many ways! If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
 <p>Here are the details of each access mode:</p>
 <ol>
 <li>NLB Mobile app
@@ -66,7 +66,7 @@ An **international** digital newsstand on the go:
 </li>
 <li>NLB libraries
 <ol>
-<li>Connect your device to the Wireless@SG/SGx network at our libraries, and open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, do note that access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
+<li>Connect your device to the Wireless@SG/SGx network at our libraries, and open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
 <li>You can also use the eNewspaper stations at our libraries.</li>
 </ol>
 </li>
@@ -76,7 +76,7 @@ An **international** digital newsstand on the go:
 
 <div>
 		<input type="radio" name="acc" id="acc4">
-        <label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary downloads of eNewspapers and eMagazines?</label>
+        <label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary content?</label>
 
 <div class="acc-body">
   <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
@@ -92,10 +92,10 @@ An **international** digital newsstand on the go:
 
 <div>
 		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">Will I incur any costs when I download the eNewspapers and eMagazines on the PressReader mobile app?</label>
+        <label for="acc5">Will I incur any costs when I download content from PressReader?</label>
 
 <div class="acc-body">
-  <p>No, you will not be charged for the eNewspapers and eMagazines which NLB has subscribed to. (Do note that if you download the publications using your mobile data plan, you may incur charges from your telco for the data used.)</p>
+	<p>No, you will not be charged for the content that NLB has subscribed to.</p> <p class="end-note">(Do note that downloading content using your mobile data plan may incur charges from your telco for the data used.)</p>
   </div>
 </div> 
 
@@ -103,7 +103,7 @@ An **international** digital newsstand on the go:
 		<input type="radio" name="acc" id="acc6">
         <label for="acc6">How many eNewspaper and eMagazine titles or issues can I download?</label>
         <div class="acc-body">
-  <p>Good news! There is no limit for the number of titles or issues that you can download from PressReader as long as your device has enough space to store the downloaded content.</p>
+		<p>Good news, there's no limit! You can download as many titles and issues as you like.</p><p class="end-note">But make sure your device has enough space to store the downloaded content.</p>
   </div>
 </div> 
 
