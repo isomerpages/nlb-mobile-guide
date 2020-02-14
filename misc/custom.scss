@@ -403,7 +403,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .acc-kontainer input:checked+label {
-	background-color: #ffff66;
+	background-color: #ffff4d;
 	font-size: 20px;
 }
 
@@ -414,8 +414,8 @@ $desktop: 960px + (2 * $gap) !default;
 .acc-kontainer input:checked~.acc-body {
 	height: auto;
 	color: black;
-	background-color: #f0f0f0;
-	border-bottom: 5px solid white;
+	background-color: #ffffe6;
+	border-bottom: 10px solid white;
 	font-size: 16px;
 	padding: 20px;
 }
