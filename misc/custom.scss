@@ -422,3 +422,8 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 16px;
 	padding: 15px;
 }
+
+.end-note {
+	color:inherit;
+	font-size: 60%;
+}
