@@ -156,10 +156,9 @@ Libby_flowchart_animatedGIF.gif)
 
 <div>
 		<input type="radio" name="acc" id="acc17">
-        <label for="acc17">Does my “Skip the Line” loan contribute to my loan quota (i.e. 16
-eBooks / eAudiobooks)?</label>
+        <label for="acc17">Does my “Skip the Line” loan contribute to my loan quota?</label>
         <div class="acc-body">
-  <p>Yes. </p><p>Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
+  <p>Yes, it contributes to your loan quota (i.e. 16 eBooks/eAudiobooks).</p><p>Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
 eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 </div>
@@ -179,7 +178,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc9">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
         <div class="acc-body">
 <p>Format availability for eBooks is subject to the negotiations between OverDrive and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
-<p><strong>Kindle</strong>: Currently, Kindle is not supported but do check this page again for updates.</p>
+<p><strong>Kindle</strong>: Currently, Kindle is not supported.</p>
 		<p><strong>Kobo</strong>: Yes, you can access NLB's eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
 <ul>
   <li>Kobo Libra H2O,&nbsp;</li>
@@ -207,8 +206,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <a href="https://help.overdrive.com/en-us/0047.html">what to do if your eReader is not detected by ADE</a>.&nbsp;
 </p>
 <p><strong>Nook</strong>: NLB currently does not purchase and support eBooks in the Nook format as it is not officially available to the Singapore market.&nbsp;</p>
-<p><strong>Apple Books</strong>: Currently, Apple Books is not supported but do check this page again for updates.</p>
-<p><strong>Google Play Books</strong>: Currently, Google Play Books is not supported but do check this page again for updates.</p>
+<p><strong>Apple Books</strong>: Currently, Apple Books is not supported.</p>
+<p><strong>Google Play Books</strong>: Currently, Google Play Books is not supported.</p>
 <p><strong>Adobe Digital Editions</strong>: Yes, you can. Read this article on 
   <a href="https://help.overdrive.com/en-us/0005.html">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
 </p>
@@ -232,7 +231,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<input type="radio" name="acc" id="acc11">
 		<label for="acc11">I checked out a book using  OverDrive, and now I can’t return it early on Libby.</label>
 	<div class="acc-body"><p>You can return all your eBooks from the NLB Mobile app. Go to Account > eBook Loans. </p>
-      <p><p class="end-note">eBooks added to the Libby app are in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
+      <p class="end-note">eBooks added to the Libby app are in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
       <p class="end-note">With the exception of <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
 </p>
 </div></div>
