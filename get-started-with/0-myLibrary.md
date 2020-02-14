@@ -4,19 +4,22 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary ID
 ---
+<h2>About myLibrary ID</h2>
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-
-<body>
+A user ID for library members that lets you:
+<ul>
+<li>Borrow eBooks and audiobooks</li>
+<li>Read eMagazines and eNewspapers</li>
+<li>Take online courses</li>
+<li>Borrow physical items using your mobile device</li>
+<li>Check the accounts of you and your family</li>
+</ul>
+<br>...and much more!
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
-<p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID</a> (user ID) to check your library account online, read eBooks and access all the resources in our digital collection.</p>
-
+<p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p>
 <h2>Sign Up for Library Membership Online</h2>
 <p></p>
-
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
@@ -33,10 +36,11 @@ title: Library Membership and myLibrary ID
   </li>
 </ul>
 <p>To receive the waiver, sign up for library membership <strong>at the libraries</strong> instead of online.</p>
-			
+
+
 		</div>
 	</div>
-	
+
  <div>
         <input type="radio" name="acc" id="acc2">
         <label for="acc2">Can I sign my child up for library membership online?</label>
@@ -68,10 +72,17 @@ title: Library Membership and myLibrary ID
 </div>
 
 <div>
+		<input type="radio" name="acc" id="acc4">
+        <label for="acc4">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</label>
+         <div class="acc-body"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is <u>not</u> required to complete the registration <b>if you use your SingPass</b> instead of NRIC to sign up. </p>
+    </div>
+</div>
+
+<div>
 <input type="radio" name="acc" id="acc5">
         <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
           <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration and/or membership fee(s) if you are a PR or a foreigner.</p>
-          <p>You can find your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. You can use the eCard to borrow library materials and pick up reserved materials. You can also check your library account directly in the app or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>. We will not send you a physical membership card.</p>
+          <p>Access your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. Use the eCard to borrow library materials and pick up reserved materials.</p> <p>You can check your library account directly in the app, or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>.</p><p> We will not send you a physical membership card.</p>
           </div>
           </div>
 
@@ -103,7 +114,7 @@ title: Library Membership and myLibrary ID
 		 <p>
 			 Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.
 		 </p>
-<p>Once you have signed in, the online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
+<p>The online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
 
 </div></div>
 

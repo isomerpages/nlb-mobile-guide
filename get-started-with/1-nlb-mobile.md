@@ -4,26 +4,27 @@ permalink: /get-started-with/nlb-mobile/
 breadcrumb: NLB Mobile
 title: NLB Mobile
 ---
-<h2>How to Borrow Physical Items using the NLB Mobile app</h2>
-<a href="/images/NLB_Mobile_Flowchart.png">![An animated GIF describing how to borrow physical items using the NLB Mobile app.](/images/NLBMobile_BorrowPhysical_flowchart_animatedGIF.gif)</a>
+<h2>About NLB Mobile</h2>
+Your personal library, anywhere, anytime:
+<ul>   
+	<li> Read eBooks and listen to audiobooks online</li>
+	<li> Access eMagazines and eNewspapers</li>
+	<li> Search for both online and physical resources to borrow</li>
+<li> Take online courses</li>
+	<li> Borrow physical items using your mobile device</li>
+	<li> Check the accounts of you and your family</li>
+</ul>
 
-<h2>How to Borrow eBooks using the NLB Mobile app</h2>
-<a href="/images/NLB_Mobile_Flowchart.png">![An animated GIF describing how to borrow digital items using the NLB Mobile app.](/images/NLBMobile_BorroweBooks_flowchart_animatedGIF.gif)</a>
-
-<html>
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-
-<body>
-
-<p><h2>About NLB Mobile</h2></p>
- <p>NLB Mobile is an app that gives library members access to our digital services. With this app, you can conveniently borrow library materials and read eBooks, eMagazines and eNewspapers as well as listen to eAudiobooks from anywhere.<p>
-
-You can also easily check your account information, transact, search and access eLearning courses anytime you want. 
-</p>
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
+
+<strong>How to Borrow Physical Items using the NLB Mobile app</strong>
+<a href="/images/NLB_Mobile_Flowchart.png">![How to borrow physical items with the NLB Mobile app](/images/NLBMobile_BorrowPhysical_flowchart_animatedGIF.gif)</a>
+
+
+<strong>How to Borrow eBooks using the NLB Mobile app</strong>
+<a href="/images/NLB_Mobile_Flowchart.png">![How to borrow digital items with the NLB Mobile app](/images/NLBMobile_BorroweBooks_flowchart_animatedGIF.gif)</a>
+
+
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1" checked>
