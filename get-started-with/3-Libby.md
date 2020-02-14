@@ -224,7 +224,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc10">Can I read in landscape mode on my phone using Libby?</label>
 
         <div class="acc-body">
-  <p>Regular eBooks are always presented in portrait mode on small screens. For picture books, landscape mode is usually available regardless of screen size.</p><p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p>
+  <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
 
 <div>
