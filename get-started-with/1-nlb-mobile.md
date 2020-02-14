@@ -5,15 +5,15 @@ breadcrumb: NLB Mobile
 title: NLB Mobile
 ---
 <h2>About NLB Mobile</h2>
- <p>Your personal library, anywhere, anytime:
-   
-- Read eBooks and listen to audiobooks online
-- Access eMagazines and eNewspapers
-- Search for both online and physical resources to borrow
-- Take online courses</li>
-- Borrow physical items using your mobile device
-- Check the accounts of you and your family
-</p>
+Your personal library, anywhere, anytime:
+<ul>   
+	<li> Read eBooks and listen to audiobooks online</li>
+	<li> Access eMagazines and eNewspapers</li>
+	<li> Search for both online and physical resources to borrow</li>
+<li> Take online courses</li>
+	<li> Borrow physical items using your mobile device</li>
+	<li> Check the accounts of you and your family</li>
+</ul>
 
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
 
