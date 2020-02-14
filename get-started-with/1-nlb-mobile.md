@@ -5,7 +5,7 @@ breadcrumb: NLB Mobile
 title: NLB Mobile
 ---
 <h2>About NLB Mobile</h2>
- <p>Your personal library, anywhere, anytime:</p>
+ Your personal library, anywhere, anytime:
      <ul>
      <li>Read eBooks and listen to audiobooks online</li>
      <li>Access eMagazines and eNewspapers</li>
