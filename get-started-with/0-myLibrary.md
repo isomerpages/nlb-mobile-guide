@@ -4,10 +4,6 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary ID
 ---
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
 <h2>About myLibrary ID</h2>
 
 A user ID for library members that lets you:
