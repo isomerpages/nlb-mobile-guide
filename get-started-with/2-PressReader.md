@@ -4,9 +4,6 @@ permalink: /get-started-with/PressReader/
 breadcrumb: Reading eMagazines and eNewspapers
 title: Reading eMagazines and eNewspapers
 ---
-
-<a href="/images/PressReader_Flowchart.png">![An animated GIF describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)</a>
-
 <h2>About PressReader</h2> 
 
 An **international** digital newsstand on the go:
@@ -16,6 +13,8 @@ An **international** digital newsstand on the go:
 - More than 100 countries
 - International newspapers, e.g. <i>The Washington Post, The Guardian, Bloomberg Businessweek</i>  (Asia)
 - Local publications, e.g. <i>Female, Women’s Weekly, Singapore Tatler</i> and <i>The Edge Singapore</i>
+
+<a href="/images/PressReader_Flowchart.png">![An animated GIF describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)</a>
 
 <div class="FAQ-section" id="PressReaderStart"> 
   <h2>Getting Started</h2> 
@@ -54,20 +53,20 @@ An **international** digital newsstand on the go:
     <p>There are many ways! If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
 <p>Here are the details of each access mode:</p>
 <ol>
-<li>NLB Mobile app
-<ol>
+	<li><strong>NLB Mobile app</strong>
+<ol style="list-style-type: lower-alpha;">
 <li>Tap the &ldquo;eNewspapers &amp; eMagazines&rdquo; icon on your NLB Mobile app. You will be prompted to download the PressReader app if you don&rsquo;t have it. When you launch the PressReader app through NLB Mobile, you can get one hour of complimentary access to the publications. When the hour is up, you can re-launch PressReader from NLB Mobile to get complimentary access again.</li>
 </ol>
 </li>
-<li>Internet browser
-<ol>
+	<li><strong>Internet browser</strong>
+<ol style="list-style-type: lower-alpha;">
 <li>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications.</li>
 </ol>
 </li>
-<li>NLB libraries
-<ol>
-<li>Connect your device to the Wireless@SG/SGx network at our libraries, and open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
-<li>You can also use the eNewspaper stations at our libraries.</li>
+	<li><strong>NLB libraries</strong>
+<ol style="list-style-type: lower-alpha;">
+	<li>Connect <strong>your device</strong> to the Wireless@SG/SGx network at our libraries. Open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
+	<li>Use the <strong>eNewspaper stations</strong> at our libraries.</li>
 </ol>
 </li>
 </ol>
