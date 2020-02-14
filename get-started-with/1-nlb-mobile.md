@@ -21,8 +21,8 @@ title: NLB Mobile
 <a href="/images/NLB_Mobile_Flowchart.png">![How to borrow physical items with the NLB Mobile app](/images/NLBMobile_BorrowPhysical_flowchart_animatedGIF.gif)</a>
 
 
-<h2>How to Borrow eBooks using the NLB Mobile app</h2>
-<p><a href="/images/NLB_Mobile_Flowchart.png">![How to borrow digital items with the NLB Mobile app](/images/NLBMobile_BorroweBooks_flowchart_animatedGIF.gif)</a></p>
+<strong>How to Borrow eBooks using the NLB Mobile app</strong>
+<a href="/images/NLB_Mobile_Flowchart.png">![How to borrow digital items with the NLB Mobile app](/images/NLBMobile_BorroweBooks_flowchart_animatedGIF.gif)</a>
 
 
 <div class="acc-kontainer">          
