@@ -16,7 +16,7 @@ title: NLB Mobile
 </ul>
 
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
-<h2>How to Borrow Physical Items using the NLB Mobile app</h2>
+<p><strong>How to Borrow Physical Items using the NLB Mobile app</strong></p>
 <a href="/images/NLB_Mobile_Flowchart.png">![How to borrow physical items with the NLB Mobile app](/images/NLBMobile_BorrowPhysical_flowchart_animatedGIF.gif)</a>
 
 
