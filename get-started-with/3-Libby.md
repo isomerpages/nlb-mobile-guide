@@ -240,7 +240,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <input type="radio" name="acc" id="acc12">
         <label for="acc12">I am not able to sign in to Libby and I need help. What should I do?</label>
         <div class="acc-body">
-  <p>Please <a href="mailto:enquiry@nlb.gov.sg">email</a> our contact centre and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
+  <p>Please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
 <p>Help topics are also available on the <a href="https://help.libbyapp.com/">Libby support site</a>.</p>
 
   </div>
