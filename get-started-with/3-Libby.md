@@ -24,9 +24,9 @@ Libby_flowchart_animatedGIF.gif)
 		<input type="radio" name="acc" id="acc5"><!--question 1-->
         <label for="acc5">What is the difference between Libby and NLB Mobile?</label>
         <div class="acc-body"><!--answer for question 1-->
-  <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks / eAudiobooks.</p>
-<p><strong>NLB Mobile</strong> is an NLB app designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Additionally, it lets you access eNewspapers / eMagazines as well as online courses, and check your library account.</p>
-<p><strong>Libby </strong>is a third-party app by OverDrive. It also lets you borrow and download NLB's eBooks / eAudiobooks, but with a simpler user interface. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
+  <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and eAudiobooks.</p>
+<p><strong>NLB Mobile</strong> lets you easily check your account and access our resources. You can borrow eBooks / eAudiobooks, access eNewspapers / eMagazines and online courses. </p><p>While NLB Mobile lets you read or listen to eBooks / eAudiobooks while you are connected to the Internet, it does not have an in-built reader for you to read downloaded eBooks.</p>
+<p><strong>Libby </strong>is a third-party app by OverDrive. You can borrow and download NLB's eBooks / eAudiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
 </div><!--close div for acc1 (question)-->
 </div><!--close div for acc-body (answer)-->
 
@@ -45,7 +45,8 @@ Libby_flowchart_animatedGIF.gif)
         <input type="radio" name="acc" id="acc2">
         <label for="acc2">Can I use more than one library card or cards from different libraries in Libby?</label>
         <div class="acc-body">
-  <p>Yes, you can! Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, then select ‘See Library Cards’ or ‘Add A Library’. All your digital checkouts from different cards and libraries are on the same virtual shelf, so there is no need to switch between libraries or cards to read your books.</p>
+		<p>Yes, you can! </p>
+		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform).Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p></p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
 
   <h2>Different Devices</h2>
@@ -54,7 +55,7 @@ Libby_flowchart_animatedGIF.gif)
         <label for="acc3">Is there a device limit for Libby?</label>
 
         <div class="acc-body">
-  <p>There is currently no limit to the number of devices that you can use to sign in to Libby.</p>
+  <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
 </div></div>
 
 <div>
@@ -63,12 +64,12 @@ Libby_flowchart_animatedGIF.gif)
         <div class="acc-body">
       <p>If you are using Libby across multiple devices:</p>
 <ul>
-<li>Libby automatically syncs your loans, holds and book progress between devices, as long as you have an internet connection and your library cards are on each device. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
+<li>Yes, Libby automatically syncs your loans, holds and book progress between devices. Just ensure that your library cards are on each device, and you are connected to the Internet. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
 </ul>
 <p>If you are using NLB Mobile and Libby across multiple devices:</p>
 <ul>
 <li>Only the loans and holds will be synced across these apps.</li>
-<li>Bookmarks from NLB Mobile will not be seen in Libby as they are actually different features on NLB Mobile and Libby. 'Bookmarks' on NLB Mobile refer to bookmarks of favourite physical and digital items, while 'Bookmarks' on Libby refer to the bookmarking of pages or timestamps within the digital items.</li>
+<li>Bookmarks from NLB Mobile will not be seen in Libby and vice versa. In NLB Mobile, 'bookmarks' mark your favorite books and eBooks in NLB so that you can search them more easily. In Libby, 'bookmarks' mark pages within your eBook to help you find your way around the eBook.</li>
 </ul>
 
 </div></div>
@@ -81,15 +82,16 @@ Libby_flowchart_animatedGIF.gif)
 		<input type="radio" name="acc" id="acc6">
         <label for="acc6">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / eAudiobook?</label>
         <div class="acc-body">
-  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. You will be prompted to install Libby as it is designed to deliver the optimal experience for reading downloaded eBooks.    
+  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
         </p>
     </div>
 </div>
 
 <div>
 		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">I still prefer OverDrive to Libby. How can I continue to use OverDrive to download eBooks and eAudiobooks?  </label>
+        <label for="acc7">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and eAudiobooks?  </label>
         <div class="acc-body">
+		<p>You can still use OverDrive to borrow eBooks and eAudiobooks from NLB.</p>
     <p><ol><li>Launch OverDrive.</li>
     <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
     <li>Log in using your myLibrary ID.</li>
@@ -116,19 +118,20 @@ Libby_flowchart_animatedGIF.gif)
 		<input type="radio" name="acc" id="acc13">
         <label for="acc13">I saw a category called “Skip the Line” in Libby. What is it?</label>
         <div class="acc-body">
-  <p>“Skip the Line” is a feature that allows you to borrow popular digital titles immediately, instead of joining a long reservations list. “Skip the Line” copies have special rules:</p>
+		<p><strong>“Skip the Line”</strong> is a feature that lets you to borrow popular digital titles immediately, instead of joining the reservation queue. “Skip the Line” copies have special rules:</p>
 <ul>
-  <li>Unlike other copies which you can borrow for 21 days, “Skip the Line” copies expire after only seven days. This is to allow more people to access these popular books.</li>
-	<li>You can only borrow <b>one</b> “Skip the Line” title at any one time, regardless of how many eBooks / eAudiobooks you currently have on loan. To borrow another “Skip the Line” title, you must first return your “Skip the Line” copy. To return it, select "Shelf" at the bottom right of the screen. Then, tap on the square icon next to your title and select "Return Early".
+  <li>Unlike other copies which you can borrow for 21 days, “Skip the Line” copies expire after only seven days. This lets more people access these popular books.</li>
+	<li>You can only borrow <b>one</b> “Skip the Line” title at any time. To borrow another “Skip the Line” title, you must first return your “Skip the Line” copy. 
   </li>
   <li>You cannot renew a “Skip the Line” loan.&nbsp;</li>
 </ul>
+ 
   </div>
 </div>
 
 <div>
 		<input type="radio" name="acc" id="acc14">
-        <label for="acc14">How do I know if a title I want to borrow has “Skip the Line” copies?</label>
+        <label for="acc14">How do I know which titles have “Skip the Line” copies?</label>
         <div class="acc-body">
   <p>Titles with “Skip the Line” copies have a four-leaf clover icon next to the “Borrow” button. </p>
   </div>
@@ -138,14 +141,14 @@ Libby_flowchart_animatedGIF.gif)
 		<input type="radio" name="acc" id="acc15">
         <label for="acc15">Where can I browse a list of all “Skip the Line” titles?</label>
         <div class="acc-body">
-  <p>It’s simple! Launch Libby. Tap on the “Library” tab at the bottom, then select “Explore”. Select 
+  <p>It’s simple! Launch Libby. Tap on the “Library” tab, then select “Explore”. Select 
 “Skip the Line”. Check back often as the list changes frequently.</p>
   </div>
 </div>
 
 <div>
 		<input type="radio" name="acc" id="acc16">
-        <label for="acc16">I saw that a book I have already reserved has a “Skip the Line” copy. Can I still borrow a “Skip the Line” copy?</label>
+        <label for="acc16">A book I have already reserved has a “Skip the Line” copy. Can I still borrow a “Skip the Line” copy?</label>
         <div class="acc-body">
   <p>Yes, you can! A “Skip the Line” loan will not affect your reservation.</p>
   </div>
@@ -153,27 +156,27 @@ Libby_flowchart_animatedGIF.gif)
 
 <div>
 		<input type="radio" name="acc" id="acc17">
-        <label for="acc17">Does my “Skip the Line” loan contribute to my eBook loan quota (i.e. 16
+        <label for="acc17">Does my “Skip the Line” loan contribute to my loan quota (i.e. 16
 eBooks / eAudiobooks)?</label>
         <div class="acc-body">
-  <p>Yes. In addition, do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
+  <p>Yes. </p><p>Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
 eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 </div>
 
 <div>
 		<input type="radio" name="acc" id="acc18">
-        <label for="acc18">Can I browse / borrow “Skip the Line” titles on NLB Mobile or nlb.overdrive.com?</label>
+        <label for="acc18">Can I browse or borrow “Skip the Line” titles on NLB Mobile or nlb.overdrive.com?</label>
         <div class="acc-body">
-  <p>No. Currently, you can only browse / borrow “Skip the Line” titles using the Libby app.</p>
+  <p>No. Currently, you can only browse or borrow “Skip the Line” titles using the Libby app.</p>
   </div>
 </div>
 <p>
-  <h2>Compatibility with eReaders / apps like Kindle, Kobo, Apple Books</h2>
+  <h2>Compatibility with eReaders / apps</h2>
 
 <div>
 		<input type="radio" name="acc" id="acc9">
-        <label for="acc9">Can I read NLB's eBooks using Kindle / Kobo / Nook / Apple Books / Google Play Books / Adobe Digital Editions?</label>
+        <label for="acc9">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
         <div class="acc-body">
 <p>Format availability for eBooks is subject to the negotiations between OverDrive and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
 <p><strong>Kindle</strong>: Currently, Kindle is not supported but do check this page again for updates.</p>
@@ -222,15 +225,15 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc10">Can I read in landscape mode on my phone using Libby?</label>
 
         <div class="acc-body">
-  <p>For regular eBooks in Libby, OverDrive has not settled on a landscape reading experience on small screens that meet their standard. These books are always presented in portrait mode on small screens. For picture books, landscape mode is usually available regardless of screen size.</p>
+  <p>Regular eBooks are always presented in portrait mode on small screens. This is because OverDrive has not settled on a landscape reading experience on small screens that meet their standard. For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
 
 <div>
 		<input type="radio" name="acc" id="acc11">
-		<label for="acc11">I checked out a book using the OverDrive app or using the OverDrive website on my computer, and now I can’t return it early on Libby.</label>
-		<div class="acc-body">
-      <p>eBooks added to the Libby app are in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
-      <p>With the exception of <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
+		<label for="acc11">I checked out a book using  OverDrive, and now I can’t return it early on Libby.</label>
+	<div class="acc-body"><p>You can return all your eBooks from the NLB Mobile app. Go to Account > eBook Loans. </p>
+      <p><p class="end-note">eBooks added to the Libby app are in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
+      <p class="end-note">With the exception of <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
 </p>
 </div></div>
 
