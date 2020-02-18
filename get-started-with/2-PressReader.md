@@ -16,10 +16,10 @@ An **international** digital newsstand on the go:
 	</ul>
 
   <h2>How to Read eNewspapers and eMagazines</h2> 
-<a href="/images/PressReader_Flowchart.png">![An animated GIF describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF.gif)</a>
+![An animated GIF describing how to access eNewspapers and eMagazines through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF.gif)
 <p>
 	  <h2>How to Read SPH eNewspapers</h2> 
-<a href="/images/PressReader_Flowchart.png">![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)</a>
+![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
 	
 <div class="FAQ-section" id="PressReaderStart"> 
   <h2>Getting Started</h2> 
