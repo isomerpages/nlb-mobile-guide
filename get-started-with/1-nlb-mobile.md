@@ -20,11 +20,9 @@ Your personal library, anywhere, anytime:
 <h3>How to Borrow Physical Items using the NLB Mobile app</h3>
 <strong>Option 1: Use the in-app barcode scanner</strong><p>
 ![How to borrow physical items with the NLB Mobile app, using the in-app barcode scanner](/images/NLBMobile_ScantoBorrow_animatedGIF.gif)
-<p>
-<strong>Option 2: Use the Borrowing Station</strong><p>
+<p><strong>Option 2: Use the Borrowing Station</strong></p>
 ![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)	
-<p>
-<h3>How to Borrow eBooks using the NLB Mobile app</h3><p>
+<p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
 ![How to Borrow eBooks using the NLB Mobile app](/images/NLBMobile_BorroweBooks_animatedGIF.gif)
 <p>
 
