@@ -23,7 +23,7 @@ Your personal library, anywhere, anytime:
 <p>
 <strong>Option 2: Use the Borrowing Station</strong>
 	
-![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)</a>
+![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)
 
 <p>
 <h3>How to Borrow eBooks using the NLB Mobile app</h3>
