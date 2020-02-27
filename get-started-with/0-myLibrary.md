@@ -18,7 +18,8 @@ A user ID for library members that lets you:
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p>
-<h2>Sign Up for Library Membership Online</h2>
+<p>
+	<a name="membership"><h2>Sign Up for Library Membership Online</h2></a>
 <p></p>
 <div class="acc-kontainer">          
 	<div>
