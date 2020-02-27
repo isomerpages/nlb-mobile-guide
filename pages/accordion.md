@@ -11,15 +11,10 @@ title: Accordion Test
 	</div>
 	<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 </div>
-<div id="accordion-body-1}" class="col padding bp-accordion-body">
-	<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
-		<div class="row">
-			<div class="col is-8">
-				<h3 class="margin--top--none"><b>#1</b></h3>
-				<p class="margin--top--none">Lorem ipsum</p>
-			</div>
-		</div>
-	</div>
+<div id="accordion-body-1" class="col padding bp-accordion-body">
+	<h3 class="margin--top--none padding--top"><b>Number #1</b></h3>
+	<p class="margin--top--none">Lorem ipsum</p>
+	<hr style="margin-top: 28px">
 </div>
 
 <div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
@@ -28,13 +23,8 @@ title: Accordion Test
 	</div>
 	<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
 </div>
-<div id="accordion-body-2}" class="col padding bp-accordion-body">
-	<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
-		<div class="row">
-			<div class="col is-8">
-				<h3 class="margin--top--none"><b>#2</b></h3>
-				<p class="margin--top--none">Lorem ipsum</p>
-			</div>
-		</div>
-	</div>
+<div id="accordion-body-2" class="col padding bp-accordion-body">
+	<h3 class="margin--top--none padding--top"><b>Number #1</b></h3>
+	<p class="margin--top--none">Lorem ipsum</p>
+	<hr style="margin-top: 28px">
 </div>
