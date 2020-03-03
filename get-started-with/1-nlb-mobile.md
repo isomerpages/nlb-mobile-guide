@@ -223,15 +223,13 @@ You will have three options:
 </ul>
 <p>These actions have to be taken through:
 <ul>
-<li>Libby app or <a href="libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
-<li>OverDrive app or <a href="nlb.overdrive.com">nlb.overdrive.com</a></li>
+<li>Libby app or <a href="https://libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
+<li>OverDrive app or <a href="https://nlb.overdrive.com">nlb.overdrive.com</a></li>
     </ul>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
 
 </div></div>
 
-
-<div class="FAQ-section">
 <p><h2>Reading eMagazines/ eNewspapers</h2></p>
 <div>
 		<input type="radio" name="acc" id="acc14">
