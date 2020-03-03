@@ -48,26 +48,25 @@ Libby_flowchart_animatedGIF.gif)
 		<p>Yes, you can! </p>
 		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
-
  <div>
         <input type="radio" name="acc" id="acc19">
         <label for="acc19">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
         <div class="acc-body">
 		  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / eAudiobooks. </p>
       <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you via email or the Libby app when it's your turn. To keep the reservation, simply respond to the notification within 10 days.</p>     
-<p>
-You will have three options:
+<p>You will have three options:</p>  
 <ul>
 <li>borrow now,</li>
 <li>deliver later, which lets you stay next in line for up to 180 days, or</li>
 <li>cancel the reservation.</li>
 </ul>
-<p>These actions have to be taken through:
+<p>These actions have to be taken through:</p>  
 <ul>
-<li>Libby app or <a href="libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
-<li>OverDrive app or <a href="nlb.overdrive.com">nlb.overdrive.com</a></li>
+<li>Libby app or <a href="https://libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
+<li>OverDrive app or <a href="https://nlb.overdrive.com">nlb.overdrive.com</a></li>
     </ul>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
+
 
 <p>To check your notification settings in Libby, please read <a href="https://help.libbyapp.com/6174.htm">this Help article</a> on setting up and managing notifications. </p>
 
