@@ -28,7 +28,7 @@ Your personal library, anywhere, anytime:
 
 <div class="acc-kontainer">          
 	<div>
-		<input type="radio" name="acc" id="acc1" checked>
+		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
@@ -225,8 +225,8 @@ You will have three options:
 <ul>
 <li>Libby app or <a href="https://libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
 <li>OverDrive app or <a href="https://nlb.overdrive.com">nlb.overdrive.com</a></li>
-    </ul>
-<p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
+</ul>
+<p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.
 
 </div></div>
 
