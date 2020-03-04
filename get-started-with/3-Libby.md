@@ -53,7 +53,7 @@ Libby_flowchart_animatedGIF.gif)
         <label for="acc19">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
         <div class="acc-body">
 		  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / eAudiobooks. </p>
-      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you via email or the Libby app when it's your turn. To keep the reservation, simply respond to the notification within 10 days.</p>     
+      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you via email or the Libby app when your reservation is ready. To keep the reservation, simply respond to the notification within 10 days.</p>     
 <p>You will have three options:</p>  
 <ul>
 <li>borrow now,</li>
