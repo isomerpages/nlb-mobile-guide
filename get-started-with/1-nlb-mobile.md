@@ -28,7 +28,7 @@ Your personal library, anywhere, anytime:
 
 <div class="acc-kontainer">          
 	<div>
-		<input type="radio" name="acc" id="acc1" checked>
+		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
@@ -211,15 +211,24 @@ Your personal library, anywhere, anytime:
 <div>
 		<input type="radio" name="acc" id="acc13">
         <label for="acc13">How do I reserve eBooks / eAudiobooks? And can I cancel the reservation?</label>
-
 <div class="acc-body">
-  <p>If the title you wish to borrow is not available, you can reserve it free of charge and it will be checked out for you automatically when it is available. You may reserve up to 16 eBooks / eAudiobooks. </p>
-      <p>If you don’t need the reservation anymore, you can cancel it. In the app, go to ‘Account’, ‘eBook Loans’, and look for the title under the ‘Reserved’ tab. Select the title to see the option to cancel the reservation.</p>      
+  <p>If the title you wish to borrow is not available, you can reserve it free of charge. You can reserve up to 16 eBooks / eAudiobooks. </p>
+      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you via email or the Libby app when your reservation is ready. To keep the reservation, simply respond to the notification within 10 days.</p>     
+	<p>You will have three options:</p>
+	<ul>
+		<li>borrow now,</li>
+		<li>deliver later, which lets you stay next in line for up to 180 days, or</li>
+		<li>cancel the reservation.</li>
+	</ul>
+	<p>These actions have to be taken through:</p>
+	<ul>
+		<li>Libby app or <a href="https://libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
+		<li>OverDrive app or <a href="https://nlb.overdrive.com">nlb.overdrive.com</a></li>
+	</ul>
+	<p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
+	</div>
+</div>
 
-</div></div>
-
-
-<div class="FAQ-section">
 <p><h2>Reading eMagazines/ eNewspapers</h2></p>
 <div>
 		<input type="radio" name="acc" id="acc14">

@@ -360,6 +360,14 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+// Accordion
+
+.bp-accordion-button {
+  &.sgds-icon-minus {
+    color: #000000;
+  }
+}
+
 // NLB Accordion
 .acc-kontainer {
 	width: 100%;
