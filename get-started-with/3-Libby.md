@@ -29,8 +29,7 @@ Libby_flowchart_animatedGIF.gif)
 <p><strong>Libby </strong>is a third-party app by OverDrive. You can borrow and download NLB's eBooks / eAudiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
 </div><!--close div for acc1 (question)-->
 </div><!--close div for acc-body (answer)-->
-
-  <a name="reservation"><h2>Getting Started with Libby</h2></a>
+<p> <a name="reservation"><h2>Getting Started with Libby</h2></a></p>
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1">
@@ -54,7 +53,7 @@ Libby_flowchart_animatedGIF.gif)
         <input type="radio" name="acc" id="acc19" checked>
         <label for="acc19">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
         <div class="acc-body">
-		  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / eAudiobooks. </p>
+    	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / eAudiobooks. </p>
       <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you via email or the Libby app when your reservation is ready. To keep the reservation, simply respond to the notification within 10 days.</p>     
 <p>You will have three options:</p>  
 <ul>
