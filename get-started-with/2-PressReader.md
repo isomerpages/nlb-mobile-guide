@@ -20,6 +20,8 @@ An **international** digital newsstand on the go:
      <video width="720px" controls>
   <source src="/images/PressReaderVideo_PXS_NLBLogo.mp4" type="video/mp4" />
 </video>
+</div>
+
 <p> <h2>How to Read SPH eNewspapers</h2> </p>
 ![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
 <p>	
