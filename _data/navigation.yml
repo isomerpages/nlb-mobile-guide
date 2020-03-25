@@ -23,9 +23,9 @@
   sub-links:
   - title: All
     url: /resource-room/
-  - title: Topic 1 - NL
+  - title: Pandemics
     url: /resource-room/subcategory-A/
-  - title: Topic 2 - PL
+  - title: Mental Wellness
   url: /resource-room/subcategory-B/
-  - title: Topic 3 - TDS
+  - title: Upskill at Home
     url: /resource-room/subcategory-C/
