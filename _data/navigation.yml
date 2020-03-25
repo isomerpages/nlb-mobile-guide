@@ -24,8 +24,8 @@
   - title: All
     url: /resource-room/
   - title: Pandemics
-    url: /resource-room/pandemics/
-  - title: Well-Being
-  url: /resource-room/well-being/
+    url: /resource-room/subcategory-A/
+  - title: Mental Wellness
+  url: /resource-room/subcategory-B/
   - title: Upskill at Home
-    url: /resource-room/upskill/
+    url: /resource-room/subcategory-C/
