@@ -219,7 +219,6 @@ A user ID for library members that lets you:
         </ol>
         </div>
         </div>
-
 	<div>
 		<input type="radio" name="acc" id="acc13">
 	    <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
