@@ -18,25 +18,14 @@
     url: /get-started-with/PressReader/
   - title: Reading eBooks and eAudiobooks
     url: /get-started-with/Libby/
-
-- title: I want to
-  url: /pages/
-  sub-links:
-  - title: Bond Through Reading and Learning
-    url: /pages/parents/
-  - title: Fuel My Reading Habit
-    url: /pages/reader/
-  - title: Learn Skills and Hobbies 
-    url: /pages/learner/
-
-- title: Spotlight
-  url: /spotlight/
+- title: Resource Room
+  url: /resource-room/
   sub-links:
   - title: All
-    url: /spotlight/
+    url: /resource-room/
   - title: Pandemics
-    url: /spotlight/pandemics/
+    url: /resource-room/pandemics/
   - title: Well-Being
-  url: /spotlight/well-being/
+  url: /resource-room/well-being/
   - title: Upskill at Home
-    url: /spotlight/upskill/
+    url: /resource-room/upskill/
