@@ -21,11 +21,13 @@ breadcrumbs:
     image: false # Show image or title text
 
 # Resource Room and Pagination
+resources_name: spotlight
+paginate_path: "/spotlight/page:num"
 paginate: 12
 
 # Homepage sections
 homepage_hero_i_want_to: true
-homepage_resources: false 
+homepage_resources: true
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
@@ -38,4 +40,3 @@ collections:
     output: true
   left-nav-two:
     output: true
-resources_name: resource-room
