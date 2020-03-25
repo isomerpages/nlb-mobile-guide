@@ -18,14 +18,14 @@
     url: /get-started-with/PressReader/
   - title: Reading eBooks and eAudiobooks
     url: /get-started-with/Libby/
-#- title: Resource Room
-#  url: /resource-room/
-#  sub-links:
-#  - title: All
-#    url: /resource-room/
-#  - title: Subcategory A
-#    url: /resource-room/subcategory-A/
-#  - title: Subcategory B
-#  url: /resource-room/subcategory-B/
-#  - title: Subcategory C
-#    url: /resource-room/subcategory-C/
+- title: Spotlight
+  url: /spotlight/
+  sub-links:
+  - title: All
+    url: /spotlight/
+  - title: Pandemic
+    url: /spotlight/pandemic/
+  - title: Upskill
+  url: /spotlight/upskill/
+  - title: Well-being
+    url: /spotlight/well-being/
