@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /parent/
+permalink: pages/parent/
 breadcrumb: Bond through Reading and Learning
 title: Bond through Reading and Learning
 ---
