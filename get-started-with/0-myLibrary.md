@@ -75,7 +75,7 @@ A user ID for library members that lets you:
 <div>
 		<input type="radio" name="acc" id="acc4">
         <label for="acc4">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</label>
-         <div class="acc-body"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is <u>not</u> required to complete the registration <b>when you use your SingPass</b>.</p>
+         <div class="acc-body"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your SingPass when you are overseas. An OTP is <u>not</u> required to complete the registration <b>if you use your SingPass</b> instead of NRIC to sign up. </p>
     </div>
 </div>
 
@@ -104,7 +104,7 @@ A user ID for library members that lets you:
         <label for="acc8">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</label>
           <div class="acc-body"><p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
           <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). With this myLibrary ID, you can instantly check your account online, <a href="/get-started-with/nlb-mobile/">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
-          <p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
+          <p>(Note: For existing PAssion card holders and PAssion card holders who are foreigners, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
           </div>
           </div>
 
@@ -113,7 +113,7 @@ A user ID for library members that lets you:
         <label for="acc9">I can’t remember if I am a library member. Can I check my library membership online? </label>
          <div class="acc-body">
 		 <p>
-			 Yes, you can check <a href="https://account.nlb.gov.sg">online</a> with SingPass or by entering your NRIC number.
+			 Yes, you can check <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass login ID and password.
 		 </p>
 <p>The online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
 
