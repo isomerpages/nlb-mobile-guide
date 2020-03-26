@@ -6,7 +6,22 @@ permalink: /spotlight/upskill/business-in-a-nutshell
 ---
 
 ##Get the big picture in 5 pages
+
 ####With our collection of business book summaries, you can get the big picture in 5 pages. From productivity classics like David Allen's "Getting Things Done" to technology primers like William Mougayar's "The Business Blockchain", we've got thousands of big ideas for you to discover. <a href="https://libbyapp.com/library/nlb/curated-103445/sort-mostpopular/page-1" target="_blank">View our collection.</a> 
 
 ##Some popular titles
+Manage teams well
+the coaching habit 
+words that work 
+the five dysfunctions of a team 
 
+Manage your life 
+The 100 year life 
+Grow your value 
+Nonviolent communication 
+
+
+Get Productive 
+getting things done
+the one thing
+deep work 
