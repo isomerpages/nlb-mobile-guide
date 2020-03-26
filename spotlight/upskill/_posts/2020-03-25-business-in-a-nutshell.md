@@ -4,8 +4,6 @@ title:
 date:   2020-03-25
 permalink: /spotlight/upskill/business-in-a-nutshell
 ---
-
-<h2>Get the big picture in 5 pages</h2>
 <h5>With our collection of business book summaries, you can get the big picture in 5 pages. From productivity classics like David Allen's "Getting Things Done" to technology primers like William Mougayar's "The Business Blockchain", we've got thousands of big ideas for you to discover. <a href="https://libbyapp.com/library/nlb/curated-103445/sort-mostpopular/page-1" target="_blank">View our collection.</a> <a href="/get-started-with/libby/">Find out how to borrow eBooks</a></h5>
 
 <h3>Manage teams well</h3>
@@ -26,7 +24,11 @@ Former U.S. President John F. Kennedy once said, “Let us never negotiate out o
 Patrick Lencioni offers a satisfactory fable about an executive wrestling to take hold of a company and create a smoothly functioning executive team. Here, the author outlines a detailed model for diagnosing the five dysfunctions of a team and provides exercises and techniques to ameliorate those dysfunctions. 
 
 <h3>Manage your life</h3> 
-The 100 year life 
+<h4>The The 100 Year Life (Summary)</h4>
+<i>Lynda Gratton, Andrew Scott</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id= cd4177e6-905f-4357-86a5-557266317829"><img src="/images/ebook-GA-100yearlife.jpeg" style="width:200px; align:left;"></a><br/>
+Celebrating a 100th birthday used to be a rare occurrence. But our lifespans are increasing. The gift of a long life brings unexpected complications. In this well-researched overview, London Business School professors Lynda Gratton and Andrew Scott address some of these issues – support yourself during an extended retirement, maintaining beneficial relationships, how to plan for multiple careers. 
+
 Grow your value 
 Nonviolent communication 
 
