@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-- title: Get Started With...
+- title: Get Started 
   url: /get-started-with/NLB-Mobile/
   sub-links:
   - title: Library Membership and myLibrary ID 
@@ -18,14 +18,14 @@
   - title: eLearning
     url: /get-started-with/lynda/
 
-- title: I want to...
+- title: Top Tips
   url: /pages/
   sub-links:
-  - title: Bond with loved ones 
+  - title: Families and Children
     url: /parent/
-  - title: Fuel reading habit
+  - title: Read More
     url: /reader/
-  - title: Learn new skills
+  - title: Learn New Skills
     url: /learner/
 
 - title: Spotlight
