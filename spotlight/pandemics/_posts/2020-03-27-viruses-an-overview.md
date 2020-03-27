@@ -2,7 +2,7 @@
 layout: post
 title:  Viruses - An Overview 
 date:   2018-01-01
-permalink: /spotlight/pandemic/viruses-an-overview
+permalink: /spotlight/pandemics/viruses-an-overview
 ---
 <img src="/images/NL-1-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/">pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/</a></p>
