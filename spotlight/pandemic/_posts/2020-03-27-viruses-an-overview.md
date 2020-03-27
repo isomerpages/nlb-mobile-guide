@@ -20,7 +20,7 @@ Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and cont
 <h5>2. The Germ Files: Health-conscious, Nutritious, Life-changing Facts about the Microbes that Share Our Bodies and Our World</h5>
 Tetro, J. (2016). <i>The germ files: Health-conscious, nutritious, life-changing facts about the microbes that share our bodies and our world</i>. Toronto, Canada: Doubleday Canada.<br/>
 <strong>eBook</strong><br/> 
-<a href="https://nlb.overdrive.com/media/2335196"><img src="/images/NL-1-germ-files.jpg" style="width:200px; text-align:left;"></a>
+<a href="https://nlb.overdrive.com/media/2335196"><img src="/images/NL-1-germ-files.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
  
 <h5>3. Viruses: A Very Short Introduction</h5>
 Crawford, D. H. (2020). <i>Viruses: A very short introduction</i>. Oxford, UK: OUP Oxford.<br/>
