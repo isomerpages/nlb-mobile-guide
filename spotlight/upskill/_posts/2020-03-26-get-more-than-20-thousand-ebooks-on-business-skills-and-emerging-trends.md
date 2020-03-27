@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Get More Than 20,000 eBooks on Business Skills and Emerging Trends 
-date:   2020-03-27
+date:   2020-03-26
 permalink: /spotlight/upskill/get-more-than-20-thousand-ebooks-on-business-skills-and-emerging-trends
 ---
 
