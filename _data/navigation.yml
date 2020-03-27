@@ -25,9 +25,9 @@
   sub-links:
   - title: All
     url: /spotlight/
-  - title: Pandemic
-    url: /spotlight/pandemic/
+  - title: Pandemics
+    url: /spotlight/pandemics/
   - title: Upskill
     url: /spotlight/upskill/
-  - title: Well-being
-    url: /spotlight/well-being/
+ # - title: Well-being
+ #   url: /spotlight/well-being/
