@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  
+title:  World of Business Summarised in 5 Pages
 date:   2020-03-27
 permalink: /spotlight/upskill/world-of-business-summarised-in-5-pages
 ---
