@@ -44,7 +44,7 @@ Viruses News. (2020). <i>Science Daily</i>. Retrieved March 25, 2020.<br/>
 <img src="/images/NL-1-hygiene.png">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/">pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/</a></p>
 
-<p>If you are interested to read more about viruses, check out the following books and journal articles:</p>
+<p><strong>If you are interested to read more about viruses, check out the following books and journal articles:</strong></p>
 <h4>Books</h4>
 <h5>1. The Germ Files: Health-conscious, Nutritious, Life-changing Facts about the Microbes that Share Our Bodies and Our World (eBook)</h5>
 Tetro, J. (2016). <i>The germ files: Health-conscious, nutritious, life-changing facts about the microbes that share our bodies and our world</i>. Toronto, Canada: Doubleday Canada.<br/> 
@@ -60,13 +60,13 @@ Ryan, F. (2019). <i>Virusphere: Ebola, AIDS, influenza and the hidden world of t
 
 <h5>4. Viruses as Complex Adaptive Systems (Book)</h5>
 Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. Princeton, New Jersey: Princeton University Press.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a><br/>
-<div style="font-size:8pt;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a>
+<div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
 
 <h5>5. Infection Prevention and Control at a Glance (Book)</h5>
 Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and control at a glance</i>. Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a><br/>
-<div style="font-size:8pt;">Book Cover: All rights reserved, Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd, 2017 </div>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a>
+<div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd, 2017 </div>
   
 <h4>Journal Articles</h4>
 <h5>1. Transmission routes of respiratory viruses among humans</h5>
