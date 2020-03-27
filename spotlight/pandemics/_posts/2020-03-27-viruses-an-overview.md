@@ -41,6 +41,7 @@ Infectious Diseases / Bacteria / Viruses. (2020). <i>Medical News Today</i>. Ret
 <h5>5. <a href="https://www.sciencedaily.com/news/health_medicine/viruses/">Viruses news</a></h5>
 Viruses News. (2020). <i>Science Daily</i>. Retrieved March 25, 2020.
 
+<img src="/images/NL-1-hygiene.png">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/">pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/</a></p>
 
 <p>If you are interested to read more about viruses, check out the following books and journal articles:</p>
