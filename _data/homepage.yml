@@ -13,7 +13,7 @@ agency-logo: /images/NLB-Mobile-Logo-and-Name.png
 # Hero Banner
 hero-title: NLB Mobile App
 hero-subtitle: Your Personal Library, Anywhere, Anytime
-hero-banner: /images/banner-video-cut.gif
+hero-banner: /images/backdrop-abstract.jpeg
 
 # Hero Dropdown Main Text
 hero-dropdown-text: "I want to..."
@@ -74,6 +74,6 @@ info-sections:
 
 
 resources-title: Spotlight
-resources-subtitle: Be in the know
+resources-subtitle: Resources Curated by Our Librarians
 resources-more-button: More Resources
 resources-more-button-url: /spotlight/
