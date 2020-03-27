@@ -20,6 +20,17 @@
     url: /get-started-with/Libby/
   - title: eLearning
     url: /get-started-with/lynda/
+
+- title: I want to...
+  url: /pages/
+  sub-links:
+  - title: Bond with loved ones 
+    url: /pages/parent/
+  - title: Fuel reading habit
+    url: /pages/reader/
+  - title: Learn new skills
+    url: /pages/learner/
+
 - title: Spotlight
   url: /spotlight/
   sub-links:
