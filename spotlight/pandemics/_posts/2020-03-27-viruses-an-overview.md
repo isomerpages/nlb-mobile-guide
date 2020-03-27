@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Viruses - An Overview 
-date:   2018-01-01
+date:   2020-03-27
 permalink: /spotlight/pandemics/viruses-an-overview
 ---
 <img src="/images/NL-1-overview.jpg">
