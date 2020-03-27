@@ -18,11 +18,11 @@ Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and cont
   
 <h5>2. The Germ Files: Health-conscious, Nutritious, Life-changing Facts about the Microbes that Share Our Bodies and Our World (eBook)</h5>
 Tetro, J. (2016). <i>The germ files: Health-conscious, nutritious, life-changing facts about the microbes that share our bodies and our world</i>. Toronto, Canada: Doubleday Canada.<br/> 
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=7f5aa3c7-e52b-4b6f-aa2c-89ae78e1e8c0"><img src="/images/NL-1-germ-files.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=5e1ba148-bbe4-4f33-91c2-a1af4b92869e"><img src="/images/NL-1-germ-files.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
  
 <h5>3. Viruses: A Very Short Introduction (eBook)</h5>
 Crawford, D. H. (2020). <i>Viruses: A very short introduction</i>. Oxford, UK: OUP Oxford.<br/>
-<a href="https://nlb.overdrive.com/media/5279702"><img src="/images/NL-1-viruses-a-very-short-introduction.jpg" style="width:200px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cc313a77-08be-41cd-b9ab-6d3c41a79d6a"><img src="/images/NL-1-viruses-a-very-short-introduction.jpg" style="width:200px; text-align:left;"></a><br/>
 
 <h5>4. Viruses as Complex Adaptive Systems (Book)</h5>
 Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. Princeton, New Jersey: Princeton University Press.<br/>
@@ -31,7 +31,7 @@ Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. 
 
 <h5>5. Virusphere: Ebola, AIDS, influenza and the hidden world of the virus (eBook)</h5> 
 Ryan, F. (2019). <i>Virusphere: Ebola, AIDS, influenza and the hidden world of the virus</i>. New York: HarperCollins Publisher.<br/>
-<a href="https://nlb.overdrive.com/media/4281456"><img src="/images/NL-1-virusphere.jpg" style="width:200px; text-align:left;"></a>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=422b9357-0123-471d-be25-b6213a0c1a1e"><img src="/images/NL-1-virusphere.jpg" style="width:200px; text-align:left;"></a>
 
 <h4>Journal Articles</h4>
 <h5>1. Emerging respiratory viruses in children</h5>
