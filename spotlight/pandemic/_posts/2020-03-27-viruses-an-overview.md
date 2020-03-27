@@ -12,30 +12,25 @@ permalink: /spotlight/pandemic/viruses-an-overview
 <p>Find out more about viruses and how viral infections can be controlled and treated through the resources listed below.</p>
 
 <h4>Books / eBooks</h4>
-<h5>1. Infection Prevention and Control at a Glance</h5>
+<h5>1. Infection Prevention and Control at a Glance (Book)</h5>
 Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and control at a glance</i>. Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd.<br/>
-<strong>Book</strong><br/> 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a>
   
-<h5>2. The Germ Files: Health-conscious, Nutritious, Life-changing Facts about the Microbes that Share Our Bodies and Our World</h5>
-Tetro, J. (2016). <i>The germ files: Health-conscious, nutritious, life-changing facts about the microbes that share our bodies and our world</i>. Toronto, Canada: Doubleday Canada.<br/>
-<strong>eBook</strong><br/> 
+<h5>2. The Germ Files: Health-conscious, Nutritious, Life-changing Facts about the Microbes that Share Our Bodies and Our World (eBook)</h5>
+Tetro, J. (2016). <i>The germ files: Health-conscious, nutritious, life-changing facts about the microbes that share our bodies and our world</i>. Toronto, Canada: Doubleday Canada.<br/> 
 <a href="https://nlb.overdrive.com/media/2335196"><img src="/images/NL-1-germ-files.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
  
-<h5>3. Viruses: A Very Short Introduction</h5>
+<h5>3. Viruses: A Very Short Introduction (eBook)</h5>
 Crawford, D. H. (2020). <i>Viruses: A very short introduction</i>. Oxford, UK: OUP Oxford.<br/>
-<strong>eBook</strong><br/> 
 <a href="https://nlb.overdrive.com/media/5279702"><img src="/images/NL-1-viruses-a-very-short-introduction.jpg" style="width:200px; text-align:left;"></a><br/>
 
-<h5>4. Viruses as Complex Adaptive Systems</h5>
+<h5>4. Viruses as Complex Adaptive Systems (Book)</h5>
 Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. Princeton, New Jersey: Princeton University Press.<br/>
-<strong>Book</strong><br/> 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a><br/>
-<div style="font-size="8pt">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
+<div style="font-size:"8pt;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
 
-<h5>5. Virusphere: Ebola, AIDS, influenza and the hidden world of the virus</h5> 
+<h5>5. Virusphere: Ebola, AIDS, influenza and the hidden world of the virus (eBook)</h5> 
 Ryan, F. (2019). <i>Virusphere: Ebola, AIDS, influenza and the hidden world of the virus</i>. New York: HarperCollins Publisher.<br/>
-<strong>eBook</strong><br/> 
 <a href="https://nlb.overdrive.com/media/4281456"><img src="/images/NL-1-virusphere.jpg" style="width:200px; text-align:left;"></a>
 
 <h4>Journal Articles</h4>
