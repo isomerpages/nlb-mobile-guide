@@ -2,7 +2,7 @@
 layout: post
 title:  Reading gives us someplace to go when we have to stay where we are
 date:   2020-03-27
-permalink: /spotlight/well-being/2020-03-27-Reading-gives-us-someplace-to-go
+permalink: /spotlight/well-being/2020-03-27-reading-gives-us-someplace-to-go
 ---
 <img src="/images/PL-1-intro.jpg">
 <p><q>Reading gives us someplace to go when we have to stay where we are.</q> - Mason Cooley</p>
@@ -31,4 +31,15 @@ Health psychologist, Kelly McGonigal, shares how making stress your friend and a
 <a href="https://go.gov.sg/videothepowerofvulnerability"><img src="/images/PL-1-video-vulnerability.png"></a>
 We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well-being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
 
+<h4>Stories on the Internet</h4>
+<h5>I Spent a Year in Space, and I Have Tips on Isolation to Share</h5>
+<i>Scott Kelly</i>. Published on The New York Times, 21 Mar 2020. <br/>
+Retired astronaut, Scott Kelly spent almost a year in space and has some advice about staying in one place and keeping well. Visit this website to find out how he survived in a small space where going outside was not as easy as opening the front door of your home. <a href="https://go.gov.sg/article-astronautscottkellyisolation"</a>Read the article.</a>
+
+<h4>eLearning videos from Lynda Library</h4>
+<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection of video tutorials - <a href="/get-started-with/lynda/">find out how</a>.</p>
+<h5>De-stress: Meditation and Movement for Stress Management: Out of Mind</h5>
+<p>A set of calming exercises that can be done anytime at your work desk or home office all while seated down.<a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html">Watch the video.</a></p>
+<h5>Health and Wellness When You Work Remotely</h5>
+<p>To be productive when working remotely, you have to take care of yourself. <a href="https://go.gov.sg/lyndalibraryhealthandwellnessfrworkremotely">Watch the video.</a></p>
 
