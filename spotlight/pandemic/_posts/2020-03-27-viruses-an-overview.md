@@ -27,7 +27,7 @@ Crawford, D. H. (2020). <i>Viruses: A very short introduction</i>. Oxford, UK: O
 <h5>4. Viruses as Complex Adaptive Systems (Book)</h5>
 Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. Princeton, New Jersey: Princeton University Press.<br/>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a><br/>
-<div style="font-size:"8pt;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
+<div style="font-size:8pt;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
 
 <h5>5. Virusphere: Ebola, AIDS, influenza and the hidden world of the virus (eBook)</h5> 
 Ryan, F. (2019). <i>Virusphere: Ebola, AIDS, influenza and the hidden world of the virus</i>. New York: HarperCollins Publisher.<br/>
