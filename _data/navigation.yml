@@ -25,11 +25,11 @@
   url: /pages/
   sub-links:
   - title: Bond with loved ones 
-    url: /pages/parent/
+    url: /parent/
   - title: Fuel reading habit
-    url: /pages/reader/
+    url: /reader/
   - title: Learn new skills
-    url: /pages/learner/
+    url: /learner/
 
 - title: Spotlight
   url: /spotlight/
@@ -40,5 +40,5 @@
     url: /spotlight/pandemics/
   - title: Upskill
     url: /spotlight/upskill/
- # - title: Well-being
- #   url: /spotlight/well-being/
+  - title: Well-being
+    url: /spotlight/well-being/
