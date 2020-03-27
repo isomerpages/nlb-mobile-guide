@@ -11,7 +11,6 @@ permalink: /spotlight/pandemic/viruses-an-overview
 <p>Antibiotics that are prescribed for bacterial infections do not work against viruses. For most viral infections, treatments can only ease symptoms, although there are antiviral medicines that may be effective. Vaccines can also help prevent many viral diseases.</p>
 <p>Find out more about viruses and how viral infections can be controlled and treated through the resources listed below.</p>
 
-<h3>Resources</h3>
 <h4>Books / eBooks</h4>
 <h5>1. Infection Prevention and Control at a Glance</h5>
 Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and control at a glance</i>. Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd.<br/>
