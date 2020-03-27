@@ -4,9 +4,6 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-
 - title: Get Started With...
   url: /get-started-with/NLB-Mobile/
   sub-links:
@@ -42,3 +39,6 @@
     url: /spotlight/upskill/
   - title: Well-being
     url: /spotlight/well-being/
+
+- title: Contact Us
+  url: /contact-us/
