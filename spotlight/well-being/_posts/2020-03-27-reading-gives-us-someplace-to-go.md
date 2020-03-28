@@ -6,7 +6,7 @@ permalink: /spotlight/well-being/2020-03-27-reading-gives-us-someplace-to-go
 ---
 <img src="/images/PL-1-intro.jpg">
 <p><q>Reading gives us someplace to go when we have to stay where we are.</q> - Mason Cooley</p>
-<p>Welcome to our Well-Being Resource list! What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. Learn from the experiences and insights of others and get tips that we hope you can apply to your own life.</p>
+<p>What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. Learn from the experiences and insights of others and get tips that we hope you can apply to your life.</p>
 
 <h4>eBooks</h4>
 <p>In these trying and uncertain times, self-care is important. Here are some choice eBooks to tide us through as we keep calm and be kind to ourselves and those around us.</p>
@@ -39,7 +39,7 @@ Call Number: English 158 HAM. Edinburgh : Canongate, 2019.<br/>
 With more free time at home, many of us might be forgoing sleep to binge watch the latest TV shows.  Rest is still one of the most important facets of self-care and this book highlights the importance of doing so.  <br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204035483">availability at the libraries</a>. 
 
-<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b" style="text-decoration:none;">Tiny Habits: the Small Changes that Change Everything</a></h5>
+<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b" style="text-decoration:none;">Tiny Habits: The Small Changes that Change Everything</a></h5>
 <i>B.J. Fogg</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b"><img src="/images/PL-1-tiny-habits.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158.1 FOG. London: Virgin Books, 2019.<br/>
@@ -53,7 +53,7 @@ Health psychologist, Kelly McGonigal, shares how making stress your friend and a
 
 <h5>2. <a href="https://go.gov.sg/videothepowerofvulnerability">The Power of Vulnerability by Brene Brown</a></h5>
 <a href="https://go.gov.sg/videothepowerofvulnerability"><img src="/images/PL-1-video-vulnerability.png" style="width:400px;"></a><br/>
-We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well-being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
+We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
 
 <h4>Stories on the Internet</h4>
 <p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
