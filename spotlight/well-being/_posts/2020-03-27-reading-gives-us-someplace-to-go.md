@@ -73,7 +73,7 @@ Health psychologist, Kelly McGonigal, shares how making stress your friend and a
 We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well-being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
 
 <h4>Stories on the Internet</h4>
-<p><strong><a href="https://go.gov.sg/article-astronautscottkellyisolation">I Spent a Year in Space, and I Have Tips on Isolation to Share</a></strong>
+<p><strong><a href="https://go.gov.sg/article-astronautscottkellyisolation">I Spent a Year in Space, and I Have Tips on Isolation to Share</a></strong><br/>
 <i>Scott Kelly</i>. Published on The New York Times, 21 Mar 2020. <br/>
 Retired astronaut, Scott Kelly spent almost a year in space and has some advice about staying in one place and keeping well. Visit this website to find out how he survived in a small space where going outside was not as easy as opening the front door of your home.</p>
 
