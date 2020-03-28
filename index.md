@@ -3,5 +3,5 @@ layout: homepage
 title: NLB Mobile app - User Guide
 permalink: /
 ---
-<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
+From 1 April to 30 June 2020, you can borrow physical ibrary materials for 42 days (6 weeks), double the previous loan period of 21 days (3 weeks). For eBooks/audiobooks, the loan period remains at 21 days. 
 
