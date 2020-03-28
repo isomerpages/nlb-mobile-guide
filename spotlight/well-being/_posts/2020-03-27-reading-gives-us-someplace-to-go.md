@@ -29,7 +29,7 @@ Call Number: English 616.8527 GOL-&#91;HEA&#93;. New York, NY: Atria Books, 2015
 Call Number: English 331.2568 FRI-&#91;BIZ&#93;. London: Vermilion, an imprint of Ebury Publishing, 2013.<br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cc98f843-3183-48c9-a370-0f740e47be3e">Borrow the eBook</a> or check its <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200168848">availability at the libraries</a>. 
 
-<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c377493c-f5f4-410b-a930-e073376c06af">The Complete Book of Home Organization</a></h5>
+<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c377493c-f5f4-410b-a930-e073376c06af" style="text-decoration:none;">The Complete Book of Home Organization</a></h5>
 <i>Toni Hammersley</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c377493c-f5f4-410b-a930-e073376c06af" style="text-decoration:none;"><img src="/images/PL-1-home-organization.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 648 HAM. San Francisco, CA: Weldon Owen, 2016.<br/>
