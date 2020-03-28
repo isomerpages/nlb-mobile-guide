@@ -2,7 +2,7 @@
 layout: post
 title:  Reading gives us someplace to go when we have to stay where we are
 date:   2020-03-27
-permalink: /spotlight/well-being/2020-03-27-reading-gives-us-someplace-to-go
+permalink: /spotlight/wellbeing/2020-03-27-reading-gives-us-someplace-to-go
 ---
 <img src="/images/PL-1-intro.jpg">
 <p><q>Reading gives us someplace to go when we have to stay where we are.</q> - Mason Cooley</p>
@@ -53,7 +53,7 @@ Health psychologist, Kelly McGonigal, shares how making stress your friend and a
 
 <h5>2. <a href="https://go.gov.sg/videothepowerofvulnerability">The Power of Vulnerability by Brene Brown</a></h5>
 <a href="https://go.gov.sg/videothepowerofvulnerability"><img src="/images/PL-1-video-vulnerability.png" style="width:400px;"></a><br/>
-We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
+We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of wellbeing. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
 
 <h4>Stories on the Internet</h4>
 <p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
