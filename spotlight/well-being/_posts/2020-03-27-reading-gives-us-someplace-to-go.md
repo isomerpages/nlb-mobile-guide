@@ -64,8 +64,8 @@ Among all professions, perhaps it is the astronauts who know best how to handle 
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-<a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html?org=nlb.gov.sg"><img src="/images/PL-1-Lynda-out-of.png"></a>
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html?org=nlb.gov.sg"  style="width:400px;">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
+<a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html?org=nlb.gov.sg"><img src="/images/PL-1-Lynda-out-of.png" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html?org=nlb.gov.sg">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
 A set of calming exercises that can be done anytime at your work desk or home office all while seated down.</p>
 
 <a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html?org=nlb.gov.sg"><img src="/images/PL-1-Lynda-work-remotely.png" style="width:400px;"></a>
