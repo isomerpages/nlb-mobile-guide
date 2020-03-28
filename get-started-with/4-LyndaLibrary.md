@@ -29,7 +29,7 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i
 <div class="acc-body">
   <p>To learn on the go, sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
       </p>
-      If you prefer to do your eLearning on a desktop PC or laptop instead, you can! Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.
+      <p>If you prefer to do your eLearning on a desktop PC or laptop instead, you can! Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.</p>
 
 
 </div></div>
@@ -49,7 +49,7 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i
         <label for="acc16">Do I need a Lynda.com or a LinkedIn account? </label>
 
 <div class="acc-body">
-      <p>This is optional as long as you access the online courses from the NLB Mobile app. As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
+	<p>This is optional as long as you access the online courses from the <b>NLB Mobile app</b>. As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to. However, if you sign in from a desktop, you will be prompted to create a Lynda.com profile to save your history and bookmarks.</p>
     </div>
 </div>
 
