@@ -27,7 +27,7 @@ Patrick Lencioni offers a satisfactory fable about an executive wrestling to tak
 Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4cc45dd8-ece7-454e-9ed8-336e77290710">full version of The Five Dysfunctions of a Team</a> or listen to the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=48b9d0d3-079e-4782-8d9b-e3861b35f5e6">audiobook</a>.
 
 <h3>Manage your life</h3> 
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829" style="text-decoration:none;"><img src="/images/ebook-GA-100yearlife.jpeg" style="width:300px; align:left;">The The 100 Year Life (Summary)</a></h4>
+<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829" style="text-decoration:none;">The The 100 Year Life (Summary)</a></h4>
 <i>Lynda Gratton, Andrew Scott</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829"><img src="/images/ebook-GA-100yearlife.jpeg" style="width:300px; align:left;"></a></div><br/>
 Celebrating a 100th birthday used to be a rare occurrence. But our lifespans are increasing – in 2009, there were 10 thousand Singaporeans who are aged 90 years and above; in 2019, there were 19 thousand Singaporeans. The gift of a long life brings unexpected complications. In this well-researched overview, London Business School professors Lynda Gratton and Andrew Scott address some of these issues – support yourself during an extended retirement, maintaining beneficial relationships, how to plan for multiple careers. <br/>
