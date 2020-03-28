@@ -65,11 +65,11 @@ Call Number: English 158 HAM. Edinburgh : Canongate, 2019.<br/>
 
 <h4>TED Talk Videos</h4>
 <h5>1. <a href="https://go.gov.sg/video-stressyourfriend">How to Make Stress Your Friend by Kelly McGonigal</a></h5>
-<a href="https://go.gov.sg/video-stressyourfriend"><img src="/images/PL-1-video-friend.png"></a>
+<a href="https://go.gov.sg/video-stressyourfriend"><img src="/images/PL-1-video-friend.png" style="width:400px;"></a><br/>
 Health psychologist, Kelly McGonigal, shares how making stress your friend and adopting this mindset in this highly-tense world may be the way to better health. <a href="https://go.gov.sg/video-stressyourfriend">Watch the video.</a>
 
 <h5>2. <a href="https://go.gov.sg/videothepowerofvulnerability">The Power of Vulnerability by Brene Brown</a></h5>
-<a href="https://go.gov.sg/videothepowerofvulnerability"><img src="/images/PL-1-video-vulnerability.png"></a>
+<a href="https://go.gov.sg/videothepowerofvulnerability"><img src="/images/PL-1-video-vulnerability.png" style="width:400px;"></a><br/>
 We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well-being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
 
 <h4>Stories on the Internet</h4>
