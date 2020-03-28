@@ -63,7 +63,7 @@ Call Number: English 158 HAM. Edinburgh : Canongate, 2019.<br/>
 <b>The art of rest : how to find respite in the modern age</b>. With more free time at home, many of us might be forgoing sleep to binge watch the latest TV shows.  Rest is still one of the most important facets of self-care and this book highlights the importance of doing so.  <br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204035483">availability at the libraries</a>. 
 
-<h4>Videos</h4>
+<h4>TED Talk Videos</h4>
 <h5>1. <a href="https://go.gov.sg/video-stressyourfriend">How to Make Stress Your Friend by Kelly McGonigal</a></h5>
 <a href="https://go.gov.sg/video-stressyourfriend"><img src="/images/PL-1-video-friend.png"></a>
 Health psychologist, Kelly McGonigal, shares how making stress your friend and adopting this mindset in this highly-tense world may be the way to better health. <a href="https://go.gov.sg/video-stressyourfriend">Watch the video.</a>
@@ -73,14 +73,14 @@ Health psychologist, Kelly McGonigal, shares how making stress your friend and a
 We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well-being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
 
 <h4>Stories on the Internet</h4>
-<h5><a href="https://go.gov.sg/article-astronautscottkellyisolation">I Spent a Year in Space, and I Have Tips on Isolation to Share</a></h5>
+<p><strong><a href="https://go.gov.sg/article-astronautscottkellyisolation">I Spent a Year in Space, and I Have Tips on Isolation to Share</a></strong>
 <i>Scott Kelly</i>. Published on The New York Times, 21 Mar 2020. <br/>
-Retired astronaut, Scott Kelly spent almost a year in space and has some advice about staying in one place and keeping well. Visit this website to find out how he survived in a small space where going outside was not as easy as opening the front door of your home.
+Retired astronaut, Scott Kelly spent almost a year in space and has some advice about staying in one place and keeping well. Visit this website to find out how he survived in a small space where going outside was not as easy as opening the front door of your home.</p>
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection of video tutorials - <a href="/get-started-with/lynda/">find out how</a>.</p>
-<h5>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></h5>
-<p>A set of calming exercises that can be done anytime at your work desk or home office all while seated down.</p>
-<h5>2. <a href="https://go.gov.sg/lyndalibraryhealthandwellnessfrworkremotely">Health and Wellness When You Work Remotely</a></h5>
-<p>To be productive when working remotely, you have to take care of yourself.</p>
+<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
+A set of calming exercises that can be done anytime at your work desk or home office all while seated down.</p>
+<strong>2. <a href="https://go.gov.sg/lyndalibraryhealthandwellnessfrworkremotely">Health and Wellness When You Work Remotely</a></strong><br/>
+To be productive when working remotely, you have to take care of yourself.</p>
 
