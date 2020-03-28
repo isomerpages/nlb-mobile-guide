@@ -3,7 +3,7 @@ title-abbreviated: NLB Mobile app
 description: >- # this means to ignore newlines until "baseurl:"
   Find out how the NLB Mobile app can be your personal library to let you read and learn anytime, anywhere. Get help on using NLB Mobile.
 url: "https://mobileapp.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-notification: Beta - From 1 April 2020, we are extending the loan period to 6 weeks! Find out more.
+# notification: From 1 April 2020, we are extending the loan period of library items - books and ebooks - to 6 weeks! 
 
 # Build settings
 markdown: kramdown
