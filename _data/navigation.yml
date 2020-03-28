@@ -19,14 +19,14 @@
     url: /get-started-with/lynda/
 
 - title: Top Tips
-  url: /pages/
+  url: /toptips/reader
   sub-links:
   - title: Families and Children
-    url: /parent/
-  - title: Read More
-    url: /reader/
+    url: /toptips/parent/
+  - title: Readers
+    url: /toptips/reader/
   - title: Learn New Skills
-    url: /learner/
+    url: /toptips/learner/
 
 - title: Spotlight
   url: /spotlight/
