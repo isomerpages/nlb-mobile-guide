@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /reader/
+permalink: /toptips/reader/
 breadcrumb: Fuel My Reading Habit
 title: Fuel My Reading Habit
 ---
