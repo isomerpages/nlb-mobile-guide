@@ -3,6 +3,8 @@ layout: post
 title:  Get More Than 20,000 eBooks on Business Skills and Emerging Trends 
 date:   2020-03-26
 permalink: /spotlight/upskill/get-more-than-20-thousand-ebooks-on-business-skills-and-emerging-trends
+image:/images/business-library.jpg
+description: Our Digital Business Library is a dedicated resource for professionals and executives, with more than 20,000 eBooks and audiobooks.
 ---
 
 <img src="/images/business-library.jpg"><br/>
