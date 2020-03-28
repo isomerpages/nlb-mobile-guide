@@ -9,7 +9,7 @@ permalink: /spotlight/well-being/2020-03-27-reading-gives-us-someplace-to-go
 <p>Welcome to our Well-Being Resource list! What we read feeds our souls and this list of e-books, articles and videos have suggestions to help you stay calm and feel at peace. Learn from the experiences and insights of others and get tips that we hope you can apply to your own life.</p>
 
 <h4>Books</h4>
-<p><strong>In these trying and uncertain times, self-care is important. Here are some choice books to tide us through as we keep calm and be kind to ourselves and those around us.</strong></p>
+<p>In these trying and uncertain times, self-care is important. Here are some choice books to tide us through as we keep calm and be kind to ourselves and those around us.</p>
 
 <h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3" style="text-decoration:none;">The Art of Not Falling Apart</a></h5>
 <i>Christina Patterson</i><br/>
@@ -81,6 +81,6 @@ Retired astronaut, Scott Kelly spent almost a year in space and has some advice 
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection of video tutorials - <a href="/get-started-with/lynda/">find out how</a>.</p>
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
 A set of calming exercises that can be done anytime at your work desk or home office all while seated down.</p>
-<strong>2. <a href="https://go.gov.sg/lyndalibraryhealthandwellnessfrworkremotely">Health and Wellness When You Work Remotely</a></strong><br/>
+<p><strong>2. <a href="https://go.gov.sg/lyndalibraryhealthandwellnessfrworkremotely">Health and Wellness When You Work Remotely</a></strong><br/>
 To be productive when working remotely, you have to take care of yourself.</p>
 
