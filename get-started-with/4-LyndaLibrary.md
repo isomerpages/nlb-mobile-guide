@@ -54,6 +54,15 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i
 </div>
 
 <div>
+		<input type="radio" name="acc" id="acc20">
+        <label for="acc20">I have a Lynda.com account. Can I still enjoy NLB’s subscription to LyndaLibrary to
+access training courses?</label>
+<div class="acc-body">
+      <p>Yes! All NLB members can enjoy free access to training courses from NLB’s subscription to LyndaLibrary, even if they have their own personal subscription to Lynda.com. You have the option to keep both accounts separate. </p>
+    </div>
+    </div>
+
+<div>
 		<input type="radio" name="acc" id="acc17">
         <label for="acc17">Do I need to install the Lynda mobile app?</label>
 <div class="acc-body">
@@ -71,5 +80,13 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i
             </div>
 </div><!--close FAQ-section-->
 
-<h2>Other Questions</h2>
+<h2>Troubleshooting</h2>
+<div>
+		<input type="radio" name="acc" id="acc21">
+        <label for="acc21">I can't log in to LyndaLibrary.</label>
+        <div class="acc-body">
+            <p>We're sorry! Please <a href="mailto:enquiry@nlb.gov.sg" target="_top">email us</a> and provide details of the issue, including a screenshot.</p>
+      </div>
+            </div>
 <p>Don't see your question here? We're sorry. There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Open/FAQ/6">eResources FAQ page on LyndaLibrary</a> and in <a href="https://www.linkedin.com/help/lynda">Lynda's own Help page</a>. Tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </p>
+
