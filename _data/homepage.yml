@@ -21,11 +21,11 @@ hero-dropdown-text: "I want to..."
 # I want to dropdown
 i-want-to:
   - title: bond with my loved ones through reading and learning. 
-    url: /parent/
+    url: /toptips/parent/
   - title: fuel my reading habit.
-    url: /reader/
+    url: /toptips/reader/
   - title: learn – to further skills or interests, and/or advance my career.
-    url: /learner/
+    url: /toptips/learner/
     
 # Info Sections
 info-sections:
