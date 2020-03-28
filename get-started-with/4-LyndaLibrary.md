@@ -14,7 +14,8 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware Ly
             <li style="margin-left: 20px;">e.g. There is a course on the world-renowned <a href="https://www.lynda.com/Business-Skills-tutorials/Getting-Things-Done/170776-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3adavid+allen%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2">Getting Things Done productivity method course</a> taught by its creator, David Allen. </li>
     </ul>
 	<li> <b>Learn on the go:</b> One-tap access through the NLB Mobile app</li>
-	<li> <b>Learn hands-on:</b> Apply your new knowledge immediately with the exercises and quizzes included </li>
+	<li> <b>Learn hands-on:</b> Apply your new knowledge immediately with the exercises and quizzes included (not available on mobile devices, only on desktop PCs and laptops)</li>
+
 
 <p>The NLB Mobile app is available for download on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
 
@@ -28,7 +29,7 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware Ly
 <div class="acc-body">
   <p>To learn on the go, sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
       </p>
-      If you prefer to do your eLearning on a computer instead, you can! Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.
+      If you prefer to do your eLearning on a desktop PC or laptop instead, you can! Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.
 
 </div></div>
 
@@ -54,10 +55,10 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware Ly
 <div>
 		<input type="radio" name="acc" id="acc17">
         <label for="acc17">Do I need to install the Lynda mobile app?</label>
-
 <div class="acc-body">
-      <p>You don't need the Lynda mobile app to access the online courses. But if you wish to use the Lynda app, e.g. to download courses for offline viewing, you can! Just follow the steps listed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_mobile">eResources FAQ page on LyndaLibrary</a>.</p>
+      <p>You don't need the Lynda mobile app to access the online courses. But if you wish to use the Lynda app (e.g. to download courses for offline viewing) you can! Just follow the steps listed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_mobile">eResources FAQ page on LyndaLibrary</a>.</p>
     </div>
+
     </div>
 
 <div>
