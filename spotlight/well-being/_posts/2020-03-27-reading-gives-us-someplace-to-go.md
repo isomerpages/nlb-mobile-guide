@@ -18,8 +18,6 @@ Call Number: English 070.92 PAT. London: Atlantic Books, 2019.<br/>
 Life is an adventure. As we navigate a new normal, learn the ways others have dealt with the unexpected and come out of it with a new perspective on life.<br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202801439">availability at the libraries</a>. 
 
- 
-
 <h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12" style="text-decoration:none;">A Sloth's Guide to Mindfulness</a></h5>
 <i>Ton Mak</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12"><img src="/images/PL-1-sloth.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -58,11 +56,11 @@ Health psychologist, Kelly McGonigal, shares how making stress your friend and a
 We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of well-being. <a href="https://go.gov.sg/videothepowerofvulnerability">Watch the video.</a>
 
 <h4>Stories on the Internet</h4>
-<p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">I Spent a Year in Space, and I Have Tips on Isolation to Share</a></strong><br/>
+<p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
 <i>Chelsea Gohd</i>. Published on space.com, 23 March 2020.<br/>
 Cooped up at home?<br/>
-Among all professions, perhaps it is the astronauts who know best how to handle isolation: here are tips from Scott Kelly, Peggy Whitson and more.<br/>
-<a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">Visit this website</a> to find out how they manage well in a small space when going outside is not as easy as opening the front door of your home. </p>
+Among all professions, perhaps it is the astronauts who know best how to handle isolation: here are tips from ex-NASA astronouts Scott Kelly and Peggy Whitson, and retired Canadian astronaut Chris Hadfield.<br/>
+<a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">Visit this website</a> to find out how they manage well in a small space when going outside is not as easy as opening the front door of your home.</p>
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
