@@ -27,8 +27,17 @@ Libby_flowchart_animatedGIF.gif)
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and eAudiobooks.</p>
 <p><strong>NLB Mobile</strong> lets you easily check your account and access our resources. You can borrow eBooks / eAudiobooks, access eNewspapers / eMagazines and online courses. </p><p>While NLB Mobile lets you read or listen to eBooks / eAudiobooks while you are connected to the Internet, it does not have an in-built reader for you to read downloaded eBooks.</p>
 <p><strong>Libby </strong>is a third-party app by OverDrive. You can borrow and download NLB's eBooks / eAudiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
-</div><!--close div for acc1 (question)-->
-</div><!--close div for acc-body (answer)-->
+</div><!--close div for acc-body-->
+</div><!--close div for qn-->
+<div>
+		<input type="radio" name="acc" id="acc20">
+		<label for="acc20">I like Libby but it doesn't have an app for the OS that I'm using.</label>
+<div class="acc-body">
+  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/libary/nlb">libbyapp.com/libary/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
+</div>
+</div>
+
+</div><!--acc-container-->
 <p> <a name="reservation"><h2>Getting Started with Libby</h2></a></p>
 <div class="acc-kontainer">          
 	<div>

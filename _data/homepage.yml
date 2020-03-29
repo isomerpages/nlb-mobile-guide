@@ -21,11 +21,11 @@ hero-dropdown-text: "I want to..."
 # I want to dropdown
 i-want-to:
   - title: bond with my loved ones through reading and learning. 
-    url: /parent/
+    url: /toptips/parent/
   - title: fuel my reading habit.
-    url: /reader/
+    url: /toptips/reader/
   - title: learn – to further skills or interests, and/or advance my career.
-    url: /learner/
+    url: /toptips/learner/
     
 # Info Sections
 info-sections:
@@ -35,39 +35,45 @@ info-sections:
     section-more-button: Install NLB Mobile
     section-more-button-url: /get-started-with/nlb-mobile/
     section-image-path: /images/home_download_210120.png
+    section-image-alt: NLB Mobile app screenshot
   - section-title: 
     section-subtitle: Read on the Go 
     section-description: With an ever-expanding collection of eBooks and eAudiobooks, there’s always something to check out. 
     section-more-button: Learn How to Download eBooks and eAudiobooks
     section-more-button-url: /get-started-with/Libby/
     section-image-path: /images/Home_ReadOnTheGo_tut2_landscape.jpg
+    section-image-alt: curated eBooks 
   - section-title: 
     section-subtitle: Scan to Borrow
     section-description: Use the in-app camera or scan your virtual library card to borrow books.
     section-more-button: Learn How
     section-more-button-url: /get-started-with/nlb-mobile/
     section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
+    section-image-alt: Borrow both ebooks and physical books with the in-app camera 
   - section-title: 
     section-subtitle: Read eNewspapers and eMagazines
     section-description: Choose from more than 7,000 current issues of international publications.
     section-more-button: Learn How
     section-more-button-url: /get-started-with/PressReader/
     section-image-path: /images/Home_news_landscape.png
+    section-image-alt: Publications include The Washington Post, NewsWeek, Bloomsberg Businessweek
   - section-title: 
     section-subtitle: Learn New Skills
     section-description: Learn on the go from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning).  
     section-more-button: Ways to learn anytime, anywhere
     section-more-button-url: /learner/
     section-image-path: /images/Home_learn.jpg
+    section-image-alt: Video courses on business, design and technology 
   - section-title: 
     section-subtitle: Manage Your Account 
     section-description: Manage all your family members’ accounts from one app. Check due dates, manage reservations and more!
     section-more-button: Download NLB Mobile Now
     section-more-button-url: /get-started-with/nlb-mobile/
     section-image-path: /images/Home_ManageAccts.png
+    section-image-alt: Switch the profiles on the app with a few taps 
 
 
-# resources-title: Resources
-# resources-subtitle: Be in the know
-# resources-more-button: More Resources
-# resources-more-button-url: resource-room/
+resources-title: Spotlight
+resources-subtitle: Resources Curated by Our Librarians
+resources-more-button: More Resources
+resources-more-button-url: /spotlight/

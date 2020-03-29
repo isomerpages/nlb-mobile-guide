@@ -4,10 +4,7 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-
-- title: Get Started With...
+- title: Get Started 
   url: /get-started-with/NLB-Mobile/
   sub-links:
   - title: Library Membership and myLibrary ID 
@@ -18,14 +15,30 @@
     url: /get-started-with/PressReader/
   - title: Reading eBooks and eAudiobooks
     url: /get-started-with/Libby/
-#- title: Resource Room
-#  url: /resource-room/
-#  sub-links:
-#  - title: All
-#    url: /resource-room/
-#  - title: Subcategory A
-#    url: /resource-room/subcategory-A/
-#  - title: Subcategory B
-#  url: /resource-room/subcategory-B/
-#  - title: Subcategory C
-#    url: /resource-room/subcategory-C/
+  - title: eLearning
+    url: /get-started-with/lynda/
+
+- title: Top Tips
+  url: /toptips/reader
+  sub-links:
+  - title: Families and Children
+    url: /toptips/parent/
+  - title: Avid Readers
+    url: /toptips/reader/
+  - title: Learn New Skills
+    url: /toptips/learner/
+
+- title: Spotlight
+  url: /spotlight/
+  sub-links:
+  - title: All
+    url: /spotlight/
+  - title: Pandemics
+    url: /spotlight/pandemics/
+  - title: Upskill
+    url: /spotlight/upskill/
+  - title: Wellbeing
+    url: /spotlight/wellbeing/
+
+- title: Contact Us
+  url: /contact-us/

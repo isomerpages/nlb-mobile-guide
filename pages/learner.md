@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /learner/
+permalink: /toptips/learner/
 breadcrumb: Learn
 title: Learn
 ---

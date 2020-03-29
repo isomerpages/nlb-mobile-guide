@@ -14,7 +14,6 @@ An **international** digital newsstand on the go:
 	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
 <li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
 	</ul>
-
   <h2>How to Read eNewspapers and eMagazines</h2> 
 <div class="vd">
      <video width="720px" controls>
@@ -23,6 +22,7 @@ An **international** digital newsstand on the go:
 </div>
 
 <p> <h2>How to Read SPH eNewspapers</h2> </p>
+
 ![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
 <p>	
 <div class="FAQ-section" id="PressReaderStart"> 
