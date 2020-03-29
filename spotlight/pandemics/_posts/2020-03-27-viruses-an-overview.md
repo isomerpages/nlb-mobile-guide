@@ -75,13 +75,13 @@ Kutter, J. S. &#91;et. al.&#93;. (2018, February). <a href="https://www.scienced
 <h5>2. Emerging respiratory viruses in children</h5>
 Schuster, J. E. (2018, March). <a href="https://www.id.theclinics.com/article/S0891-5520(17)30096-X/fulltext">Emerging respiratory viruses in children</a>. <i>Infectious Disease Clinics</i>, 31 (1), 65-74. Retrieved March 25, 2020.
 
-<h5>2. Factors affecting the tissue damaging consequences of viral infections</h5>
+<h5>3. Factors affecting the tissue damaging consequences of viral infections</h5>
 Sumbria D., Berber E. and Rouse B.T. (2019, October 4). <a href="https://doi.org/10.3389/fmicb.2019.02314">Factors Affecting the Tissue Damaging Consequences of Viral Infections</a>. <i>Front. Microbiol</i>, 10:2314. Retrieved March 26, 2020.
 
-<h5>3. Viral evolution and Immune responses</h5>
+<h5>4. Viral evolution and Immune responses</h5>
 Domingo-Calap, P. (2019) <a href="https://doi.org/10.17352/jcmbt.000033">Viral evolution and Immune responses</a>. <i>Journal of Clinical Microbiology and Biochemical Technology</i>, 5(2): 013-018. Retrieved March 26, 2020.
 
-<h5>4. Rates of asymptomatic respiratory virus infection across age groups</h5>
+<h5>5. Rates of asymptomatic respiratory virus infection across age groups</h5>
 Galanti, M. [et. al.]. (2019). Rates of asymptomatic respiratory virus infection across age groups. <i>Epidemiology and Infection</i>, 147, 1-6. Retrieved March 25, 2020. To access this article, please go to <a href="http://eresources.nlb.gov.sg/main/">NLB’s eResources website</a> - ProQuest Central database. You will require myLibraryID to access this article.
 
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
