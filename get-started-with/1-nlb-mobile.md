@@ -17,21 +17,6 @@ Your personal library, anywhere, anytime:
 
 <p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
 
-<p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
-<div class="vd">
-     <video width="720px" controls>
-  <source src="/images/Read_eBooks.mp4" type="video/mp4" />
-</video>
-</div>
-
-<h3>How to Borrow Physical Items using the NLB Mobile app</h3>
-<p><strong>Option 1: Use the in-app barcode scanner</strong></p>
-![How to borrow physical items with the NLB Mobile app, using the in-app barcode scanner](/images/NLBMobile_ScantoBorrow_animatedGIF.gif)
-<p><strong>Option 2: Use the Borrowing Station</strong></p>
-![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)	
-
-<p></p>
-
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc1">
@@ -72,6 +57,22 @@ Your personal library, anywhere, anytime:
 		</ul>
 		</div>
 		</div>
+
+
+<p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
+<div class="vd">
+     <video width="720px" controls>
+  <source src="/images/Read_eBooks.mp4" type="video/mp4" />
+</video>
+</div>
+
+<h3>How to Borrow Physical Items using the NLB Mobile app</h3>
+<p><strong>Option 1: Use the in-app barcode scanner</strong></p>
+![How to borrow physical items with the NLB Mobile app, using the in-app barcode scanner](/images/NLBMobile_ScantoBorrow_animatedGIF.gif)
+<p><strong>Option 2: Use the Borrowing Station</strong></p>
+![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)	
+
+<p></p>
 
 <p><h2>Setting Up NLB Mobile</h2></p>
     <div>
