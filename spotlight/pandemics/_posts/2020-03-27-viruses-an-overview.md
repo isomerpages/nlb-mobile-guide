@@ -19,12 +19,14 @@ Flu Virus 101 (2018, August 1). <i>National Geographic</i>. Retrieved March 26, 
 
 <h5>2. <a href="https://www.youtube.com/watch?v=X31g5TB-MRo">Where did viruses come from?</a></h5>
 Where did viruses come from? (2018, June 12). <i>PBS</i>. Retrieved March 25, 2020.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/X31g5TB-MRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h5>3. <a href="https://mondediplo.com/2020/03/05coronavirus-podcast">When viruses become pandemics</a></h5>
 Miller, G. (2020, March). When viruses become pandemics. <i>Le Monde</i>. Retrieved March 25, 2020.
 
 <h5>4. <a href="https://youtu.be/aFPyYoGViZs">Introduction to coronaviruses</a></h5>
 Introduction to Coronaviruses (SARS, MERS, COVID-19: Host, Symptoms, History of SARS and MERS). <i>JJ Medicine</i>. Retrieved March 25, 2020.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/aFPyYoGViZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h4>Websites</h4>
 <h5>1. <a href="https://www.cdc.gov/parainfluenza/about/index.html">Human Parainfluenza Viruses (HPIVs)</a></h5>
