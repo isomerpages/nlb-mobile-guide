@@ -40,7 +40,7 @@ Your personal library, anywhere, anytime:
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 		<p><strong>Borrow and read / listen</strong></p>
 		<ul>
-		<li>Borrow eBooks and eAudiobooks and read / listen to them online</li>
+		<li>Borrow eBooks and Audiobooks and read / listen to them online</li>
 		<li>Read eMagazines and eNewspapers</li>
 		<li>Borrow library items with the app instead of at the borrowing stations</li>
 		</ul>
@@ -153,7 +153,7 @@ Your personal library, anywhere, anytime:
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div></div>
 
-<p><h2>Borrowing physical items, eBooks and eAudiobooks</h2></p>
+<p><h2>Borrowing physical items, eBooks and Audiobooks</h2></p>
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">How can I borrow physical items with the NLB Mobile app?</label>
@@ -173,21 +173,21 @@ Your personal library, anywhere, anytime:
 
 <div>
 		<input type="radio" name="acc" id="acc9">
-        <label for="acc9">How many eBooks / eAudiobooks can I borrow?</label>
+        <label for="acc9">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
-  <p>Each member can borrow up to 16 eBooks / eAudiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
+  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
 </div></div>
 
 <div>
 		<input type="radio" name="acc" id="acc10">
-        <label for="acc10">How do I borrow eBooks / eAudiobooks with this app?</label>
+        <label for="acc10">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
  <p>Follow these simple steps:</p>
 <p><strong>Step One:</strong> In the app, search the catalogue for the titles you want.</p>
 <p><strong>Step Two:</strong> The search results will include both physical books you can find at the actual libraries as well as digital items that match your search terms. Select your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page.</p>
 <p><strong>Step Four:</strong> After the title has been checked out, you will be prompted to choose among these options: read / listen online, <a href="/get-started-with/Libby/">download the item</a> so you can read / listen offline or return to &lsquo;Home&rsquo;.</p>
-<p>You may view all your borrowed eBook / eAudiobook titles by selecting &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;. </p>
+<p>You may view all your borrowed eBook / Audiobook titles by selecting &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;. </p>
 
 </div></div>
 
@@ -196,30 +196,30 @@ Your personal library, anywhere, anytime:
 <div class="acc-kontainer">          
 	<div>
 		<input type="radio" name="acc" id="acc11">
-		<label for="acc11">How do I read the eBooks or listen to the eAudiobooks that I have borrowed?</label>
+		<label for="acc11">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
 <div class="acc-body">
  <p>Here are the steps:</p>
 <p><b>Step One:</b> In the app, select 'Account&rsquo;, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
-<p><b>Step Two:</b> You will see a &lsquo;Read Online&rsquo; option for eBooks or a &lsquo;Listen Online&rsquo; option for eAudiobooks. Select this option to read / listen online immediately within the app. </p>
+<p><b>Step Two:</b> You will see a &lsquo;Read Online&rsquo; option for eBooks or a &lsquo;Listen Online&rsquo; option for Audiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi.</em></p>
 <p>If you wish to read or listen offline, you may select the &lsquo;Download&rsquo; option. The app will automatically launch a third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
 </div></div>
 
   <div>
         <input type="radio" name="acc" id="acc12">
-        <label for="acc12">How do I return eBooks / eAudiobooks?</label>
+        <label for="acc12">How do I return eBooks / Audiobooks?</label>
 
 <div class="acc-body">
-  <p>One of the most convenient features of borrowing eBooks / eAudiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
+  <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
 <p>Just go to &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return early&rsquo; under the title&rsquo;s cover image.</p>
 
 </div></div>
 
 <div>
 		<input type="radio" name="acc" id="acc13">
-        <label for="acc13">How do I reserve eBooks / eAudiobooks? And can I cancel the reservation?</label>
+        <label for="acc13">How do I reserve eBooks / Audiobooks? And can I cancel the reservation?</label>
 <div class="acc-body">
-  <p>If the title you wish to borrow is not available, you can reserve it free of charge. You can reserve up to 16 eBooks / eAudiobooks. </p>
+  <p>If the title you wish to borrow is not available, you can reserve it free of charge. You can reserve up to 16 eBooks / Audiobooks. </p>
       <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you via email or the Libby app when your reservation is ready. To keep the reservation, simply respond to the notification within 10 days.</p>     
 	<p>You will have three options:</p>
 	<ul>
