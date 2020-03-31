@@ -15,7 +15,7 @@ permalink: /spotlight/pandemics/viruses-an-overview
 <h5>1. <a href="https://video.nationalgeographic.com/video/101-videos/00000164-fafd-de48-ad6d-fafd13aa0000">Flu virus 101</a></h5>
 Flu Virus 101 (2018, August 1). <i>National Geographic</i>. Retrieved March 26, 2020.
 
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/WSZEcpti2i0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/WSZEcpti2i0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h5>2. <a href="https://www.youtube.com/watch?v=X31g5TB-MRo">Where did viruses come from?</a></h5>
 Where did viruses come from? (2018, June 12). <i>PBS</i>. Retrieved March 25, 2020.
