@@ -21,7 +21,7 @@ Flu Virus 101 (2018, August 1). <i>National Geographic</i>. Retrieved March 26, 
 Where did viruses come from? (2018, June 12). <i>PBS</i>. Retrieved March 25, 2020.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/X31g5TB-MRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<h5>3. <a href="https://mondediplo.com/2020/03/05coronavirus-podcast">When viruses become pandemics</a></h5>
+<h5>3. <a href="https://mondediplo.com/2020/03/05coronavirus-podcast" target="_blank">When viruses become pandemics</a></h5>
 Miller, G. (2020, March). When viruses become pandemics. <i>Le Monde</i>. Retrieved March 25, 2020.
 
 <h5>4. <a href="https://youtu.be/aFPyYoGViZs">Introduction to coronaviruses</a></h5>
@@ -29,20 +29,20 @@ Introduction to Coronaviruses (SARS, MERS, COVID-19: Host, Symptoms, History of 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/aFPyYoGViZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.cdc.gov/parainfluenza/about/index.html">Human Parainfluenza Viruses (HPIVs)</a></h5>
+<h5>1. <a href="https://www.cdc.gov/parainfluenza/about/index.html" target="_blank">Human Parainfluenza Viruses (HPIVs)</a></h5>
 Human Parainfluenza Viruses (HPIVs). (2019). <i>Centers for Disease Control and Prevention</i>. 
 Retrieved March 25, 2020.
 
-<h5>2. <a href="https://www.discovermagazine.com/health/what-defines-a-pandemic-and-how-are-they-stopped">What defines a ‘Pandemic,’ and how are they stopped?</a></h5>
+<h5>2. <a href="https://www.discovermagazine.com/health/what-defines-a-pandemic-and-how-are-they-stopped" target="_blank">What defines a ‘Pandemic,’ and how are they stopped?</a></h5>
 What defines a ‘Pandemic,’ and how are they stopped? (2020). <i>Discover</i>. Retrieved March 26, 2020. 
 
-<h5>3. <a href="http://theconversation.com/pandemics-from-homer-to-stephen-king-what-we-can-learn-from-literary-history-133572">Pandemics from Homer to Stephen King: What we can learn from literary history</a></h5>
+<h5>3. <a href="http://theconversation.com/pandemics-from-homer-to-stephen-king-what-we-can-learn-from-literary-history-133572" target="_blank">Pandemics from Homer to Stephen King: What we can learn from literary history</a></h5>
 Pandemics from Homer to Stephen King: what we can learn from literary history. (2020). <i>The Conversation</i>. Retrieved March 26, 2020. 
 
-<h5>4. <a href="https://www.medicalnewstoday.com/categories/infectious_diseases">Infectious diseases / bacteria / viruses</a></h5>
+<h5>4. <a href="https://www.medicalnewstoday.com/categories/infectious_diseases" target="_blank">Infectious diseases / bacteria / viruses</a></h5>
 Infectious Diseases / Bacteria / Viruses. (2020). <i>Medical News Today</i>. Retrieved March 25, 2020.
 
-<h5>5. <a href="https://www.sciencedaily.com/news/health_medicine/viruses/">Viruses news</a></h5>
+<h5>5. <a href="https://www.sciencedaily.com/news/health_medicine/viruses/" target="_blank">Viruses news</a></h5>
 Viruses News. (2020). <i>Science Daily</i>. Retrieved March 25, 2020.<br/>
 
 <img src="/images/NL-1-hygiene.png" style="width:500px;">
@@ -64,29 +64,29 @@ Ryan, F. (2019). <i>Virusphere: Ebola, AIDS, influenza and the hidden world of t
 
 <h5>4. Viruses as Complex Adaptive Systems (Book)</h5>
 Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. Princeton, New Jersey: Princeton University Press.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831" target="_blank"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a>
 <div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
 
 <h5>5. Infection Prevention and Control at a Glance (Book)</h5>
 Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and control at a glance</i>. Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966" target="_blank"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a>
 <div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd, 2017 </div>
   
 <h4>Journal Articles</h4>
 <h5>1. Transmission routes of respiratory viruses among humans</h5>
-Kutter, J. S. &#91;et. al.&#93;. (2018, February). <a href="https://www.sciencedirect.com/science/article/pii/S1879625717301773">Transmission routes of respiratory viruses among humans</a>. <i>Current Opinion in Virology</i>, 28, 142-151. Retrieved March 25, 2020. 
+Kutter, J. S. &#91;et. al.&#93;. (2018, February). <a href="https://www.sciencedirect.com/science/article/pii/S1879625717301773" target="_blank">Transmission routes of respiratory viruses among humans</a>. <i>Current Opinion in Virology</i>, 28, 142-151. Retrieved March 25, 2020. 
 
 <h5>2. Emerging respiratory viruses in children</h5>
-Schuster, J. E. (2018, March). <a href="https://www.id.theclinics.com/article/S0891-5520(17)30096-X/fulltext">Emerging respiratory viruses in children</a>. <i>Infectious Disease Clinics</i>, 31 (1), 65-74. Retrieved March 25, 2020.
+Schuster, J. E. (2018, March). <a href="https://www.id.theclinics.com/article/S0891-5520(17)30096-X/fulltext" target="_blank">Emerging respiratory viruses in children</a>. <i>Infectious Disease Clinics</i>, 31 (1), 65-74. Retrieved March 25, 2020.
 
 <h5>3. Factors affecting the tissue damaging consequences of viral infections</h5>
-Sumbria D., Berber E. and Rouse B.T. (2019, October 4). <a href="https://doi.org/10.3389/fmicb.2019.02314">Factors Affecting the Tissue Damaging Consequences of Viral Infections</a>. <i>Front. Microbiol</i>, 10:2314. Retrieved March 26, 2020.
+Sumbria D., Berber E. and Rouse B.T. (2019, October 4). <a href="https://doi.org/10.3389/fmicb.2019.02314" target="_blank">Factors Affecting the Tissue Damaging Consequences of Viral Infections</a>. <i>Front. Microbiol</i>, 10:2314. Retrieved March 26, 2020.
 
 <h5>4. Viral evolution and Immune responses</h5>
-Domingo-Calap, P. (2019) <a href="https://doi.org/10.17352/jcmbt.000033">Viral evolution and Immune responses</a>. <i>Journal of Clinical Microbiology and Biochemical Technology</i>, 5(2): 013-018. Retrieved March 26, 2020.
+Domingo-Calap, P. (2019) <a href="https://doi.org/10.17352/jcmbt.000033" target="_blank">Viral evolution and Immune responses</a>. <i>Journal of Clinical Microbiology and Biochemical Technology</i>, 5(2): 013-018. Retrieved March 26, 2020.
 
 <h5>5. Rates of asymptomatic respiratory virus infection across age groups</h5>
-Galanti, M. [et. al.]. (2019). Rates of asymptomatic respiratory virus infection across age groups. <i>Epidemiology and Infection</i>, 147, 1-6. Retrieved March 25, 2020. To access this article, please go to <a href="http://eresources.nlb.gov.sg/main/">NLB’s eResources website</a> - ProQuest Central database. You will require myLibraryID to access this article.
+Galanti, M. [et. al.]. (2019). Rates of asymptomatic respiratory virus infection across age groups. <i>Epidemiology and Infection</i>, 147, 1-6. Retrieved March 25, 2020. To access this article, please go to <a href="http://eresources.nlb.gov.sg/main/" target="_blank">NLB’s eResources website</a> - ProQuest Central database. You will require myLibraryID to access this article.
 
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
 The information in this resource guide is valid as of March 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
