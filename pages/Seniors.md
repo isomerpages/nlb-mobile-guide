@@ -16,16 +16,18 @@ Did you know that you could read international eNewspapers and eMagazines from t
   <source src="/images/PressReaderVideo_PXS_NLBLogo.mp4" type="video/mp4" />
 </video>
 </div>
+
+<p><h2>Top Tips for Seniors</h2></p>
+<a href="/images/Reader_highres.png">![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)</a>
+<a href="/images/Reader_highres.png">Click to enlarge</a>
+
 <p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
 <p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
 <p>Find out more about <a href="/get-started-with/lynda/">eLearning</a>.</p>
 
 <p><h2>More Tips</h2></p>
-<a href="/images/Reader_highres.png">![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)</a>
-<a href="/images/Reader_highres.png">Click to enlarge</a>
-
-<p><h3>Be Savvy and Safe when you Go Digital</h3></p>
+<p><h5>Be Savvy and Safe when you Go Digital</h5></p>
 Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">IMDA's "Stay Healthy, Go Digital"</a> site. It includes content such as:
 <ul>
 <li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Articles and tips on staying safe in the digital world</a></li>
