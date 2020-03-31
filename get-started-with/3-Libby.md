@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 permalink: /get-started-with/Libby/
-breadcrumb: Reading eBooks and eAudiobooks
-title: Reading eBooks and eAudiobooks
+breadcrumb: eBooks and Audiobooks
+title: eBooks and Audiobooks
 ---
 <h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
