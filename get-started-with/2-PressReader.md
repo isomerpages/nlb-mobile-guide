@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 permalink: /get-started-with/PressReader/
-breadcrumb: Reading eMagazines and eNewspapers
-title: Reading eMagazines and eNewspapers
+breadcrumb: eMagazines and eNewspapers
+title: eMagazines and eNewspapers
 ---
 <h2>About PressReader</h2> 
 
