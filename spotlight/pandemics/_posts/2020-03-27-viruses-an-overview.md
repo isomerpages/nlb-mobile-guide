@@ -5,14 +5,14 @@ date:   2020-03-27
 permalink: /spotlight/pandemics/viruses-an-overview
 ---
 <img src="/images/NL-1-overview.jpg">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/">pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/</a></p>
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/" target="_blank">pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/</a></p>
 <p>Viruses are microscopic organisms that require a living host such as people, plants or animals to survive and reproduce. They have the ability to mutate as they multiply and these mutations may result in complications and challenging treatments for infected persons.</p>
 <p>Viruses are invasive and parasitic and when one invades your body, it can launch attacks on various parts of your body, such as the liver, respiratory system or blood. However, you may not always fall sick, as your immune system may be strong enough to fight off the infection. Viral respiratory infections commonly affect the upper or lower respiratory tract (nose, sinuses, mouth, throat, voice box, windpipe and lungs) and tend to be more severe in older patients and infants. Examples of illnesses caused by respiratory viruses range from the common cold and bronchitis to more severe diseases such as H1N1, SARS and, most recently, Covid-19.</p>
 <p>Antibiotics that are prescribed for bacterial infections do not work against viruses. For most viral infections, treatments can only ease symptoms, although there are antiviral medicines that may be effective. Vaccines can also help prevent many viral diseases.</p>
 <p>Find out more about viruses and how viral infections can be controlled and treated through the resources listed below.</p>
 
 <h4>Videos and Podcasts</h4>
-<h5>1. <a href="https://video.nationalgeographic.com/video/101-videos/00000164-fafd-de48-ad6d-fafd13aa0000">Flu virus 101</a></h5>
+<h5>1. <a href="https://video.nationalgeographic.com/video/101-videos/00000164-fafd-de48-ad6d-fafd13aa0000" target="_blank">Flu virus 101</a></h5>
 Flu Virus 101 (2018, August 1). <i>National Geographic</i>. Retrieved March 26, 2020.
 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/WSZEcpti2i0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -46,7 +46,7 @@ Infectious Diseases / Bacteria / Viruses. (2020). <i>Medical News Today</i>. Ret
 Viruses News. (2020). <i>Science Daily</i>. Retrieved March 25, 2020.<br/>
 
 <img src="/images/NL-1-hygiene.png" style="width:500px;">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/">pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/</a></p>
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/" target="_blank">pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/</a></p>
 
 <p><strong>If you are interested to read more about viruses, check out the following books and journal articles:</strong></p>
 <h4>Books</h4>
@@ -64,12 +64,12 @@ Ryan, F. (2019). <i>Virusphere: Ebola, AIDS, influenza and the hidden world of t
 
 <h5>4. Viruses as Complex Adaptive Systems (Book)</h5>
 Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. Princeton, New Jersey: Princeton University Press.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831" target="_blank"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a>
 <div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
 
 <h5>5. Infection Prevention and Control at a Glance (Book)</h5>
 Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and control at a glance</i>. Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966" target="_blank"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a>
 <div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd, 2017 </div>
   
 <h4>Journal Articles</h4>
