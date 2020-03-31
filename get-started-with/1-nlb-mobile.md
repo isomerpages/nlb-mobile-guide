@@ -15,7 +15,7 @@ Your personal library, anywhere, anytime:
 	<li> Check the accounts of you and your family</li>
 </ul>
 
-<p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>
+<p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8" target="_blank">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blank">Google Play Store</a>.</p>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
 <div class="vd">
