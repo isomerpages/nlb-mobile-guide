@@ -48,12 +48,12 @@ Change can be easy – start small and expect big results. If you have more time
 
 <h4>TED Talk Videos</h4>
 <h5>1. <a href="https://go.gov.sg/video-stressyourfriend">How to Make Stress Your Friend by Kelly McGonigal</a></h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Health psychologist, Kelly McGonigal, shares how making stress your friend and adopting this mindset in this highly-tense world may be the way to better health. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h5>2. <a href="https://go.gov.sg/videothepowerofvulnerability">The Power of Vulnerability by Brene Brown</a></h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of wellbeing. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h4>Stories on the Internet</h4>
 <p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
