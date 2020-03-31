@@ -10,9 +10,9 @@ title: Reading eBooks and eAudiobooks
 <li>Want to read even when offline? Use the Libby app</li>
 </ul>
 
-<p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby">Google Play</a> now.</p>
+<p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank">Google Play</a> now.</p>
 
-<h2>How to Download eBooks and eAudiobooks with Libby</h2>
+<h2>How to Download eBooks and Audiobooks with Libby</h2>
 
 ![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/
 Libby_flowchart_animatedGIF.gif)
@@ -33,7 +33,7 @@ Libby_flowchart_animatedGIF.gif)
 		<input type="radio" name="acc" id="acc20">
 		<label for="acc20">I like Libby but it doesn't have an app for the OS that I'm using.</label>
 <div class="acc-body">
-  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/libary/nlb">libbyapp.com/libary/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
+  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/libary/nlb" target="_blank">libbyapp.com/libary/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
 </div>
 </div>
 
@@ -72,13 +72,13 @@ Libby_flowchart_animatedGIF.gif)
 </ul>
 <p>These actions have to be taken through:</p>  
 <ul>
-<li>Libby app or <a href="https://libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
-<li>OverDrive app or <a href="https://nlb.overdrive.com">nlb.overdrive.com</a></li>
+<li>Libby app or <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a></li>
+<li>OverDrive app or <a href="https://nlb.overdrive.com" target="_blank">nlb.overdrive.com</a></li>
     </ul>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
 
 
-<p>To check your notification settings in Libby, please read <a href="https://help.libbyapp.com/6174.htm">this Help article</a> on setting up and managing notifications. </p>
+<p>To check your notification settings in Libby, please read <a href="https://help.libbyapp.com/6174.htm" target="_blank">this Help article</a> on setting up and managing notifications. </p>
 
 </div></div>
 
@@ -113,18 +113,18 @@ Libby_flowchart_animatedGIF.gif)
 
 <div>
 		<input type="radio" name="acc" id="acc6">
-        <label for="acc6">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / eAudiobook?</label>
+        <label for="acc6">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
         <div class="acc-body">
-  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / eAudiobooks online, but does not have a built-in reader for downloaded eBooks / eAudiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
+  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / Audiobooks online, but does not have a built-in reader for downloaded eBooks / Audiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
         </p>
     </div>
 </div>
 
 <div>
 		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and eAudiobooks?  </label>
+        <label for="acc7">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and Audiobooks?  </label>
         <div class="acc-body">
-		<p>You can still use OverDrive to borrow eBooks and eAudiobooks from NLB.</p>
+		<p>You can still use OverDrive to borrow eBooks and Audiobooks from NLB.</p>
     <p><ol><li>Launch OverDrive.</li>
     <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
     <li>Log in using your myLibrary ID.</li>
@@ -222,7 +222,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <li>Clara HD devices.</li>
 </ul>
 <p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
-  <a href="https://help.overdrive.com/en-us/2194.htm">Read this article</a> for a step-by-step guide on how to borrow OverDrive ebooks on your Kobo device.
+  <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank">Read this article</a> for a step-by-step guide on how to borrow OverDrive ebooks on your Kobo device.
 </p>
 <p>For older models of Kobo eReaders such as those below, you will need to transfer NLB's eBooks from a computer using the free Adobe Digital Editions software:</p>
 <ul>
@@ -236,13 +236,13 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>iii. Download an EPUB or PDF eBook to ADE from your library’s digital collection. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
-  <a href="https://help.overdrive.com/en-us/0047.html">what to do if your eReader is not detected by ADE</a>.&nbsp;
+  <a href="https://help.overdrive.com/en-us/0047.html" target="_blank">what to do if your eReader is not detected by ADE</a>.&nbsp;
 </p>
 <p><strong>Nook</strong>: NLB currently does not purchase and support eBooks in the Nook format as it is not officially available to the Singapore market.&nbsp;</p>
 <p><strong>Apple Books</strong>: Currently, Apple Books is not supported.</p>
 <p><strong>Google Play Books</strong>: Currently, Google Play Books is not supported.</p>
 <p><strong>Adobe Digital Editions</strong>: Yes, you can. Read this article on 
-  <a href="https://help.overdrive.com/en-us/0005.html">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
+  <a href="https://help.overdrive.com/en-us/0005.html" target="_blank">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
 </p>
 <p>
   <br>
@@ -274,7 +274,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc12">I am not able to sign in to Libby and I need help. What should I do?</label>
         <div class="acc-body">
   <p>Please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
-<p>Help topics are also available on the <a href="https://help.libbyapp.com/">Libby support site</a>.</p>
+<p>Help topics are also available on the <a href="https://help.libbyapp.com/" target="_blank">Libby support site</a>.</p>
 
   </div>
 </div>
