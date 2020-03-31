@@ -1,10 +1,10 @@
 ---
 layout: simple-page
 permalink: /get-started-with/nlb-mobile/
-breadcrumb: NLB Mobile
-title: NLB Mobile
+breadcrumb: NLB Mobile app
+title: NLB Mobile app
 ---
-<h2>About NLB Mobile</h2>
+<h2>About the NLB Mobile app</h2>
 Your personal library, anywhere, anytime:
 <ul>   
 	<li> Read eBooks and listen to audiobooks online</li>
