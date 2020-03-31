@@ -56,7 +56,7 @@ We all understand that communication is important. Learn about how being open an
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h4>Stories on the Internet</h4>
-<p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
+<p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html" target="_blank">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
 <i>Chelsea Gohd</i>. Published on space.com, 23 March 2020.<br/>
 Cooped up at home?<br/>
 Among all professions, perhaps it is the astronauts who know best how to handle isolation: here are tips from ex-NASA astronouts Scott Kelly and Peggy Whitson, and retired Canadian astronaut Chris Hadfield.<br/>
@@ -65,11 +65,11 @@ Among all professions, perhaps it is the astronauts who know best how to handle 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
+<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html" target="_blank">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
 A set of calming exercises that can be done anytime at your work desk or home office all while seated down.</p>
 <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html"><img src="/images/PL-1-Lynda-out-of.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html">Health and Wellness When You Work Remotely</a></strong><br/>
+<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html" target="_blank">Health and Wellness When You Work Remotely</a></strong><br/>
 To be productive when working remotely, you have to take care of yourself.</p>
 <a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html"><img src="/images/PL-1-Lynda-work-remotely.png" style="width:400px;"></a>
 
