@@ -1,8 +1,7 @@
 ---
 layout: simple-page
 permalink: /toptips/seniors/
-breadcrumb: Seniors.
----
+breadcrumb: Seniors
 description: Top Tips for Seniors, including how to access eNewspapers and eMagazines, stories for grandchildren, eLearning and more
 image: /images/NLB-Mobile-logo-square.png
 ---
