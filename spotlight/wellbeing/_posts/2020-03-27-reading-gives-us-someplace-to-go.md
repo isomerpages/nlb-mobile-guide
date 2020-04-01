@@ -47,13 +47,15 @@ Change can be easy – start small and expect big results. If you have more time
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203992538">availability at the libraries</a>. 
 
 <h4>TED Talk Videos</h4>
-<h5>1. <a href="https://go.gov.sg/video-stressyourfriend" target="_blank">How to Make Stress Your Friend by Kelly McGonigal</a></h5>
+<h5>1. How to Make Stress Your Friend by Kelly McGonigal</h5>
 Health psychologist, Kelly McGonigal, shares how making stress your friend and adopting this mindset in this highly-tense world may be the way to better health. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=RcGyVTAoXEU" target="_blank">How to Make Stress Your Friend</a> (2013, September 4). TED. 
 
-<h5>2. <a href="https://go.gov.sg/videothepowerofvulnerability" target="_blank">The Power of Vulnerability by Brene Brown</a></h5>
+<h5>2. The Power of Vulnerability by Brene Brown</h5>
 We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of wellbeing. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=iCvmsMzlF7o" target="_blank">The Power of Vulnerability</a> (2011, January 4). TED. 
 
 <h4>Stories on the Internet</h4>
 <p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html" target="_blank">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
