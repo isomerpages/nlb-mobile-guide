@@ -58,7 +58,7 @@ We all understand that communication is important. Learn about how being open an
 Source: <a href="https://www.youtube.com/watch?v=iCvmsMzlF7o" target="_blank">The Power of Vulnerability</a> (2011, January 4). TED. 
 
 <h4>Stories on the Internet</h4>
-<p><strong><a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html" target="_blank">Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more.</a></strong><br/>
+<p><strong>Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more</strong><br/>
 <i>Chelsea Gohd</i>. Published on space.com, 23 March 2020.<br/>
 Cooped up at home?<br/>
 Among all professions, perhaps it is the astronauts who know best how to handle isolation: here are tips from ex-NASA astronouts Scott Kelly and Peggy Whitson, and retired Canadian astronaut Chris Hadfield.<br/>
