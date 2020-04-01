@@ -16,7 +16,7 @@ An **international** digital newsstand on the go:
 	</ul>
   <h2>How to Read eNewspapers and eMagazines</h2> 
 <div class="vd">
-     <video width="720px" controls>
+     <video width="720px" poster="/images/Thumbnail_PressReader_video.PNG" controls>
   <source src="/images/PressReaderVideo_PXS_NLBLogo.mp4" type="video/mp4" />
 </video>
 </div>
