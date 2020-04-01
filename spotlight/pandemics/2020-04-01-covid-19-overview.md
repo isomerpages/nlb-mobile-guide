@@ -3,6 +3,8 @@ layout: post
 title:  COVID-19 - An Overview
 date:   2020-04-01
 permalink: /spotlight/pandemics/covid-19-overview
+description: COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. 
+image: /images/NL-2-overview.jpg
 ---
 <img src="/images/NL-2-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/" target="_blank">pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/</a></p>
@@ -15,7 +17,8 @@ Current studies suggest that the virus spreads when an individual is exposed to 
 [^3]: Q&A on coronaviruses (COVID-19). (2020, March 9). World Health Organisation. Retrieved March 31, 2020, from <https://www.who.int/news-room/q-a-detail/q-a-coronaviruses>{:target="_blank"}
 <p>While there is currently no vaccine or antiviral medicine to prevent or treat COVID-19, a number of vaccines and drug treatments are being investigated. Fortunately, most patients recover through supportive care. In addition to advocating good personal hygiene and self-isolation if unwell, many governments also encourage social distancing to flatten the curve in the steep spike of cases, to avoid overwhelming healthcare systems.</p>
 <p>To find out more about COVID-19 and its widespread impact across the world, check out the resources below.  Our next installment will look at the COVID-19 situation in Singapore.</p>
-<h4>Audiovisual (videos and podcasts)</h4>
+
+<h4>Videos and Podcasts</h4>
 <h5>1. The science behind the coronavirus, the complete series</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ddlRvqhGdPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/ddlRvqhGdPk" target="_blank">The science behind the coronavirus, the complete series.</a> (2020, March 19). <i>Los Angeles Times</i>. Retrieved 2020, March 27.
@@ -23,28 +26,28 @@ Source: <a href="https://www.youtube.com/embed/ddlRvqhGdPk" target="_blank">The 
 <h5>2. <a href="https://www.nature.com/articles/d41586-020-00864-1" target="_blank">Coronapod: “Test, test, test!”</a></h5>
 Coronapod: “Test, test, test!” (2020, March 20). <i>Nature</i>. Retrieved 2020, March 27.
 
-<h5>3. <a href="https://coronavirus.jhu.edu/map.html" target="_blank">Coronavirus COVID-19 global cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a></h5>
-Coronavirus COVID-19 global cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. (2020, March 27). <i>John Hopkins University and Medicine</i>. Retrieved 2020, March 30.
-
-<h5>4. <a href="https://www.npr.org/sections/goatsandsoda/2020/02/28/809580453/just-for-kids-a-comic-exploring-the-new-coronavirus" target="_blank">Just for kids: A comic exploring the new Coronavirus</a></h5>
+<h5>3. <a href="https://www.npr.org/sections/goatsandsoda/2020/02/28/809580453/just-for-kids-a-comic-exploring-the-new-coronavirus" target="_blank">Just for kids: A comic exploring the new Coronavirus</a></h5>
 COVID-19 web comic created by NPR based on interviews conducted with several experts. (2020, February 28). <i>NPR</i>. Retrieved 2020, March 30.
 
-<h5>5. How we must respond to the COVID-19 pandemic: Bill Gates</h5>
+<h5>4. How we must respond to the COVID-19 pandemic: Bill Gates</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Xe8fIjxicoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/Xe8fIjxicoo" target="_blank">How we must respond to the COVID-19 pandemic: Bill Gates.</a> (2020, March 26). <i>TED</i>. Retrieved 2020, March 27.
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.bbc.com/news/world-51235105" target="_blank">Coronavirus: A visual guide to the pandemic</a></h5>
+<h5>1. <a href="https://coronavirus.jhu.edu/map.html" target="_blank">Coronavirus COVID-19 global cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a></h5>
+Coronavirus COVID-19 global cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. (2020, March 27). <i>John Hopkins University and Medicine</i>. Retrieved 2020, March 30.
+
+<h5>2. <a href="https://www.bbc.com/news/world-51235105" target="_blank">Coronavirus: A visual guide to the pandemic</a></h5>
 The Visual and Data Journalism Team. (2020, March 30). Coronavirus: A visual guide to the pandemic. <i>BBC News</i>. Retrieved March 30, 2020.
 
-<h5>2. <a href="https://www.npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out" target="_blank">Is loss of smell and taste a symptom of COVID-19? Doctors want to find out</a></h5>
+<h5>3. <a href="https://www.npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out" target="_blank">Is loss of smell and taste a symptom of COVID-19? Doctors want to find out</a></h5>
 Kwong, E., Aubrey, A. & Godoy, M. (2020, March 26). Is loss of smell and taste a symptom of COVID-19? Doctors want to find out. <i>NPR</i>. Retrieved March 30, 2020.
 
-<h5>3. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target="_blank">Coronavirus disease (COVID-19) pandemic</a></h5>
+<h5>4. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target="_blank">Coronavirus disease (COVID-19) pandemic</a></h5>
 Coronavirus disease (COVID-19) pandemic. (2020). <i>World Health Organization</i>. Retrieved March 25, 2020.
 
-<h5>4. <a href="https://theconversation.com/coronavirus-faqs-can-people-without-symptoms-spread-covid-19-how-long-does-it-live-on-surfaces-what-cleaning-products-kill-the-virus-134945" target="_blank">Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus?</a></h5>
+<h5>5. <a href="https://theconversation.com/coronavirus-faqs-can-people-without-symptoms-spread-covid-19-how-long-does-it-live-on-surfaces-what-cleaning-products-kill-the-virus-134945" target="_blank">Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus?</a></h5>
 Janes, C. (2020, March 29). Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus? <i>The Conversation</i>. Retrieved March 30, 2020.
 
 <img src="/images/NL-2-coronavirus.png" style="width:500px;">
