@@ -8,18 +8,24 @@ permalink: /spotlight/upskill/world-of-business-summarised-in-5-pages
 <h5>With our collection of business book summaries, you can get the big picture in 5 pages. From productivity classics like David Allen's "Getting Things Done" to technology primers like William Mougayar's "The Business Blockchain", we've got thousands of big ideas for you to discover. <br/><a href="https://libbyapp.com/library/nlb/curated-103445/sort-mostpopular/page-1" target="_blank">View our collection.</a> <br/><a href="/get-started-with/libby/">Find out how to borrow eBooks</a></h5>
 
 <h3>Manage teams well</h3>
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b" style="text-decoration:none;">The Coaching Habit (Summary)</a></h4>
+<h4>The Coaching Habit (Summary)</h4>
 <i>Michael Bungay Stanier</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b"><img src="/images/ebook-GA-coachinghabit.jpeg" style="width:300px; text-align:left;"></a></div><br/>
 Coaching involves much more than just talking to people; it requires posing intelligent questions that inspire your employees to talk about their thoughts, their work and their concerns. Michael Bungay Stanier uses the construct of seven essential coaching questions to teach managers how to coach effectively. <br/> 
-Borrow the summary on <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3182480">read it online &#128187;</a>.
-Enjoyed the summmary? Borrow the audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3121335">listen online &#128187;</a>.
+<ul>
+  <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3182480">read it online &#128187;</a>.</li>
+  <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3121335">listen online &#128187;</a>.</li>
+</ul>
 
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed" style="text-decoration:none;">Crucial Conversations – Tools for Talking When the Stakes are High (Summary)</a></h4>
+<h4><Crucial Conversations – Tools for Talking When the Stakes are High (Summary)</h4>
 <i>Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed"><img src="/images/ebook-GA-crucialconversations.jpeg" style="width:300px; text-align:left;"></a></div><br/>
 Former U.S. President John F. Kennedy once said, “Let us never negotiate out of fear. But let us never fear to negotiate.” Many people recoil from “crucial conversations”, where they have to negotiate to get ahead. But as the saying goes, “In business, you don’t get what you deserve, you get what you negotiate.” <br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=02c88d35-9da1-406b-93b9-93b68a78b9e8">full version of Crucial Conversations</a> or listen to the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id= c449de3c-a683-412a-8997-f0551a5dc576">audiobook</a>.
+<ul>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3179535">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=02c88d35-9da1-406b-93b9-93b68a78b9e8">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/638463">read it online &#128187;</a>.</li>
+    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c449de3c-a683-412a-8997-f0551a5dc576">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/82663">listen online &#128187;</a>.</li>
+</ul>
 
 <h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=e5e8aca7-1414-4554-ab7e-fdf4230fde7d" style="text-decoration:none;">The Five Dysfunctions of a Team (Summary)</a></h4>
 <i>Patrick Lencioni</i><br/>
