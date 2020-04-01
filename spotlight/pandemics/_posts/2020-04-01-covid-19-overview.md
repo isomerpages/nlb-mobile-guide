@@ -54,7 +54,6 @@ Coronavirus disease (COVID-19) pandemic. (2020). <i>World Health Organization</i
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4899173/" target="_blank">pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4899173/</a></p>
 <p><strong>If you are interested to read more about COVID-19, check out the following journal articles:</strong></p>
 <h4>Journal Articles</h4>
-
 <h5>1. How COVID-19 is spread</h5>
 Offord, C. (2020, February). <a href="https://www.the-scientist.com/news-opinion/how-covid-19-is-spread-67143" target="_blank">How COVID-19 is spread</a>. <i>The Scientist</i>. Retrieved March 25, 2020.
 
@@ -77,4 +76,6 @@ Craven, M., et. al. (2020, March). <a href="https://www.mckinsey.com/business-fu
 The information in this resource guide is valid as of March 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
 All Rights Reserved. National Library Board Singapore 2020.<br/></p>
 
+---
+#### **References**
 
