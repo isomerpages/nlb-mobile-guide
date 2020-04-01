@@ -38,15 +38,14 @@ Source: <a href="https://www.youtube.com/embed/Xe8fIjxicoo" target="_blank">How 
 <h5>1. <a href="https://www.bbc.com/news/world-51235105" target="_blank">Coronavirus: A visual guide to the pandemic</a></h5>
 The Visual and Data Journalism Team. (2020, March 30). Coronavirus: A visual guide to the pandemic. <i>BBC News</i>. Retrieved March 30, 2020.
 
-<h5>2. <a href="https://theconversation.com/coronavirus-faqs-can-people-without-symptoms-spread-covid-19-how-long-does-it-live-on-surfaces-what-cleaning-products-kill-the-virus-134945" target="_blank">Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus?</a></h5>
-Janes, C. (2020, March 29). Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus? <i>The Conversation</i>. Retrieved March 30, 2020.
-
-<h5>3. <a href="https://www.npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out" target="_blank">Is loss of smell and taste a symptom of COVID-19? Doctors want to find out</a></h5>
+<h5>2. <a href="https://www.npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out" target="_blank">Is loss of smell and taste a symptom of COVID-19? Doctors want to find out</a></h5>
 Kwong, E., Aubrey, A. & Godoy, M. (2020, March 26). Is loss of smell and taste a symptom of COVID-19? Doctors want to find out. <i>NPR</i>. Retrieved March 30, 2020.
 
-<h5>4. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target="_blank">Coronavirus disease (COVID-19) pandemic</a></h5>
+<h5>3. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target="_blank">Coronavirus disease (COVID-19) pandemic</a></h5>
 Coronavirus disease (COVID-19) pandemic. (2020). <i>World Health Organization</i>. Retrieved March 25, 2020.
 
+<h5>4. <a href="https://theconversation.com/coronavirus-faqs-can-people-without-symptoms-spread-covid-19-how-long-does-it-live-on-surfaces-what-cleaning-products-kill-the-virus-134945" target="_blank">Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus?</a></h5>
+Janes, C. (2020, March 29). Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus? <i>The Conversation</i>. Retrieved March 30, 2020.
 
 <img src="/images/NL-2-coronavirus.png" style="width:500px;">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4899173/" target="_blank">pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4899173/</a></p>
