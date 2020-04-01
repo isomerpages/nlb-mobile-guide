@@ -12,21 +12,20 @@ permalink: /spotlight/pandemics/viruses-an-overview
 <p>Find out more about viruses and how viral infections can be controlled and treated through the resources listed below.</p>
 
 <h4>Videos and Podcasts</h4>
-<h5>1. <a href="https://video.nationalgeographic.com/video/101-videos/00000164-fafd-de48-ad6d-fafd13aa0000" target="_blank">Flu virus 101</a></h5>
-Flu Virus 101 (2018, August 1). <i>National Geographic</i>. Retrieved March 26, 2020.
-
+<h5>1. Flu virus 101</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/WSZEcpti2i0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=WSZEcpti2i0" target="_blank">Flu Virus 101</a> (2018, August 16). <i>National Geographic</i>. Retrieved March 26, 2020.
 
-<h5>2. <a href="https://www.youtube.com/watch?v=X31g5TB-MRo" target="_blank">Where did viruses come from?</a></h5>
-Where did viruses come from? (2018, June 12). <i>PBS</i>. Retrieved March 25, 2020.
+<h5>2. Where did viruses come from?</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/X31g5TB-MRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=X31g5TB-MRo" target="_blank">Where did viruses come from?</a> (2018, June 12). <i>PBS</i>. Retrieved March 25, 2020.
 
 <h5>3. <a href="https://mondediplo.com/2020/03/05coronavirus-podcast" target="_blank">When viruses become pandemics</a></h5>
 Miller, G. (2020, March). When viruses become pandemics. <i>Le Monde</i>. Retrieved March 25, 2020.
 
-<h5>4. <a href="https://youtu.be/aFPyYoGViZs" target="_blank">Introduction to coronaviruses</a></h5>
-Introduction to Coronaviruses (SARS, MERS, COVID-19: Host, Symptoms, History of SARS and MERS). <i>JJ Medicine</i>. Retrieved March 25, 2020.
+<h5>4. Introduction to coronaviruses</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/aFPyYoGViZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://youtu.be/aFPyYoGViZs" target="_blank">Introduction to Coronaviruses (SARS, MERS, COVID-19: Host, Symptoms, History of SARS and MERS).</a> <i>JJ Medicine</i>. Retrieved March 25, 2020.
 
 <h4>Websites</h4>
 <h5>1. <a href="https://www.cdc.gov/parainfluenza/about/index.html" target="_blank">Human Parainfluenza Viruses (HPIVs)</a></h5>
