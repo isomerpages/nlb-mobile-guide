@@ -18,8 +18,8 @@ Did you know that you could read international eNewspapers and eMagazines from t
 </div>
 
 <p><h2>Top Tips for Seniors</h2></p>
-<a href="/images/Reader_highres.png">![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)</a>
-<a href="/images/Reader_highres.png">Click to enlarge</a>
+<a href="/images/Seniors.png">![An infographic featuring top tips for seniors on NLB's digital collection, such as accessing eNewspapers and eMagazines, stories for grandchildren, eLearning and so on.](/images/Seniors_lowres.png)</a>
+<a href="/images/Seniors.png">Click to enlarge</a>
 
 <p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
@@ -33,16 +33,4 @@ Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-heal
 <li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Articles and tips on staying safe in the digital world</a></li>
 <li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">Helpful guides on how to connect with family and friends</a> through email, Facebook, Instagram, WhatsApp and other digital tools. Feel free to use them while coaching your family members or friends.</li>
 </ul>
-
-
-<div class="acc-kontainer">          
-	<div>
-        <input type="radio" name="acc" id="acc1">
-        <label for="acc1"><i></i>I noticed that you offer a few types of interactive eBooks. What is the difference between the eBooks with narration in Libby (“Read-alongs”) and the animated picture books in Tumblebook Library?</label>
-        <div class="acc-body">
-			<p>Both types of interactive eBooks feature professionally-recorded narration that plays along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the 'Read-alongs' in Libby are more like eBooks with the words highlighted as they are read.</p>
-			 <p>Find out more about <a href="https://www.tumblebooklibrary.com/Help.aspx" target="_blank">Tumblebook Library</a>.</p>
-<p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent" target="_blank">Libby&rsquo;s 'Read-alongs'</a>.</p>
-   	</div>
-	</div>
 
