@@ -3,6 +3,8 @@ layout: post
 title:  Viruses - An Overview 
 date:   2020-03-27
 permalink: /spotlight/pandemics/viruses-an-overview
+description: Viruses are microscopic organisms that require a living host such as people, plants or animals to survive and reproduce. 
+image: /images/NL-1-overview.jpg
 ---
 <img src="/images/NL-1-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/" target="_blank">pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/</a></p>
