@@ -15,7 +15,6 @@ Current studies suggest that the virus spreads when an individual is exposed to 
 [^3]: Q&A on coronaviruses (COVID-19). (2020, March 9). World Health Organisation. Retrieved March 31, 2020, from <https://www.who.int/news-room/q-a-detail/q-a-coronaviruses>{:target="_blank"}
 <p>While there is currently no vaccine or antiviral medicine to prevent or treat COVID-19, a number of vaccines and drug treatments are being investigated. Fortunately, most patients recover through supportive care. In addition to advocating good personal hygiene and self-isolation if unwell, many governments also encourage social distancing to flatten the curve in the steep spike of cases, to avoid overwhelming healthcare systems.</p>
 <p>To find out more about COVID-19 and its widespread impact across the world, check out the resources below.  Our next installment will look at the COVID-19 situation in Singapore.</p>
-<h4><strong>Resources</strong></h4>
 <h4>Audiovisual (videos and podcasts)</h4>
 <h5>1. The science behind the coronavirus, the complete series</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ddlRvqhGdPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
