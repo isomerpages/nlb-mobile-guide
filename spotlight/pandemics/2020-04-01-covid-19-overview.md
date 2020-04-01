@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  COVID-19 - An Overview
-date:   2020-04-02
+date:   2020-04-01
 permalink: /spotlight/pandemics/covid-19-overview
 ---
 <img src="/images/NL-2-overview.jpg">
