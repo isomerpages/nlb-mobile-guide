@@ -3,7 +3,6 @@ layout: post
 title:  COVID-19 - An Overview
 date:   2020-04-01
 permalink: /spotlight/pandemics/covid-19-overview
-published: false
 ---
 <img src="/images/NL-2-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/" target="_blank">pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/</a></p>
