@@ -11,8 +11,9 @@ permalink: /spotlight/upskill/world-of-business-summarised-in-5-pages
 <h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b" style="text-decoration:none;">The Coaching Habit (Summary)</a></h4>
 <i>Michael Bungay Stanier</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b"><img src="/images/ebook-GA-coachinghabit.jpeg" style="width:300px; text-align:left;"></a></div><br/>
-Coaching involves much more than just talking to people; it requires posing intelligent questions that inspire your employees to talk about their thoughts, their work and their concerns. Michael Bungay Stanier uses the construct of seven essential coaching questions to teach managers how to coach effectively. <br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">full version of The Coaching Habit</a> or listen to the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">audiobook</a>.
+Coaching involves much more than just talking to people; it requires posing intelligent questions that inspire your employees to talk about their thoughts, their work and their concerns. Michael Bungay Stanier uses the construct of seven essential coaching questions to teach managers how to coach effectively. <br/> 
+Borrow the summary on <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b">the NLB Mobile app &#xe00a</a> or <a href="libbyapp.com/library/nlb/everything/page-1/3182480" target="_blank">read it online &#x1f4bb</a>.
+Enjoyed the summmary? Borrow the audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">the NLB Mobile app &#xe00a</a> or <a href="libbyapp.com/library/nlb/everything/page-1/3121335">listen online &#x1f4bb</a>.
 
 <h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed" style="text-decoration:none;">Crucial Conversations – Tools for Talking When the Stakes are High (Summary)</a></h4>
 <i>Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler</i><br/>
