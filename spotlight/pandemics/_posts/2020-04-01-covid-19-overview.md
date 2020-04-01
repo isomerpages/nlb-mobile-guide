@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  Covid-19 - An Overview
+title:  COVID-19 - An Overview
 date:   2020-04-01
 permalink: /spotlight/pandemics/covid-19-overview
 ---
 <img src="/images/NL-2-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/" target="_blank">pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/</a></p>
 <h4>Introduction</h4>
-<p>COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. In December 2019, the first human cases were identified in Wuhan, China.  Within the first quarter of 2020, as of 30 March 2020, there have been more than 780,000 confirmed cases in over 170 countries and territories, according to the Johns Hopkins University Tracker. More than 37,000 fatalities have also been reported.</p>
-<p>Current studies suggest that the virus spreads when an individual is exposed to infective respiratory droplets, or by touching contaminated surfaces or objects. The virus then enters the body via the mouth, nose and eyes. It can cause mild flu-like symptoms or develop into severe symptoms such as pneumonia. Older adults and people with serious underlying medical conditions such as diabetes, pulmonary disease or other chronic conditions may be at higher risk for developing serious complications arising from COVID-19.</p>
+<p>COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. In December 2019, the first human cases were identified in Wuhan, China.[^1] Within the first quarter of 2020, as of 30 March 2020, there have been more than 780,000 confirmed cases in over 170 countries and territories, according to the Johns Hopkins University Tracker. More than 37,000 fatalities have also been reported.[^2] </p>
+[^1]: Novel Coronavirus (2019-nCoV) situation report - 1. (2020, January 21). World Health Organisation. Retrieved March 31, 2020, from <https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf>{:target="_blank"}
+[^2]: Coronavirus COVID-19 Global cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. (2020, March 27). *John Hopkins University and Medicine*. Retrieved March 30, 2020, from <https://coronavirus.jhu.edu/map.html>{:target="_blank"}
+<p>Current studies suggest that the virus spreads when an individual is exposed to infective respiratory droplets, or by touching contaminated surfaces or objects. The virus then enters the body via the mouth, nose and eyes. It can cause mild flu-like symptoms or develop into severe symptoms such as pneumonia. Older adults and people with serious underlying medical conditions such as diabetes, pulmonary disease or other chronic conditions may be at higher risk for developing serious complications arising from COVID-19.[^3] </p>
+[^3]: Q&A on coronaviruses (COVID-19). (2020, March 9). World Health Organisation. Retrieved March 31, 2020, from <https://www.who.int/news-room/q-a-detail/q-a-coronaviruses>{:target="_blank"}
 <p>While there is currently no vaccine or antiviral medicine to prevent or treat COVID-19, a number of vaccines and drug treatments are being investigated. Fortunately, most patients recover through supportive care. In addition to advocating good personal hygiene and self-isolation if unwell, many governments also encourage social distancing to flatten the curve in the steep spike of cases, to avoid overwhelming healthcare systems.</p>
 <p>To find out more about COVID-19 and its widespread impact across the world, check out the resources below.  Our next installment will look at the COVID-19 situation in Singapore.</p>
 <h4>Resources</h4>
