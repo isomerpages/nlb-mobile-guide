@@ -1,8 +1,10 @@
 ---
 layout: simple-page
 permalink: /toptips/parent/
-breadcrumb: Bond through Reading and Learning
-title: Bond through Reading and Learning
+breadcrumb: Families and Children
+description: Top Tips for Families to Bond through Reading and Learning
+image: /images/parents_socmed.png
+title: Top Tips for Families and Children
 ---
 <a href="/images/Parent_highres.png">![An infographic with tips on how to bond through reading and learning.](/images/Parent.png)</a>
 <a href="/images/Parent_highres.png">Click to enlarge</a>
