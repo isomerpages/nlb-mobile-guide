@@ -1,8 +1,10 @@
 ---
 layout: simple-page
 permalink: /toptips/learner/
-breadcrumb: Learn
-title: Learn
+breadcrumb: Learn New Skills
+description: Top Tips for Learning New Skills
+image: /images/learners_socmed.png
+title: Top Tips for Learners
 ---
 <a href="/images/Learner_highres.png">![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)</a>
 <a href="/images/Learner_highres.png">Click to enlarge</a>
