@@ -1,8 +1,10 @@
 ---
 layout: simple-page
 permalink: /toptips/reader/
-breadcrumb: Fuel My Reading Habit
-title: Fuel My Reading Habit
+breadcrumb: Avid Readers
+description: Top Tips for Avid Readers to Fuel the Reading Habit
+image: /images/Readers_socmed.jpg
+title: Top Tips for Avid Readers 
 ---
 <a href="/images/Reader_highres.png">![An infographic with tips on how to fuel your reading habit without spending a cent.](/images/Reader.png)</a>
 <a href="/images/Reader_highres.png">Click to enlarge</a>
