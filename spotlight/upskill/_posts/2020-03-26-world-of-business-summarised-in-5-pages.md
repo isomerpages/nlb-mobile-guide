@@ -13,8 +13,8 @@ permalink: /spotlight/upskill/world-of-business-summarised-in-5-pages
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b"><img src="/images/ebook-GA-coachinghabit.jpeg" style="width:300px; text-align:left;"></a></div><br/>
 Coaching involves much more than just talking to people; it requires posing intelligent questions that inspire your employees to talk about their thoughts, their work and their concerns. Michael Bungay Stanier uses the construct of seven essential coaching questions to teach managers how to coach effectively. <br/> 
 <ul>
-  <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3182480">read it online &#128187;</a>.</li>
-  <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3121335">listen online &#128187;</a>.</li>
+  <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ec6f6a24-0cf9-43e4-ac2e-b21249f51d7b">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/3182480">read it online &#128187;</a>.</li>
+  <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/3121335">listen online &#128187;</a>.</li>
 </ul>
 
 <h4>Crucial Conversations – Tools for Talking When the Stakes are High (Summary)</h4>
@@ -22,9 +22,9 @@ Coaching involves much more than just talking to people; it requires posing inte
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed"><img src="/images/ebook-GA-crucialconversations.jpeg" style="width:300px; text-align:left;"></a></div><br/>
 Former U.S. President John F. Kennedy once said, “Let us never negotiate out of fear. But let us never fear to negotiate.” Many people recoil from “crucial conversations”, where they have to negotiate to get ahead. But as the saying goes, “In business, you don’t get what you deserve, you get what you negotiate.” <br/>
 <ul>
-    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3179535">read it online &#128187;</a>.</li>
-    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=02c88d35-9da1-406b-93b9-93b68a78b9e8">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/638463">read it online &#128187;</a>.</li>
-    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c449de3c-a683-412a-8997-f0551a5dc576">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/82663">listen online &#128187;</a>.</li>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media//3179535">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=02c88d35-9da1-406b-93b9-93b68a78b9e8">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/638463">read it online &#128187;</a>.</li>
+    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c449de3c-a683-412a-8997-f0551a5dc576">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/82663">listen online &#128187;</a>.</li>
 </ul>
 
 <h4>The Five Dysfunctions of a Team (Summary)</h4>
@@ -32,9 +32,9 @@ Former U.S. President John F. Kennedy once said, “Let us never negotiate out o
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=e5e8aca7-1414-4554-ab7e-fdf4230fde7d"><img src="/images/ebook-GA-fivedysfunctions.jpeg" style="width:300px; text-align:left;"></a></div><br/>
 Patrick Lencioni offers a satisfactory fable about an executive wrestling to take hold of a company and create a smoothly functioning executive team. Here, the author outlines a detailed model for diagnosing the five dysfunctions of a team and provides exercises and techniques to ameliorate those dysfunctions. <br/>
 <ul>
-    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=e5e8aca7-1414-4554-ab7e-fdf4230fde7d">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/3187053">read it online &#128187;</a>.</li>
-    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4cc45dd8-ece7-454e-9ed8-336e77290710">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/132624">read it online &#128187;</a>.</li>
-    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=8b9d0d3-079e-4782-8d9b-e3861b35f5e6">the NLB Mobile app &#128241;</a> or <a href="https://libbyapp.com/library/nlb/everything/page-1/147514">listen online &#128187;</a>.</li>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=e5e8aca7-1414-4554-ab7e-fdf4230fde7d">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/3187053">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4cc45dd8-ece7-454e-9ed8-336e77290710">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/132624">read it online &#128187;</a>.</li>
+    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=8b9d0d3-079e-4782-8d9b-e3861b35f5e6">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/147514">listen online &#128187;</a>.</li>
 </ul>
 
 <h3>Manage your life</h3> 
