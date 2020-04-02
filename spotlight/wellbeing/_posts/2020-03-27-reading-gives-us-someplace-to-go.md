@@ -13,40 +13,40 @@ image: /images/PL-1-intro.jpg
 <h4>eBooks</h4>
 <p>In these trying and uncertain times, self-care is important. Here are some choice eBooks to tide us through as we keep calm and be kind to ourselves and those around us.</p>
 
-<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3" style="text-decoration:none;">The Art of Not Falling Apart</a></h5>
+<h5>The Art of Not Falling Apart</h5>
 <i>Christina Patterson</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3"><img src="/images/PL-1-the-art-of-not-falling-apart.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 070.92 PAT. London: Atlantic Books, 2019.<br/>
 Life is an adventure. As we navigate a new normal, learn the ways others have dealt with the unexpected and come out of it with a new perspective on life.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202801439">availability at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203829343">find the book at the libraries</a>. 
 
-<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12" style="text-decoration:none;">A Sloth's Guide to Mindfulness</a></h5>
+<h5>A Sloth's Guide to Mindfulness</h5>
 <i>Ton Mak</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12"><img src="/images/PL-1-sloth.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158.12 MAK. San Francisco: Chronicle Books, 2018.<br/>
 Packed with cute illustrations, Sloth will teach you everything you need to know about mindfulness to get through these uncertain times.<br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203830539">availability at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/79e9ccf3-a917-49b0-979a-78b8238c3d12">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203830539">find the book at the libraries</a>. 
 
-<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=bf1dea5d-d51e-41dd-80ae-4973844204a5" style="text-decoration:none;">The Worry Trick</a></h5>
+<h5>The Worry Trick</h5>
 <i>David A Carbonell</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=bf1dea5d-d51e-41dd-80ae-4973844204a5"><img src="/images/PL-1-the-worry-trick.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 152.46 CAR. Oakland, CA: New Harbinger Publications, Inc., 2016.<br/>
 In this period of uncertainty, many of us face anxiety over different issues. This book will shed light on the role that anxiety plays in our lives and how you can change it.<br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=bf1dea5d-d51e-41dd-80ae-4973844204a5">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202729947">availability at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=bf1dea5d-d51e-41dd-80ae-4973844204a5">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/bf1dea5d-d51e-41dd-80ae-4973844204a5">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202729947">find the book at the libraries</a>. 
 
-<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1" style="text-decoration:none;">The Art of Rest</a></h5>
+<h5>The Art of Rest</h5>
 <i>Claudia Hammond</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1"><img src="/images/PL-1-the-art-of-rest.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158 HAM. Edinburgh : Canongate, 2019.<br/>
 With more free time at home, many of us might be forgoing sleep to binge watch the latest TV shows.  Rest is still one of the most important facets of self-care and this book highlights the importance of doing so.  <br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204035483">availability at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2967c576-125d-45d7-bc88-24afeabf9cb1">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204035483">find the book at the libraries</a>. 
 
-<h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b" style="text-decoration:none;">Tiny Habits: The Small Changes that Change Everything</a></h5>
+<h5>Tiny Habits: The Small Changes that Change Everything</h5>
 <i>B.J. Fogg</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b"><img src="/images/PL-1-tiny-habits.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158.1 FOG. London: Virgin Books, 2019.<br/>
 Change can be easy – start small and expect big results. If you have more time on hand now, this is a great opportunity to inculcate some new (and potentially lasting) habits in your life.<br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203992538">availability at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/d342b00c-c1a5-40aa-b13b-ec61b3bd845b">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203992538">find the book at the libraries</a>. 
 
 <h4>TED Talk Videos</h4>
 <h5>1. How to Make Stress Your Friend by Kelly McGonigal</h5>
