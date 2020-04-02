@@ -22,7 +22,8 @@ title: eBooks and Audiobooks
 </div><!--close div for acc-body-->
 </div><!--close div for qn-->
 
-<p><h2>How to Download eBooks and Audiobooks with Libby</h2></p>
+<p></p>
+<h2>How to Download eBooks and Audiobooks with Libby</h2>
 ![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/
 Libby_flowchart_animatedGIF.gif)
 
