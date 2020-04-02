@@ -21,10 +21,8 @@ title: eBooks and Audiobooks
 		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please read the "How to Download eBooks and Audiobooks with Libby" section on this page. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
 </div><!--close div for acc-body-->
 </div><!--close div for qn-->
-
-<body>
-<p></p>
-<h2>How to Download eBooks and Audiobooks with Libby</h2>
+	<p></p>
+	<h2>How to Download eBooks and Audiobooks with Libby</h2>
 
 ![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_flowchart_animatedGIF.gif)
 
