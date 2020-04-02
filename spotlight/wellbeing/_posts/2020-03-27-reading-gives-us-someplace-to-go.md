@@ -18,7 +18,7 @@ image: /images/PL-1-intro.jpg
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3"><img src="/images/PL-1-the-art-of-not-falling-apart.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 070.92 PAT. London: Atlantic Books, 2019.<br/>
 Life is an adventure. As we navigate a new normal, learn the ways others have dealt with the unexpected and come out of it with a new perspective on life.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">Borrow the eBook</a> or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202801439">availability at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">with the NLB Mobile app &#128241;</a>, <a href="https://nlb.overdrive.com/media/8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">read it online &#128187;</a>, or check the <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202801439">availability at the libraries</a>. 
 
 <h5><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12" style="text-decoration:none;">A Sloth's Guide to Mindfulness</a></h5>
 <i>Ton Mak</i><br/>
