@@ -3,8 +3,8 @@ layout: post
 title:  World of Business Summarised in 5 Pages
 date:   2020-03-26
 permalink: /spotlight/upskill/world-of-business-summarised-in-5-pages
-image:/images/ebook-GA-gettingthingsdone.jpeg
-description: With our collection of business book summaries, you can get the big picture in 5 pages. 
+description: With our collection of business book summaries, you can get the big picture in 5 pages
+image: /images/ebook-GA-gettingthingsdone.jpeg
 ---
 
 <h5>With our collection of business book summaries, you can get the big picture in 5 pages. From productivity classics like David Allen's "Getting Things Done" to technology primers like William Mougayar's "The Business Blockchain", we've got thousands of big ideas for you to discover. <br/><a href="https://libbyapp.com/library/nlb/curated-103445/sort-mostpopular/page-1" target="_blank">View our collection.</a> <br/><a href="/get-started-with/libby/">Find out how to borrow eBooks</a></h5>
