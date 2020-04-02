@@ -19,7 +19,7 @@ Coaching involves much more than just talking to people; it requires posing inte
   <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=23d19347-0405-4465-a6e7-20c8eae96d34">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/3121335">listen online &#128187;</a>.</li>
 </ul>
 
-<h4>Crucial Conversations – Tools for Talking When the Stakes are High (Summary)</h4>
+<h4>Crucial Conversations – Tools for Talking When Stakes are High (Summary)</h4>
 <i>Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=c1d1d4c6-25df-462e-a654-f0c2e9996eed"><img src="/images/ebook-GA-crucialconversations.jpeg" style="width:300px; text-align:left;"></a></div><br/>
 Former U.S. President John F. Kennedy once said, “Let us never negotiate out of fear. But let us never fear to negotiate.” Many people recoil from “crucial conversations”, where they have to negotiate to get ahead. But as the saying goes, “In business, you don’t get what you deserve, you get what you negotiate.” <br/>
@@ -43,7 +43,7 @@ Patrick Lencioni offers a satisfactory fable about an executive wrestling to tak
 <h4>The 100 Year Life (Summary)</h4>
 <i>Lynda Gratton, Andrew Scott</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829"><img src="/images/ebook-GA-100yearlife.jpeg" style="width:300px; align:left;"></a></div><br/>
-Celebrating a 100th birthday used to be a rare occurrence. But our lifespans are increasing – in 2009, there were 10 thousand Singaporeans who are aged 90 years and above; in 2019, there were 19 thousand Singaporeans. The gift of a long life brings unexpected complications. In this well-researched overview, London Business School professors Lynda Gratton and Andrew Scott address some of these issues – support yourself during an extended retirement, maintaining beneficial relationships, how to plan for multiple careers. <br/>
+Celebrating a 100th birthday used to be a rare occurrence. But our lifespans are increasing – in 2009, there were 10 thousand Singaporeans aged 90 years and above; in 2019, there were 19 thousand Singaporeans. The gift of a long life brings unexpected complications. In this well-researched overview, London Business School professors Lynda Gratton and Andrew Scott address some of these issues – support yourself during an extended retirement, maintaining beneficial relationships, how to plan for multiple careers. <br/>
 
 <ul>
     <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/cd4177e6-905f-4357-86a5-557266317829">read it online &#128187;</a>.</li>
