@@ -24,7 +24,7 @@ title: eBooks and Audiobooks
 	
 	<p><h2>How to Download eBooks and Audiobooks with Libby</h2></p>
 
-![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/Libby_flowchart_animatedGIF.gif)
+<img src="/images/Libby_flowchart_animatedGIF.gif" alt="An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.">
 
   <h2>Libby versus NLB Mobile</h2>
 
