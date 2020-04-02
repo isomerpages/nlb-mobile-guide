@@ -42,14 +42,14 @@ title: eBooks and Audiobooks
 		<input type="radio" name="acc" id="acc20">
 		<label for="acc20">I like Libby but it doesn't have an app for the OS that I'm using.</label>
 <div class="acc-body">
-  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/libary/nlb" target="_blank">libbyapp.com/libary/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
+  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/libary/nlb" target="_blank">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
 </div>
 </div>
 
 <p> <a name="reservation"><h2>Getting Started with Libby</h2></a></p>
 <div>
-		<input type="radio" name="acc" id="acc1">
-		<label for="acc1">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID? </label>
+		<input type="radio" name="acc" id="acc99">
+		<label for="acc99">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID? </label>
 
 
 <div class="acc-body">
