@@ -12,37 +12,44 @@ title: eBooks and Audiobooks
 
 <p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank">Google Play</a> now.</p>
 
-<h2>How to Download eBooks and Audiobooks with Libby</h2>
+<h2>Reading eBooks featured in Spotlight</h2>
+<div class="acc-kontainer"><!--accordion-->          
+<div>
+		<input type="radio" name="acc" id="acc1"><!--question 1-->
+        <label for="acc1">How do I read the eBooks featured in the Spotlight section of this site?</label>
+        <div class="acc-body"><!--answer for question 1-->
+		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please read the "How to Download eBooks and Audiobooks with Libby" section on this page. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
+</div><!--close div for acc-body-->
+</div><!--close div for qn-->
+	
+	<p><h2>How to Download eBooks and Audiobooks with Libby</h2></p>
 
-![An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.](/images/
-Libby_flowchart_animatedGIF.gif)
+<img src="/images/Libby_flowchart_animatedGIF.gif" alt="An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.">
 
   <h2>Libby versus NLB Mobile</h2>
-<div class="acc-kontainer"><!--accordion-->          
 
 <div>
-		<input type="radio" name="acc" id="acc5"><!--question 1-->
+		<input type="radio" name="acc" id="acc5">
         <label for="acc5">What is the difference between Libby and NLB Mobile?</label>
-        <div class="acc-body"><!--answer for question 1-->
+        <div class="acc-body">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
 <p><strong>NLB Mobile</strong> lets you easily check your account and access our resources. You can borrow eBooks / Audiobooks, access eNewspapers / eMagazines and online courses. </p><p>While NLB Mobile lets you read or listen to eBooks / Audiobooks while you are connected to the Internet, it does not have an in-built reader for you to read downloaded eBooks.</p>
 <p><strong>Libby </strong>is a third-party app by OverDrive. You can borrow and download NLB's eBooks / Audiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
-</div><!--close div for acc-body-->
-</div><!--close div for qn-->
+</div>
+</div>
+
 <div>
 		<input type="radio" name="acc" id="acc20">
 		<label for="acc20">I like Libby but it doesn't have an app for the OS that I'm using.</label>
 <div class="acc-body">
-  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/libary/nlb" target="_blank">libbyapp.com/libary/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
+  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
 </div>
 </div>
 
-</div><!--acc-container-->
 <p> <a name="reservation"><h2>Getting Started with Libby</h2></a></p>
-<div class="acc-kontainer">          
-	<div>
-		<input type="radio" name="acc" id="acc1">
-		<label for="acc1">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID? </label>
+<div>
+		<input type="radio" name="acc" id="acc99">
+		<label for="acc99">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID? </label>
 
 
 <div class="acc-body">

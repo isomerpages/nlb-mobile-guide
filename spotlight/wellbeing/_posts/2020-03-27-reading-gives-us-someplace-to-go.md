@@ -48,6 +48,14 @@ Call Number: English 158.1 FOG. London: Virgin Books, 2019.<br/>
 Change can be easy – start small and expect big results. If you have more time on hand now, this is a great opportunity to inculcate some new (and potentially lasting) habits in your life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/d342b00c-c1a5-40aa-b13b-ec61b3bd845b">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203992538">find the book at the libraries</a>. 
 
+<table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+<p style="font-size:10pt;">Having trouble accessing the eBooks featured here? Read this <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide</a> or visit our <a href="/get-started-with/libby/">Help page.</a></p>
+    </td>
+  </tr>
+  </table>
+
 <h4>TED Talk Videos</h4>
 <h5>1. How to Make Stress Your Friend by Kelly McGonigal</h5>
 Health psychologist, Kelly McGonigal, shares how making stress your friend and adopting this mindset in this highly-tense world may be the way to better health. 
