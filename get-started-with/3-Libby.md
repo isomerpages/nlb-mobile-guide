@@ -48,10 +48,8 @@ Libby_flowchart_animatedGIF.gif)
 </div>
 </div>
 
-</div><!--acc-container-->
 <p> <a name="reservation"><h2>Getting Started with Libby</h2></a></p>
-<div class="acc-kontainer">          
-	<div>
+<div>
 		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID? </label>
 
