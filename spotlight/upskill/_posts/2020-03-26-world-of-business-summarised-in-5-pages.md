@@ -38,23 +38,35 @@ Patrick Lencioni offers a satisfactory fable about an executive wrestling to tak
 </ul>
 
 <h3>Manage your life</h3> 
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829" style="text-decoration:none;">The The 100 Year Life (Summary)</a></h4>
+<h4>The 100 Year Life (Summary)</h4>
 <i>Lynda Gratton, Andrew Scott</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829"><img src="/images/ebook-GA-100yearlife.jpeg" style="width:300px; align:left;"></a></div><br/>
 Celebrating a 100th birthday used to be a rare occurrence. But our lifespans are increasing – in 2009, there were 10 thousand Singaporeans who are aged 90 years and above; in 2019, there were 19 thousand Singaporeans. The gift of a long life brings unexpected complications. In this well-researched overview, London Business School professors Lynda Gratton and Andrew Scott address some of these issues – support yourself during an extended retirement, maintaining beneficial relationships, how to plan for multiple careers. <br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=be0719ed-2ae1-4148-a1a7-0e75b27f7c60">full version of The Hundred Year Life</a>.
 
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=e3606d34-5dc9-4abf-a378-e7315ebdf551" style="text-decoration:none;">Change Your Questions, Change Your Life (Summary)</a></h4>
+<ul>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cd4177e6-905f-4357-86a5-557266317829">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/cd4177e6-905f-4357-86a5-557266317829">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=be0719ed-2ae1-4148-a1a7-0e75b27f7c60">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/be0719ed-2ae1-4148-a1a7-0e75b27f7c60">read it online &#128187;</a>.</li>
+</ul>
+
+<h4>Change Your Questions, Change Your Life (Summary)</h4>
 <i>Marilee G. Adams</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=e3606d34-5dc9-4abf-a378-e7315ebdf551"><img src="/images/ebook-GA-changeyourquestions.jpeg" style="width:300px; align:left;"></a></div><br/>
 Marilee G. Adams found that she could generate positive changes in her behaviour and productivity by changing the defensive questions she previously asked in the face of adversity. Asking different questions enabled her to reframe the moment and create growth opportunities. <br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id= 51ab3a45-06f0-46b7-98e3-02658b929d6c">full version of Change Your Questions, Change Your Life</a> or listen to the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=51ab3a45-06f0-46b7-98e3-02658b929d6c">audiobook</a>.
+<ul>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=e3606d34-5dc9-4abf-a378-e7315ebdf551">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/e3606d34-5dc9-4abf-a378-e7315ebdf551">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=51ab3a45-06f0-46b7-98e3-02658b929d6c">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/51ab3a45-06f0-46b7-98e3-02658b929d6c">read it online &#128187;</a>.</li>
+    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=51ab3a45-06f0-46b7-98e3-02658b929d6c">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/51ab3a45-06f0-46b7-98e3-02658b929d6c">listen online &#128187;</a>.</li>
+</ul>
 
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=f95227e1-ccd2-4ac5-87b7-d47938576676" style="text-decoration:none;">Finding Your Element (Summary)</a></h4>
+<h4>Finding Your Element (Summary)</h4>
 <i>Ken Robinson, Lou Aronica</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=f95227e1-ccd2-4ac5-87b7-d47938576676"><img src="/images/ebook-GA-findingyourelement.jpeg" style="width:300px; align:left;"></a></div><br/>
 Ken Robinson and Lou Aronica offer a nuts-and-bolts guide to finding work that combines your talents and your passions.<br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=92553d5e-aa05-4c72-a959-d54c40821ca7">full version Finding Your Element</a>.
+
+<ul>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=f95227e1-ccd2-4ac5-87b7-d47938576676">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/f95227e1-ccd2-4ac5-87b7-d47938576676">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=92553d5e-aa05-4c72-a959-d54c40821ca7">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/92553d5e-aa05-4c72-a959-d54c40821ca7">read it online &#128187;</a>.</li>
+</ul>
 
 <h3>Get Productive</h3>
 <h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=b9a0f74c-fcbc-492b-a956-a2c6f945dcd3" style="text-decoration:none;">Getting Things Done (Summary)</a></h4>
