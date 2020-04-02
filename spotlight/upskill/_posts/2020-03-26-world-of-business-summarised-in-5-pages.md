@@ -3,6 +3,8 @@ layout: post
 title:  World of Business Summarised in 5 Pages
 date:   2020-03-26
 permalink: /spotlight/upskill/world-of-business-summarised-in-5-pages
+image:/images/ebook-GA-gettingthingsdone.jpeg
+description: With our collection of business book summaries, you can get the big picture in 5 pages. 
 ---
 
 <h5>With our collection of business book summaries, you can get the big picture in 5 pages. From productivity classics like David Allen's "Getting Things Done" to technology primers like William Mougayar's "The Business Blockchain", we've got thousands of big ideas for you to discover. <br/><a href="https://libbyapp.com/library/nlb/curated-103445/sort-mostpopular/page-1" target="_blank">View our collection.</a> <br/><a href="/get-started-with/libby/">Find out how to borrow eBooks</a></h5>
@@ -69,20 +71,32 @@ Ken Robinson and Lou Aronica offer a nuts-and-bolts guide to finding work that c
 </ul>
 
 <h3>Get Productive</h3>
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=b9a0f74c-fcbc-492b-a956-a2c6f945dcd3" style="text-decoration:none;">Getting Things Done (Summary)</a></h4>
+<h4>Getting Things Done (Summary)</h4>
 <i>David Allen</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=b9a0f74c-fcbc-492b-a956-a2c6f945dcd3"><img src="/images/ebook-GA-gettingthingsdone.jpeg" style="width:300px; align:left;"></a></div><br/>
 Getting Things Done is one of the most influential business books of the 2000s. “GTD” is now shorthand for an entire way of approaching professional and personal tasks, and has spawned an entire culture of websites, organisation tools, seminars, and offshoots. <br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=143bd84f-790f-4734-be68-db7799c85384">full version of Getting Things Done</a>.
+<ul>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=b9a0f74c-fcbc-492b-a956-a2c6f945dcd3">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/b9a0f74c-fcbc-492b-a956-a2c6f945dcd3">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=143bd84f-790f-4734-be68-db7799c85384">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/143bd84f-790f-4734-be68-db7799c85384">read it online &#128187;</a>.</li>
+</ul>
 
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=51c77658-cb29-47d3-aa25-3000e4ac5ea6" style="text-decoration:none;">The Checklist Manifesto (Summary)</a></h4>
+<h4>The Checklist Manifesto (Summary)</h4>
 <i>Atul Gawande</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=51c77658-cb29-47d3-aa25-3000e4ac5ea6"><img src="/images/ebook-GA-checklistmanifesto.jpeg" style="width:300px; align:left;"></a></div><br/>
 The volume and complexity of our knowledge has exceeded our ability to consistently deliver it  - correctly, safely or efficiently. Atul Gawande makes a compelling argument for the checklist, which he believes is the most promising method available in surmounting failure.<br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=f92f1851-f019-4377-8c26-38300f89be4f">full version of The Checklist Manifesto</a> or listen to the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=6e4c1526-e668-4848-b638-5e08297984d7">audiobook</a>.
+<ul>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=51c77658-cb29-47d3-aa25-3000e4ac5ea6">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/51c77658-cb29-47d3-aa25-3000e4ac5ea6">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=f92f1851-f019-4377-8c26-38300f89be4f">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/f92f1851-f019-4377-8c26-38300f89be4f">read it online &#128187;</a>.</li>
+    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=6e4c1526-e668-4848-b638-5e08297984d7">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/6e4c1526-e668-4848-b638-5e08297984d7">listen online &#128187;</a>.</li>
+</ul>
 
-<h4><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=6edabb24-44ed-437f-b4f1-bbf4c906fb17" style="text-decoration:none;">Deep Work (Summary)</a></h4>
+<h4>Deep Work (Summary)</h4>
 <i>Cal Newport</i><br/>
 <div style="text-align:left;"><a href="http://eresources.nlb.gov.sg/ereads/proxy?id=6edabb24-44ed-437f-b4f1-bbf4c906fb17"><img src="/images/ebook-GA-deepwork.jpeg" style="width:300px; align:left;"></a></div><br/>
 In an information economy, we need “deep work” – challenging work that requires full focus - to succeed in an information economy, yet people face increasing distractions or social pressure that drive them towards shallow work. Newport provides tips for arranging your life to support deep work, which he sees as valuable, productive and rare.<br/>
-Enjoyed the summary? Read the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=408231eb-fd48-4383-8eda-f13493d79fb8">full version of Deep Work</a> or listen to the <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=665f472c-4cdd-425f-a585-7b61c25864f3">audiobook</a>.
+<ul>
+    <li>Borrow the summary from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=6edabb24-44ed-437f-b4f1-bbf4c906fb17">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/6edabb24-44ed-437f-b4f1-bbf4c906fb17">read it online &#128187;</a>.</li>
+    <li>Borrow the full version from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=408231eb-fd48-4383-8eda-f13493d79fb8">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/408231eb-fd48-4383-8eda-f13493d79fb8">read it online &#128187;</a>.</li>
+    <li>Borrow the unabridged audiobook from <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=665f472c-4cdd-425f-a585-7b61c25864f3">the NLB Mobile app &#128241;</a> or <a href="https://nlb.overdrive.com/media/665f472c-4cdd-425f-a585-7b61c25864f3">listen online &#128187;</a>.</li>
+</ul>
+
