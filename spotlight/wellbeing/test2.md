@@ -27,13 +27,6 @@ Call Number: English 330.019 THA -[BIZ]. New York: Penguin Books, 2009.<br/>
 People do not choose freely, even when they think they do. Circumstances, context and biases affect our decisions. <i>Nudge</i> teaches us how to steer away from bad decisions towards engineering better choices for ourselves and others.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5-E00E-40F6-B084-37D6AA4E6C19">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/30E812F5-E00E-40F6-B084-37D6AA4E6C19">online</a> &#128187;.<br/>
 
-<h5>12 Rules for Life: An Antidote to Chaos</h5>
-<i>Jordan B. Peterson</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=330D157D-20CB-4351-9785-7307BE1FD274"><img src="/images/PL-2-12-rules-for-life.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158.1 PET. London: Allen Lane, 2018.<br/>
-Feeling lost amidst the chaos? Peterson provides twelve principles for an orderly and meaningful life by focusing on the value of personal responsibility.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=330D157D-20CB-4351-9785-7307BE1FD274">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/330D157D-20CB-4351-9785-7307BE1FD274">online</a> &#128187;.<br/>  
-
 <h5>The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom</h5>
 <i>Jonathan Haidt</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
