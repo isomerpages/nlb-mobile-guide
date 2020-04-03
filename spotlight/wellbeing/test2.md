@@ -47,7 +47,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B
 <i>Cait Flanders</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=01102549-943F-4CDB-845A-65E162B0FC44"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.8 FLA. California: Hay House Inc, 2018.<br/>
-Is less truly be more? According to the author, yes. Follow Cait Flanders on her 1-year journey to get more life out of fewer things.<br/>
+Can less truly be more? According to the author, yes. Follow Cait Flanders on her 1-year journey to get more life out of fewer things.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=01102549-943F-4CDB-845A-65E162B0FC44">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/01102549-943F-4CDB-845A-65E162B0FC44">online</a> &#128187;.<br/>
 
 <h5>Five True Things: A Little Guide to Embracing Life's Big Challenges</h5>
