@@ -90,12 +90,12 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details
 <h4>TED Talk Videos</h4>
 <h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
 Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, come and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
 
 <h5>2. The Surprising Science of Happiness by Dan Gilbert</h5>
 We’re surprisingly more resilient than we think. Research shows that setbacks that we think would be traumatising tend to have less impact than we would expect, and that we are capable of being happy even when things don't go as planned. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=4q1dgn_C0AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/4q1dgn_C0AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">The Surprising Science of Happiness</a> (2012, April 27). TED. 
 
 <h4>eLearning videos from Lynda Library</h4>
