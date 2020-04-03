@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Reading gives us someplace to go when we have to stay where we are
+title:  Test!
 date:   2020-03-27
 permalink: /spotlight/wellbeing/test2
 description: What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. 
