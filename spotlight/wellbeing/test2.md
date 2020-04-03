@@ -11,7 +11,6 @@ image: /images/PL-2-intro.jpg
 <p>How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
 
 <h4>eBooks</h4>
-<p>In these trying and uncertain times, self-care is important. Here are some choice eBooks to tide us through as we keep calm and be kind to ourselves and those around us.</p>
 
 <h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
 <i>Sonja Lyubomirsky</i><br/>
@@ -48,6 +47,8 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B61788
 Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
 We’re currently living through trying times but this is not the first time is the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
+
+<h4>eBooks Selected For Seniors</h4>
 
 <h5>The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life is Worth More Than Anything You Can Buy in a Store</h5>
 <i>Cait Flanders</i><br/>
