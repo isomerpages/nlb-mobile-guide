@@ -45,7 +45,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B
 
 <h5>The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life is Worth More Than Anything You Can Buy in a Store</h5>
 <i>Cait Flanders</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=01102549-943F-4CDB-845A-65E162B0FC44"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=01102549-943F-4CDB-845A-65E162B0FC44"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.8 FLA. California: Hay House Inc, 2018.<br/>
 Is less truly be more? According to the author, yes. Follow Cait Flanders on her 1-year journey to get more life out of fewer things.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=01102549-943F-4CDB-845A-65E162B0FC44">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/01102549-943F-4CDB-845A-65E162B0FC44">online</a> &#128187;.<br/>
@@ -55,14 +55,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details
 <a href=" https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=E1CDAA62-3968-4F6D-A427-3614FB9AF55F "><img src="/images/PL-2-five-true-things.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: Call Number: 152.41 RIC. Colorado: Shambhala, 2019.<br/>
 Find peace in the midst of life’s challenges by learning and accepting five key facts of life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=E1CDAA62-3968-4F6D-A427-3614FB9AF55F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E1CDAA62-3968-4F6D-A427-3614FB9AF55F">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E1CDAA62-3968-4F6D-A427-3614FB9AF55F">online</a> &#128187;.<br/>
 
 <h5> The Healthy Mind Toolkit: Simple Strategies to Get Out of Your Own Way and Enjoy Your Life</h5>
 <i> Alice Boyes</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E"><img src="/images/PL-2-health-mind-toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: Call number: 616.891425 BOY – [HEA]. New York: TarcherPerigee, 2018.<br/>
 Sometimes, we are our own worst enemy. Learn simple steps to achieve success and defeat the man in the mirror.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">online</a> &#128187;.<br/>
 
 <h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
 <i>Sarah Wilson</i><br/>
@@ -70,7 +70,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details
 
 Call Number: English 150.195 FRA. HarperCollins, 2018.<br/>
 This practical and funny book encourages those with anxiety to embrace themselves who for they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
