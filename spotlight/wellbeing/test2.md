@@ -29,10 +29,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5
 
 <h5>The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom</h5>
 <i>Jonathan Haidt</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=%7B61788AD8-9790-48BC-B25B-21396A645187%7D"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 170 HAI. New York: Basic Books, 2006.<br/>
 Old is gold. <i>The Happiness Hypothesis</i> examines the world’s philosophical wisdom through the lens of psychological science, and shows how they are still relevant in our lives today.  <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B61788AD8-9790-48BC-B25B-21396A645187%7D ">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/%7B61788AD8-9790-48BC-B25B-21396A645187%7D ">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B61788AD8-9790-48BC-B25B-21396A645187%7D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/%7B61788AD8-9790-48BC-B25B-21396A645187%7D">online</a> &#128187;.<br/>
 
 <h5>Man's Search for Meaning</h5>
 <i>Viktor E. Frankl</i><br/>
