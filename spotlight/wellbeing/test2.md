@@ -1,52 +1,81 @@
 ---
 layout: post
-title:  Test!
-date:   2020-03-27
-permalink: /spotlight/wellbeing/test2
-description: What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. 
-image: /images/PL-1-intro.jpg
+title:  The happiness of your life depends upon the quality of your thoughts
+date:   2020-04-03
+permalink: /spotlight/wellbeing/2020-04-03-The-happiness-of-your-life-depends-upon-the-quality-of-your-thoughts
+description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
+image: /images/PL-2-intro.jpg
 ---
-<img src="/images/PL-1-intro.jpg">
-<p><q>Reading gives us someplace to go when we have to stay where we are.</q> - Mason Cooley</p>
-<p>What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. Learn from the experiences and insights of others and get tips that we hope you can apply to your life.</p>
+<img src="/images/PL-2-intro.jpg">
+<p><q>The happiness of your life depends upon the quality of your thoughts.</q> - Marcus Aurelius, <i>Meditations</i>.</p>
+<p>How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
 
 <h4>eBooks</h4>
 <p>In these trying and uncertain times, self-care is important. Here are some choice eBooks to tide us through as we keep calm and be kind to ourselves and those around us.</p>
 
-<h5>The Art of Not Falling Apart</h5>
-<i>Christina Patterson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3"><img src="/images/PL-1-the-art-of-not-falling-apart.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 070.92 PAT. London: Atlantic Books, 2019.<br/>
-Life is an adventure. As we navigate a new normal, learn the ways others have dealt with the unexpected and come out of it with a new perspective on life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8042ee0f-b1e0-4ab1-b7d8-ce756198fae3">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203829343">find the book at the libraries</a>. 
+<h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
+<i>Sonja Lyubomirsky</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3"><img src="/images/PL-2-thehowofhap.jpg " style="width:300px; text-align:left;"></a><br/>
+Call Number: English 158 LYU. New York: Penguin Books, 2008.<br/>
+Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">online</a>&#128187;.<br/> 
 
-<h5>A Sloth's Guide to Mindfulness</h5>
-<i>Ton Mak</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12"><img src="/images/PL-1-sloth.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158.12 MAK. San Francisco: Chronicle Books, 2018.<br/>
-Packed with cute illustrations, Sloth will teach you everything you need to know about mindfulness to get through these uncertain times.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=79e9ccf3-a917-49b0-979a-78b8238c3d12">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/79e9ccf3-a917-49b0-979a-78b8238c3d12">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203830539">find the book at the libraries</a>. 
 
-<h5>The Worry Trick</h5>
-<i>David A Carbonell</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=bf1dea5d-d51e-41dd-80ae-4973844204a5"><img src="/images/PL-1-the-worry-trick.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 152.46 CAR. Oakland, CA: New Harbinger Publications, Inc., 2016.<br/>
-In this period of uncertainty, many of us face anxiety over different issues. This book will shed light on the role that anxiety plays in our lives and how you can change it.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=bf1dea5d-d51e-41dd-80ae-4973844204a5">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/bf1dea5d-d51e-41dd-80ae-4973844204a5">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202729947">find the book at the libraries</a>. 
+<h5>Nudge: Improving Decisions About Health, Wealth, and Happiness</h5>
+<i>Richard H. Thaler & Cass R. Sunstein</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5-E00E-40F6-B084-37D6AA4E6C19"><img src="/images/PL-2-nudge.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 330.019 THA -[BIZ]. New York: Penguin Books, 2009.<br/>
+People do not choose freely, even when they think they do. Circumstances, context and biases affect our decisions. <i>Nudge</i> teaches us how to steer away from bad decisions towards engineering better choices for ourselves and others.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5-E00E-40F6-B084-37D6AA4E6C19">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/30E812F5-E00E-40F6-B084-37D6AA4E6C19">online</a> &#128187;.<br/>
 
-<h5>The Art of Rest</h5>
-<i>Claudia Hammond</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1"><img src="/images/PL-1-the-art-of-rest.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 HAM. Edinburgh : Canongate, 2019.<br/>
-With more free time at home, many of us might be forgoing sleep to binge watch the latest TV shows.  Rest is still one of the most important facets of self-care and this book highlights the importance of doing so.  <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2967c576-125d-45d7-bc88-24afeabf9cb1">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204035483">find the book at the libraries</a>. 
+<h5>12 Rules for Life: An Antidote to Chaos</h5>
+<i>Jordan B. Peterson</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=330D157D-20CB-4351-9785-7307BE1FD274"><img src="/images/PL-2-12-rules-for-life.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 158.1 PET. London: Allen Lane, 2018.<br/>
+Feeling lost amidst the chaos? Peterson provides twelve principles for an orderly and meaningful life by focusing on the value of personal responsibility.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=330D157D-20CB-4351-9785-7307BE1FD274">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/330D157D-20CB-4351-9785-7307BE1FD274">online</a> &#128187;.<br/>  
 
-<h5>Tiny Habits: The Small Changes that Change Everything</h5>
-<i>B.J. Fogg</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b"><img src="/images/PL-1-tiny-habits.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158.1 FOG. London: Virgin Books, 2019.<br/>
-Change can be easy – start small and expect big results. If you have more time on hand now, this is a great opportunity to inculcate some new (and potentially lasting) habits in your life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c-c1a5-40aa-b13b-ec61b3bd845b">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/d342b00c-c1a5-40aa-b13b-ec61b3bd845b">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203992538">find the book at the libraries</a>. 
+<h5>The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom</h5>
+<i>Jonathan Haidt</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=2967c576-125d-45d7-bc88-24afeabf9cb1"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 170 HAI. New York: Basic Books, 2006.<br/>
+Old is gold. <i>The Happiness Hypothesis</i> examines the world’s philosophical wisdom through the lens of psychological science, and shows how they are still relevant in our lives today.  <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B61788AD8-9790-48BC-B25B-21396A645187%7D ">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/%7B61788AD8-9790-48BC-B25B-21396A645187%7D ">online</a> &#128187;.<br/>
+
+<h5>Man's Search for Meaning</h5>
+<i>Viktor E. Frankl</i><br/>
+<a href=" https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
+We’re currently living through trying times but this is not the first time is the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
+
+<h5>The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life is Worth More Than Anything You Can Buy in a Store</h5>
+<i>Cait Flanders</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=01102549-943F-4CDB-845A-65E162B0FC44"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 153.8 FLA. California: Hay House Inc, 2018.<br/>
+Is less truly be more? According to the author, yes. Follow Cait Flanders on her 1-year journey to get more life out of fewer things.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=01102549-943F-4CDB-845A-65E162B0FC44">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/01102549-943F-4CDB-845A-65E162B0FC44">online</a> &#128187;.<br/>
+
+<h5>Five True Things: A Little Guide to Embracing Life's Big Challenges</h5>
+<i>David Richo</i><br/>
+<a href=" https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=E1CDAA62-3968-4F6D-A427-3614FB9AF55F "><img src="/images/PL-2-five-true-things.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: Call Number: 152.41 RIC. Colorado: Shambhala, 2019.<br/>
+Find peace in the midst of life’s challenges by learning and accepting five key facts of life.</i><br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=E1CDAA62-3968-4F6D-A427-3614FB9AF55F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E1CDAA62-3968-4F6D-A427-3614FB9AF55F">online</a> &#128187;.<br/>
+
+<h5> The Healthy Mind Toolkit: Simple Strategies to Get Out of Your Own Way and Enjoy Your Life</h5>
+<i> Alice Boyes</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E"><img src="/images/PL-2-health-mind-toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: Call number: 616.891425 BOY – [HEA]. New York: TarcherPerigee, 2018.<br/>
+Sometimes, we are our own worst enemy. Learn simple steps to achieve success and defeat the man in the mirror.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">online</a> &#128187;.<br/>
+
+<h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
+<i>Sarah Wilson</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 150.195 FRA. HarperCollins, 2018.<br/>
+This practical and funny book encourages those with anxiety to embrace themselves who for they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
@@ -57,31 +86,25 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=d342b00c
   </table>
 
 <h4>TED Talk Videos</h4>
-<h5>1. How to Make Stress Your Friend by Kelly McGonigal</h5>
-Health psychologist, Kelly McGonigal, shares how making stress your friend and adopting this mindset in this highly-tense world may be the way to better health. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=RcGyVTAoXEU" target="_blank">How to Make Stress Your Friend</a> (2013, September 4). TED. 
+<h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
+Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, come and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
 
-<h5>2. The Power of Vulnerability by Brene Brown</h5>
-We all understand that communication is important. Learn about how being open and vulnerable (which is what many people will feel these days) may help with your feelings of wellbeing. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/iCvmsMzlF7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=iCvmsMzlF7o" target="_blank">The Power of Vulnerability</a> (2011, January 4). TED. 
-
-<h4>Stories on the Internet</h4>
-<p><strong>Astronauts know how to handle isolation: Here are tips from Scott Kelly, Peggy Whitson and more</strong><br/>
-<i>Chelsea Gohd</i>. Published on space.com, 23 March 2020.<br/>
-Cooped up at home?<br/>
-Among all professions, perhaps it is the astronauts who know best how to handle isolation: here are tips from ex-NASA astronouts Scott Kelly and Peggy Whitson, and retired Canadian astronaut Chris Hadfield.<br/>
-<a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html" target="_blank">Visit this website</a> to find out how they manage well in a small space when going outside is not as easy as opening the front door of your home.</p>
+<h5>2. The Surprising Science of Happiness by Dan Gilbert</h5>
+We’re surprisingly more resilient than we think. Research shows that setbacks that we think would be traumatising tend to have less impact than we would expect, and that we are capable of being happy even when things don't go as planned. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=4q1dgn_C0AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">The Surprising Science of Happiness</a> (2012, April 27). TED. 
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html" target="_blank">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
-A set of calming exercises that can be done anytime at your work desk or home office all while seated down.</p>
-<a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html"><img src="/images/PL-1-Lynda-out-of.png" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html" target="_blank">Happiness Tips</a></strong><br/>
+From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html"><img src="/images/PL-1-Lynda-out-of.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html" target="_blank">Health and Wellness When You Work Remotely</a></strong><br/>
-To be productive when working remotely, you have to take care of yourself.</p>
-<a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html"><img src="/images/PL-1-Lynda-work-remotely.png" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html" target="_blank">Arianna Huffington's Thrive 01: Discovering Meditation and Sleep</a></strong><br/>
+Improve your wellbeing with two simple activities – meditation and sleep!</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html "><img src="/images/PL-1-Lynda-work-remotely.png" style="width:400px;"></a>
+
 
