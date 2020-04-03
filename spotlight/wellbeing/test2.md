@@ -15,7 +15,8 @@ image: /images/PL-2-intro.jpg
 <h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
 <i>Sonja Lyubomirsky</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3"><img src="/images/PL-2-thehowofhap.jpg " style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 LYU. New York: Penguin Books, 2008.<br/>
+Call Number: English 158 LYU.<br/> 
+New York: Penguin Books, 2008.<br/>
 Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">online</a>&#128187;.<br/> 
 
