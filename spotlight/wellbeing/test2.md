@@ -74,7 +74,8 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details
 
 <h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
 <i>Sarah Wilson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
+
 Call Number: English 150.195 FRA. HarperCollins, 2018.<br/>
 This practical and funny book encourages those with anxiety to embrace themselves who for they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
