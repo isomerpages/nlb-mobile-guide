@@ -60,15 +60,15 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62
 <h5> The Healthy Mind Toolkit: Simple Strategies to Get Out of Your Own Way and Enjoy Your Life</h5>
 <i> Alice Boyes</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E"><img src="/images/PL-2-health-mind-toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: Call number: 616.891425 BOY – [HEA]. New York: TarcherPerigee, 2018.<br/>
+Call number: 616.891425 BOY – [HEA]. New York: TarcherPerigee, 2018.<br/>
 Sometimes, we are our own worst enemy. Learn simple steps to achieve success and defeat the man in the mirror.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">online</a> &#128187;.<br/>
 
 <h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
 <i>Sarah Wilson</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
+HarperCollins, 2018.<br/>
 
-Call Number: English 150.195 FRA. HarperCollins, 2018.<br/>
 This practical and funny book encourages those with anxiety to embrace themselves who for they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
 
