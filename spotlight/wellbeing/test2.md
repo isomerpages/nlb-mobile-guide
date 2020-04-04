@@ -14,7 +14,7 @@ image: /images/PL-2-intro.jpg
 
 <h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
 <i>Sonja Lyubomirsky</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3"><img src="/images/PL-2-thehowofhap.jpg " style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8042ee0f-b1e0-4ab1-b7d8-ce756198fae3"><img src="/images/PL-2-thehowofhap.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158 LYU. New York: Penguin Books, 2008.<br/> 
 Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">online</a>&#128187;.<br/> 
@@ -96,10 +96,10 @@ Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">Th
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html" target="_blank">Happiness Tips</a></strong><br/>
 From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html"><img src="/images/PL-1-Lynda-out-of.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html" target="_blank">Arianna Huffington's Thrive 01: Discovering Meditation and Sleep</a></strong><br/>
 Improve your wellbeing with two simple activities – meditation and sleep!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html "><img src="/images/PL-1-Lynda-work-remotely.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html "><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
 
