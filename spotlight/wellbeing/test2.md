@@ -38,7 +38,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=61788AD8
 <i>Viktor E. Frankl</i><br/>
 <a href=" https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
-We’re currently living through trying times but this is not the first time is the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
+We’re currently living through trying times but this is not the first time the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
 
 <h4>eBooks Selected For Seniors</h4>
