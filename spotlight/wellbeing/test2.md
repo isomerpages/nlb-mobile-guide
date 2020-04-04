@@ -69,7 +69,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49
 <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
 HarperCollins, 2018.<br/>
 
-This practical and funny book encourages those with anxiety to embrace themselves who for they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
+This practical and funny book encourages those with anxiety to embrace themselves for who they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
@@ -82,7 +82,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631
 
 <h4>TED Talk Videos</h4>
 <h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
-Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, come and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
+Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, comes and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
 
