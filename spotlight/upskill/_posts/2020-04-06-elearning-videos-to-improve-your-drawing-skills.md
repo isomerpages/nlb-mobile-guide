@@ -2,7 +2,7 @@
 layout: post
 title:  eLearning Videos To Improve Your Drawing Skills
 date:   2020-04-06
-permalink: /spotlight/upskill/improve-your-drawing
+permalink: /spotlight/upskill/elearning-drawing
 description: From sketching urban scenes and figures with pencils and pens, to creating rich vector graphics and isometric graphics with Adobe Illustrator. 
 image: /images/upskill-3-lynda-drawing.jpg
 ---
