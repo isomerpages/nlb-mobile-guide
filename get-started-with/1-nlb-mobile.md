@@ -16,8 +16,8 @@ Your personal library, anywhere, anytime:
 	<li> Borrow physical items using your mobile device</li>
 	<li> Check the accounts of you and your family</li>
 </ul>
-<a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8" target="_blank"><img src="download-apple-store.svg" style="padding:20px; width:158px; height:48px;"></a><br/>
-<a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blank"><img src="download-android-store.svg" style=style="padding:20px; width:172px; height:48px;"></a>
+<a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8" target="_blank"><img src="/images/download-apple-store.svg" style="padding:20px; width:158px; height:48px;"></a><br/>
+<a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blank"><img src="/images/download-android-store.svg" style="padding:20px; width:172px; height:48px;"></a>
 
 <!--<p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8" target="_blank">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blank">Google Play Store</a>.</p>-->
 
