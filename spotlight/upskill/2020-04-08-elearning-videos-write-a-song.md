@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  eLearning Videos Write A Song
+title:  eLearning Videos On Writing A Song
 date:   2020-04-08
 permalink: /spotlight/upskill/write-a-song
 description: Video tutorials to help you transform a concept in your head into a song
