@@ -41,8 +41,6 @@ Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
 We’re currently living through trying times but this is not the first time the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
 
-<h4>eBooks Selected For Seniors</h4>
-
 <h5>The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life is Worth More Than Anything You Can Buy in a Store</h5>
 <i>Cait Flanders</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
