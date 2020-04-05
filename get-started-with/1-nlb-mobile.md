@@ -20,9 +20,9 @@ Your personal library, anywhere, anytime:
 <li><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:20px; width:316px; height:96px;"></a></li>
 <li><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:20px; width:344px; height:96px;"></a></li>
 </ul>
-<table style="border:0px; padding:0px; text-align:left;">
-	<tr><td><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:10px; width:316px; height:96px;"></a></td></tr>
-	<tr><td><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:10px; width:344px; height:96px;"></a></td></tr>
+<table style="border:0px; padding:0px; text-align:left; max-width:400px;">
+	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:10px; width:316px; height:96px;"></a></td></tr>
+	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:10px; width:344px; height:96px;"></a></td></tr>
 </table>
 <!--<p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8" target="_blank">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blank">Google Play Store</a>.</p>-->
 
