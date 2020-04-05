@@ -25,29 +25,28 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i
 <p><h2>Getting Started</h2></p>
 <div class="acc-kontainer" id="lynda-get-started">          
 	<div>
+
+<div>
+		<input type="radio" name="acc" id="acc2">
+        <label for="acc2">How do I start using LyndaLibrary from the NLB Mobile app? </label>
+
+<div class="acc-body">
+  <p>Sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
+      </p>
+
+</div></div>
+		
 <div>
 		<input type="radio" name="acc" id="acc1">
-        <label for="acc1">How do I start using LyndaLibrary to do eLearning? </label>
+        <label for="acc1">How do I start using LyndaLibrary on my laptop or desktop? </label>
 <div class="acc-body">
-  <p>To learn on the go, sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
-      </p>
-      <p>If you prefer to do your eLearning on a desktop PC or laptop instead, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
+        <p>If you prefer to do your eLearning on a laptop or desktop, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
 	<div class="vd">
      <video width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
   <source src="/images/lyndalibrary steps.mp4" type="video/mp4" />
 </video>
 </div>
 
-
-</div></div>
-
-<div>
-		<input type="radio" name="acc" id="acc2">
-        <label for="acc2">How do I access eLearning courses from NLB Mobile? </label>
-
-<div class="acc-body">
-  <p>Sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
-      </p>
 
 </div></div>
 
