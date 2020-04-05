@@ -16,10 +16,10 @@ Your personal library, anywhere, anytime:
 	<li> Borrow physical items using your mobile device</li>
 	<li> Check the accounts of you and your family</li>
 </ul>
-<ul style="list-style:none inside none;">
+<!--ul style="list-style:none inside none;">
 <li><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:20px; width:316px; height:96px;"></a></li>
 <li><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:20px; width:344px; height:96px;"></a></li>
-</ul>
+</ul>-->
 <table style="border:0px; padding:0px; text-align:left; max-width:400px;">
 	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:10px; width:316px; height:96px;"></a></td></tr>
 	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:10px; width:344px; height:96px;"></a></td></tr>
