@@ -9,7 +9,7 @@ image: /images/upskill-3-lynda-drawing.jpg
 <img src="/images/upskill-3-lynda-drawing.jpg">
 <h3>Video Tutorials: Improve Your Drawing Skills</h3>
 <p>Why do we draw? Maybe it's to express our creative, better appreciate our surroundings, or relieve tension. Explore <a href="https://www.lynda.com/learning-paths/Design/improve-your-drawing-skills" target="_blank">this learning path on LyndaLibrary</a> to draw better. Pick out the topics you enjoy, sign in with your myLibrary ID and start the course!</p> 
-<p><i>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</i></p>
+<p><i>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/#lynda-get-started">find out how</a>.</i></p>
 <h5>Topics covered in the learning path</h5>
 <p><b>Foundations of drawing using pencils and pens</b></p>
 <ul>
