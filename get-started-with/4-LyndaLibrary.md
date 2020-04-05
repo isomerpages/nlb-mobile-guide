@@ -23,7 +23,7 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
 
 <p><h2>Getting Started</h2></p>
-<div class="acc-kontainer">          
+<div class="acc-kontainer" id="lynda-get-started">          
 	<div>
 <div>
 		<input type="radio" name="acc" id="acc1">
