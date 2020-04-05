@@ -31,7 +31,12 @@ Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i
 <div class="acc-body">
   <p>To learn on the go, sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
       </p>
-      <p>If you prefer to do your eLearning on a desktop PC or laptop instead, you can! Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.</p>
+      <p>If you prefer to do your eLearning on a desktop PC or laptop instead, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
+	<div class="vd">
+     <video width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
+  <source src="/images/lyndalibrary steps.mp4" type="video/mp4" />
+</video>
+</div>
 
 
 </div></div>
