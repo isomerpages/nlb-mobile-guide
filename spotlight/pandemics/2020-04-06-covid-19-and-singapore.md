@@ -110,7 +110,7 @@ This podcast explores the control measures Singapore has undertaken to break the
 This microsite maintained by Lianhe Zaobao (联合早报) provides the latest statistics on the COVID-19 situation in Singapore as well as information on the development of the disease and clusters formed in Singapore.
 
 
-<img src="/images/NL-3-library.jpg" style="width:500px;">
+<img src="/images/NL-3-library.jpg" style="width:700px;">
 <p style="font-size:8pt;">Photo credit: National Library Board</p>
 <h4>Journal Articles</h4>
 <h5>1. <a href="https://jamanetwork.com/journals/jama/article-abstract/2761890" target="_blank">COVID-19 in Singapore – Current experience: Critical global issues that require attention and action</a></h5>
