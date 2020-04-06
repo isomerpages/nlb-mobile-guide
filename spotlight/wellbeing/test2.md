@@ -46,25 +46,25 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.8 FLA. California: Hay House Inc, 2018.<br/>
 Can less truly be more? According to the author, yes. Follow Cait Flanders on her 1-year journey to get more life out of fewer things.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
 
 <h5>Five True Things: A Little Guide to Embracing Life's Big Challenges</h5>
 <i>David Richo</i><br/>
-<a href=" https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=E1CDAA62-3968-4F6D-A427-3614FB9AF55F "><img src="/images/PL-2-five-true-things.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F"><img src="/images/PL-2-five-true-things.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 152.41 RIC. Colorado: Shambhala, 2019.<br/>
 Find peace in the midst of life’s challenges by learning and accepting five key facts of life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E1CDAA62-3968-4F6D-A427-3614FB9AF55F">online</a> &#128187;.<br/>
 
 <h5> The Healthy Mind Toolkit: Simple Strategies to Get Out of Your Own Way and Enjoy Your Life</h5>
 <i> Alice Boyes</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E"><img src="/images/PL-2-health-mind-toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href=https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E"><img src="/images/PL-2-health-mind-toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call number: 616.891425 BOY – [HEA]. New York: TarcherPerigee, 2018.<br/>
 Sometimes, we are our own worst enemy. Learn simple steps to achieve success and defeat the man in the mirror.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">online</a> &#128187;.<br/>
 
 <h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
 <i>Sarah Wilson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/overdrive/details?uuid=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
 HarperCollins, 2018.<br/>
 This practical and funny book encourages those with anxiety to embrace themselves for who they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
