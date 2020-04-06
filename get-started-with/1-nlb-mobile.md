@@ -7,15 +7,13 @@ image: /images/NLB-Mobile-logo-square.png
 title: NLB Mobile app
 ---
 <h2>About the NLB Mobile app</h2>
-Your personal library, anywhere, anytime:
-<ul>   
-	<li> Read eBooks and listen to audiobooks online</li>
-	<li> Access eMagazines and eNewspapers</li>
-	<li> Search for both online and physical resources to borrow</li>
-<li> Take online courses</li>
-	<li> Borrow physical items using your mobile device</li>
-	<li> Check the accounts of you and your family</li>
-</ul>
+<p>
+	<div class="vd">
+     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
+  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
+</video>
+</div>
+</p>
 <!--ul style="list-style:none inside none;">
 <li><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:20px; width:316px; height:96px;"></a></li>
 <li><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:20px; width:344px; height:96px;"></a></li>
@@ -25,6 +23,15 @@ Your personal library, anywhere, anytime:
 	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:10px; width:344px; height:96px;"></a></td></tr>
 </table>
 <!--<p>The NLB Mobile app is available on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8" target="_blank">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blank">Google Play Store</a>.</p>-->
+The NLB Mobile app is your personal library, anywhere, anytime:
+<ul>   
+	<li> Read eBooks and listen to audiobooks online</li>
+	<li> Access eMagazines and eNewspapers</li>
+	<li> Search for both online and physical resources to borrow</li>
+<li> Take online courses</li>
+	<li> Borrow physical items using your mobile device</li>
+	<li> Check the accounts of you and your family</li>
+</ul>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
 <div class="vd">
@@ -46,6 +53,14 @@ Your personal library, anywhere, anytime:
 		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
+			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.
+	<div class="vd">
+     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
+  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
+</video>
+</div>
+</p>
+		<h5>List of Features</h5>
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 		<p><strong>Borrow and read / listen</strong></p>
 		<ul>
