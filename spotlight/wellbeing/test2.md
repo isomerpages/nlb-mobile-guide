@@ -93,10 +93,10 @@ Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">Th
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html" target="_blank">Happiness Tips</a></strong><br/>
 From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html" target="_blank">Arianna Huffington's Thrive 01: Discovering Meditation and Sleep</a></strong><br/>
 Improve your wellbeing with two simple activities – meditation and sleep!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html "><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
 
