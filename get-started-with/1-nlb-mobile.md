@@ -7,6 +7,13 @@ image: /images/NLB-Mobile-logo-square.png
 title: NLB Mobile app
 ---
 <h2>About the NLB Mobile app</h2>
+<p>
+	<div class="vd">
+     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
+  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
+</video>
+</div>
+</p>
 Your personal library, anywhere, anytime:
 <ul>   
 	<li> Read eBooks and listen to audiobooks online</li>
@@ -46,6 +53,14 @@ Your personal library, anywhere, anytime:
 		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
+			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.
+	<div class="vd">
+     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
+  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
+</video>
+</div>
+</p>
+		<h2>List of Features</h2>
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 		<p><strong>Borrow and read / listen</strong></p>
 		<ul>
