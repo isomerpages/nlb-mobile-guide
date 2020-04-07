@@ -62,13 +62,19 @@ Why Singapore’s coronavirus response worked – and what we can all learn. (20
 Updates on COVID-19 (Coronavirus disease 2019) local situation. (2020). <i>Ministry of Health</i>. Retrieved March 31, 2020.
 
 <h4>Videos and Podcasts</h4>
-<h5>1. How Singapore does contact tracing</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/LLmfqFhVeTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/LLmfqFhVeTA" target="_blank">How Singapore does contact tracing. (2020, March 28).</a> <i>The Straits Times</i>. Retrieved 2020, March 31.
+<h5>1. <a href="https://youtu.be/LLmfqFhVeTA" target="_blank">How Singapore does contact tracing</a></h5>
+How Singapore does contact tracing. (2020, March 28). <i>The Straits Times</i>. Retrieved 2020, March 31.
 
-<h5>2. Coronavirus: Is it possible to carry COVID-19 without realising?</h5>
+<h5>2. <a href="https://youtu.be/hjJOdcgH2aM" target="_blank">Coronavirus: Is it possible to carry COVID-19 without realising?</a></h5>
+Coronavirus: Is it possible to carry COVID-19 without realising? (2020, March 20). <i>The Straits Times</i>. Retrieved 2020, March 31.
+
+<!--h5>1. How Singapore does contact tracing</h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/LLmfqFhVeTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/embed/LLmfqFhVeTA" target="_blank">How Singapore does contact tracing. (2020, March 28).</a> <i>The Straits Times</i>. Retrieved 2020, March 31.-->
+
+<!--h5>2. Coronavirus: Is it possible to carry COVID-19 without realising?</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/hjJOdcgH2aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/hjJOdcgH2aM" target="_blank">Coronavirus: Is it possible to carry COVID-19 without realising? (2020, March 20).</a> <i>The Straits Times</i>. Retrieved 2020, March 31.
+Source: <a href="https://www.youtube.com/embed/hjJOdcgH2aM" target="_blank">Coronavirus: Is it possible to carry COVID-19 without realising? (2020, March 20).</a> <i>The Straits Times</i>. Retrieved 2020, March 31.-->
 
 <h5>3. <a href="https://infographics.channelnewsasia.com/covid-19/coronavirus-singapore-clusters.html" target="_blank">COVID-19 clusters in Singapore</a></h5>
 COVID-19 clusters in Singapore. (2020, March 21). <i>CNA</i>. Retrieved 2020, March 31.
