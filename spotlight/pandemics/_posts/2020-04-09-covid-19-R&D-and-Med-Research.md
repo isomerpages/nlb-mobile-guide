@@ -2,7 +2,7 @@
 layout: post
 title:  COVID-19 - R&D and Medical Research 
 date:   2020-04-09
-permalink: /spotlight/pandemics/covid-19-R&D-and-Medical-Research
+permalink: /spotlight/pandemics/covid-19-r&d-and-medical-research
 description: COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. 
 image: /images/NL-4-COVID19.jpg
 ---
@@ -121,6 +121,5 @@ Recent research findings have indicated that it may take a few years before the 
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
 The information in this resource guide is valid as of March 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
 All Rights Reserved. National Library Board Singapore 2020.<br/></p>
-
 ---
 #### **References**
