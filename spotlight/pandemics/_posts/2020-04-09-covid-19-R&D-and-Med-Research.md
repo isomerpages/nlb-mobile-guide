@@ -76,7 +76,7 @@ World Health Organization (2020).  Global research on coronavirus disease (COVID
 Links to COVID-19 Resources. (2020, April 1). <i>Copyright Clearance Center</i>. Retrieved 2020, April 1.
 
 <h5>3. <a href="http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase" target="_blank">Coronavirus Research Database – ProQuest</a></h5>
-Accessible through ProQuest Central via [[NLB’s eResources website](http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase)]{:target="_blank"} (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
+Accessible through ProQuest Central via <a href="http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase" target="_blank">  NLB’s eResources website</a> (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
 
 This database curates openly available content from the world’s leading publishers as well as current research related to coronaviruses including COVID-19. 
 
@@ -98,7 +98,7 @@ Novel coronavirus – Wiley Online Library. (2020). <i>Wiley Online Library</i>.
 
 Based on cases in Singapore, local researchers discovered that the amount of virus in a patient is the highest at the beginning of the disease, and gradually decreases over time. The article also highlights the development of new test kits.
 
-<h5>2. <a hef="http://news.sciencenet.cn/htmlnews/2020/3/437341.shtm" target="_blank">中药真能抗新冠肺炎 钟南山团队推“连花清瘟”</a></h5>
+<h5>2. <a href="http://news.sciencenet.cn/htmlnews/2020/3/437341.shtm" target="_blank">中药真能抗新冠肺炎 钟南山团队推“连花清瘟”</a></h5>
 虞涵棋。（2020年3月23日）。中药真能抗新冠肺炎 钟南山团队推“连花清瘟”。  <i>科学网。</i>. Retrieved 2020, April 1.
 
 This article summarises the latest research on the effects of Lianhuaqingwen (连花清瘟), a traditional Chinese medicine (TCM) formula, in treating COVID-19. The research findings indicate that Lianhuaqingwen significantly inhibits the replication of the SARS-CoV-2 virus, affects virus morphology and exerts anti-inflammatory effects in vitro.  
