@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Package #3 - COVID-19 - The Singapore Situation
+title:  Learning Package no.3 - COVID-19 - The Singapore Situation
 date:   2020-04-06
 permalink: /spotlight/pandemics/covid-19-singapore-situation
 description: In late 2019, Singapore’s medical practitioners took notice when reports of severe pneumonia cases in Wuhan, China emerged. Soon after, temperature screening at Changi Airport was implemented.
