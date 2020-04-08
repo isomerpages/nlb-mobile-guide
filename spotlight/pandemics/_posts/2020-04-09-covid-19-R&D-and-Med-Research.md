@@ -75,8 +75,8 @@ World Health Organization (2020).  Global research on coronavirus disease (COVID
 <h5>2. <a href="https://www.copyright.com/coronavirus-covid-19/" target="_blank">Links to COVID-19 Resources.</a></h5>
 Links to COVID-19 Resources. (2020, April 1). <i>Copyright Clearance Center</i>. Retrieved 2020, April 1.
 
-<h5>3. <a href="http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase" target="_blank">Coronavirus Research Database – ProQuest</a></h5>
-Accessible through ProQuest Central via <a href="http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase" target="_blank">  NLB’s eResources website</a> (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
+<h5>3. <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Coronavirus Research Database – ProQuest</a></h5>
+Accessible through ProQuest Central via <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">  NLB’s eResources website</a> (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
 
 This database curates openly available content from the world’s leading publishers as well as current research related to coronaviruses including COVID-19. 
 
@@ -119,7 +119,7 @@ Singapore scientists have developed a method to track genetic changes that can s
 Recent research findings have indicated that it may take a few years before the coronavirus is eradicated.
 
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
-The information in this resource guide is valid as of March 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
+The information in this resource guide is valid as of April 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
 All Rights Reserved. National Library Board Singapore 2020.<br/></p>
 ---
 #### **References**
