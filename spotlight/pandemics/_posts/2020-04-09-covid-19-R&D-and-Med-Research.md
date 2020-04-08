@@ -24,23 +24,23 @@ Other studies, such as the social and psychological impact of the virus, its eff
 
 <h4>Videos and Podcasts</h4>
 <h5>1. COVID-19 (coronavirus disease 2019): Scientists behind A*STAR’s COVID-19 test kits</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pa23Kra8QZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/pa23Kra8QZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/pa23Kra8QZo" target="_blank">COVID-19 (coronavirus disease 2019): Scientists behind A*STAR’s COVID-19 test kits.</a> (2020, March 6). <i>govsingapore</i>. Retrieved 2020, April 1.
 
 <h5>2. How scientists are confronting coronavirus: Scripps Research COVID-19 updates</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BzC3QNyiymk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BzC3QNyiymk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/BzC3QNyiymk" target="_blank">How scientists are confronting coronavirus: Scripps Research COVID-19 updates.</a> (2020, March 21). <i>Scripps Research</i>. Retrieved 2020, April 1. 
 
 <h5>3. Coronavirus pandemic update 47: Searching for immunity boosters & possible lessons from Spanish Flu</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H1LHgyfPPQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/H1LHgyfPPQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/H1LHgyfPPQ8" target="_blank">Coronavirus pandemic update 47: Searching for immunity boosters & possible lessons from Spanish Flu.</a> (2020, April 1). <i>Medcram- Medical Lectures Explained CLEARLY</i>. Retrieved 2020, April 1.  
 
 <h5>4. How scientists are trying to develop a coronavirus vaccine | WSJ</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7SuKywEZ5AM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/7SuKywEZ5AM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/7SuKywEZ5AM" target="_blank">How scientists are trying to develop a coronavirus vaccine | WSJ.</a> (2020, February 13). <i>Wall Street Journal</i>. Retrieved 2020, April 1. 
 
 <h5>5. Coronavirus is our future | Alanna Shaikh | TEDxSMU</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fqw-9yMV0sI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fqw-9yMV0sI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/Fqw-9yMV0sI" target="_blank">Coronavirus is our future | Alanna Shaikh | TEDxSMU.</a> (2020, March 11). <i>TEDx Talks</i>. Retrieved 2020, April 1. 
 
 
