@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  COVID-19 - R&D and Medical Research 
-date:   2020-04-07
+date:   2020-04-08
 permalink: /spotlight/pandemics/covid-19-r&d-and-medical-research
 description: COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. 
 image: /images/NL-4-COVID19.jpg
@@ -75,8 +75,8 @@ World Health Organization (2020).  Global research on coronavirus disease (COVID
 <h5>2. <a href="https://www.copyright.com/coronavirus-covid-19/" target="_blank">Links to COVID-19 Resources.</a></h5>
 Links to COVID-19 Resources. (2020, April 1). <i>Copyright Clearance Center</i>. Retrieved 2020, April 1.
 
-<h5>3. <a href="http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase " target="_blank"> Coronavirus Research Database – ProQuest</a></h5>
-Accessible through ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase](http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase) {:target="_blank"} (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
+<h5>3. <a href="http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase" target="_blank">Coronavirus Research Database – ProQuest</a></h5>
+Accessible through ProQuest Central via [[NLB’s eResources website](http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase)]{:target="_blank"} (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
 
 This database curates openly available content from the world’s leading publishers as well as current research related to coronaviruses including COVID-19. 
 
