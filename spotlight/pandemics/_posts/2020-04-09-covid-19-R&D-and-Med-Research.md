@@ -70,13 +70,13 @@ National Center for Immunization and Respiratory Diseases. (2020, March 9). CDC 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/microbiologist-scientist-woman-1332376/" target="_blank">https://pixabay.com/photos/microbiologist-scientist-woman-1332376/</a></p>
 <p><strong>For the latest journal articles on COVID-19, please visit these free-to-access academic resource portals.</strong></p>
 <h5>1. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov" target="_blank">Global research on coronavirus disease (COVID-19)</a></h5>
-World Health Organization (2020). <a Global research on coronavirus disease (COVID-19). <i>World Health Organisation</i>. Retrieved 2020, April 1.
+World Health Organization (2020).  Global research on coronavirus disease (COVID-19). <i>World Health Organisation</i>. Retrieved 2020, April 1.
 
 <h5>2. <a href="https://www.copyright.com/coronavirus-covid-19/" target="_blank">Links to COVID-19 Resources.</a></h5>
 Links to COVID-19 Resources. (2020, April 1). <i>Copyright Clearance Center</i>. Retrieved 2020, April 1.
 
 <h5>3. <a href="http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase " target="_blank"> Coronavirus Research Database – ProQuest</a></h5>
-Accessible through ProQuest Central via NLB’s eResources website http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
+Accessible through ProQuest Central via NLB’s eResources website [http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase](http://eresources.nlb.gov.sg/main/Open/1111?mode=edatabase) {:target="_blank"} (Select ‘*Coronavirus Research Database*’; myLibrary ID is required to access this article.)
 
 This database curates openly available content from the world’s leading publishers as well as current research related to coronaviruses including COVID-19. 
 
@@ -94,11 +94,11 @@ Novel coronavirus – Wiley Online Library. (2020). <i>Wiley Online Library</i>.
 
 <h4>A selection of resources in Chinese, Malay and Tamil </h4>
 <h5>1. <a href="https://www.ttsh.com.sg/About-TTSH/TTSH-News/Pages/%E5%86%A0%E7%97%85%E5%8F%91%E7%97%85%E5%88%9D%E6%9C%9F%E7%97%85%E6%AF%92%E9%87%8F%E6%9C%80%E5%A4%9A%E4%BC%A0%E6%9F%93%E6%80%A7%E6%88%96%E6%9B%B4%E9%AB%98.aspx" target="_blank">冠病发病初期病毒量最多传染性或更高</a></h5>
-李熙爱、刘智彭。（2020年3月2日）。冠病发病初期病毒量最多传染性或更高。</a>  <i>陈笃生医院，转载自联合早报。 </i>. Retrieved 2020, March 30.
+李熙爱、刘智彭。（2020年3月2日）。冠病发病初期病毒量最多传染性或更高。  <i>陈笃生医院，转载自联合早报。 </i> Retrieved 2020, March 30.
 
 Based on cases in Singapore, local researchers discovered that the amount of virus in a patient is the highest at the beginning of the disease, and gradually decreases over time. The article also highlights the development of new test kits.
 
-<h5>2. <a hef="http://news.sciencenet.cn/htmlnews/2020/3/437341.shtm" target="_blank">中药真能抗新冠肺炎 钟南山团队推“连花清瘟”。</a></h5>
+<h5>2. <a hef="http://news.sciencenet.cn/htmlnews/2020/3/437341.shtm" target="_blank">中药真能抗新冠肺炎 钟南山团队推“连花清瘟”</a></h5>
 虞涵棋。（2020年3月23日）。中药真能抗新冠肺炎 钟南山团队推“连花清瘟”。  <i>科学网。</i>. Retrieved 2020, April 1.
 
 This article summarises the latest research on the effects of Lianhuaqingwen (连花清瘟), a traditional Chinese medicine (TCM) formula, in treating COVID-19. The research findings indicate that Lianhuaqingwen significantly inhibits the replication of the SARS-CoV-2 virus, affects virus morphology and exerts anti-inflammatory effects in vitro.  
@@ -123,3 +123,4 @@ The information in this resource guide is valid as of March 2020 and correct as 
 All Rights Reserved. National Library Board Singapore 2020.<br/></p>
 ---
 #### **References**
+
