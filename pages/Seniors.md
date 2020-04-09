@@ -30,21 +30,22 @@ Did you know that you could read international eNewspapers and eMagazines from t
 
 <p><h2>More Tips</h2></p>
 <p><h5>Be Savvy and Safe when you Go Digital</h5></p>
-Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">IMDA's "Stay Healthy, Go Digital"</a> site. It includes content such as:
-<ul>
-<li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Articles and tips on staying safe in the digital world</a></li>
-<li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">Helpful guides on how to connect with family and friends</a> through email, Facebook, Instagram, WhatsApp and other digital tools. Feel free to use them while coaching your family members or friends.</li>
-</ul>
 
 <table>
 <tbody>
 <tr>
 <td align="bottom">
 <img src="/images/Logo_IMDA-SHGD.png"></td>
-<td>
+<td style="vertical-align: bottom;">
 Part of
-<img src="/images/Logo_SGUnited.png">
+<p><img src="/images/Logo_SGUnited.png"></p>
 </td>
 </tr>
 </tbody>
 </table>
+
+<p>Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">IMDA's "Stay Healthy, Go Digital"</a> site. It includes content such as:</p>
+<ul>
+<li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Articles and tips on staying safe in the digital world</a></li>
+<li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">Helpful guides on how to connect with family and friends</a> through email, Facebook, Instagram, WhatsApp and other digital tools. Feel free to use them while coaching your family members or friends.</li>
+</ul>
