@@ -96,14 +96,11 @@ title: eBooks and Audiobooks
 		<input type="radio" name="acc" id="acc23">
         <label for="acc23">How do I know if my books have been downloaded to my device?</label>
                 <div class="acc-body">
-Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.
+<p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
   <p><img src="/images/Screenshot_Libby-download-icons.jpg"></p>
 <p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
 <p>
-The default setting in Libby is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
-  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg"></p>
-<p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
-<p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg"></p>
+If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div></div>
 
   <h2>Different Devices</h2>
