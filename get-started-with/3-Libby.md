@@ -52,11 +52,11 @@ title: eBooks and Audiobooks
 <p> <a name="reservation"><h2>Getting Started with Libby</h2></a></p>
 <div>
 		<input type="radio" name="acc" id="acc4">
-		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'User ID' when entering my 'Library Account Details'. What is my User ID? </label>
+		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
 
 
 <div class="acc-body">
-  <p>Your 'User ID' refers to your NLB myLibrary ID. </p>
+  <p>Your 'user ID' refers to your NLB myLibrary ID. </p>
 </div>
 </div>
 
@@ -91,6 +91,19 @@ title: eBooks and Audiobooks
 <p>To check your notification settings in Libby, please read <a href="https://help.libbyapp.com/6174.htm" target="_blank">this Help article</a> on setting up and managing notifications. </p>
 
 </div></div>
+
+<div>
+		<input type="radio" name="acc" id="acc23">
+        <label for="acc23">How do I know whether my books have been downloaded or not?</label>
+Go to your Shelf in Libby and check the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.
+  <p><img src="/images/Screenshot_Libby-download-icons.jpg"></p>
+<p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
+<p>
+The default setting in Libby is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
+  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg"></p>
+<p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
+<p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg"></p>
+  </div></div>
 
   <h2>Different Devices</h2>
  <div>
@@ -280,7 +293,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <div class="acc-body">
   <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
   <p><img src="/images/Screenshot_Libby-change-download-rules.jpg"></p>
-    <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
+    <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
     <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg"></p>
   </div></div>
 
