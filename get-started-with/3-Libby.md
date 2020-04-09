@@ -9,8 +9,9 @@ title: eBooks and Audiobooks
 <h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
 <li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
-<li>Want to read even when offline? Use the Libby app</li>
+<li>Want to read even when offline? With the Libby app, you can download eBooks/eAudiobooks into your device so that you don't need an internet connection to read/listen to them later.</li>
 </ul>
+
 
 <p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank">Google Play</a> now.</p>
 
@@ -277,9 +278,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc20">My eBook/eAudiobook isn't downloading.</label>
 
         <div class="acc-body">
-  <p>This may be happening because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
+  <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
   <p><img src="/images/Screenshot_Libby-change-download-rules.jpg"></p>
-    <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads.</p>
+    <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
     <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg"></p>
   </div></div>
 
