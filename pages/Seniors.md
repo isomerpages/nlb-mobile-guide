@@ -40,10 +40,10 @@ Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-heal
 <tbody>
 <tr>
 <td align="bottom">
-<img src="/images/Logo_IMDA-SHGD.png" width="400" height="143"></td>
+<img src="/images/Logo_IMDA-SHGD.png"></td>
 <td>
 Part of
-<img src="/images/Logo_SGUnited.png" width="250" height="76">
+<img src="/images/Logo_SGUnited.png">
 </td>
 </tr>
 </tbody>
