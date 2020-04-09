@@ -16,16 +16,18 @@ hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/backdrop-abstract.jpeg
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "I want to..."
+hero-dropdown-text: "Get top tips for..."
 
-# I want to dropdown
-i-want-to:
-  - title: bond with my loved ones through reading and learning. 
+# "Get top tips for" dropdown
+Get-top-tips-for:
+  - title: Families and Children
     url: /toptips/parent/
-  - title: fuel my reading habit.
+  - title: Avid Readers
     url: /toptips/reader/
-  - title: learn – to further skills or interests, and/or advance my career.
+  - title: Learners
     url: /toptips/learner/
+  - title: Seniors
+    url: /toptips/seniors/
     
 # Info Sections
 info-sections:
