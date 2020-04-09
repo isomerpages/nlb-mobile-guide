@@ -36,3 +36,15 @@ Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-heal
 <li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">Helpful guides on how to connect with family and friends</a> through email, Facebook, Instagram, WhatsApp and other digital tools. Feel free to use them while coaching your family members or friends.</li>
 </ul>
 
+<table>
+<tbody>
+<tr>
+<td align="bottom">
+<img src="/images/Logo_IMDA-SHGD.png" width="400"></td>
+<td>
+Part of
+<br><img src="/images/Logo_SGUnited.png" width="250"></br>
+</td>
+</tr>
+</tbody>
+</table>
