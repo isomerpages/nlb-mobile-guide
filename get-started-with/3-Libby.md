@@ -269,6 +269,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <p>If you still can't sign in after following the steps in the video near the top of this page, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
 <p>Help topics are also available on the <a href="https://help.libbyapp.com/" target="_blank">Libby support site</a>.</p>
 
+</div>
+</div>
+
 <div>
 		<input type="radio" name="acc" id="acc20">
         <label for="acc20">My eBook/eAudiobook isn't downloading.</label>
@@ -297,9 +300,3 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
 
-
-
-
-
-  </div>
-</div>
