@@ -94,8 +94,9 @@ title: eBooks and Audiobooks
 
 <div>
 		<input type="radio" name="acc" id="acc23">
-        <label for="acc23">How do I know whether my books have been downloaded or not?</label>
-Go to your Shelf in Libby and check the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.
+        <label for="acc23">How do I know if my books have been downloaded to my device?</label>
+                <div class="acc-body">
+Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.
   <p><img src="/images/Screenshot_Libby-download-icons.jpg"></p>
 <p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
 <p>
