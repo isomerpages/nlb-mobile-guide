@@ -43,7 +43,7 @@ Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-heal
 <img src="/images/Logo_IMDA-SHGD.png" width="400" height="143"></td>
 <td>
 Part of
-<br><img src="/images/Logo_SGUnited.png" width="250" height="76">
+<img src="/images/Logo_SGUnited.png" width="250" height="76">
 </td>
 </tr>
 </tbody>
