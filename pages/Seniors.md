@@ -39,9 +39,9 @@ Did you know that you could read international eNewspapers and eMagazines from t
 <table>
 <tbody>
 <tr>
-<td style="vertical-align: bottom;">
+<td style="vertical-align: middle;">
 <img src="/images/Logo_IMDA-SHGD.png"></td>
-<td style="vertical-align: bottom;">
+<td style="vertical-align: middle;">
 Part of
 <p><img src="/images/Logo_SGUnited.png"></p>
 </td>
