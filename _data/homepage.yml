@@ -18,8 +18,8 @@ hero-banner: /images/backdrop-abstract.jpeg
 # Hero Dropdown Main Text
 hero-dropdown-text: "Get top tips for..."
 
-# "Get top tips for" dropdown
-I-want-to:
+# I want to dropdown
+i-want-to:
   - title: Families and Children
     url: /toptips/parent/
   - title: Avid Readers
