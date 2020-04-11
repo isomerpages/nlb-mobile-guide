@@ -8,7 +8,7 @@ image: /images/PL-3-video-banner-image.png
 ---
 <img src="/images/PL-3-video-banner-image.png">
 <p><q>Reading is to the mind what exercise is to the body.</q> - Richard Steele</p>
-<p>It is important to take care of your mental health and well-being as we grapple with a new normal.</p> 
+<p>It is important to take care of your mental health and wellbeing as we grapple with a new normal.</p> 
 <p>You can perhaps, incorporate mindful practices into your daily routine as a way to cope with anxiety. Check out these recommended reads and eResources for tips as we navigate uncharted waters together. 
 </p>
 
