@@ -95,7 +95,7 @@ Source: <a href="https://www.youtube.com/watch?v=-kfUE41-JFw">Self-Compassion</a
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/mindful-work-surface/2802031/3508187-4.html?org=nlb.gov.sg" target="_blank">The Mindful Workday</a></strong><br/>
 What does a mindful workday look like? From creating a healthy working environment to communicating better with your boss, learn how you can incorporate mindfulness to keep you connected, grounded and focused at work.</p>
-<a href="https://www.lynda.com/Business-tutorials/Mindful-Workday/2802031-2.html?org=nlb.gov.sg"><img src="/images/PL-3-lynda-the-mindful-workday.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/mindful-work-surface/2802031/3508187-4.html?org=nlb.gov.sg"><img src="/images/PL-3-lynda-the-mindful-workday.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Mindful-Meditations-Work-Life/2212156-2.html?org=nlb.gov.sg" target="_blank">Mindful Meditations for Work and Life</a></strong><br/>
 Simple meditation exercises that you can incorporate into your workday.</p>
