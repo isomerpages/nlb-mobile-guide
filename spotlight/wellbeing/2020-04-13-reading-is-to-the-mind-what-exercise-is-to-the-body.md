@@ -9,7 +9,7 @@ image: /images/PL-3-video-banner-image.png
 <img src="/images/PL-3-video-banner-image.png">
 <p><q>Reading is to the mind what exercise is to the body.</q> - Richard Steele</p>
 <p>It is important to take care of your mental health and well-being as we grapple with a new normal.</p> 
-<p>You can perhaps, incorporate mindful practices into your daily routine as a way to cope with anxiety. Alternatively, spend some time in nature if you are feeling cooped up at home. Check out these recommended reads and eResources for tips as we navigate uncharted waters together. 
+<p>You can perhaps, incorporate mindful practices into your daily routine as a way to cope with anxiety. Check out these recommended reads and eResources for tips as we navigate uncharted waters together. 
 </p>
 
 <h4>eBooks</h4>
@@ -28,13 +28,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D1E0612F
 Call Number: English 303.4833 ODE. New York: Melville House, 2019.<br/>
 Do you find yourself having more time now? Perhaps you should simply do…nothing. This field guide will teach you how.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF250E8F-F876-43E8-9FE5-B87401EFBD69">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CF250E8F-F876-43E8-9FE5-B87401EFBD69">online</a> &#128187;.<br/>
-
-<h5>Forest Therapy</h5>
-<i>Sarah Ivens</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3B71FAED-BE9E-458C-951E-0320EB0A7C8A"><img src="/images/PL-3-forest -therapy.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 615.8515 IVE -[HEA]. London: Piatkus, 2018.<br/>
-Feeling cooped up at home? Beat cabin fever by reconnecting with nature. <i>Forest Therapy</i> offers a case for getting back to nature and offers fun, easy practices to break out of hibernation.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3B71FAED-BE9E-458C-951E-0320EB0A7C8A">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3B71FAED-BE9E-458C-951E-0320EB0A7C8A">online</a> &#128187;.<br/>
 
 <h5>The Little Book of Hygge</h5>
 <i>Meik Wiking</i><br/>
@@ -77,20 +70,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4608040"
 Call Number: English 158.13 ALL. New York: TarcherPerigee, 2019.<br/>
 An impressively comprehensive look at current research and trends in the mindfulness movement. A bibliography is also included for readers interested in further exploration.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B21D953B-2C4C-49ED-9CA3-0F3F76BB4427">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B21D953B-2C4C-49ED-9CA3-0F3F76BB4427">online</a> &#128187;.<br/>
-
-<h5>Calm</h5>
-<i>Michael Acton Smith</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2625432"><img src="/images/PL-3-calm.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158.12 SMI. London: Penguin Life, 2018.<br/>
-How does one find calm amidst the frenzy of modern day life? This book provides a practical and pleasurable guide to twenty-first century mindfulness.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2625432">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2625432">online</a> &#128187;.<br/>
-
-<h5>A Mindfulness Guide for the Frazzled</h5>
-<i>Ruby Wax</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6941EE16-3B9E-4C9C-B526-FFC281405695"><img src="/images/PL-3-mindfulness -guide-for-the -frazzled.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 155.9042 WAX -[HEA]. London: Penguin Life, 2016.<br/>
-Feeling frazzled? Check out comedian Ruby Wax’s hilarious guide to mindfulness.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6941EE16-3B9E-4C9C-B526-FFC281405695">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6941EE16-3B9E-4C9C-B526-FFC281405695">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
