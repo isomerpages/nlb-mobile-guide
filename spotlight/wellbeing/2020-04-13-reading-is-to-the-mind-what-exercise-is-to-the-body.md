@@ -51,13 +51,6 @@ Taylor and Francis, 2019.<br/>
 The Aging Mind debunks unhelpful myths about the aging process and offers guidance on how we can age better, allowing us to continue to manage and enjoy our lives.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=58036740-50C4-4AE4-96F2-48F4A23674F2">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/58036740-50C4-4AE4-96F2-48F4A23674F2">online</a> &#128187;.<br/>
 
-<h5>Find Your Light: Practicing Mindfulness to Recover from Anything</h5>
-<i>Beverly Conyers</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6BCD1CA0-CBE2-47F7-B5A8-6ECB8C8E5603"><img src="/images/PL-3-find-your- light.jpg" style="width:300px; text-align:left;"></a><br/>
-Hazelden Publishing, 2019.<br/>
-Compulsive behaviours can numb the thoughts, feelings and insights that lead us to who we are. Let mindfulness light the way on this complex journey of self-discovery.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6BCD1CA0-CBE2-47F7-B5A8-6ECB8C8E5603">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6BCD1CA0-CBE2-47F7-B5A8-6ECB8C8E5603">online</a> &#128187;.<br/>
-
 <h5>Hundred: What You Learn in a Lifetime</h5>
 <i>Heike Faller and Valerio Vidali</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4608040"><img src="/images/PL-3-hundre What you learn in a lifetime.jpg" style="width:300px; text-align:left;"></a><br/>
