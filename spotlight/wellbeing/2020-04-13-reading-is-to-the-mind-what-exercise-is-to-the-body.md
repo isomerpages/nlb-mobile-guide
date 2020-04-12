@@ -21,7 +21,6 @@ Electronic reproduction. New York: Penguin Books, 2017.<br/>
 Whether it is optional or forced upon you, slowing down in a previously fast-paced world has its benefits. This visually stunning book by renowned Buddhist meditation teacher Haemin Sunim invites you to slow down and find calm (and more!) in your day-to-day life. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D1E0612F-57AF-43C1-9FDE-5670CD1C0700">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/D1E0612F-57AF-43C1-9FDE-5670CD1C0700">online</a>&#128187;.<br/> 
 
-
 <h5>How to Do Nothing</h5>
 <i>Jenny Odell</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=CF250E8F-F876-43E8-9FE5-B87401EFBD69"><img src="/images/PL-3-how-to-do-nothing.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -36,13 +35,12 @@ Call Number: English 646.7 BRA. New York: Harper Design, 2017.<br/>
 Lagom means “not too much and not too little – just right,” and is the Swedish philosophy for enjoying balance in every aspect of life. Let Niki Brantmark’s suggestions help you create more happiness in your life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3402274">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3402274">online</a> &#128187;.<br/>
 
-
-<h5>The Book of Ichigo Ichie: The Art of Making the Most of Every Moment, the Japanese Way</h5>
-<i>Héctor García and Francesc Miralles</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=29ABD448-6C00-4829-A4C2-9882D5691AB1"><img src="/images/PL-3-the-book-of-ichigo-ichie.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158.1 GAR. New York: Penguin Books, 2019.<br/>
-In this age of distraction, instant gratification, and superficial engagement, the Japanese concept of “ichigo ichie,” which roughly translates to “one time, one meeting”, can help people to treasure individual moments.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=29ABD448-6C00-4829-A4C2-9882D5691AB1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/29ABD448-6C00-4829-A4C2-9882D5691AB1">online</a> &#128187;.<br/>
+<h5>Wabi Sabi: Timeless Wisdom for a Stress-Free Life</h5>
+<i> Agneta Nyholm Winqvist</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 1222111"><img src="/images/PL-3-wabi-sabi.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 170.44 WIN . New York: Skyhorse Publishing, 2012.<br/>
+Swedish expert Agneta Nyholm Winqvist introduces readers to wabi sabi, an Eastern philosophy with roots dating back 5,000 years. Read about how to search for your own inner calm, and embrace the beauty and simplicity of everyday life.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 1222111">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ 1222111">online</a> &#128187;.<br/>
 
 <h5>The Aging Mind: An Owner's Manual</h5>
 <i>Patrick Rabbitt</i><br/>
