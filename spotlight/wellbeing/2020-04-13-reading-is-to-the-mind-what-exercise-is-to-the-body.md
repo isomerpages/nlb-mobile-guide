@@ -29,12 +29,13 @@ Call Number: English 303.4833 ODE. New York: Melville House, 2019.<br/>
 Do you find yourself having more time now? Perhaps you should simply do…nothing. This field guide will teach you how.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF250E8F-F876-43E8-9FE5-B87401EFBD69">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CF250E8F-F876-43E8-9FE5-B87401EFBD69">online</a> &#128187;.<br/>
 
-<h5>The Little Book of Hygge</h5>
-<i>Meik Wiking</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D114C115-CEE6-4263-BB55-4D5090229C38"><img src="/images/PL-3-little-bk-of-Hygge.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158.1 WIK. New York: William Morrow, 2017.<br/>
-The Danes are one of the happiest people in the world and their secret lies in “hygge” (pronounced <i>hoo-gah</i>), a state of atmosphere that can mean anything from feeling cosy to the absence of annoyance. Learn how you can add a touch of hygge into your life to counter the negativity all around us.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D114C115-CEE6-4263-BB55-4D5090229C38">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/D114C115-CEE6-4263-BB55-4D5090229C38">online</a> &#128187;.<br/>
+<h5>Lagom: Finding Strength in Imperfection</h5>
+<i> Niki Brantmark</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3402274"><img src="/images/PL-3-lagom.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 646.7 BRA. New York: Harper Design, 2017.<br/>
+Lagom means “not too much and not too little – just right,” and is the Swedish philosophy for enjoying balance in every aspect of life. Let Niki Brantmark’s suggestions help you create more happiness in your life.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3402274">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3402274">online</a> &#128187;.<br/>
+
 
 <h5>The Book of Ichigo Ichie: The Art of Making the Most of Every Moment, the Japanese Way</h5>
 <i>Héctor García and Francesc Miralles</i><br/>
