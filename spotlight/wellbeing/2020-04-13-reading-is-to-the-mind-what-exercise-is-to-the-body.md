@@ -60,10 +60,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3402274"
 
 <h5>Wabi Sabi: Timeless Wisdom for a Stress-Free Life</h5>
 <i> Agneta Nyholm Winqvist</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 1222111"><img src="/images/PL-3-wabi-sabi.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3A256523-6864-4B46-98D3-17563076C26A"><img src="/images/PL-3-wabi-sabi.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 170.44 WIN . New York: Skyhorse Publishing, 2012.<br/>
 Swedish expert Agneta Nyholm Winqvist introduces readers to wabi sabi, an Eastern philosophy with roots dating back 5,000 years. Read about how to search for your own inner calm, and embrace the beauty and simplicity of everyday life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 1222111">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ 1222111">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3A256523-6864-4B46-98D3-17563076C26A">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1222111">online</a> &#128187;.<br/>
 
 <h5>The Aging Mind: An Owner's Manual</h5>
 <i>Patrick Rabbitt</i><br/>
