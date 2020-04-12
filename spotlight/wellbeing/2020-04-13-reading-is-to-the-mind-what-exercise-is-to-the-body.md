@@ -8,7 +8,7 @@ image: /images/PL-3-video-banner-image.png
 ---
 <img src="/images/PL-3-video-banner-image.png">
 <p><q>Reading is to the mind what exercise is to the body.</q> - Richard Steele</p>
-<p>It is important to take care of your mental health and wellbeing as we grapple with a new normal.</p> 
+<p>It is important to take care of your mental health and wellbeing as we adapt to a new normal.</p> 
 <p>You can perhaps, incorporate mindful practices into your daily routine as a way to cope with anxiety. Check out these recommended reads and eResources for tips as we navigate uncharted waters together. 
 </p>
 
@@ -70,6 +70,13 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4608040"
 Call Number: English 158.13 ALL. New York: TarcherPerigee, 2019.<br/>
 An impressively comprehensive look at current research and trends in the mindfulness movement. A bibliography is also included for readers interested in further exploration.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B21D953B-2C4C-49ED-9CA3-0F3F76BB4427">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B21D953B-2C4C-49ED-9CA3-0F3F76BB4427">online</a> &#128187;.<br/>
+
+<h5>Calm</h5>
+<i>Michael Acton Smith</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2625432"><img src="/images/PL-3-calm.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 158.12 SMI. London: Penguin Life, 2018.<br/>
+How does one find calm amidst the frenzy of modern day life? This book provides a practical and pleasurable guide to twenty-first century mindfulness.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2625432">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2625432">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
