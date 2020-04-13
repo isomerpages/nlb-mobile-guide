@@ -56,7 +56,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF250E8F
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3402274"><img src="/images/PL-3-lagom.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 646.7 BRA. New York: Harper Design, 2017.<br/>
 Lagom means “not too much and not too little – just right,” and is the Swedish philosophy for enjoying balance in every aspect of life. Let Niki Brantmark’s suggestions help you create more happiness in your life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3402274">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3402274">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2fa0fabd-c2b9-4556-82e9-e23fa009f442">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3402274">online</a> &#128187;.<br/>
 
 <h5>Wabi Sabi: Timeless Wisdom for a Stress-Free Life</h5>
 <i> Agneta Nyholm Winqvist</i><br/>
