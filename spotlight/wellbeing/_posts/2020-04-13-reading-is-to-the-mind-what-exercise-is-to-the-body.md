@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Reading is to the mind what exercise is to the body
+title:  Learning Package 3 - Reading is to the mind what exercise is to the body
 date:   2020-04-13
 permalink: /spotlight/wellbeing/2020-04-13-reading-is-to-the-mind-what-exercise-is-to-the-body
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
