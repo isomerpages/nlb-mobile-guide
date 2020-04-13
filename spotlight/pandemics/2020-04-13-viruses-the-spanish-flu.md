@@ -8,7 +8,7 @@ image: /images/NL-5-spanish-flu.jpg
 ---
 <img src="/images/NL-5-spanish-flu.jpg">
 
-<p style="font-size:8pt;">Photo credit: Uncredited US Army photographer, retrieved from <a href="https://commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg" target="_blank">commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg</a></p>
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg" target="_blank">commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg</a></p>
 “I had a little bird<br/> 
 its name was Enza<br/> 
 I opened the window,<br/> 
