@@ -9,9 +9,9 @@ image: /images/NL-5-spanish-flu.png
 <img src="/images/NL-5-spanish-flu.png">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/cells-human-medical-biology-health-1872666/" target="_blank">pixabay.com/illustrations/cells-human-medical-biology-health-1872666/</a></p>
-“I had a little bird
-its name was Enza
-I opened the window,
+“I had a little bird<br/> 
+its name was Enza<br/> 
+I opened the window,<br/> 
 And in-flu-enza.”
 
 (1918 children’s jump rope rhyme)[^1]
