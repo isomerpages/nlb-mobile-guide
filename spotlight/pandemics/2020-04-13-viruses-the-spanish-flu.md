@@ -4,11 +4,11 @@ title:  Learning Package 5 - Viruses - The Spanish Flu 1918-1919
 date:   2020-04-13
 permalink: /spotlight/pandemics/viruses-the-spanish-flu
 description: The influenza pandemic from 1918 to 1919 is also known as the Spanish Flu, or La Grippe, although the first known case was reported at a military base in Kansas, United States on 11 March 1918.
-image: /images/NL-5-spanish-flu.png
+image: /images/NL-5-spanish-flu.jpg
 ---
 <img src="/images/NL-5-spanish-flu.jpg">
 
-<p style="font-size:8pt;">Photo credit: Uncredited US Army photographer, USCampHospital45InfluenzaWard, retrieved from <a href="https://commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg" target="_blank">commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg</a></p>
+<p style="font-size:8pt;">Photo credit: Uncredited US Army photographer, retrieved from <a href="https://commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg" target="_blank">commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg</a></p>
 “I had a little bird<br/> 
 its name was Enza<br/> 
 I opened the window,<br/> 
@@ -70,7 +70,6 @@ Barry, J. M. (2005). <i>The great influenza: The epic story of the deadliest pla
 Spinney, L. (2017). <i>Pale rider: The Spanish Flu of 1918 and how it changed the world</i>. New York: Public Affairs.<br/> 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203076157" target="_blank"><img src="/images/NL-5-pale rider.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 <div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, New York: Public Affairs, 2017</div>
-
 <h4>Videos and Podcasts</h4>
 <h5>1. Spanish Flu: A warning from history</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3x1aLAw_xkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
