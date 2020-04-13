@@ -21,7 +21,7 @@ Source: <a href="https://www.youtube.com/watch?v=w6T02g5hnT4" target="_blank">Wh
 <h5>2. Self-Compassion by The School of Life</h5>
 Now more than ever, it is important to practice self-compassion – to be less critical of ourselves. Here’s an exercise to jumpstart your journey. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/-kfUE41-JFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=-kfUE41-JFw">Self-Compassion</a> (2016, February 1). The School of Life. 
+Source: <a href="https://www.youtube.com/watch?v=-kfUE41-JFw" target="_blank">Self-Compassion</a> (2016, February 1). The School of Life. 
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
