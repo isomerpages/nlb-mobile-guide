@@ -111,7 +111,7 @@ Spanish Flu. (2020, March 24). <i>History</i>. Retrieved 2020, April 1.
 <h5>5. <a href="https://idph.iowa.gov/Portals/1/userfiles/33/100 Years Infographic Original_final.pdf" target="_blank">The 1918 Flu 100 years later</a></h5>
 The 1918 Flu 100 years later. (2018, April). <i>Iowa Department of Public Health</i>. Retrieved 2020, April 1.
 
-<img src="/images/NL-5-washing-hands" style="width:700px;">
+<img src="/images/NL-5-washing-hands.jpg" style="width:700px;">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/hands-wash-soap-foam-health-4934590/" target="_blank">pixabay.com/photos/hands-wash-soap-foam-health-4934590/</a></p>
 If you are interested to learn more about the Spanish Flu, check out the following journal articles and resources in Chinese, Malay and Tamil.
 <h4>Journal Articles</h4>
