@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  eLearning Videos on Videos and Livestreaming 
+title:  eLearning Videos on Creating Videos and Livestreaming 
 date:   2020-04-13
 permalink: /spotlight/upskill/elearning-videos-and-livestreaming
 description: On shooting videos with your mobile phone and livestreaming 
 image: /images/upskill-6-lynda-video.jpg
 ---
 <img src="/images/upskill-6-lynda-video.jpg">
-<h3>Video Tutorials: Videos and Livestreaming</h3>
+<h3>Video Tutorials: Creating Videos and Livestreaming</h3>
 <p>Many of us use our mobile phone cameras to capture a moment or communicate an idea. Learn to tell a video story with your mobile phone, do livestreaming, and get tips on appearing confident in front of the camera. Just sign in with your myLibrary ID and start the course!</p> 
 
 <ul>
