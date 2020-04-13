@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The happiness of your life depends upon the quality of your thoughts
+title:  Learning Package 2 - The happiness of your life depends upon the quality of your thoughts
 date:   2020-04-06
 permalink: /spotlight/wellbeing/2020-04-06-The-happiness-of-your-life-depends-upon-the-quality-of-your-thoughts
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
