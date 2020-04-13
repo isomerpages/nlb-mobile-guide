@@ -6,9 +6,9 @@ permalink: /spotlight/pandemics/viruses-the-spanish-flu
 description: The influenza pandemic from 1918 to 1919 is also known as the Spanish Flu, or La Grippe, although the first known case was reported at a military base in Kansas, United States on 11 March 1918.
 image: /images/NL-5-spanish-flu.png
 ---
-<img src="/images/NL-5-spanish-flu.png">
+<img src="/images/NL-5-spanish-flu.jpg">
 
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/cells-human-medical-biology-health-1872666/" target="_blank">pixabay.com/illustrations/cells-human-medical-biology-health-1872666/</a></p>
+<p style="font-size:8pt;">Photo credit: Uncredited US Army photographer, USCampHospital45InfluenzaWard, retrieved from <a href="https://commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg" target="_blank">commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg</a></p>
 “I had a little bird<br/> 
 its name was Enza<br/> 
 I opened the window,<br/> 
@@ -20,7 +20,7 @@ The influenza pandemic from 1918 to 1919 is also known as the Spanish Flu, or La
 
 The Spanish Flu circled the globe at a breakneck speed due to massive wartime troop movements during World War I.[^4] It spread swiftly across the world from the U.S. and Europe to Asia, Australia and even the remote Pacific Islands.[^5] Within a year, nearly one third of the world's population (1.8 billion in 1918) were infected and an estimated 50 to 100 million had succumbed to the disease.[^6]
 
-The Spanish Flu was caused by an influenza A virus known as H1N1. As with most strains of influenza, it was contagious, spreading easily through the coughs and/or sneezes of infected persons. In parts of the United States for example, measures such as quarantine, the wearing of masks and closure of public places like schools, were put in place to help slow down transmission.[^7] In Singapore, the government instituted a series of preventive measures.  For example, infected persons were advised to isolate themselves and seek treatment and public premises were disinfected daily.[^8]
+The Spanish Flu was caused by an influenza A virus known as H1N1. As with most strains of influenza, it was contagious, spreading easily through the coughs and/or sneezes of infected persons. In parts of the United States for example, measures such as quarantine, the wearing of masks and closure of public places like schools, were put in place to help slow down transmission.[^7] In Singapore, the colonial government instituted a series of preventive measures.  For example, infected persons were advised to isolate themselves and seek treatment and public premises were disinfected daily.[^8]
 
 An unusual feature of the Spanish Flu was the high mortality in healthy adults. The elderly were less susceptible as they had survived a similar but less virulent strain of the flu in the 1830s.[^9]
 
@@ -111,8 +111,8 @@ Spanish Flu. (2020, March 24). <i>History</i>. Retrieved 2020, April 1.
 <h5>5. <a href="https://idph.iowa.gov/Portals/1/userfiles/33/100 Years Infographic Original_final.pdf" target="_blank">The 1918 Flu 100 years later</a></h5>
 The 1918 Flu 100 years later. (2018, April). <i>Iowa Department of Public Health</i>. Retrieved 2020, April 1.
 
-<img src="/images/NL-5-washing-hands.jpg" style="width:700px;">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/hands-wash-soap-foam-health-4934590/" target="_blank">pixabay.com/photos/hands-wash-soap-foam-health-4934590/</a></p>
+<!--img src="/images/NL-5-washing-hands.jpg" style="width:700px;">
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/hands-wash-soap-foam-health-4934590/" target="_blank">pixabay.com/photos/hands-wash-soap-foam-health-4934590/</a></p-->
 If you are interested to learn more about the Spanish Flu, check out the following journal articles and resources in Chinese, Malay and Tamil.
 <h4>Journal Articles</h4>
 <h5>1. <a href="https://www.smithsonianmag.com/history/philadelphia-threw-wwi-parade-gave-thousands-onlookers-flu-180970372/" target="_blank">Philadelphia threw a WWI parade that gave thousands of onlookers the flu</a></h5>
