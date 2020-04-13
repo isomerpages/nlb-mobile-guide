@@ -4,9 +4,10 @@ title:  Learning Package 5 - Viruses - The Spanish Flu 1918-1919
 date:   2020-04-13
 permalink: /spotlight/pandemics/viruses-the-spanish-flu
 description: The influenza pandemic from 1918 to 1919 is also known as the Spanish Flu, or La Grippe, although the first known case was reported at a military base in Kansas, United States on 11 March 1918.
-image: /images/NL-3-coronavirus.png
+image: /images/NL-5-spanish-flu.png
 ---
 <img src="/images/NL-5-spanish-flu.png">
+
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/cells-human-medical-biology-health-1872666/" target="_blank">pixabay.com/illustrations/cells-human-medical-biology-health-1872666/</a></p>
 “I had a little bird
 its name was Enza
@@ -55,104 +56,100 @@ Kolata, G. (2011). <i>Flu: The story of the Great Influenza pandemic of 1918</i>
 
 <h5>2. Influenza: The hundred year hunt to cure the deadliest disease in history</h5>
 Brown, J. (2018). <i>Influenza: The hundred year hunt to cure the deadliest disease in history</i>. New York: Simon & Schuster Audio. Retrieved from OverDrive. (myLibrary ID is required to access the audiobook)<br/> 
-<a href="https://nlb.overdrive.com/media/27AC533A-4A29-4804-A999-AD19E2A267EF"><img src="/images/NL-5-flu-the-story.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/27AC533A-4A29-4804-A999-AD19E2A267EF"><img src="/images/NL-5-Influenza-The hundred year hunt" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+
+<h5>3. Pandemic 1918: The story of the deadliest influenza in history</h5>
+Arnold, C. (2018). <i>Pandemic 1918: The story of the deadliest influenza in history</i>. London, UK: Michael O'Mara Books. Retrieved from OverDrive. (myLibrary ID is required to access the eBook)<br/> 
+<a href="https://nlb.overdrive.com/media/3964062"><img src="/images/NL-5-Pandemic-1918" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+
+<h5>4. The great influenza: The epic story of the deadliest plague in history</h5>
+Barry, J. M. (2005). <i>The great influenza: The epic story of the deadliest plague in history</i>. New York: Penguin Publishing Group. Retrieved from OverDrive. (myLibrary ID is required to access the eBook)<br/> 
+<a href="https://nlb.overdrive.com/media/E3D31ED3-304D-4665-8E18-F305ADF37A07"><img src="/images/NL-5-the great influenza" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+
+<h5>5. Pale rider: The Spanish Flu of 1918 and how it changed the world</h5>
+Spinney, L. (2017). <i>Pale rider: The Spanish Flu of 1918 and how it changed the world</i>. New York: Public Affairs.<br/> 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203076157"><img src="/images/NL-5-pale rider" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, New York: Public Affairs, 2017</div>
+<h4>Videos and Podcasts</h4>
+<h5>1. Spanish Flu: A warning from history</h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3x1aLAw_xkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/embed/3x1aLAw_xkY" target="_blank">Spanish Flu: A warning from history. (2018, November 30).</a> <i>Cambridge University</i>. Retrieved 2020, April 1.
+
+<h5>2. Why the 1918 Spanish Flu probably didn't originate in Spain</h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/7tR8CWidq4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/embed/7tR8CWidq4Q" target="_blank">Why the 1918 Spanish Flu probably didn't originate in Spain. (2019, March 1).</a> <i>Smithsonian Channel</i>. Retrieved 2020, April 1.
+
+<h5>3. ECCMID 2018: Colin Russel keynote lecture on the 100-year anniversary of the Spanish flu</h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Tgi7zcEsCCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/embed/Tgi7zcEsCCQ" target="_blank">ECCMID (European Congress of Clinical Microbiology and Infectious Diseases) 2018: Colin Russel keynote lecture on the 100-year anniversary of the Spanish flu. (2018, April 23).</a> <i>European Society of Clinical Microbiology and Infectious Diseases (ESCMID)</i>. Retrieved 2020, April 1.
+
+<h5>4. The Spanish Flu was deadlier than WWI </h5>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/DZD95Lp7ikU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/embed/DZD95Lp7ikU" target="_blank">The Spanish Flu was deadlier than WWI. (2019, February 28). </a> <i>History</i>. Retrieved 2020, April 1.
+
+<h5>5. <a href="https://www.theguardian.com/news/audio/2020/mar/31/lessons-from-the-1918-spanish-flu-pandemic-podcast" target="_blank">Lessons from the 1918 Spanish flu pandemic</a></h5>
+Humphreys, R. & Spinney, L. (2020, March 31). Lessons from the 1918 Spanish flu pandemic. <i>The Guardian</i>. Retrieved 2020, April 1.
+
+<h5>6. <a href="https://goingviralthepod.libsyn.com/2-resurrecting-the-killer" target="_blank">Resurrecting the killer</a></h5>
+Resurrecting the killer. (2018, June 28). <i>Going Viral: The mother of all pandemics</i>. Retrieved 2020, April 1.
+
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.gov.sg/article/covid-19-resources" target="_blank">COVID-19 resources: A collection of useful posters and videos on COVID-19 (Coronavirus disease 2019)</a></h5>
-COVID-19 resources: A collection of useful posters and videos on COVID-19 (Coronavirus disease 2019). (2020, March 27). <i>Gov.sg</i>. Retrieved March 31, 2020.
+<h5>1. <a href="https://www.cdc.gov/flu/pandemic-resources/reconstruction-1918-virus.html" target="_blank">The deadliest flu: The complete story of the discovery and reconstruction of the 1918 pandemic virus</a></h5>
+Jordan, D., Tumpey, T. & Jester, B. (2019, December 17). The deadliest flu: The complete story of the discovery and reconstruction of the 1918 pandemic virus. <i>Centers for Disease Control and Prevention</i>. Retrieved 2020, April 1.
 
-<h5>2. <a href="http://nusmedicine.nus.edu.sg/medias/news-info/2233-the-covid-19-chronicles" target="_blank">The COVID-19 chronicles</a></h5>
-The COVID-19 chronicles. (2020, March 31). <i>Yong Loo Lin School of Medicine, NUS</i>. Retrieved April 1, 2020.
+<h5>2. <a href="https://www.bbc.com/future/article/20181016-the-flu-that-transformed-the-20th-century" target="_blank">The flu that transformed the 20th century</a></h5>
+Spinney, L. (2018, October 18). The flu that transformed the 20th century. <i>BBC</i>. Retrieved 2020, April 1.
 
-<h5>3. <a href="https://www.moh.gov.sg/news-highlights/details/circuit-breaker-to-minimise-further-spread-of-covid-19" target="_blank">Circuit breaker to minimise further spread of COVID-19</a></h5>
-Circuit breaker to minimize further spread of COVID-19. (2020, April 3). <i>Ministry of Health</i>. Retrieved April 4, 2020.
+<h5>3. <a href="https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history" target="_blank">The Spanish Flu (1918-20): The global impact of the largest influenza pandemic in history</a></h5>
+SRoser, M. (2020, March 4). The Spanish Flu (1918-20): The global impact of the largest influenza pandemic in history. <i>Our World in Data</i>. Retrieved 2020, April 1.
 
-<h5>4. <a href="https://covid.gobusiness.gov.sg/essentialservices/" target="_blank">List of Essential Services</a></h5>
-List of Essential Services. (2020, April 4).  <i>Ministry of Trade and Industry</i>. Retrieved April 5, 2020.
+<h5>4. <a href="https://www.history.com/topics/world-war-i/1918-flu-pandemic" target="_blank">Spanish Flu</a></h5>
+Spanish Flu. (2020, March 24). <i>History</i>. Retrieved 2020, April 1.
 
-<h5>5. <a href="https://www.mom.gov.sg/covid-19" target="_blank">Advisories on COVID-19</a></h5>
-Advisories on COVID-19. (2020, March 30). <i>Ministry of Manpower</i>. Retrieved March 31, 2020.
-
-<h5>6. <a href="https://www.channelnewsasia.com/news/topics/coronavirus-covid-19" target="_blank">COVID-19 outbreak</a></h5>
-COVID-19 outbreak. (2020). <i>CNA</i>. Retrieved March 31, 2020.
-
-<h5>7. <a href="http://theconversation.com/why-singapores-coronavirus-response-worked-and-what-we-can-all-learn-134024" target="_blank">Why Singapore’s coronavirus response worked – and what we can all learn</a></h5>
-Why Singapore’s coronavirus response worked – and what we can all learn. (2020, March 18). <i>The Conversation</i>. Retrieved April, 2020.
-
-<h5>8. <a href="https://www.moh.gov.sg/covid-19" target="_blank">Updates on COVID-19 (Coronavirus disease 2019) local situation</a></h5>
-Updates on COVID-19 (Coronavirus disease 2019) local situation. (2020). <i>Ministry of Health</i>. Retrieved March 31, 2020.
-
-<h4>Videos and Podcasts</h4>
-<h5>1. <a href="https://youtu.be/LLmfqFhVeTA" target="_blank">How Singapore does contact tracing</a></h5>
-How Singapore does contact tracing. (2020, March 28). <i>The Straits Times</i>. Retrieved 2020, March 31.
-
-<h5>2. <a href="https://youtu.be/hjJOdcgH2aM" target="_blank">Coronavirus: Is it possible to carry COVID-19 without realising?</a></h5>
-Coronavirus: Is it possible to carry COVID-19 without realising? (2020, March 20). <i>The Straits Times</i>. Retrieved 2020, March 31.
-
-<h5>3. <a href="https://infographics.channelnewsasia.com/covid-19/coronavirus-singapore-clusters.html" target="_blank">COVID-19 clusters in Singapore</a></h5>
-COVID-19 clusters in Singapore. (2020, March 21). <i>CNA</i>. Retrieved 2020, March 31.
-
-<h5>4. How Singapore teaches students to stay safe during the COVID-19 outbreak</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/d3OHg7IRMVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/d3OHg7IRMVY" target="_blank">How Singapore teaches students to stay safe during the COVID-19 outbreak. (2020, February 14).</a> <i>CNA</i>. Retrieved 2020, March 31.
-
-<h5>5. New COVID-19 test kits used to screen swab samples collected at Singapore checkpoints</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/5xF6veJ88hY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/5xF6veJ88hY" target="_blank">New COVID-19 test kits used to screen swab samples collected at Singapore checkpoints. (2020, March 5).</a> <i>CNA</i>. Retrieved 2020, March 31.
-
-<h5>6. Singapore’s new COVID-19 tracing app TraceTogether: How it works</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/6n9ZsHSc4YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/6n9ZsHSc4YA" target="_blank">Singapore’s new COVID-19 tracing app TraceTogether: How it works. (2020, March 20).</a> <i>CNA</i>. Retrieved 2020, March 31.
-
-<h5>7. Singapore tightens COVID-19 containment</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/j3KL7kUU42g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/j3KL7kUU42g" target="_blank">Singapore tightens COVID-19 containment. (2020, March 27).</a> <i>CGTN</i>. Retrieved 2020, March 31.
-
-<h5>8. Vivian Balakrishnan ‘live’ on Squawk Box CNBC</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/yFk3A2Ni7m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/yFk3A2Ni7m0" target="_blank">Vivian Balakrishnan ‘live’ on Squawk Box CNBC. (2020, March 17).</a> <i>CNBC</i>. Retrieved 2020, April 1.
-
-<h5>9. <a href="https://www.straitstimes.com/singapore/money-fm-893-podcast-a-game-changer-in-the-fight-against-covid-19" target="_blank">Money FM 89.3 podcast: A game changer in the fight against COVID-19</a></h5>
-Money FM 89.3 podcast: A game changer in the fight against COVID-19. (2020, March 25).  <i>The Straits Times</i>. Retrieved 2020, March 31.
-
-<h5>10. <a href="https://www.straitstimes.com/singapore/money-fm-podcast-global-covid-19-situation" target="_blank">Money FM 89.3 podcast: Global COVID-19 situation</a></h5>
-Money FM 89.3 podcast: Global COVID-19 situation. (2020, March 27). <i>The Straits Times</i>. Retrieved 2020, March 31.
-
-<h5>11. <a href="https://www.beritaharian.sg/podcasts" target="_blank">#NoTapis: Koronavirus: Perlukah Singapura dikenakan ‘lockdown’?</a></h5>
-#NoTapis: Koronavirus: Perlukah Singapura dikenakan ‘lockdown’? (2020, March 25). <i>Berita harian</i>. Retrieved 2020, March 30.
-
-This podcast explores the control measures Singapore has undertaken to break the transmission of the COVID-19 virus and features guest speaker, Mr Amrin Amin, Senior Parliamentary Secretary, Ministry of Home Affairs & Ministry of Health.
-
-<h5>12. <a href="https://interactive.zaobao.com/2020/novel-coronavirus-cases-in-singapore/?utm_source=zbsg-tagsite&utm_medium=masthead" target="_blank">动态追踪：冠状病毒19新加坡疫情</a></h5>
-联合早报。（2020年3月29日）。动态追踪：冠状病毒19新加坡疫情。 Retrieved 2020, March 30.
-
-This microsite maintained by Lianhe Zaobao (联合早报) provides the latest statistics on the COVID-19 situation in Singapore as well as information on the development of the disease and clusters formed in Singapore.
-
+<h5>5. <a href="https://idph.iowa.gov/Portals/1/userfiles/33/100 Years Infographic Original_final.pdf" target="_blank">The 1918 Flu 100 years later</a></h5>
+The 1918 Flu 100 years later. (2018, April). <i>Iowa Department of Public Health</i>. Retrieved 2020, April 1.
 
 <img src="/images/NL-5-washing-hands" style="width:700px;">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/hands-wash-soap-foam-health-4934590/" target="_blank">pixabay.com/photos/hands-wash-soap-foam-health-4934590/</a></p>
-
+If you are interested to learn more about the Spanish Flu, check out the following journal articles and resources in Chinese, Malay and Tamil.
 <h4>Journal Articles</h4>
-<h5>1. <a href="https://jamanetwork.com/journals/jama/article-abstract/2761890" target="_blank">COVID-19 in Singapore – Current experience: Critical global issues that require attention and action</a></h5>
-Wong, J.EL., Leo, Y.S., & Tan, C.C. (2020, February 20). Interrupting transmission of COVID-19: Lessons from containment efforts in Singapore. <i>JAMA Network</i>. Retrieved March 30, 2020.
+<h5>1. <a href="https://www.smithsonianmag.com/history/philadelphia-threw-wwi-parade-gave-thousands-onlookers-flu-180970372/" target="_blank">Philadelphia threw a WWI parade that gave thousands of onlookers the flu</a></h5>
+Davis, K. C. (2018, September 21). Philadelphia threw a WWI parade that gave thousands of onlookers the flu. <i>Smithsonian magazine</i>. Retrieved 2020, April 1.
 
-<h5>2. <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/154576/LimAFM-152-20-ms.pdf?sequence=1&isAllowed=y" target="_blank">COVID-19: Notes from the frontline, Singapore’s primary healthcare perspective</a></h5>
-Lim, W.H., & Wong, W.M., (2020, March 26). COVID-19: Notes from the frontline, Singapore’s primary healthcare perspective. <i>Annals of Family Medicine</i>. Retrieved March 31, 2020.
+<h5>2. <a href="https://www.politico.com/news/magazine/2020/03/17/spanish-flu-lessons-coronavirus-133888" target="_blank">Rampant lies, fake cures and not enough beds</a></h5>
+Zeitz, J. (2020, March 17). Rampant lies, fake cures and not enough beds: What the Spanish Flu debacle can teach us about coronavirus. <i>Politico Magazine</i>. Retrieved 2020, April 1.
 
-<h5>3. <a href="https://dr.ntu.edu.sg/bitstream/10356/137343/2/CO20031-1.pdf" target="_blank">COVID-19: Trying times for Singapore’s social resilience</a></h5>
-Mohsina, N. (2020, February 27). COVID-19: Trying times for Singapore’s social resilience. No. 931. <i>RSIS</i>. Retrieved March 31, 2020.
+<h5>3. <a href="https://www.sciencedaily.com/releases/2019/05/190523202557.htm" target="_blank">Spanish Flu may have lingered two years before 1918 outbreak and vaccine could have treated it</a></h5>
+Taylor & Francis Group. (2019, May 23). Spanish Flu may have lingered two years before 1918 outbreak and vaccine could have treated it. <i>ScienceDaily</i>. Retrieved 2020, April 1.
 
-<h5>4. <a href="https://www.sciencedirect.com/science/article/pii/S0140673620305286" target="_blank">Investigation of three clusters of COVID-19 in Singapore: Implications for surveillance and response measures</a></h5>
-Pung, R., Chiew, M.P.H., Young, B.E., Chin, S., & Chen, M.I-C., et al. (2020, March 28 – 3 April). Investigation of three clusters of COVID-19 in Singapore: Implications for surveillance and response measures. <i>The Lancet. 395 (10229): 1039–1046</i>. Retrieved March 31, 2020.
+<h5>4. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477554/" target="_blank">The Spanish influenza pandemic: A lesson from history 100 years after 1918</a></h5>
+Martini, M. [et. al.]. (2019, March). The Spanish influenza pandemic: A lesson from history 100 years after 1918. <i>Journal of Preventive Medicine and Hygiene, 60(1), 64-67</i>. Retrieved 2020, April 1.
 
-<h5>5. <a href="https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-2814-x#citeas" target="_blank">Preparing for COVID-19: Early experience from an intensive care unit in Singapore</a></h5>
-Liew, M.F., Siow, W.T., MacLaren, G., & See, K.C. (2020, March 9). Preparing for COVID-19: Early experience from an intensive care unit in Singapore. <i>Critical Care. 24 (83)</i>. Retrieved March 31, 2020.
+<h5>5. <a href="https://www.tandfonline.com/doi/full/10.1080/21645515.2019.1607711" target="_blank">A possible European origin of the Spanish influenza and the first attempts to reduce mortality to combat superinfecting bacteria: an opinion from a virologist and a military historian</a></h5>
+MOxford, J. S. & Gill, D. (2019, May 23). A possible European origin of the Spanish influenza and the first attempts to reduce mortality to combat superinfecting bacteria: an opinion from a virologist and a military historian. <i>Immunotherapeutics, 15(9), 2009-2012</i>. Retrieved 2020, April 1.
 
-<h5>6. <a href="https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-2828-4" target="_blank">Safe patient transport for COVID-19</a></h5>
-Liew, M.F., Siow, W.T., Yau, Y.W., & See, K.C. (2020, March 18). Safe patient transport for COVID-19. <i>Critical Care. 24: 1-3</i>. Retrieved March 31, 2020.
+<h4>Chinese, Malay and Tamil resources</h4>
+<h5>1. <a href="https://www.bbc.com/ukchina/simp/vert-fut-46424320" target="_blank">劳拉·斯宾尼</a></h5>
+劳拉·斯宾尼。（2018年 12月 4日）。改变20世纪人类历史的西班牙大流感。<i>BBC 英伦网。</i> Retrieved 2020, March 30.
 
-<h5>7. <a href="https://search.nlb.gov.sg/Search?query=Evaluation+of+the+effectiveness+of+surveillance+and+containment+measures+for+the+first+100+patients&cont=ejournal" target="_blank">Evaluation of the effectiveness of surveillance and containment measures for the first 100 patients with COVID-19 in Singapore – January 2–February 29, 2020</a></h5>
-Ng, Y., Li, Z., Chua, Y.X., Chaw, W.L., & Zhao, Z., et al. (2020, March 20). <i>Morbidity and Mortality Weekly Report. 69 (11): 307–311</i>. Retrieved March 31, 2020.
+This article explores how the Spanish Flu (1918-1919) infected a third of the global population and changed the world.
+
+<h5>2. <a href="https://www.dushu.com/news/12343/" target="_blank">冯洁音编译</a></h5>
+冯洁音编译。（2020年2月18日）。1918年西班牙流感，最致命的流行病。<i>读书网。</i> Retrieved 2020, March 30.
+
+This article describes the research on the virus that caused the Spanish Flu, from scientists trying to recover genetic information of the virus to experimenting with the reconstructed virus to understand its pathogenesis.
+
+<h5>3. <a href="https://www.bbc.com/indonesia/vert-fut-45987713" target="_blank">Penyakit flu yang mengubah abad ke-20: Menghilangkan satu generasi dan memperbaiki layanan kesehatan</a></h5>
+Spinney, L. (2018, October 30). Penyakit flu yang mengubah abad ke-20: Menghilangkan satu generasi dan memperbaiki layanan kesehatan. <i>BBC News Indonesia.</i> Retrieved 2020, March 31.
+
+This article looks at the 1918 Spanish Flu pandemic that took place when the world was trying to recover from World War I and highlights how the strongest were ironically the most vulnerable to infection.
+
+<h5>4. <a href="https://www.bbc.com/indonesia/vert-fut-45987713" target="_blank">கொரோனா வைரஸ்: இந்தியாவில் 1918-இல் பரவிய ஸ்பானிஷ் ஃப்ளூ - நாம் கற்றுக் கொள்ள வேண்டியது என்ன?</a></h5>
+கொரோனா வைரஸ்: இந்தியாவில் 1918-இல் பரவிய ஸ்பானிஷ் ஃப்ளூ - நாம் கற்றுக் கொள்ள வேண்டியது என்ன? (March 18, 2020). <i>BBC News Tamil.</i> Retrieved 2020, April 1.
+
+This article examines lessons that can be learnt from the Spanish Flu in relation to the COVID-19 outbreak.
+
 
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
 The information in this resource guide is valid as of April 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
