@@ -40,7 +40,7 @@ Simple meditation exercises that you can incorporate into your workday.</p>
 <h5>The Things You Can See Only When You Slow Down</h5>
 <i>Haemin Sunim</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D1E0612F-57AF-43C1-9FDE-5670CD1C0700"><img src="/images/PL-3-things-you-can-see-slow-down.jpg" style="width:300px; text-align:left;"></a><br/>
-Electronic reproduction. New York: Penguin Books, 2017.<br/> 
+Call Number: English 158.1 HYE. New York: Penguin Books, 2017.<br/> 
 Whether it is optional or forced upon you, slowing down in a previously fast-paced world has its benefits. This visually stunning book by renowned Buddhist meditation teacher Haemin Sunim invites you to slow down and find calm (and more!) in your day-to-day life. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D1E0612F-57AF-43C1-9FDE-5670CD1C0700">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/D1E0612F-57AF-43C1-9FDE-5670CD1C0700">online</a>&#128187;.<br/> 
 
@@ -53,7 +53,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF250E8F
 
 <h5>Lagom: Finding Strength in Imperfection</h5>
 <i> Niki Brantmark</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3402274"><img src="/images/PL-3-lagom.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2fa0fabd-c2b9-4556-82e9-e23fa009f442"><img src="/images/PL-3-lagom.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 646.7 BRA. New York: Harper Design, 2017.<br/>
 Lagom means “not too much and not too little – just right,” and is the Swedish philosophy for enjoying balance in every aspect of life. Let Niki Brantmark’s suggestions help you create more happiness in your life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2fa0fabd-c2b9-4556-82e9-e23fa009f442">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3402274">online</a> &#128187;.<br/>
@@ -74,10 +74,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=58036740
 
 <h5>Hundred: What You Learn in a Lifetime</h5>
 <i>Heike Faller and Valerio Vidali</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4608040"><img src="/images/PL-3-hundre What you learn in a lifetime.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=f9ca4183-027f-4c62-b3fc-9e237de840e6"><img src="/images/PL-3-hundre What you learn in a lifetime.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 128.4 FAL. New York: Particular Books, 2019.<br/>
 In <i>Hundred</i>, the simple pleasures and hard lessons of each age are gorgeously presented as a full colour, illustrated journey of the passage of time.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4608040">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4608040">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=f9ca4183-027f-4c62-b3fc-9e237de840e6">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4608040">online</a> &#128187;.<br/>
 
 <h5>Now Is the Way: An Unconventional Approach to Modern Mindfulness</h5>
 <i>Cory Allen and Aubrey Marcus</i><br/>
@@ -88,10 +88,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B21D953B
 
 <h5>Calm</h5>
 <i>Michael Acton Smith</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2625432"><img src="/images/PL-3-calm.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3dbc87c3-aa72-4cb7-ba16-6b9240c7a437"><img src="/images/PL-3-calm.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158.12 SMI. London: Penguin Life, 2018.<br/>
 How does one find calm amidst the frenzy of modern day life? This book provides a practical and pleasurable guide to twenty-first century mindfulness.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2625432">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2625432">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3dbc87c3-aa72-4cb7-ba16-6b9240c7a437">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2625432">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
