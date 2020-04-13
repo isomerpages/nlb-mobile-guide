@@ -52,23 +52,23 @@ To learn more about the Spanish Flu, check out the resources listed below. Look 
 <h4>Books/ Ebooks/ Audiobooks</h4>
 <h5>1. Flu: The story of the Great Influenza pandemic of 1918</h5>
 Kolata, G. (2011). <i>Flu: The story of the Great Influenza pandemic of 1918</i>. New York: Farrar, Straus and Giroux. Retrieved from OverDrive. (myLibrary ID is required to access the eBook)<br/> 
-<a href="https://nlb.overdrive.com/media/78D6C355-7EA4-43B5-A413-3D6EA791C46E"><img src="/images/NL-5-flu-the-story.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/78D6C355-7EA4-43B5-A413-3D6EA791C46E" target="_blank"><img src="/images/NL-5-flu-the-story.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>2. Influenza: The hundred year hunt to cure the deadliest disease in history</h5>
 Brown, J. (2018). <i>Influenza: The hundred year hunt to cure the deadliest disease in history</i>. New York: Simon & Schuster Audio. Retrieved from OverDrive. (myLibrary ID is required to access the audiobook)<br/> 
-<a href="https://nlb.overdrive.com/media/27AC533A-4A29-4804-A999-AD19E2A267EF"><img src="/images/NL-5-Influenza-The hundred year hunt.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/27AC533A-4A29-4804-A999-AD19E2A267EF" target="_blank"><img src="/images/NL-5-Influenza-The hundred year hunt.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>3. Pandemic 1918: The story of the deadliest influenza in history</h5>
 Arnold, C. (2018). <i>Pandemic 1918: The story of the deadliest influenza in history</i>. London, UK: Michael O'Mara Books. Retrieved from OverDrive. (myLibrary ID is required to access the eBook)<br/> 
-<a href="https://nlb.overdrive.com/media/3964062"><img src="/images/NL-5-Pandemic-1918.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/3964062" target="_blank"><img src="/images/NL-5-Pandemic-1918.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>4. The great influenza: The epic story of the deadliest plague in history</h5>
 Barry, J. M. (2005). <i>The great influenza: The epic story of the deadliest plague in history</i>. New York: Penguin Publishing Group. Retrieved from OverDrive. (myLibrary ID is required to access the eBook)<br/> 
-<a href="https://nlb.overdrive.com/media/E3D31ED3-304D-4665-8E18-F305ADF37A07"><img src="/images/NL-5-the great influenza.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/E3D31ED3-304D-4665-8E18-F305ADF37A07" target="_blank"><img src="/images/NL-5-the great influenza.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>5. Pale rider: The Spanish Flu of 1918 and how it changed the world</h5>
 Spinney, L. (2017). <i>Pale rider: The Spanish Flu of 1918 and how it changed the world</i>. New York: Public Affairs.<br/> 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203076157"><img src="/images/NL-5-pale rider.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203076157" target="_blank"><img src="/images/NL-5-pale rider.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 <div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, New York: Public Affairs, 2017</div>
 
 <h4>Videos and Podcasts</h4>
