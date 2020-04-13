@@ -131,13 +131,13 @@ Martini, M. [et. al.]. (2019, March). The Spanish influenza pandemic: A lesson f
 MOxford, J. S. & Gill, D. (2019, May 23). A possible European origin of the Spanish influenza and the first attempts to reduce mortality to combat superinfecting bacteria: an opinion from a virologist and a military historian. <i>Immunotherapeutics, 15(9), 2009-2012</i>. Retrieved 2020, April 1.
 
 <h4>Chinese, Malay and Tamil resources</h4>
-<h5>1. <a href="https://www.bbc.com/ukchina/simp/vert-fut-46424320" target="_blank">劳拉·斯宾尼</a></h5>
+<h5>1. <a href="https://www.bbc.com/ukchina/simp/vert-fut-46424320" target="_blank">改变20世纪人类历史的西班牙大流感</a></h5>
 劳拉·斯宾尼。（2018年 12月 4日）。改变20世纪人类历史的西班牙大流感。<i>BBC 英伦网。</i> Retrieved 2020, March 30.
 
 This article explores how the Spanish Flu (1918-1919) infected a third of the global population and changed the world.
 
-<h5>2. <a href="https://www.dushu.com/news/12343/" target="_blank">冯洁音编译</a></h5>
-冯洁音编译。（2020年2月18日）。1918年西班牙流感，最致命的流行病。<i>读书网。</i> Retrieved 2020, March 30.
+<h5>2. <a href="https://www.dushu.com/news/12343/" target="_blank">1918年西班牙流感，最致命的流行病</a></h5>
+冯洁音。（2020年2月18日）。1918年西班牙流感，最致命的流行病。<i>读书网。</i> Retrieved 2020, March 30.
 
 This article describes the research on the virus that caused the Spanish Flu, from scientists trying to recover genetic information of the virus to experimenting with the reconstructed virus to understand its pathogenesis.
 
@@ -146,7 +146,7 @@ Spinney, L. (2018, October 30). Penyakit flu yang mengubah abad ke-20: Menghilan
 
 This article looks at the 1918 Spanish Flu pandemic that took place when the world was trying to recover from World War I and highlights how the strongest were ironically the most vulnerable to infection.
 
-<h5>4. <a href="https://www.bbc.com/indonesia/vert-fut-45987713" target="_blank">கொரோனா வைரஸ்: இந்தியாவில் 1918-இல் பரவிய ஸ்பானிஷ் ஃப்ளூ - நாம் கற்றுக் கொள்ள வேண்டியது என்ன?</a></h5>
+<h5>4. <a href="https://www.bbc.com/tamil/india-51940340" target="_blank">கொரோனா வைரஸ்: இந்தியாவில் 1918-இல் பரவிய ஸ்பானிஷ் ஃப்ளூ - நாம் கற்றுக் கொள்ள வேண்டியது என்ன?</a></h5>
 கொரோனா வைரஸ்: இந்தியாவில் 1918-இல் பரவிய ஸ்பானிஷ் ஃப்ளூ - நாம் கற்றுக் கொள்ள வேண்டியது என்ன? (March 18, 2020). <i>BBC News Tamil.</i> Retrieved 2020, April 1.
 
 This article examines lessons that can be learnt from the Spanish Flu in relation to the COVID-19 outbreak.
