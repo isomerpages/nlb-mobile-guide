@@ -17,7 +17,7 @@ A user ID for library members that lets you:
 <br>...and much more!
 
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
-<p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p>
+<p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p> 
 <p>
 	<a name="membership"><h2>Sign Up for Library Membership Online</h2></a>
 <p></p>
@@ -228,7 +228,8 @@ A user ID for library members that lets you:
 	    <li>Creating a myLibrary ID will only take a few minutes! You may create it:
 	    <ul>
 	    <li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your SingPass or NRIC / FIN number</a>.</li>
-	    <li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number.</li>
+	    <li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number. 
+<br>Here is a <a href="/images/mylibrary_guide_TOYL.pdf" target="_blank"> handy step-by-step PDF guide (1.2 MB)</a> on how to create a myLibrary ID/reset password, in all 4 languages.</li>
 	    <li>At the<strong> libraries&rsquo; borrowing stations</strong> with your original NRIC, Birth Certificate or any of the compatible cards listed in our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_registration">membership guide</a>.</li>
 	    </ul>
 	    </li>
