@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  eLearning Videos On Mastering Excel
-date:   2020-04-14
+date:   2020-04-15
 permalink: /spotlight/upskill/excel
 description: Video tutorials on Microsoft Excel
 image: /images/upskill-7-lynda-excel.jpg
