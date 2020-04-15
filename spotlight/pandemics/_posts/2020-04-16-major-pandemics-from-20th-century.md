@@ -7,7 +7,6 @@ description: The World Health Organisation (WHO) defines a pandemic as the world
 image: /images/NL-6-major-pandemics.jpg
 ---
 <img src="/images/NL-6-major-pandemics.jpg">
-
 <p style="font-size:8pt;">Photo credit: <a href="https://unsplash.com/photos/uDMXH4l0XH8" target="_blank">Tedward Quinn</a> via Unsplash </p>
 
 The World Health Organisation (WHO) defines a pandemic as the worldwide spread of a new disease, crossing international boundaries and affecting a large number of people.[^1] Before being classified as a pandemic, the outbreak is usually first labelled as an epidemic.[^2] Viruses that have caused past pandemics typically originated from animal influenza viruses.[^3] 
