@@ -81,8 +81,7 @@ Source: <a href="https://www.youtube.com/embed/lFl3FRNpU4E" target="_blank">The 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/-ftBBDooWOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/-ftBBDooWOI" target="_blank">A look back at the H1N1 outbreak.</a> <i>Channel News Asia</i>. Retrieved 2020, March 31.
 
-<h5>7. <a href="https://tools.cdc.gov/medialibrary/index.aspx#/media/id/304473" target="_blank">Identification of the first Chinese cases of H1N1 flu</a></h5>
-Identification of the first Chinese cases of H1N1 flu. (2009, April 4). <i>Centre for Disease Control</i>. Retrieved 2020, March 31. 
+
 
 
 <h4>Websites</h4>
@@ -95,24 +94,27 @@ Past pandemics. (2018, August 10). <i>Centers for Disease Control and Prevention
 <h5>3. <a href="https://nieman.harvard.edu/wp-content/uploads/pod-assets/microsites/NiemanGuideToCoveringPandemicFlu/AHistoryOfPandemics/ACenturyOfFluPandemics.aspx.html" target="_blank">A century of flu pandemics</a></h5>
 A Century of Flu Pandemics. (n.d.). <i>Nieman Foundation for Journalism at Harvard</i>. Retrieved on 2020, March 31.
 
-<h5>4. <a href="https://www.cdc.gov/flu/pandemic-resources/1957-1958-pandemic.html" target="_blank">1957–1958 pandemic (H2N2 virus)</a></h5>
-1957–1958 pandemics (H2N2 virus). (2019, January). <i>Centre For Disease Control and Prevention</i>. Retrieved 2020, March 31. 
+<h5>4. <a href="https://www.healio.com/pediatrics/emerging-diseases/news/print/infectious-diseases-in-children/%7Bf6fa5940-8b60-46bf-a3a5-3b151312bbb2%7D/revisiting-1957-1958-influenza-pandemic-may-provide-clues-to-combating-h1n1" target="_blank">Revisiting 1957–1958 influenza pandemic may provide clues to combating H1N1</a></h5>
 
-<h5>5. <a href="https://www.healio.com/pediatrics/emerging-diseases/news/print/infectious-diseases-in-children/%7Bf6fa5940-8b60-46bf-a3a5-3b151312bbb2%7D/revisiting-1957-1958-influenza-pandemic-may-provide-clues-to-combating-h1n1" target="_blank">Revisiting 1957–1958 influenza pandemic may provide clues to combating H1N1</a></h5>
 Revisiting the 1957–1958 influenza pandemic may provide clues to combating H1N1. (2009, September). <i>Infectious Disease in Children</i>. Retrieved 2020, March 31.
 
-<h5>6. <a href="https://www.visualcapitalist.com/the-math-behind-social-distancing/" target="_blank">The math behind social distancing</a></h5>
+<h5>5. <a href="https://www.visualcapitalist.com/the-math-behind-social-distancing/" target="_blank">The math behind social distancing</a></h5>
+
 Lu, M. (2020, March 28). The math behind social distancing. <i>Visual Capitalist</i>. Retrieved 2020, April 11. 
 
-<h5>7. <a href="http://html.rhhz.net/zhlxbx/20180802.htm" target="_blank">全球流感大流行概述</a></h5>
+<h5>6. <a href="http://html.rhhz.net/zhlxbx/20180802.htm" target="_blank">全球流感大流行概述</a></h5>
+
 任瑞奇、周蕾、倪大新。（2018年）。全球流感大流行概述。<i>《中华流行病学杂志》, 39(8)</i>, 1021 – 1027. Retrieved 2020, April 2.
 
 This article gives an overview of the four influenza pandemics, namely the Spanish Flu (1918–1919), the Asian Flu (1957–1958), the Hong Kong Flu (1968) and 2009 Swine Flu Pandemic (H1N1). 
 
-<h5>8. <a href="https://www.kompas.com/sains/read/2020/03/12/120200423/virus-corona-pandemi-global-ini-6-pandemik-terburuk-sepanjang-sejarah?page=3" target="_blank">Virus corona pandemi global, ini 6 pandemik terburuk sepanjang sejarah</a></h5>
+<h5>7. <a href="https://www.kompas.com/sains/read/2020/03/12/120200423/virus-corona-pandemi-global-ini-6-pandemik-terburuk-sepanjang-sejarah?page=3" target="_blank">Virus corona pandemi global, ini 6 pandemik terburuk sepanjang sejarah</a></h5>
+
 Virus corona pandemi global, ini 6 pandemik terburuk sepanjang sejarah. (2020, March 12). <i>Kompass.com</i>. Retrieved 2020, April 1.
 
 This article examines the six pandemics and epidemics that occurred in the 20th century. These include the Spanish Flu, which started in 1918, Asian Flu in 1957, Hong Kong Flu (H3N2) in 1968 and Swine Flu (H1N1) in 2009.
+
+
 
 
 <h4>Journal Articles</h4>
@@ -137,22 +139,25 @@ Viboud, C., et. al. (2005, July). Multinational impact of the 1968 Hong Kong Inf
 <h5>7. <a href="http://smj.sma.org.sg/1101/1101smj6.pdf" target="_blank">An outbreak of “Hong Kong Flu” in Singapore </a></h5>
 Kadri, Z. N. (1970, March). An outbreak of “Hong Kong Flu” in Singapore. <i>Singapore Medical Journal, 11(1)</i>. Retrieved 2020, March 31. 
 
-<h5>8. <a href="https://www.cmaj.ca/content/cmaj/168/10/1245.full.pdf" target="_blank">The immediate psychological and occupational impact of the 2003 SARS outbreak in a teaching hospital</a></h5>
-Maunder, R., et al. (2003). The immediate psychological and occupational impact of the 2003 SARS outbreak in a teaching hospital. <i>Canadian Medical Association Journal, 168(10)</i>. 1245–1251.Retrieved on 2020, March 31. 
+<h5>8. <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1529_2009-06-03.html" target="_blank">Severe Acute Respiratory Syndrome (SARS) outbreak, 2003</a></h5>
 
-<h5>9. <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1529_2009-06-03.html" target="_blank">Severe Acute Respiratory Syndrome (SARS) outbreak, 2003</a></h5>
 Chew, V. (2009). Severe Acute Respiratory Syndrome (SARS) outbreak, 2003. <i>Infopedia</i>. National Library Board, Singapore. Retrieved on 2020, March 31. 
 
-<h5>10. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102310/" target="_blank">Improving the evidence base for decision making during a pandemic: The example of 2009 influenza A/H1N1</a></h5>
+<h5>9. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102310/" target="_blank">Improving the evidence base for decision making during a pandemic: The example of 2009 influenza A/H1N1</a></h5>
+
 Lipsitch, M., et al. (2011, June). Improving the evidence base for decision making during a pandemic: The example of 2009 influenza A/H1N1. <i>Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science, 89–115</i>. Retrieved 2020, March 31. 
 
-<h5>11. <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1759_2011-01-28.html" target="_blank">Influenza A (H1N1-2009) outbreak</a></h5>
+<h5>10. <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1759_2011-01-28.html" target="_blank">Influenza A (H1N1-2009) outbreak</a></h5>
+
 Pek, S. (2011). Influenza A (H1N1-2009) outbreak. <i>Infopedia</i>. National Library, Singapore. Retrieved 2020, March 31.
 
-<h5>12. <a href="http://www.people.com.cn/GB/shehui/212/10548/10650/20030609/1012380.html" target="_blank">新加坡铁腕治SARS </a></h5>
+<h5>11. <a href="http://www.people.com.cn/GB/shehui/212/10548/10650/20030609/1012380.html" target="_blank">新加坡铁腕治SARS </a></h5>
+
 Fallows, T. （2003年06月09日）。新加坡铁腕治SARS。<i>人民网</i>。Retrieved 2020, April 2. 
 
 Originally published in <i>Caijing</i> magazine, this article reviews the measures taken to curb the SARS outbreak in Singapore in 2003.
+
+
 
 
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
