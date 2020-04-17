@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Package 4 - Behind every attractive room, there should be a very good reason
 date:   2020-04-17
-permalink: /spotlight/wellbeing/2020-04-17-behind-every-attractive-room-there-should-be-a-very-good-reason.md
+permalink: /spotlight/wellbeing/2020-04-17-behind-every-attractive-room-there-should-be-a-very-good-reason
 description: Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or a veteran, here is a list of resources to enrich your work from home experience and environment. 
 image: /images/PL-4-Intro Image.jpg
 ---
