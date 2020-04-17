@@ -28,25 +28,24 @@ guide.</li>
 <li> Tap the camera icon at the top-left corner of the app. Scan the QR code
 and borrow the eBook.</li>
 <li> If you would like to read or listen offline, please refer to our Libby guide.</li>
-	<ul>
+    <ul> </div></div>
 
 
-</div></div>
 
 <div>
 		<input type="radio" name="acc" id="acc3">
         <label for="acc3">How to preview eBooks via the eReads screens?</label>
-
 <div class="acc-body">
 	<p>Follow these steps:</p>
 <ul>   
 	<li> Select a digital book title on the eReads screen.</li>
-	<li> Click on the preview button located beside the close button.<span style="font-size:8px"> Note: The preview
+	<li> Click on the preview button located beside the close button.<span style="font-size:13px"> Note: The preview
 button may load few seconds after.</span></li>
 	<li> Swipe right to enjoy reading the sample of the book.</li>
 	<ul>
-	</div>
-</div>
+        </div> </div>
+
+
 
 <div>
 		<input type="radio" name="acc" id="acc5">
@@ -55,13 +54,13 @@ button may load few seconds after.</span></li>
       	<p>Follow these steps:</p>
 <ul>   
 	<li> Select a digital book title on the eReads screen.</li>
-	<li> Click on the preview button located beside the close button.<span style="font-size:8px"> Note: The preview
+	<li> Click on the preview button located beside the close button.<span style="font-size:13px"> Note: The preview
 button may load few seconds after.</span></li>
 	<li> Click on the play button on the screen to enjoy listening to the sample of
 the book.</li>
 	<ul>  
-	</div>
+        </div> </div>
 
-    </div>
+
 
 </div><!--close FAQ-section-->
