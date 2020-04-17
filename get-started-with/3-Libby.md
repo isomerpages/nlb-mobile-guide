@@ -25,9 +25,12 @@ title: eBooks and Audiobooks
 </div><!--close div for acc-body-->
 </div><!--close div for qn-->
 
-	<p><h2>How to Download eBooks and Audiobooks with Libby</h2></p>
+	<p><h2>What is Libby, and How to Download eBooks and Audiobooks with Libby</h2></p>
 
-<img src="/images/Libby_flowchart_animatedGIF.gif" alt="An animated GIF of a flowchart describing how to download eBooks and audiobooks with the Libby app.">
+<div class="vd">
+     <video width="720px" poster="/images/Thumbnail_Libby_video.PNG" controls>
+  <source src="/images/Video_Libby_lowres.mp4" type="video/mp4" />
+</video>
 
   <h2>Libby versus NLB Mobile</h2>
 
