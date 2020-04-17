@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Package 5 - Viruses - The Spanish Flu 1918-1919
+title:  Learning Package 5 - Viruses - The Spanish Flu
 date:   2020-04-13
 permalink: /spotlight/pandemics/viruses-the-spanish-flu
 description: The influenza pandemic from 1918 to 1919 is also known as the Spanish Flu, or La Grippe, although the first known case was reported at a military base in Kansas, United States on 11 March 1918.
@@ -154,6 +154,5 @@ This article examines lessons that can be learnt from the Spanish Flu in relatio
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
 The information in this resource guide is valid as of April 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
 All Rights Reserved. National Library Board Singapore 2020.<br/></p>
-
 ---
 #### **References**
