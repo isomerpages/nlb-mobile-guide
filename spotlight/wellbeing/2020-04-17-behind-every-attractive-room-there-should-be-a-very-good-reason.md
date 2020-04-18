@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Learning Package 4 - Behind every attractive room, there should be a very good reason
+title:  Home Sweet Office
 date:   2020-04-17
 permalink: /spotlight/wellbeing/2020-04-17-behind-every-attractive-room-there-should-be-a-very-good-reason
 description: Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or a veteran, here is a list of resources to enrich your work from home experience and environment. 
 image: /images/PL-4-Intro Image.jpg
 ---
 <img src="/images/PL-4-Intro Image.jpg">
-<p><q>Behind every attractive room, there should be a very good reason.</q> - Sister Parish, American interior decorator and socialite.</p>
+<p><q>The fact that tools like Skype and digital collaboration are letting people work better at a distance — that is a wonderful thing.</q> - Bill Gates, Cofounder of Microsoft.</p>
 <p>Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or a veteran, here is a list of resources to enrich your work from home experience and environment.</p>
 
 <h4>Videos</h4>
