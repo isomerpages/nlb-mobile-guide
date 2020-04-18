@@ -5,5 +5,5 @@ description: A guide to using the NLB Mobile app and our digital library
 permalink: /
 ---
 <!--Add notification here -->
-<b>Temporary Disruption to eBooks Service.</b> Please be patient while the service is being restored.
+<b>eBooks Service Restored.</b> Thank you for your patience. The service has been restored.
 
