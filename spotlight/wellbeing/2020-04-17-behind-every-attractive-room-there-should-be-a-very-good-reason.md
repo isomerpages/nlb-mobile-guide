@@ -8,7 +8,7 @@ image: /images/PL-4-Intro Image.jpg
 ---
 <img src="/images/PL-4-Intro Image.jpg">
 <p><q>The fact that tools like Skype and digital collaboration are letting people work better at a distance — that is a wonderful thing.</q> - Bill Gates, Cofounder of Microsoft.</p>
-<p>Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or a veteran, here is a list of resources to enrich your work from home experience and environment.</p>
+<p>Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment.</p>
 
 <h4>Videos</h4>
 <h5>1. How to Turn Off Work Thoughts During Your Free Time by Guy Winch</h5>
