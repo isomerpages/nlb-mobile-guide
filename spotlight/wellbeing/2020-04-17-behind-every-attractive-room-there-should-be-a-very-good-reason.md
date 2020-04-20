@@ -89,10 +89,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=989D22F7
 
 <h5>Office Zen: 101 Ways to Make your Work Space Calm, Happy and Productive</h5>
 <i>Emma Silverman</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=744b4985-4d0b-4e6a-b28b-093407880326"><img src="/images/PL-4-Office Zen.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EE465D47-4735-44CC-9333-0CACE1948491"><img src="/images/PL-4-Office Zen.jpg" style="width:300px; text-align:left;"></a><br/>
 Skyhorse, 2017.<br/>
 With the Zen principles of mindfulnesss and simplicity, learn a framework for work-life balance, and bring peace, calm and fulfilment into your workspace and life. For example, being meditative and calm in our daily interactions is one way.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=744b4985-4d0b-4e6a-b28b-093407880326">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EE465D47-4735-44CC-9333-0CACE1948491">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EE465D47-4735-44CC-9333-0CACE1948491">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EE465D47-4735-44CC-9333-0CACE1948491">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
