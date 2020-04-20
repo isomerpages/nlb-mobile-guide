@@ -45,11 +45,11 @@ Call Number: English 331.2568 FRI -[BIZ]. London Vermilion, an imprint of Ebury 
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CC98F843-3183-48C9-A370-0F740E47BE3E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BCC98F843-3183-48C9-A370-0F740E47BE3E%7D">online</a>&#128187;.<br/> 
 
 
-<h5>Digital minimalism</h5>
+<h5>Digital Minimalism</h5>
 <i>Cal Newport</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C"><img src="/images/PL-4-Digital Minimalism.png" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 303.4833 NEW. New York: Portfolio/Penguin, 2019.<br/>
-Calport offers ways in which we can intentionally use technology to maximise its benefits and allow us to focus on meaningful work, while minimizing its potential drain on our attention and time. Altogether, presenting a better way to live and to work.<br/>
+Cal Newport offers ways in which we can intentionally use technology to maximise its benefits and allow us to focus on meaningful work, while minimizing its potential drain on our attention and time. Altogether, presenting a better way to live and to work.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/75F556CA-9A44-4D4E-BFAC-1152188F339C">online</a> &#128187;.<br/>
 
 <h5>The Long-Distance Leader: Rules for Remarkable Remote Leadership</h5>
