@@ -37,12 +37,12 @@ It is easy to get distracted – even more so if you’re working from home! Lea
 
 <h5>Remote: Office Not Required</h5>
 <i>Jason Fried & David Heinemeier Hansson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=799fc834-7fb1-4281-b089-05c33212c14c"><img src="/images/PL-4-Remote.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=799fc834-7fb1-4281-b089-05c33212c14c"><img src="/images/PL-4-Remote.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 331.2568 FRI -[BIZ]. London Vermilion, an imprint of Ebury Publishing, 2013.<br/> 
 "Move work to the workers, rather than workers to the workplace"? Yes, please!
 <i>Remote: Office Not Required</i> is a timely manifesto on how the perks of working “off-site” outweigh the drawbacks. For those of us working from home, this book is your indispensable guide to doing so.
 <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=799fc834-7fb1-4281-b089-05c33212c14c">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BCC98F843-3183-48C9-A370-0F740E47BE3E%7D">online</a>&#128187;.<br/> 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=799fc834-7fb1-4281-b089-05c33212c14c">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BCC98F843-3183-48C9-A370-0F740E47BE3E%7D">online</a>&#128187;.<br/> 
 
 
 <h5>Digital minimalism</h5>
