@@ -82,10 +82,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=57320B0F
 
 <h5>New Order: A Decluttering Handbook for Creative Folks (and Everyone Else)</h5>
 <i>Fay Wolf</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9e8597b2-8b5f-46a3-a2ae-9ca4984628d3"><img src="/images/PL-4-new-order.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=989D22F7-B84E-47ED-9DCF-0D8F4761D701"><img src="/images/PL-4-new-order.jpg" style="width:300px; text-align:left;"></a><br/>
 Call number: English 648.8 WOL. New York: Ballantine Books, 2016.<br/>
 Turn a chaotic house into a creative workspace with Wolf’s simple and accessible decluttering methods.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9e8597b2-8b5f-46a3-a2ae-9ca4984628d3">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/989D22F7-B84E-47ED-9DCF-0D8F4761D701">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=989D22F7-B84E-47ED-9DCF-0D8F4761D701">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/989D22F7-B84E-47ED-9DCF-0D8F4761D701">online</a> &#128187;.<br/>
 
 <h5>Office Zen: 101 Ways to Make your Work Space Calm, Happy and Productive</h5>
 <i>Emma Silverman</i><br/>
