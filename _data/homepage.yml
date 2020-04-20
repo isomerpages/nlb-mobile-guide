@@ -61,9 +61,9 @@ info-sections:
     section-image-alt: Publications include The Washington Post, NewsWeek, Bloomsberg Businessweek
   - section-title: 
     section-subtitle: Learn New Skills
-    section-description: Learn on the go from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning).  
+    section-description: Learn on the go from more than 8,000 courses with LyndaLibrary (from LinkedIn).  
     section-more-button: Ways to learn anytime, anywhere
-    section-more-button-url: /learner/
+    section-more-button-url: /get-started-with/lynda
     section-image-path: /images/Home_learn.jpg
     section-image-alt: Video courses on business, design and technology 
   - section-title: 
