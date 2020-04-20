@@ -3,12 +3,12 @@ layout: post
 title:  Home Sweet Office
 date:   2020-04-17
 permalink: /spotlight/wellbeing/2020-04-17-behind-every-attractive-room-there-should-be-a-very-good-reason
-description: Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or a veteran, here is a list of resources to enrich your work from home experience and environment. 
+description: Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment. 
 image: /images/PL-4-Intro Image.jpg
 ---
 <img src="/images/PL-4-Intro Image.jpg">
 <p><q>The fact that tools like Skype and digital collaboration are letting people work better at a distance — that is a wonderful thing.</q> - Bill Gates, Cofounder of Microsoft.</p>
-<p>Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or a veteran, here is a list of resources to enrich your work from home experience and environment.</p>
+<p>Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment.</p>
 
 <h4>Videos</h4>
 <h5>1. How to Turn Off Work Thoughts During Your Free Time by Guy Winch</h5>
@@ -47,10 +47,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=
 
 <h5>Digital minimalism</h5>
 <i>Cal Newport</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/cms/details?uuid=68e40370-2015-490d-8326-5e57490e9513"><img src="/images/PL-4-Digital Minimalism.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C"><img src="/images/PL-4-Digital Minimalism.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 303.4833 NEW. New York: Portfolio/Penguin, 2019.<br/>
 Calport offers ways in which we can intentionally use technology to maximise its benefits and allow us to focus on meaningful work, while minimizing its potential drain on our attention and time. Altogether, presenting a better way to live and to work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=68e40370-2015-490d-8326-5e57490e9513">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B606F2D5-1645-44A6-B6C1-3DD4602E3A3A">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/75F556CA-9A44-4D4E-BFAC-1152188F339C">online</a> &#128187;.<br/>
 
 <h5>The Long-Distance Leader: Rules for Remarkable Remote Leadership</h5>
 <i>Kevin Eikenberry</i><br/>
