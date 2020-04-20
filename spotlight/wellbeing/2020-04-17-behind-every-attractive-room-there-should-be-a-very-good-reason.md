@@ -54,7 +54,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA
 
 <h5>The Long-Distance Leader: Rules for Remarkable Remote Leadership</h5>
 <i>Kevin Eikenberry</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/cms/details?uuid=9f1f77f8-7a92-42cd-b011-c8d8755868c9"><img src="/images/PL-4-the-long- distance-leader.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=9f1f77f8-7a92-42cd-b011-c8d8755868c9"><img src="/images/PL-4-the-long- distance-leader.jpg" style="width:300px; text-align:left;"></a><br/>
 San Francisco: Berrett-Koehler Publishers, 2018.<br/>
 If you are new to leading a team remotely, you will find the leadership models in this book a useful guide to managing your team wherever they are.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=9f1f77f8-7a92-42cd-b011-c8d8755868c9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B9E66E6D-FD95-4B35-9413-8C490A5B7BB1">online</a> &#128187;.<br/>
@@ -64,7 +64,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=
 <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=eb73b1a6-677c-41f3-936a-db3fe3e46164"><img src="/images/PL-4-attention- management.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.733 THO. Naperville: Simple Truths, 2019.<br/>
 Yet to adjust to working from home and find yourself constantly distracted? Try the practical strategies in this book to regain focus and live a life of choice instead of a life of reaction.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=eb73b1a6-677c-41f3-936a-db3fe3e46164">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/614F75F7-9ACA-444D-898B-9AD886A01B5A">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=eb73b1a6-677c-41f3-936a-db3fe3e46164">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/614F75F7-9ACA-444D-898B-9AD886A01B5A">online</a> &#128187;.<br/>
 
 <h5>My Creative Space: How to Design Your Home to Stimulate Ideas and Spark Innovation</h5>
 <i>Donald M. Rattner</i><br/>
