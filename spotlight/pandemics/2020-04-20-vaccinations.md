@@ -132,8 +132,6 @@ This website explains how vaccines prevent the spread of diseases, which disease
 <h5>5. <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/833108/Winter_Flu_Vaccination_12pp_A5_booklet_2019_2020-Tamil.pdf" target="_blank">ஃப்ளூ தடுப்பூசி</a></h5>
 ஃப்ளூ தடுப்பூசி. (2019/2020) <i>Public Health England</i>. Retrieved 2020, April 10.
 
-This online booklet by the National Health Service, UK provides a comprehensive overview of the need for flu vaccinations as well as who should be vaccinated.
-
 This website explains how vaccines prevent the spread of diseases, which diseases are vaccine-preventable and the importance of immunisation programmes.
 
 
