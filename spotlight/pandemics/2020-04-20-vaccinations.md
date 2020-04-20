@@ -6,6 +6,7 @@ permalink: /spotlight/pandemics/vaccinations
 description: The world is now racing to find a vaccine for COVID-19. However, what are vaccines and how do they help in preventing disease? This guide provides a range of interesting resources about vaccinations.
 image: /images/NL-7-vaccinations.jpg
 ---
+
 <img src="/images/NL-7-vaccinations.jpg">
 
 <p style="font-size:8pt;">Photo credit: <a href="https://pixabay.com/photos/vaccination-doctor-syringe-medical-1215279/" target="_blank">pixabay.com/photos/vaccination-doctor-syringe-medical-1215279/</a></p>
