@@ -14,7 +14,10 @@ title: eReads
 
 <p>Enjoy the digital books for 3 weeks and don’t worry about overdue fines as the digital books will be automatically returned at the end of the loan period.</p>
 
-<div>
+<div class="acc-kontainer" id="eReads-get-started">          
+	<div>
+
+
 <div>
 		<input type="radio" name="acc" id="acc1">
         <label for="acc1">How to borrow eBooks/Audiobooks via the eReads screens?</label>
@@ -28,7 +31,7 @@ guide.</li>
 <li> Tap the camera icon at the top-left corner of the app. Scan the QR code
 and borrow the eBook.</li>
 <li> If you would like to read or listen offline, please refer to our Libby guide.</li>
-    <ul> </div></div>
+    </ul> </div></div>
 
 
 
@@ -42,7 +45,7 @@ and borrow the eBook.</li>
 	<li> Click on the preview button located beside the close button.<span style="font-size:13px"> Note: The preview
 button may load few seconds after.</span></li>
 	<li> Swipe right to enjoy reading the sample of the book.</li>
-	<ul>
+    </ul>
         </div> </div>
 
 
@@ -58,9 +61,8 @@ button may load few seconds after.</span></li>
 button may load few seconds after.</span></li>
 	<li> Click on the play button on the screen to enjoy listening to the sample of
 the book.</li>
-	<ul>  
-        </div> </div>
+    </ul>  
+        </div> </div> 
 
+</div> </div><!--close FAQ-section-->
 
-
-</div><!--close FAQ-section-->
