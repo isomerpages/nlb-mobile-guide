@@ -54,10 +54,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA
 
 <h5>The Long-Distance Leader: Rules for Remarkable Remote Leadership</h5>
 <i>Kevin Eikenberry</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=9f1f77f8-7a92-42cd-b011-c8d8755868c9"><img src="/images/PL-4-the-long- distance-leader.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9f1f77f8-7a92-42cd-b011-c8d8755868c9"><img src="/images/PL-4-the-long- distance-leader.jpg" style="width:300px; text-align:left;"></a><br/>
 San Francisco: Berrett-Koehler Publishers, 2018.<br/>
 If you are new to leading a team remotely, you will find the leadership models in this book a useful guide to managing your team wherever they are.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=9f1f77f8-7a92-42cd-b011-c8d8755868c9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B9E66E6D-FD95-4B35-9413-8C490A5B7BB1">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9f1f77f8-7a92-42cd-b011-c8d8755868c9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B9E66E6D-FD95-4B35-9413-8C490A5B7BB1">online</a> &#128187;.<br/>
 
 <h5>Attention Management: How to Create Success and Gain Productivity - Every Day</h5>
 <i>Maura Thomas</i><br/>
@@ -82,17 +82,17 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=57320B0F
 
 <h5>New Order: A Decluttering Handbook for Creative Folks (and Everyone Else)</h5>
 <i>Fay Wolf</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=9e8597b2-8b5f-46a3-a2ae-9ca4984628d3"><img src="/images/PL-4-new-order.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9e8597b2-8b5f-46a3-a2ae-9ca4984628d3"><img src="/images/PL-4-new-order.jpg" style="width:300px; text-align:left;"></a><br/>
 Call number: English 648.8 WOL. New York: Ballantine Books, 2016.<br/>
 Turn a chaotic house into a creative workspace with Wolf’s simple and accessible decluttering methods.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=9e8597b2-8b5f-46a3-a2ae-9ca4984628d3">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/989D22F7-B84E-47ED-9DCF-0D8F4761D701">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9e8597b2-8b5f-46a3-a2ae-9ca4984628d3">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/989D22F7-B84E-47ED-9DCF-0D8F4761D701">online</a> &#128187;.<br/>
 
 <h5>Office Zen: 101 Ways to Make your Work Space Calm, Happy and Productive</h5>
 <i>Emma Silverman</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=744b4985-4d0b-4e6a-b28b-093407880326"><img src="/images/PL-4-Office Zen.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=744b4985-4d0b-4e6a-b28b-093407880326"><img src="/images/PL-4-Office Zen.jpg" style="width:300px; text-align:left;"></a><br/>
 Skyhorse, 2017.<br/>
 With the Zen principles of mindfulnesss and simplicity, learn a framework for work-life balance, and bring peace, calm and fulfilment into your workspace and life. For example, being meditative and calm in our daily interactions is one way.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=744b4985-4d0b-4e6a-b28b-093407880326">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EE465D47-4735-44CC-9333-0CACE1948491">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=744b4985-4d0b-4e6a-b28b-093407880326">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EE465D47-4735-44CC-9333-0CACE1948491">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
