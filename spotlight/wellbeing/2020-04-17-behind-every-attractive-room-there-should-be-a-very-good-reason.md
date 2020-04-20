@@ -47,10 +47,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/cms/details?uuid=
 
 <h5>Digital minimalism</h5>
 <i>Cal Newport</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C"><img src="/images/PL-4-Digital Minimalism.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C"><img src="/images/PL-4-Digital Minimalism.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 303.4833 NEW. New York: Portfolio/Penguin, 2019.<br/>
 Calport offers ways in which we can intentionally use technology to maximise its benefits and allow us to focus on meaningful work, while minimizing its potential drain on our attention and time. Altogether, presenting a better way to live and to work.<br/>
-Borrow the eBook <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/75F556CA-9A44-4D4E-BFAC-1152188F339C">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA-9A44-4D4E-BFAC-1152188F339C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/75F556CA-9A44-4D4E-BFAC-1152188F339C">online</a> &#128187;.<br/>
 
 <h5>The Long-Distance Leader: Rules for Remarkable Remote Leadership</h5>
 <i>Kevin Eikenberry</i><br/>
