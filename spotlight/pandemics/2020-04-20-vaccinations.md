@@ -10,6 +10,7 @@ image: /images/NL-7-vaccinations.jpg
 
 <p style="font-size:8pt;">Photo credit: <a href="https://pixabay.com/photos/vaccination-doctor-syringe-medical-1215279/" target="_blank">pixabay.com/photos/vaccination-doctor-syringe-medical-1215279/</a></p>
 The world is now racing to find a vaccine for COVID-19. However, what are vaccines and how do they help in preventing disease? This guide provides a range of interesting resources about vaccinations.
+
 In 1796, English physician Edward Jenner inoculated a young boy, James Phipps, with cowpox (a mild and recoverable disease). He later found that young James had become completely immune to smallpox, an infectious and often deadly disease. Jenner termed this new procedure “vaccination”[^1],  derived from the Latin word vaccinia, meaning cowpox. Thus began the path towards the global eradication of smallpox, and a whole new branch of medicine.
 
 As a field, vaccination has been well studied and the process of conception to testing and production is rigorously evaluated to ensure minimal risk to any patient being inoculated. Vaccines are constantly monitored for their safety. For many vaccines, the risk of an adverse allergic reaction is about one per million doses.[^2]  These odds are much less than getting struck by lightning or being involved in a plane crash.
@@ -105,7 +106,7 @@ Mahase, E. (2019). Vaccine hesitancy: An interview with Stanley Plotkin, rubella
 
 
 <h5>5. <a href="https://search.nlb.gov.sg/Search?query=Risk%20factor%20profiles%20and%20clinical%20outcomes%20for%20children%20and%20adults%20with%20pneumococcal%20infections%20in%20Singapore&cont=ejournal" target="_blank">Risk factor profiles and clinical outcomes for children and adults with pneumococcal infections in Singapore: A need to expand vaccination policy?</a></h5>
-Martinez-Vega, R., Jauneikaite, E., Thoon, K.C., Chua, A.H., Khong, W.X., et al. (2019). Risk factor profiles and clinical outcomes for children and adults with pneumococcal infections in Singapore: A need to expand vaccination policy? <i>PLoS ONE 14(10),</i> 1-17. Retrieved 2020, April 3 from ProQuest via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">eResources website.</a>  (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+Martinez-Vega, R., Jauneikaite, E., Thoon, K.C., Chua, A.H., Khong, W.X., et al. (2019). Risk factor profiles and clinical outcomes for children and adults with pneumococcal infections in Singapore: A need to expand vaccination policy? <i>PLoS ONE 14(10),</i> 1-17. Retrieved 2020, April 3 from EBSCOhost via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">eResources website.</a>  (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 
 <h4>Chinese, Malay and Tamil resources</h4>
