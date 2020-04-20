@@ -54,10 +54,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=75F556CA
 
 <h5>The Long-Distance Leader: Rules for Remarkable Remote Leadership</h5>
 <i>Kevin Eikenberry</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9f1f77f8-7a92-42cd-b011-c8d8755868c9"><img src="/images/PL-4-the-long- distance-leader.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B9E66E6D-FD95-4B35-9413-8C490A5B7BB1"><img src="/images/PL-4-the-long- distance-leader.jpg" style="width:300px; text-align:left;"></a><br/>
 San Francisco: Berrett-Koehler Publishers, 2018.<br/>
 If you are new to leading a team remotely, you will find the leadership models in this book a useful guide to managing your team wherever they are.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9f1f77f8-7a92-42cd-b011-c8d8755868c9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B9E66E6D-FD95-4B35-9413-8C490A5B7BB1">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B9E66E6D-FD95-4B35-9413-8C490A5B7BB1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B9E66E6D-FD95-4B35-9413-8C490A5B7BB1">online</a> &#128187;.<br/>
 
 <h5>Attention Management: How to Create Success and Gain Productivity - Every Day</h5>
 <i>Maura Thomas</i><br/>
