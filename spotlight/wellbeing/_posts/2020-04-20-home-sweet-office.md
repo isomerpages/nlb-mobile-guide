@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Home Sweet Office
-date:   2020-04-17
-permalink: /spotlight/wellbeing/2020-04-17-home-sweet-office
+title:  Learning Package 4 - Home Sweet Office
+date: 2020-04-20
+permalink: /spotlight/wellbeing/2020-04-20-home-sweet-office
 description: Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment. 
 image: /images/PL-4-Intro Image.jpg
 ---
@@ -26,11 +26,11 @@ Source: <a href="https://www.youtube.com/watch?v=0UmUgaJwEr0" target="_blank">Wh
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/397387-2.html?org=nlb.gov.sg" target="_blank">Time Management Fundamentals</a></strong><br/>
 Learn how to get more done in the shortest time possible, and avoid the obstacles and distractions that can get in the way of good time management.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/397387-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/397387-2.html?org=nlb.gov.sg"><img src="/images/PL-4-lynda-timemgt.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Software-tutorials/Improving-Your-Focus/533302-2.html?org=nlb.gov.sg" target="_blank">Improving Your Focus</a></strong><br/>
 It is easy to get distracted – even more so if you’re working from home! Learn the techniques to improve your focus in this timely course.</p>
-<a href="https://www.lynda.com/Business-Software-tutorials/Improving-Your-Focus/533302-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Software-tutorials/Improving-Your-Focus/533302-2.html?org=nlb.gov.sg"><img src="/images/PL-4-lynda-focus.png" style="width:400px;"></a>
 
 
 <h4>eBooks</h4>
