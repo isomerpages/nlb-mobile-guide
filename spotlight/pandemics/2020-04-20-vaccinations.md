@@ -34,11 +34,11 @@ To find out more about vaccinations, check out the resources below. Our next ins
 <h4>Books/ Ebooks/ Audiobooks</h4>
 <h5>1. Between hope and fear: A history of vaccines and human immunity</h5>
 Kinch, M. (2018). <i>Between hope and fear: A history of vaccines and human immunity</i>. New York: Pegasus Books. Retrieved from OverDrive.(<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
-<a href="https://nlb.overdrive.com/media/3657795" target="_blank"><img src="/images/NL-7-Between-hope-and-fear" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/3657795" target="_blank"><img src="/images/NL-7-Between-hope-and-fear.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>2. The speckled monster: A historical tale of battling smallpox</h5>
 Carrell, J. L. (2004). <i>The speckled monster: A historical tale of battling smallpox</i>. New York, NY: Plume. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
-<a href="https://nlb.overdrive.com/media/204717" target="_blank"><img src="/images/NL-7-The-speckled-monster" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/204717" target="_blank"><img src="/images/NL-7-The-speckled-monster.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>3. The vaccine race: Science, politics, and the human costs of defeating disease</h5>
 Wadman, M. (2017). <i>The vaccine race: Science, politics, and the human costs of defeating disease</i>. New York, NY: Penguin Books. Retrieved from OverDrive.  (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
