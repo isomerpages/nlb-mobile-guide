@@ -50,9 +50,14 @@ To learn more about the Spanish Flu, check out the resources listed below. Look 
 [^10]: Lee VJ, Chen MI, Chan SP, Wong CS, Cutter J, Goh KT, et al. (2007, July). Influenza pandemics in Singapore, a tropical, globally connected city. *Emerg Infect Dis.* Retrieved 2020, April 10 from <http://www.cdc.gov/eid/content/13/7/1052.htm>
 
 <h4>Books/ Ebooks/ Audiobooks</h4>
-<h5>1. Flu: The story of the Great Influenza pandemic of 1918</h5>
-Kolata, G. (2011). <i>Flu: The story of the Great Influenza pandemic of 1918</i>. New York: Farrar, Straus and Giroux. Retrieved from OverDrive. (myLibrary ID is required to access the eBook)<br/> 
-<a href="https://nlb.overdrive.com/media/78D6C355-7EA4-43B5-A413-3D6EA791C46E" target="_blank"><img src="/images/NL-5-flu-the-story.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<h5>1. Between hope and fear: A history of vaccines and human immunity</h5>
+Kinch, M. (2018). <i>Between hope and fear: A history of vaccines and human immunity</i>. New York: Pegasus Books. Retrieved from OverDrive. (myLibrary ID is required to access this ebook.)<br/> 
+<a href="https://nlb.overdrive.com/media/3657795" target="_blank"><img src="/images/NL-7-Between-hope-and-fear" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+
+
+
+
+
 
 <h5>2. Influenza: The hundred year hunt to cure the deadliest disease in history</h5>
 Brown, J. (2018). <i>Influenza: The hundred year hunt to cure the deadliest disease in history</i>. New York: Simon & Schuster Audio. Retrieved from OverDrive. (myLibrary ID is required to access the audiobook)<br/> 
