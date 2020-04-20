@@ -61,10 +61,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9f1f77f8
 
 <h5>Attention Management: How to Create Success and Gain Productivity - Every Day</h5>
 <i>Maura Thomas</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=eb73b1a6-677c-41f3-936a-db3fe3e46164"><img src="/images/PL-4-attention- management.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=614F75F7-9ACA-444D-898B-9AD886A01B5A"><img src="/images/PL-4-attention- management.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.733 THO. Naperville: Simple Truths, 2019.<br/>
 Yet to adjust to working from home and find yourself constantly distracted? Try the practical strategies in this book to regain focus and live a life of choice instead of a life of reaction.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=eb73b1a6-677c-41f3-936a-db3fe3e46164">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/614F75F7-9ACA-444D-898B-9AD886A01B5A">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=614F75F7-9ACA-444D-898B-9AD886A01B5A">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/614F75F7-9ACA-444D-898B-9AD886A01B5A">online</a> &#128187;.<br/>
 
 <h5>My Creative Space: How to Design Your Home to Stimulate Ideas and Spark Innovation</h5>
 <i>Donald M. Rattner</i><br/>
