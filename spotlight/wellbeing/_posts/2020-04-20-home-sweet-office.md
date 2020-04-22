@@ -32,6 +32,12 @@ Learn how to get more done in the shortest time possible, and avoid the obstacle
 It is easy to get distracted – even more so if you’re working from home! Learn the techniques to improve your focus in this timely course.</p>
 <a href="https://www.lynda.com/Business-Software-tutorials/Improving-Your-Focus/533302-2.html?org=nlb.gov.sg"><img src="/images/PL-4-lynda-focus.png" style="width:400px;"></a>
 
+<h4>Articles</h4>
+
+<h5>3 Tips to Avoid WFH Burnout</h5>
+<i> Laura M. Giurge and Vanessa K. Bohns</i>. Published on Harvard Business Review, 3 April 2020.<br/>
+The boundaries between “work” and “home” can become increasingly blurred when you work from home. How do you leave work at the door when you don’t even leave the house? As more and more of us transit to remote working options amidst the Circuit Breaker period, paying attention to our mental health and learning to recognise the signs of burnout are more important than ever. In this timely article, learn how taking breaks and implementing transitions from work to rest can help us avoid burnout.<br/>
+<a href="https://hbr.org/amp/2020/04/3-tips-to-avoid-wfh-burnout" target="_blank">Visit this website</a> to learn more.
 
 <h4>eBooks</h4>
 
