@@ -34,7 +34,7 @@ It is easy to get distracted – even more so if you’re working from home! Lea
 
 <h4>Articles</h4>
 
-<a href="https://hbr.org/amp/2020/04/3-tips-to-avoid-wfh-burnout" target="_blank"><h5>3 Tips to Avoid WFH Burnout</h5></a>
+<h5><a href="https://hbr.org/amp/2020/04/3-tips-to-avoid-wfh-burnout" target="_blank">3 Tips to Avoid WFH Burnout</a></h5>
 <i> Laura M. Giurge and Vanessa K. Bohns</i>. Published on Harvard Business Review, 3 April 2020.<br/>
 The boundaries between “work” and “home” can become increasingly blurred when you work from home. How do you leave work at the door when you don’t even leave the house? As more and more of us transit to remote working options amidst the Circuit Breaker period, paying attention to our mental health and learning to recognise the signs of burnout are more important than ever. In this timely article, learn how taking breaks and implementing transitions from work to rest can help us avoid burnout.<br/>
 <a href="https://hbr.org/amp/2020/04/3-tips-to-avoid-wfh-burnout" target="_blank">Visit this website</a> to learn more.</p>
