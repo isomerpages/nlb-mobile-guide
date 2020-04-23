@@ -190,7 +190,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <input type="radio" name="acc" id="acc100">
         <label for="acc100">Which websites support NLB QR Login?</label>
         <div class="acc-body">
-        <p>Currently, you can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="eresources.nlb.gov.sg" target="blank">eresources.nlb.gov.sg</a>, <a href="catalogue.nlb.gov.sg" target="blank">catalogue.nlb.gov.sg</a>.</p>
+        <p>Currently, you can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="blank">catalogue.nlb.gov.sg</a>.</p>
     </div>
     </div>
     
