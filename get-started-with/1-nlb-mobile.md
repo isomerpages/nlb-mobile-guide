@@ -177,7 +177,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div></div>
 
-<p><h2>Using the QR Login Feature on NLB Websites</h2></p>
+<p><a name="qr"><h2>Using the QR Login Feature on NLB Websites</h2></a></p>
     <div>
         <input type="radio" name="acc" id="acc99">
         <label for="acc99">What’s NLB QR Login?</label>
