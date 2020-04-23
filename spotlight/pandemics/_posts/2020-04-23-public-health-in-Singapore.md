@@ -10,7 +10,7 @@ image: /images/NL-8-public-health.png
 
 <p style="font-size:8pt;">Photo credit: <a href="https://pixabay.com/illustrations/family-health-hands-security-human-2073604/" target="_blank">https://pixabay.com/illustrations/family-health-hands-security-human-2073604/</a></p>
 
-The World Health Organization defines public health as “the art and science of preventing disease, prolonging life and promoting health through the organised efforts of society."[^1] These are achieved through a variety of strategies such as patient education, vaccination and preventive medicine.[^2] 
+The World Health Organization defines public health as “the art and science of preventing disease, prolonging life and promoting health through the organised efforts of society."[^1] These objectives are achieved through a variety of strategies such as patient education, vaccination and preventive medicine.[^2] 
 
 In Singapore, the Ministry of Health (MOH) and the Ministry of Environment and Water Resources (MEWR) oversee public health in the areas of public health preparedness, infectious disease prevention and epidemiology, as well as the prevention of transmission of vector borne diseases and keeping public areas clean.[^3] 
 
