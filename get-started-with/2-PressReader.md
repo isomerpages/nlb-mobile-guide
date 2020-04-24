@@ -6,19 +6,22 @@ description: How to Read eMagazines and eNewspapers using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
+
+<!--Start SPH newspapers remote access announcement
 <table style="border-color: blue;" border="1" cellpadding="10">
 <tbody>
 <tr>
 <td>
-	<h2 style="text-align: center;">New! Access SPH Newspapers from Home</h2>
+	<h2 style="text-align: center;">*New!* Access SPH Newspapers from Home</h2>
 	<p>
-		We heard you! You can access SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao <b>from home</b>, instead of only at the libraries. <a href="http://eresources.nlb.gov.sg/Main" target="_blank">Just log in to the eResources page here</a>. You can do this from any mobile device as well as desktop computers/laptops. We are offering this remote access outside of libraries for a limited time only, so you can get the latest news throughout the circuit breaker. Stay safe!
+		We heard you! Now, you can access SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao <b>from home</b>, instead of only at the libraries. <a href="http://eresources.nlb.gov.sg/Main" target="_blank">Just log in to the eResources page here</a>. You can do this from any mobile device as well as desktop computers/laptops. We are offering this remote access outside of libraries for a limited time only, so you can get the latest news throughout the circuit breaker. Stay safe!
 	</p>
 	<p><a href="https://mobileapp.nlb.gov.sg/get-started-with/pressreader/#XXXXXXXXX">Learn more</a></p>
 </td>
 </tr>
 </tbody>
 </table>
+--End SPH newspapers remote access announcement-->
 
 <h2>About PressReader</h2> 
 
@@ -37,9 +40,11 @@ An **international** digital newsstand on the go:
 </video>
 </div>
 
+<!--Hide SPH gif till libraries reopen
 <p> <h2>How to Read SPH eNewspapers</h2> </p>
-
 ![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
+-->
+
 <p>	
 <div class="FAQ-section" id="PressReaderStart"> 
   <h2>Getting Started</h2> 
