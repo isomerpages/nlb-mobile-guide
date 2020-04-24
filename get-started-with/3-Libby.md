@@ -6,14 +6,29 @@ description: How to Read NLB's eBooks and Audiobooks
 image: /images/libby_socmed.png
 title: eBooks and Audiobooks
 ---
+<table style="border-color: blue;" border="1" cellpadding="10">
+<tbody>
+<tr>
+<td>
+	<h2><p style="text-align: center;">New Features on Libby</p></h2>
+	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, and <i>Marie Claire?</i> Just <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a>!</p>
+<p>Prefer to read on your mobile device? Download the Libby app from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank" rel="noopener">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank" rel="noopener">Google Play</a>.</p>
+<!-- 
+<p><a href="https://mobileapp.nlb.gov.sg/get-started-with/libby/#mag">Learn more</a></p>
+-->
+</td>
+</tr>
+</tbody>
+</table>
+
 <h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
-<li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
-<li>Want to read even when offline? With the Libby app, you can download eBooks/eAudiobooks into your device so that you don't need an internet connection to read/listen to them later.</li>
-</ul>
-
-
+<li>Want to read even when offline? With the Libby app, you can download eBooks/Audiobooks into your device so that you don't need an internet connection to read/listen to them later.</li>
+	
 <p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank">Google Play</a> now.</p>
+
+<li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
+</ul>
 
 <h2>Reading eBooks featured in Spotlight</h2>
 <div class="acc-kontainer"><!--accordion-->          
@@ -105,6 +120,18 @@ title: eBooks and Audiobooks
 <p>
 If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div></div>
+
+<!--  
+<h2><a name="mag">eMagazines on Libby</a></h2>
+ <div>
+		<input type="radio" name="acc" id="acc99">
+        <label for="acc99">Is there a device limit for Libby?</label>
+
+        <div class="acc-body">
+  <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
+</div></div>
+-->
+
 
   <h2>Different Devices</h2>
  <div>
