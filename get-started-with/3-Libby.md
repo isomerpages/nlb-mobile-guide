@@ -8,12 +8,12 @@ title: eBooks and Audiobooks
 ---
 <h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
-<li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
 <li>Want to read even when offline? With the Libby app, you can download eBooks/eAudiobooks into your device so that you don't need an internet connection to read/listen to them later.</li>
-</ul>
-
-
+	
 <p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank">Google Play</a> now.</p>
+
+<li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
+</ul>
 
 <h2>Reading eBooks featured in Spotlight</h2>
 <div class="acc-kontainer"><!--accordion-->          
