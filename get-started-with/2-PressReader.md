@@ -14,9 +14,9 @@ title: eMagazines and eNewspapers
 <td>
 	<h2 style="text-align: center;">*New!* Access SPH Newspapers from Home</h2>
 	<p>
-		We heard you! Now, you can access SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao <b>from home</b>, instead of only at the libraries. <a href="http://eresources.nlb.gov.sg/Main" target="_blank">Just log in to the eResources page here</a>. You can do this from any mobile device as well as desktop computers/laptops. We are offering this remote access outside of libraries for a limited time only, so you can get the latest news throughout the circuit breaker. Stay safe!
+		We heard you! Now, you can access 8 SPH newspapers such as The Straits Times <b>from home</b>, instead of only at the libraries. <a href="http://eresources.nlb.gov.sg/Main/sphnewspapers" target="_blank">Just log in with myLibrary ID to the eResources page here</a>. You can do this from any mobile device as well as desktop computers/laptops. We are offering this remote access outside of libraries for a limited time only, so you can get the latest news throughout the circuit breaker. Stay safe!
 	</p>
-	<p><a href="https://mobileapp.nlb.gov.sg/get-started-with/pressreader/#XXXXXXXXX">Learn more</a></p>
+	<p><a href="https://mobileapp.nlb.gov.sg/get-started-with/pressreader/#sph">Learn more</a></p>
 </td>
 </tr>
 </tbody>
@@ -45,7 +45,8 @@ An **international** digital newsstand on the go:
 ![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
 -->
 
-<p>	
+
+
 <div class="FAQ-section" id="PressReaderStart"> 
   <h2>Getting Started</h2> 
   <div class="acc-kontainer"><!--div for each button-->
@@ -135,11 +136,11 @@ An **international** digital newsstand on the go:
 		<p>Good news, there's no limit! You can download as many titles and issues as you like.</p><p class="end-note">But make sure your device has enough space to store the downloaded content.</p>
   </div>
 </div> 
-
+<!--
 <p>
-<div class="FAQ-section" id="PressReaderLocalNews"> <!--of class FAQ-section--> 
+<div class="FAQ-section" id="PressReaderLocalNews"> 
 <h2>Reading Local Newspapers</h2>
-<div><!--div for each button-->
+<div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</label>
         <div class="acc-body">
@@ -161,8 +162,9 @@ An **international** digital newsstand on the go:
 <p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
         <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
 </div>
-</div><!--close div for acc7 (question)-->
-    </div><!--close div for acc body (answer)-->
+</div> -->
+<!--close div for acc7 (question)-->
+<!--    </div><!--close div for acc body (answer)-->
 
 <p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">
