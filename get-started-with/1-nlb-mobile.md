@@ -196,11 +196,8 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
 		</ol>
 		</p>
-	<div class="vd">
-     <video width="720px" poster="/images/QRLogin.png" controls>
-  <source src="/images/QRLogin.mp4" type="video/mp4" />
-</video>
-</div>
+	<img src="/images/QRLogin.png">
+
     </div>
     </div>
     
