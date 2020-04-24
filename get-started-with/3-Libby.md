@@ -10,8 +10,8 @@ title: eBooks and Audiobooks
 <tbody>
 <tr>
 <td>
-<p style="text-align: center;">New Features on Libby</p>
-<p>Want to read eMagazines like The Economist, Wired, and Marie Claire? Just <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a>!</p>
+	<p style="text-align: center;"><h2>New Features on Libby</h2></p>
+	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, and <i>Marie Claire?</i> Just <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a>!</p>
 <p>Prefer to read on your mobile device? Download the Libby app from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank" rel="noopener">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank" rel="noopener">Google Play</a>.</p>
 <!-- 
 <p><a href="https://mobileapp.nlb.gov.sg/get-started-with/libby/#mag">Learn more</a></p>
