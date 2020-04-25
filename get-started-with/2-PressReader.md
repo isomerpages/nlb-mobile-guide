@@ -197,7 +197,7 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 
 <div>
         <input type="radio" name="acc" id="sph6">
-        <label for="sph6">When I returned to the SPH ePaper, I see a SPH login screen. What should I do? </label>
+        <label for="sph6">When I return to the SPH ePaper, I see a SPH login screen. What should I do? </label>
 
  <div class="acc-body">
   <p>This may happen when your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
