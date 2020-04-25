@@ -14,9 +14,9 @@ title: eMagazines and eNewspapers
 <td>
 	<h2 style="text-align: center;">*New!* Read SPH Newspapers from home during the circuit breaker period</h2>
 	<p>
-		Although our libraries are temporarily closed, you can now read SPH newspapers <b>from home</b>, as part of our arrangement with SPH during the circuit breaker period. <a href="https://go.gov.sg/nlb-enews" target="_blank">Just log in with myLibrary ID at this page</a>. This arrangement with SPH will help you keep up with the news while staying safe at home during the circuit breaker period. Stay safe!
+		Although our libraries are temporarily closed, you can now read SPH newspapers <b>from home</b>, as part of our arrangement with SPH during the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. This arrangement with SPH will help you keep up with the news while staying safe at home during the circuit breaker period. Stay safe!
 	</p>
-	<p><a href="https://mobileapp.nlb.gov.sg/get-started-with/pressreader/#sph">Learn more</a></p>
+	<p><a href="/get-started-with/pressreader/#sph">Learn more</a></p>
 </td>
 </tr>
 </tbody>
@@ -143,8 +143,8 @@ An **international** digital newsstand on the go:
         <label for="sph1">How can I read SPH newspapers from home during the circuit breaker period?</label>
 
  <div class="acc-body">
-  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the circuit breaker period. After signing in with your myLibrary ID at <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site.</p>
-<p>To sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. To sign up for library membership with your SingPass, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
+  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the circuit breaker period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site.</p>
+<p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -212,8 +212,6 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
   <p>Due to licensing and access control, there is a limit to the number of users who can read the newspapers at the same time. Sometimes, users may be logged out when the limit is reached. If this happens, please wait a while, then log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
-
-
 </div>
 
 <!--
@@ -242,10 +240,9 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 <p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
         <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
 </div>
-</div> 
-<!--close div for acc7 (question)-->
-</div><!--close div for acc body (answer)-->
--->
+</div> --><!--close div for acc7 (question)-->
+<!--</div>--> <!--close div for acc body (answer)-->
+
 
 <p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">
