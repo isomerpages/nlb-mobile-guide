@@ -31,7 +31,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <li> Take online courses</li>
 	<li> Borrow physical items using your mobile device</li>
 	<li> Check the accounts of you and your family</li>
-	<li><b>*New* Log in to NLB websites quickly by scanning a QR code</b></li>
+	<!--<li><b>*New* Log in to NLB websites quickly by scanning a QR code</b></li>-->
 </ul>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
