@@ -6,6 +6,23 @@ description: How to Read eMagazines and eNewspapers using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
+
+
+<table style="border-color: blue;" border="1" cellpadding="10">
+<tbody>
+<tr>
+<td>
+	<h2 style="text-align: center;">*New!* Read SPH Newspapers from home during the circuit breaker period</h2>
+	<p>
+		Although our libraries are temporarily closed, you can now read SPH newspapers <b>from home</b>, as part of our arrangement with SPH during the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. This arrangement with SPH will help you keep up with the news while staying safe at home during the circuit breaker period. Stay safe!
+	</p>
+	<p><a href="/get-started-with/pressreader/#sph">Learn more</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <h2>About PressReader</h2> 
 
 An **international** digital newsstand on the go:
@@ -23,10 +40,11 @@ An **international** digital newsstand on the go:
 </video>
 </div>
 
+<!--Hide SPH gif till libraries reopen
 <p> <h2>How to Read SPH eNewspapers</h2> </p>
-
 ![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
-<p>	
+-->
+
 <div class="FAQ-section" id="PressReaderStart"> 
   <h2>Getting Started</h2> 
   <div class="acc-kontainer"><!--div for each button-->
@@ -118,9 +136,89 @@ An **international** digital newsstand on the go:
 </div> 
 
 <p>
-<div class="FAQ-section" id="PressReaderLocalNews"> <!--of class FAQ-section--> 
+<div class="FAQ-section" id="sph">
+<h2>Read SPH newspapers at home during the circuit breaker period</h2>
+	<div>
+        <input type="radio" name="acc" id="sph1">
+        <label for="sph1">How can I read SPH newspapers from home during the circuit breaker period?</label>
+
+ <div class="acc-body">
+  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the circuit breaker period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site.</p>
+<p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph2">
+        <label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
+
+ <div class="acc-body">
+  <p>You can read the current issues of:
+	  <ol>
+		  <li>The Straits Times</li> 
+<li>The Business Times</li> 
+<li>The New Paper</li> 
+<li>Lianhe Zaobao</li>
+<li>Lianhe Wanbao</li>
+<li>Shin Min Daily News</li> 
+<li>Berita Harian</li>
+		  <li>Tamil Murasu</li> 
+	</ol>
+When you are brought to the SPH ePaper site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph3">
+        <label for="sph3">What time will the newspapers be published?</label>
+
+ <div class="acc-body">
+  <p>This depends on SPH’s publication times. You can read the newspaper on the same day as it is published.  
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph4">
+        <label for="sph4">Can I access the SPH newspapers from the NLB Mobile app? </label>
+
+ <div class="acc-body">
+  <p>We will enable access to SPH newspapers through the NLB Mobile app from the last week of April / first week of May.  
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph5">
+        <label for="sph5">Why can’t I download the newspapers?  </label>
+
+ <div class="acc-body">
+  <p>The license agreement is for reading the newspaper online only.   
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph6">
+        <label for="sph6">When I returned to the SPH ePaper, I see a SPH login screen. What should I do? </label>
+
+ <div class="acc-body">
+  <p>This may happen when your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph7">
+        <label for="sph7">I was logged out while I was reading the newspaper online. What should I do? </label>
+
+ <div class="acc-body">
+  <p>Due to licensing and access control, there is a limit to the number of users who can read the newspapers at the same time. Sometimes, users may be logged out when the limit is reached. If this happens, please wait a while, then log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+</div>
+
+<!--
+<p>
+<div class="FAQ-section" id="PressReaderLocalNews"> 
 <h2>Reading Local Newspapers</h2>
-<div><!--div for each button-->
+<div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</label>
         <div class="acc-body">
@@ -142,8 +240,9 @@ An **international** digital newsstand on the go:
 <p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
         <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
 </div>
-</div><!--close div for acc7 (question)-->
-    </div><!--close div for acc body (answer)-->
+</div> --><!--close div for acc7 (question)-->
+<!--</div>--> <!--close div for acc body (answer)-->
+
 
 <p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">

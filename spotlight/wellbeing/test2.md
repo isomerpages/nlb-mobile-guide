@@ -33,6 +33,16 @@ Improve your wellbeing with two simple activities – meditation and sleep!</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
 
+<h4>Stories on the Internet</h4>
+
+<h5>1. <a href="https://bbc.com/news/uk-51936286">Coronavirus: How Families Can Cope with Self-Isolating Together</a><br/>
+<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020</h5>
+How do you cope with your children or other members of your family as you spend more and more time cooped up together at home? Learn how experts and different families are spending their time together in this article.  
+
+<h5>2. <a href="https://www.nylon.com.sg/2020/04/trendy-easy-to-make-recipes-to-try-at-home-including-d-i-y-bubble-tea">Trendy & Easy-To-Make Recipes to Try At Home, Including D-I-Y Bubble Tea</a><br/>
+<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020</h5>
+Everyone now has the time to aspire to be a home chef and experiment with different recipes. Here are 6 that may just suit your tastebuds’ fancy should you have the ingredients at home already.
+
 <h4>eBooks</h4>
 
 <h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
@@ -59,7 +69,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=61788AD8
 
 <h5>Man's Search for Meaning</h5>
 <i>Viktor E. Frankl</i><br/>
-<a href=" https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
 We’re currently living through trying times but this is not the first time the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
