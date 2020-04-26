@@ -86,12 +86,12 @@ New York : Skyhorse, 2019.<br/>
 Learn ways to start appropriate conversations with anyone of various ages. This includes your spouse, children, siblings and grandparents.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">online</a> &#128187;.<br/>
 
-<h5>Feeding the Whole Family: Cooking with Whole Foods: More Than 200 Recipes for Feeding Babies, Young Children, and Their Parents</h5>
-<i>Cynthia Lair</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D8903091-D752-497A-A42B-259B1B8761D5"><img src="/images/PL-5-Feeding-the-whole-family.jpg" style="width:300px; text-align:left;"></a><br/>
-New York: Sasquatch Books, 2016.<br/>
-Family members can plan, shop and cook together. Fond memories are built over the dinner table with laughter, sharing memories and instilling family values. The family meal can be the best time for family interaction.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D8903091-D752-497A-A42B-259B1B8761D5">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/D8903091-D752-497A-A42B-259B1B8761D5">online</a> &#128187;.<br/>
+<h5>Fried Rice</h5>
+<i>Danielle Centoni</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D"><img src="/images/ PL-5-Fried-Rice.jpg" style="width:300px; text-align:left;"></a><br/>
+New York: Crown Archetype, 2012<br/>
+Learn new ways to prepare this popular dish with common items in the home pantry. In these times when regular home-cooking is required, these new recipes may be just what is needed to add variety to your meals.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
 
 <h5>The Family Gratitude Project: Raise a Thankful Child with 52 Fun Activities and Crafts for Every Season</h5>
 <i>Joanna Grzeszczak</i><br/>
