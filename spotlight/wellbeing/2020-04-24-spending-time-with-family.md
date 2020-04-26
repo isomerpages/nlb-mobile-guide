@@ -89,21 +89,21 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2
 
 <h5>Fried Rice</h5>
 <i>Danielle Centoni</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D"><img src="/images/ PL-5-Fried-Rice.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D"><img src="/images/PL-5-Fried-Rice.jpg" style="width:300px; text-align:left;"></a><br/>
 New York: Crown Archetype, 2012<br/>
 Learn new ways to prepare this popular dish with common items in the home pantry. In these times when regular home-cooking is required, these new recipes may be just what is needed to add variety to your meals.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
 
 <h5> How to Archive Family Photos</h5>
 <i>Denise May Levenick</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FB65F0EE-AC97-4BAD-AB7A-1920317AE539"><img src="/images/ PL-5-How-to-archive-family-photos.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FB65F0EE-AC97-4BAD-AB7A-1920317AE539"><img src="/images/PL-5-How-to-archive-family-photos.jpg" style="width:300px; text-align:left;"></a><br/>
 Ohio: Family Tree Books, 2015.<br/>
 Family photographs preserve precious memories and they are often stored in smartphones or old boxes and photo albums. Organising them can be a fun activity to do with your family indoors. Learn how to arrange, store and present them for years to come.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FB65F0EE-AC97-4BAD-AB7A-1920317AE539">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539">online</a> &#128187;.<br/>
 
 <h5> Improve Your Word Power</h5>
 <i>Caroline Taggart</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38"><img src="/images/ PL-5-Improve-your-word-power.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38"><img src="/images/PL-5-Improve-your-word-power.jpg" style="width:300px; text-align:left;"></a><br/>
 London: Michael O'Mara Books Limited, 2019.<br/>
 Enjoy word games and enrich your vocabulary skills with a collection of multiple-choice questions which can be played with your family. Fun facts and informative chunks of information make this an enjoyable read with unexpected surprises behind the origins of well-known words.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2AA7651D-81FA-415B-B331-068F18AC3A38">online</a> &#128187;.<br/>
