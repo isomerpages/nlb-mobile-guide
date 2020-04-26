@@ -105,7 +105,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C945AA1
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34"><img src="/images/PL-5-How-to-talk-so-kids-will-listen.jpg" style="width:300px; text-align:left;"></a><br/>
 London: Piccadilly Press, 2013.<br/>
 Are you a parent tearing your hair out due to home-based learning? We feel you! Learn how to set firm limits and engage your child’s cooperation with this timely book to make home-based learning easier for your household.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34">with the app</a>&#128241; or<a href="https://nlb.overdrive.com/media/766047">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/766047">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
