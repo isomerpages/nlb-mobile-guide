@@ -12,9 +12,9 @@ title: eMagazines and eNewspapers
 <tbody>
 <tr>
 <td>
-	<h2 style="text-align: center;">*New!* Read SPH Newspapers from home during the circuit breaker period</h2>
+	<h2 style="text-align: center;">*New!* Read local newspapers from home during the circuit breaker period</h2>
 	<p>
-		Although our libraries are temporarily closed, you can now read SPH newspapers <b>from home</b>, as part of our arrangement with SPH during the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. This arrangement with SPH will help you keep up with the news while staying safe at home during the circuit breaker period. Stay safe!
+		Although our libraries are temporarily closed, you can now read newspapers published by Singapore Press Holdings (SPH) <b>from home</b>, as part of our arrangement with SPH for the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. Read up on the news while staying safe at home.
 	</p>
 	<p><a href="/get-started-with/pressreader/#sph">Learn more</a></p>
 </td>
@@ -149,6 +149,16 @@ An **international** digital newsstand on the go:
 </div><!--close div for qn -->
 
 <div>
+        <input type="radio" name="acc" id="sph1a">
+        <label for="sph1a">Can I read the newspapers on tablets and smartphones? </label>
+
+ <div class="acc-body">
+  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above.  
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+
+<div>
         <input type="radio" name="acc" id="sph2">
         <label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
 
@@ -197,10 +207,12 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 
 <div>
         <input type="radio" name="acc" id="sph6">
-        <label for="sph6">When I returned to the SPH ePaper, I see a SPH login screen. What should I do? </label>
+        <label for="sph6">When I return to the SPH ePaper, I see a SPH login screen. What should I do? </label>
 
  <div class="acc-body">
-  <p>This may happen when your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
+	<p>This may happen for a few reasons.</p>
+<p>First, you may be using a tablet or smartphone with an older operating system. Please update your operating system, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above.</p>
+<p>Second, this may happen when your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
