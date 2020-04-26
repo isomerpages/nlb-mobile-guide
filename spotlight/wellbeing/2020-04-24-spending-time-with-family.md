@@ -56,7 +56,7 @@ Everyone now has the time to aspire to be a home chef and experiment with differ
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D"><img src="/images/PL-5-Fried-Rice.jpg" style="width:300px; text-align:left;"></a><br/>
 New York: Crown Archetype, 2012<br/>
 Learn new ways to prepare this popular dish with common items in the home pantry. In these times when regular home-cooking is required, these new recipes may be just what is needed to add variety to your meals.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
 
 <h5>Baking with Kids: Make Breads, Muffins, Cookies, Pies, Pizza Dough, and More!</h5>
 <i>Leah Brooks</i><br/>
