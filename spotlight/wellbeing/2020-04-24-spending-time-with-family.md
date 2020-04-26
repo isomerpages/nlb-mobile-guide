@@ -93,12 +93,12 @@ New York: Crown Archetype, 2012<br/>
 Learn new ways to prepare this popular dish with common items in the home pantry. In these times when regular home-cooking is required, these new recipes may be just what is needed to add variety to your meals.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
 
-<h5>The Family Gratitude Project: Raise a Thankful Child with 52 Fun Activities and Crafts for Every Season</h5>
-<i>Joanna Grzeszczak</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1C4B8D60-CD3E-4822-AC54-5692C05594E3"><img src="/images/PL-5-Grattitude-family-project.jpg" style="width:300px; text-align:left;"></a><br/>
-LaVergne: Ulysses Press, 2018.<br/>
-While the full colour photo book is targeted at busy parents, grandparents can create inter-generational moments with your grandchildren. Have fun spending quality time doing the activities together as a family and at the same time inculcating good values.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1C4B8D60-CD3E-4822-AC54-5692C05594E3">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1C4B8D60-CD3E-4822-AC54-5692C05594E3">online</a> &#128187;.<br/>
+<h5> How to Archive Family Photos</h5>
+<i>Denise May Levenick</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FB65F0EE-AC97-4BAD-AB7A-1920317AE539"><img src="/images/ PL-5-How-to-archive-family-photos.jpg" style="width:300px; text-align:left;"></a><br/>
+Ohio: Family Tree Books, 2015.<br/>
+Family photographs preserve precious memories and they are often stored in smartphones or old boxes and photo albums. Organising them can be a fun activity to do with your family indoors. Learn how to arrange, store and present them for years to come.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FB65F0EE-AC97-4BAD-AB7A-1920317AE539">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539">online</a> &#128187;.<br/>
 
 <h5>Why Won’t You Apologise?: Healing Big Betrayals and Everyday Hurts</h5>
 <i>Harriet Lerner</i><br/>
