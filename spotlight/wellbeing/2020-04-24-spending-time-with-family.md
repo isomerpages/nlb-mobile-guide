@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Package 5 - Spending Time With Family
 date:   2020-04-24
-permalink: /spotlight/wellbeing/2020-04-24-spending-quality-time-with-family
+permalink: /spotlight/wellbeing/2020-04-24-spending-time-with-family
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
 image: /images/PL-5-Intro Image.png
 ---
