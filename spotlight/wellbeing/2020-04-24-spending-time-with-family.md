@@ -8,7 +8,7 @@ image: /images/PL-5-Intro Image.png
 ---
 <img src="/images/PL-5-Intro Image.png">
 <p><q>Sticking with your family is what <i>makes</i> it a family.</q> - Mitch Albom, <i>For One More Day</i>.</p>
-<p>Most of us around the world now find ourselves with our families at home, 24/7. Here are some ideas and tips on how families can spend this time together – whipping up delicious meals, playing word games, creating new family memories (and also knowing when to keep out of each other’s way)!</p>
+<p>Most of us around the world now find ourselves with our families at home, 24/7. Here are some ideas and tips on how families can spend this time together – whipping up delicious meals, playing word games, organising family photos (and also knowing when to keep out of each other’s way)!</p>
 
 <h4>Videos</h4>
 <h5>1. Life is Short, Family is Forever by Jane Carlson</h5>
