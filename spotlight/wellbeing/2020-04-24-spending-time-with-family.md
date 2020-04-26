@@ -100,12 +100,12 @@ Ohio: Family Tree Books, 2015.<br/>
 Family photographs preserve precious memories and they are often stored in smartphones or old boxes and photo albums. Organising them can be a fun activity to do with your family indoors. Learn how to arrange, store and present them for years to come.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FB65F0EE-AC97-4BAD-AB7A-1920317AE539">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539">online</a> &#128187;.<br/>
 
-<h5>Why Won’t You Apologise?: Healing Big Betrayals and Everyday Hurts</h5>
-<i>Harriet Lerner</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c72cfd50-6099-4919-a63d-e03bf5643141"><img src="/images/PL-5-Why-wont-you-apologise.jpg" style="width:300px; text-align:left;"></a><br/>
-New York: Touchstone, 2017.<br/>
-With so much time spent with each other, conflicts are bound to emerge amongst family members in these trying times.  A sincere heartfelt apology can go a long way.  In this “apology education”, renowned psychologist Harriet Lerner provides tips on creating meaningful apologies and offers an interesting take on how to make things right.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=c72cfd50-6099-4919-a63d-e03bf5643141">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2621478">online</a> &#128187;.<br/>
+<h5> Improve Your Word Power</h5>
+<i>Caroline Taggart</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38"><img src="/images/ PL-5-Improve-your-word-power.jpg" style="width:300px; text-align:left;"></a><br/>
+London: Michael O'Mara Books Limited, 2019.<br/>
+Enjoy word games and enrich your vocabulary skills with a collection of multiple-choice questions which can be played with your family. Fun facts and informative chunks of information make this an enjoyable read with unexpected surprises behind the origins of well-known words.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2AA7651D-81FA-415B-B331-068F18AC3A38">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
