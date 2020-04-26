@@ -8,8 +8,7 @@ image: /images/PL-5-Intro Image.png
 ---
 <img src="/images/PL-5-Intro Image.png">
 <p><q>Sticking with your family is what <i>makes</i> it a family.</q> - Mitch Albom, <i>For One More Day</i>.</p>
-<p>Most of us around the world now find ourselves with our families at home, 24/7. 
-We have put together some eResources offering some ideas and tips on how families can spend this time together – whether having heart-to-heart conversations, catching up on each other’s lives, uplifting one another’s spirits, sharing household chores, whipping  up delicious and nutritious meals, playing games, creating new family memories (and also knowing when to keep out of each other’s way)!</p>
+<p>Most of us around the world now find ourselves with our families at home, 24/7. Here are some ideas and tips on how families can spend this time together – whipping up delicious meals, playing word games, creating new family memories (and also knowing when to keep out of each other’s way)!</p>
 
 <h4>Videos</h4>
 <h5>1. Life is Short, Family is Forever by Jane Carlson</h5>
@@ -17,7 +16,7 @@ In this short video, Jane Carlson explores the hidden history of her family and 
 <div class="bp-youtube"><iframe width="640" height="360" src="https://www.youtube.com/embed/TFs8jd01APk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=TFs8jd01APk" target="_blank">Life is Short, Family is Forever</a> (2012, June 23). TEDx Talks. 
 
-<h5>Looking to spend some quality time with family doing something essential? How about cooking? We have gathered two fun and relatively simple recipes that you may want to try with your family members at home.</h5>
+<p>Looking to spend some quality time with family doing something essential? How about cooking? We have gathered two fun and relatively simple recipes that you may want to try with your family members at home.<p>
 
 <h5>2. Comfort Cooking: Covid-19 Stay-Home Recipe: How to Whip Up A Roti John In 3 Minutes by Hedy Khoo</h5>
 A familiar favourite, good for mealtimes. In this video learn how to make Roti John.  
