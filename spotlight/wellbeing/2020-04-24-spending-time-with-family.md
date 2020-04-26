@@ -13,7 +13,7 @@ We have put together some eResources offering some ideas and tips on how familie
 
 <h4>Videos</h4>
 <h5>1. Life is Short, Family is Forever by Jane Carlson</h5>
-In this short video, Jane Carlson explores the hidden history of her family and explains the importance of sharing your knowledge with your family before it’s lost in time.  
+In this short video, Jane Carlson explores the hidden history of her family and explains the importance of sharing the stories of our unique heritage with our families.  
 <div class="bp-youtube"><iframe width="640" height="360" src="https://www.youtube.com/embed/TFs8jd01APk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=TFs8jd01APk" target="_blank">Life is Short, Family is Forever</a> (2012, June 23). TEDx Talks. 
 
