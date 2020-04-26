@@ -51,6 +51,13 @@ Everyone now has the time to aspire to be a home chef and experiment with differ
 
 <h4>eBooks</h4>
 
+<h5>Fried Rice</h5>
+<i>Danielle Centoni</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D"><img src="/images/PL-5-Fried-Rice.jpg" style="width:300px; text-align:left;"></a><br/>
+New York: Crown Archetype, 2012<br/>
+Learn new ways to prepare this popular dish with common items in the home pantry. In these times when regular home-cooking is required, these new recipes may be just what is needed to add variety to your meals.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
+
 <h5>Baking with Kids: Make Breads, Muffins, Cookies, Pies, Pizza Dough, and More!</h5>
 <i>Leah Brooks</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9B3BA233-CEA0-42AC-AEA1-4B4FD8D217D0"><img src="/images/PL-5-Baking-with-kids.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -58,40 +65,12 @@ Beverly: Quarry Books, 2014.<br/>
 Exhausted your list of activities to keep the children occupied? Why not bake and enjoy a delicious treat? With simple step-by-step photos, this book will teach you how to guide your children to be a master baker in no time.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9B3BA233-CEA0-42AC-AEA1-4B4FD8D217D0">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9B3BA233-CEA0-42AC-AEA1-4B4FD8D217D0">online</a>&#128187;.<br/> 
 
-<h5>How to Talk So Kids Will Listen & Listen So Kids Will Talk</h5>
-<i>Adele Faber & Elaine Mazlish</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34"><img src="/images/PL-5-How-to-talk-so-kids-will-listen.jpg" style="width:300px; text-align:left;"></a><br/>
-London: Piccadilly Press, 2013.<br/>
-Are you a parent tearing your hair out due to home-based learning? We feel you! Learn how to set firm limits and engage your child’s cooperation with this timely book to make home-based learning easier for your household.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34">with the app</a>&#128241; or<a href="https://nlb.overdrive.com/media/766047">online</a> &#128187;.<br/>
-
-<h5>Happier at Home</h5>
-<i>Gretchen Rubin</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4"><img src="/images/PL-5-Happier-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
-New York: Crown Archetype, 2012.<br/>
-Home is where we spend all our time these days. Writer Gretchen Rubin suggests some simple steps to make it a happier, safer and more inspiring place.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">online</a> &#128187;.<br/>
-
-<h5>Reclaiming Conversation: The Power of Talk in a Digital Age</h5>
-<i>Sherry Turkle</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C945AA1-310C-4948-92E9-63E578CE859B"><img src="/images/PL-5-Reclaiming-conversation.jpg" style="width:300px; text-align:left;"></a><br/>
-New York: Penguin Books, 2015.<br/>
-We now find ourselves with more opportunities to communicate than ever before. Unfortunately, it’s inevitable that clashes happen when we’re stuck at home with our families 24/7. How then can we minimise these conflicts? The surprising answer is through the power of talk. This book highlights the importance of conversation in our everyday lives and how it can help us regain lost ground.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C945AA1-310C-4948-92E9-63E578CE859B">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6C945AA1-310C-4948-92E9-63E578CE859B">online</a> &#128187;.<br/>
-
-<h5>Conversation Starters: 1,000 Creative Ways to Talk to Anyone about Anything</h5>
-<i>Kim Chamberlain</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613"><img src="/images/PL-5-Conversation-Starters.jpg" style="width:300px; text-align:left;"></a><br/>
-New York : Skyhorse, 2019.<br/>
-Learn ways to start appropriate conversations with anyone of various ages. This includes your spouse, children, siblings and grandparents.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">online</a> &#128187;.<br/>
-
-<h5>Fried Rice</h5>
-<i>Danielle Centoni</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D"><img src="/images/PL-5-Fried-Rice.jpg" style="width:300px; text-align:left;"></a><br/>
-New York: Crown Archetype, 2012<br/>
-Learn new ways to prepare this popular dish with common items in the home pantry. In these times when regular home-cooking is required, these new recipes may be just what is needed to add variety to your meals.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
+<h5> Improve Your Word Power</h5>
+<i>Caroline Taggart</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38"><img src="/images/PL-5-Improve-your-word-power.jpg" style="width:300px; text-align:left;"></a><br/>
+London: Michael O'Mara Books Limited, 2019.<br/>
+Enjoy word games and enrich your vocabulary skills with a collection of multiple-choice questions which can be played with your family. Fun facts and informative chunks of information make this an enjoyable read with unexpected surprises behind the origins of well-known words.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2AA7651D-81FA-415B-B331-068F18AC3A38">online</a> &#128187;.<br/>
 
 <h5> How to Archive Family Photos</h5>
 <i>Denise May Levenick</i><br/>
@@ -100,12 +79,33 @@ Ohio: Family Tree Books, 2015.<br/>
 Family photographs preserve precious memories and they are often stored in smartphones or old boxes and photo albums. Organising them can be a fun activity to do with your family indoors. Learn how to arrange, store and present them for years to come.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FB65F0EE-AC97-4BAD-AB7A-1920317AE539">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/FB65F0EE-AC97-4BAD-AB7A-1920317AE539">online</a> &#128187;.<br/>
 
-<h5> Improve Your Word Power</h5>
-<i>Caroline Taggart</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38"><img src="/images/PL-5-Improve-your-word-power.jpg" style="width:300px; text-align:left;"></a><br/>
-London: Michael O'Mara Books Limited, 2019.<br/>
-Enjoy word games and enrich your vocabulary skills with a collection of multiple-choice questions which can be played with your family. Fun facts and informative chunks of information make this an enjoyable read with unexpected surprises behind the origins of well-known words.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2AA7651D-81FA-415B-B331-068F18AC3A38">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2AA7651D-81FA-415B-B331-068F18AC3A38">online</a> &#128187;.<br/>
+<h5>Happier at Home</h5>
+<i>Gretchen Rubin</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4"><img src="/images/PL-5-Happier-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
+New York: Crown Archetype, 2012.<br/>
+Home is where we spend all our time these days. Writer Gretchen Rubin suggests some simple steps to make it a happier, safer and more inspiring place.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">online</a> &#128187;.<br/>
+
+<h5>Conversation Starters: 1,000 Creative Ways to Talk to Anyone about Anything</h5>
+<i>Kim Chamberlain</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613"><img src="/images/PL-5-Conversation-Starters.jpg" style="width:300px; text-align:left;"></a><br/>
+New York : Skyhorse, 2019.<br/>
+Learn ways to start appropriate conversations with anyone of various ages. This includes your spouse, children, siblings and grandparents.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">online</a> &#128187;.<br/>
+
+<h5>Reclaiming Conversation: The Power of Talk in a Digital Age</h5>
+<i>Sherry Turkle</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C945AA1-310C-4948-92E9-63E578CE859B"><img src="/images/PL-5-Reclaiming-conversation.jpg" style="width:300px; text-align:left;"></a><br/>
+New York: Penguin Books, 2015.<br/>
+We now find ourselves with more opportunities to communicate than ever before. Unfortunately, it’s inevitable that clashes happen when we’re stuck at home with our families 24/7. How then can we minimise these conflicts? The surprising answer is through the power of talk. This book highlights the importance of conversation in our everyday lives and how it can help us regain lost ground.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C945AA1-310C-4948-92E9-63E578CE859B">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6C945AA1-310C-4948-92E9-63E578CE859B">online</a> &#128187;.<br/>
+
+<h5>How to Talk So Kids Will Listen & Listen So Kids Will Talk</h5>
+<i>Adele Faber & Elaine Mazlish</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34"><img src="/images/PL-5-How-to-talk-so-kids-will-listen.jpg" style="width:300px; text-align:left;"></a><br/>
+London: Piccadilly Press, 2013.<br/>
+Are you a parent tearing your hair out due to home-based learning? We feel you! Learn how to set firm limits and engage your child’s cooperation with this timely book to make home-based learning easier for your household.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34">with the app</a>&#128241; or<a href="https://nlb.overdrive.com/media/766047">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
