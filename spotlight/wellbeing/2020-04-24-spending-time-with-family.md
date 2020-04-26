@@ -42,11 +42,11 @@ Financial literacy is an important life-skill that should be cultivated from a y
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://bbc.com/news/uk-51936286">Coronavirus: How Families Can Cope with Self-Isolating Together</a><br/>
-<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020</h5>
+<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020.</h5>
 How do you cope with your children or other members of your family as you spend more and more time cooped up together at home? Learn how experts and different families are spending their time together in this article.  
 
 <h5>2. <a href="https://www.nylon.com.sg/2020/04/trendy-easy-to-make-recipes-to-try-at-home-including-d-i-y-bubble-tea">Trendy & Easy-To-Make Recipes to Try At Home, Including D-I-Y Bubble Tea</a><br/>
-<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020</h5>
+<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020.</h5>
 Everyone now has the time to aspire to be a home chef and experiment with different recipes. Here are 6 that may just suit your tastebuds’ fancy should you have the ingredients at home already.
 
 <h4>eBooks</h4>
