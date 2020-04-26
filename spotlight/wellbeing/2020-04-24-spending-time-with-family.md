@@ -86,14 +86,14 @@ New York: Crown Archetype, 2012.<br/>
 Home is where we spend all our time these days. Writer Gretchen Rubin suggests some simple steps to make it a happier, safer and more inspiring place.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">online</a> &#128187;.<br/>
 
-<h5>Conversation Starters: 1,000 Creative Ways to Talk to Anyone about Anything</h5>
+<h5>Conversation Starters</h5>
 <i>Kim Chamberlain</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613"><img src="/images/PL-5-Conversation-Starters.jpg" style="width:300px; text-align:left;"></a><br/>
 New York : Skyhorse, 2019.<br/>
 Learn ways to start appropriate conversations with anyone of various ages. This includes your spouse, children, siblings and grandparents.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">online</a> &#128187;.<br/>
 
-<h5>Reclaiming Conversation: The Power of Talk in a Digital Age</h5>
+<h5>Reclaiming Conversation</h5>
 <i>Sherry Turkle</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C945AA1-310C-4948-92E9-63E578CE859B"><img src="/images/PL-5-Reclaiming-conversation.jpg" style="width:300px; text-align:left;"></a><br/>
 New York: Penguin Books, 2015.<br/>
