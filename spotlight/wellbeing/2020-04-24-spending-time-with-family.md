@@ -65,12 +65,12 @@ London: Piccadilly Press, 2013.<br/>
 Are you a parent tearing your hair out due to home-based learning? We feel you! Learn how to set firm limits and engage your child’s cooperation with this timely book to make home-based learning easier for your household.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ad4690fa-caaa-44bb-b39d-a2ebbb2f7c34">with the app</a>&#128241; or<a href="https://nlb.overdrive.com/media/766047">online</a> &#128187;.<br/>
 
-<h5>The Book of New Family Traditions</h5>
-<i>Meg Cox</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=56777D9B-6406-4737-8B77-B23189328EBC"><img src="/images/PL-5-The-book-of-new-family-traditions.jpg" style="width:300px; text-align:left;"></a><br/>
-New York: Running Press, 2012.<br/>
-With more spare time than ever, this may be the perfect opportunity to trial new family traditions. Let this book guide you in creating new rituals with your loved ones which may help to ease stress and increase family bonding in these difficult times. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=56777D9B-6406-4737-8B77-B23189328EBC">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/56777D9B-6406-4737-8B77-B23189328EBC">online</a> &#128187;.<br/>
+<h5>Happier at Home</h5>
+<i>Gretchen Rubin</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4"><img src="/images/PL-5-Happier-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
+New York: Crown Archetype, 2012.<br/>
+Home is where we spend all our time these days. Writer Gretchen Rubin suggests some simple steps to make it a happier, safer and more inspiring place.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">online</a> &#128187;.<br/>
 
 <h5>Reclaiming Conversation: The Power of Talk in a Digital Age</h5>
 <i>Sherry Turkle</i><br/>
