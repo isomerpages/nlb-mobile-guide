@@ -37,7 +37,7 @@ Family photos are a great treasure trove of memories. Learn how to take excellen
 <a href="https://www.lynda.com/Portraits-tutorials/First-shots-preschool-age-child-indoors/461844/495287-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Raising-financially-fit-kids/5038201/2243008-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3ateaching+your+kid+about+finance%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg" target="_blank">Teaching Your Kids About Finance</a></strong><br/>
-As the world’s economy changes, financial literacy is more important than ever. How do you ensure this important life-skill can be cultivated from a young age? This course will provide you with the information and resources needed to kick-start your child’s financial education, as well as allowing you to spend quality time with your child while also imparting financial wisdom.</p>
+Financial literacy is an important life-skill that should be cultivated from a young age. This course provides information and resources to kick-start your child’s financial education. This is as good a time as any to nurture your children’s financial smarts.</p>
 <a href="https://www.lynda.com/Business-tutorials/Raising-financially-fit-kids/5038201/2243008-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3ateaching+your+kid+about+finance%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
