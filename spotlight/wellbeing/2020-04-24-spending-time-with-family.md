@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Package 5 - Spending Quality Time With Family
+title:  Learning Package 5 - Spending Time With Family
 date:   2020-04-24
 permalink: /spotlight/wellbeing/2020-04-24-spending-quality-time-with-family
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
@@ -8,7 +8,8 @@ image: /images/PL-5-Intro Image.png
 ---
 <img src="/images/PL-5-Intro Image.png">
 <p><q>Sticking with your family is what <i>makes</i> it a family.</q> - Mitch Albom, <i>For One More Day</i>.</p>
-<p>Many of us are now lucky enough to spend large amounts of time with our families at home. While it may feel overwhelming to be with your family 24/7, this period presents a rare opportunity for us to slow down and re-evaluate our family relationships. How about working together to create your very own bubble tea? Or trying out other trendy recipes. Here’s a list of e-resources, articles and videos to keep you and your loved ones productively engaged.</p>
+<p>Most of us around the world now find ourselves with our families at home, 24/7. 
+We have put together some eResources offering some ideas and tips on how families can spend this time together – whether having heart-to-heart conversations, catching up on each other’s lives, uplifting one another’s spirits, sharing household chores, whipping  up delicious and nutritious meals, playing games, creating new family memories (and also knowing when to keep out of each other’s way)!</p>
 
 <h4>Videos</h4>
 <h5>1. Life is Short, Family is Forever by Jane Carlson</h5>
