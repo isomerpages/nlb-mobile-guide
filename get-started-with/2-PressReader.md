@@ -210,7 +210,9 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
         <label for="sph6">When I return to the SPH ePaper, I see a SPH login screen. What should I do? </label>
 
  <div class="acc-body">
-  <p>This may happen when your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
+	<p>This may happen for a few reasons.</p>
+<p>First, you may be using a tablet or smartphone with an older operating system. Please update your operating system, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above.</p>
+<p>Second, this may happen when your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
