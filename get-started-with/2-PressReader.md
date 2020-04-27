@@ -276,7 +276,7 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 
 <p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">
-<h2>Troubleshooting</h2>
+<h2>Troubleshooting PressReader</h2>
   <div><!--div for each button-->
 <input type="radio" name="acc" id="acc8">
         <label for="acc8">I’m already at the library and connected to Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
