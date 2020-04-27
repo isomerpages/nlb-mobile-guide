@@ -18,10 +18,10 @@ Source: <a href="https://www.youtube.com/watch?v=TFs8jd01APk" target="_blank">Li
 
 <p>Looking to spend some quality time with family doing something essential? How about cooking? We have gathered two fun and relatively simple recipes that you may want to try with your family members at home.<p>
 
-<h5>2. Comfort Cooking: Covid-19 Stay-Home Recipe: How to Whip Up A Roti John In 3 Minutes by Hedy Khoo</h5>
-A familiar favourite, good for mealtimes. In this video learn how to make Roti John.  
+<h5>2. 8 Simple Ways To Make Fried Rice by Tasty</h5>
+A familiar favourite for mealtimes. In this video learn how to cook 8 different styles of fried rice.  
 <div class="bp-youtube"><iframe width="875" height="492" src="https://www.youtube.com/embed/OM1ZfRKdoFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://youtu.be/AKQv629TWLE" target="_blank">Comfort Cooking: Covid-19 Stay-Home Recipe: How to Whip Up A Roti John In 3 Minutes</a> (2020, April 11). The Straits Times. 
+Source: <a href="https://www.youtube.com/watch?v=OM1ZfRKdoFs" target="_blank">8 Simple Ways To Make Fried Rice</a> (2019, August 21). Tasty.Co. 
 
 <h5>3. How to Make Dalgona Coffee / Frothy Coffee by The Happy Noona</h5>
 You probably have seen a version of this recipe on the internet by now. If you have not tried it yet, how about sampling this video demonstration?   
