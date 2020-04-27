@@ -10,7 +10,7 @@ title: eReads
 
 <p>Discover digital books, eBooks and Audiobooks, selected by NLB librarians on eReads screens.</p>  
 
-<p>Sign in with myLibraryID on NLB Mobile App to scan and borrow digital books conveniently using QR codes from the eReads screens.  <br/></br/>Overdue fines is a thing of the past since eBooks and Audiobooks will be automatically returned on due date.
+<p>Sign in with myLibraryID on NLB Mobile App to scan and borrow digital books conveniently using QR codes from the eReads screens.<br/><br/>Overdue fines is a thing of the past since eBooks and Audiobooks will be automatically returned on due date.
 <br/><br/>Not a Member yet? Do refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID</a> guide.</p>
 
 
