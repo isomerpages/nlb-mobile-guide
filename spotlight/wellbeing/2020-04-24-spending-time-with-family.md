@@ -8,7 +8,7 @@ image: /images/PL-5-Intro Image.png
 ---
 <img src="/images/PL-5-Intro Image.png">
 <p><q>Sticking with your family is what <i>makes</i> it a family.</q> - Mitch Albom, <i>For One More Day</i>.</p>
-<p>Most of us around the world now find ourselves with our families at home, 24/7. Here are some ideas and tips on how families can spend this time together – whipping up delicious meals, playing word games, creating new family memories (and also knowing when to keep out of each other’s way)!</p>
+<p>Most of us around the world now find ourselves with our families at home, 24/7. Here are some ideas and tips on how families can spend this time together – whipping up delicious meals, playing word games, organising family photos (and also knowing when to keep out of each other’s way)!</p>
 
 <h4>Videos</h4>
 <h5>1. Life is Short, Family is Forever by Jane Carlson</h5>
@@ -42,11 +42,11 @@ Financial literacy is an important life-skill that should be cultivated from a y
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://bbc.com/news/uk-51936286">Coronavirus: How Families Can Cope with Self-Isolating Together</a><br/>
-<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020</h5>
+<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020.</h5>
 How do you cope with your children or other members of your family as you spend more and more time cooped up together at home? Learn how experts and different families are spending their time together in this article.  
 
 <h5>2. <a href="https://www.nylon.com.sg/2020/04/trendy-easy-to-make-recipes-to-try-at-home-including-d-i-y-bubble-tea">Trendy & Easy-To-Make Recipes to Try At Home, Including D-I-Y Bubble Tea</a><br/>
-<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020</h5>
+<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020.</h5>
 Everyone now has the time to aspire to be a home chef and experiment with different recipes. Here are 6 that may just suit your tastebuds’ fancy should you have the ingredients at home already.
 
 <h4>eBooks</h4>
@@ -54,7 +54,7 @@ Everyone now has the time to aspire to be a home chef and experiment with differ
 <h5>Fried Rice</h5>
 <i>Danielle Centoni</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F94F73CF-0DF4-4786-B932-1F8023D1632D"><img src="/images/PL-5-Fried-Rice.jpg" style="width:300px; text-align:left;"></a><br/>
-New York: Crown Archetype, 2012<br/>
+New York: Crown Archetype, 2012.<br/>
 Learn new ways to prepare this popular dish with common items in the home pantry. In these times when regular home-cooking is required, these new recipes may be just what is needed to add variety to your meals.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F94F73CF-0DF4-4786-B932-1F8023D1632D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F94F73CF-0DF4-4786-B932-1F8023D1632D">online</a> &#128187;.<br/>
 
@@ -86,14 +86,14 @@ New York: Crown Archetype, 2012.<br/>
 Home is where we spend all our time these days. Writer Gretchen Rubin suggests some simple steps to make it a happier, safer and more inspiring place.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E41C7C6D-0F72-41F8-AE93-EF20E9C112E4">online</a> &#128187;.<br/>
 
-<h5>Conversation Starters: 1,000 Creative Ways to Talk to Anyone about Anything</h5>
+<h5>Conversation Starters</h5>
 <i>Kim Chamberlain</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613"><img src="/images/PL-5-Conversation-Starters.jpg" style="width:300px; text-align:left;"></a><br/>
 New York : Skyhorse, 2019.<br/>
 Learn ways to start appropriate conversations with anyone of various ages. This includes your spouse, children, siblings and grandparents.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/6B4C80A2-F2F2-4A42-BC0D-EC80E5639613">online</a> &#128187;.<br/>
 
-<h5>Reclaiming Conversation: The Power of Talk in a Digital Age</h5>
+<h5>Reclaiming Conversation</h5>
 <i>Sherry Turkle</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C945AA1-310C-4948-92E9-63E578CE859B"><img src="/images/PL-5-Reclaiming-conversation.jpg" style="width:300px; text-align:left;"></a><br/>
 New York: Penguin Books, 2015.<br/>

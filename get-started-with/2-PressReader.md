@@ -89,7 +89,7 @@ An **international** digital newsstand on the go:
 </li>
 	<li><strong>Internet browser</strong>
 <ol style="list-style-type: lower-alpha;">
-<li>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications.</li>
+<li>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications.</li>
 </ol>
 </li>
 	<li><strong>NLB libraries</strong>
@@ -100,6 +100,15 @@ An **international** digital newsstand on the go:
 </li>
 </ol>
   </div>
+</div>
+
+<div>
+		<input type="radio" name="acc" id="acc3a">
+        <label for="acc3a">I prefer to access PressReader from my desktop/laptop computer. How can I do this?</label>
+	<div class="acc-body">
+  <p>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications. You can share this shortcut - <a href="https://go.gov.sg/nlb-pressreader" target="_blank">go.gov.sg/nlb-pressreader</a> with your friends.</p>
+		<img src="/images/How-to-use-PressReader.gif">
+	</div>
 </div>
 
 <div>
