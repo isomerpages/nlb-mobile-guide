@@ -46,7 +46,7 @@ An **international** digital newsstand on the go:
 -->
 
 <div class="FAQ-section" id="PressReaderStart"> 
-  <h2>Getting Started</h2> 
+  <p><h2>Getting Started</h2></p> 
   <div class="acc-kontainer"><!--div for each button-->
 <div>
 		<input type="radio" name="acc" id="acc1">
@@ -162,7 +162,7 @@ An **international** digital newsstand on the go:
         <label for="sph1a">Can I read the newspapers on tablets and smartphones? </label>
 
  <div class="acc-body">
-  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above.  
+  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above. However, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers.   
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -184,6 +184,15 @@ An **international** digital newsstand on the go:
 		  <li>Tamil Murasu</li> 
 	</ol>
 When you are brought to the SPH ePaper site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph2a">
+        <label for="sph2a">How do I zoom in to the newspaper on my computer?</label>
+
+ <div class="acc-body">
+  <p>If you are using a desktop / laptop computer, double-click on the area you wish to read to enlarge that part of the page. Double-click again to see the full page. 
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -267,7 +276,7 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 
 <p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">
-<h2>Troubleshooting</h2>
+<h2>Troubleshooting PressReader</h2>
   <div><!--div for each button-->
 <input type="radio" name="acc" id="acc8">
         <label for="acc8">I’m already at the library and connected to Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</label>

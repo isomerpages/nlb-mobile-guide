@@ -8,60 +8,62 @@ title: eReads
 ---
 <h2>About eReads</h2>
 
-<p>Discover digital books curated by librarians or your organizations on the eReads screens.</p>    
+<p>Discover digital books, eBooks and Audiobooks, selected by NLB librarians on eReads screens.</p>  
 
-<p>All you need is the NLB Mobile App. With this app, you can conveniently scan and borrow eBook and Audiobooks featured via your personal digital devices.</p>
+<p>Sign in with myLibraryID on NLB Mobile App to scan and borrow digital books conveniently using QR codes from the eReads screens.<br/><br/>Overdue fines is a thing of the past since eBooks and Audiobooks will be automatically returned on due date.
+<br/><br/>Not a Member yet? Do refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID</a> guide.</p>
 
-<p>Enjoy the digital books for your duration of loan and don’t worry about overdue fines as the digital books will be automatically returned at the end of the loan period.</p>
+
+
 
 <div class="acc-kontainer" id="eReads-get-started">          
 	<div>
 <div>
 		<input type="radio" name="acc" id="acc1">
-        <label for="acc1">How to borrow eBooks/Audiobooks via the eReads screens?</label>
+        <label for="acc1">How do I borrow eBooks/Audiobooks on the eReads screen?</label>
 <div class="acc-body">
-        <p>Follow these steps:</p>
-<ul>   
-	<li> Select a digital book title on the eReads screen.</li>
-	<li> Launch the NLB Mobile app on your personal device. Do ensure that you
-        are logged into your MyLibrary account. <br/> Not a Member? Please refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID</a> guide.</li>
-<li> Tap the camera icon at the top-left corner of the app. Scan the QR code
-and borrow the eBook.</li>
-<li> If you would like to read or listen offline, please refer to our Libby guide.</li>
-    </ul> </div></div>
+        <p>Here are the steps:</p>
+<ol>   
+	<li> Select book title</li>
+	<li> Launch your NLB Mobile App and tap the camera icon at the top-left corner</li>
+<li>Scan the QR code displayed and borrow the eBook/Audiobook title</li>
+    </ol> <p>
+    If you would like to read or listen offline, please refer to our  <a href="/get-started-with/libby/">Libby</a> guide.
+    </p></div></div>
 
 
 
 <div>
 		<input type="radio" name="acc" id="acc3">
-        <label for="acc3">How to preview eBooks via the eReads screens?</label>
+        <label for="acc3">How do I preview eBooks on the eReads screen?</label>
 <div class="acc-body">
-	<p>Follow these steps:</p>
-<ul>   
-	<li> Select a digital book title on the eReads screen.</li>
-	<li> Click on the preview button located beside the close button.
-        <br/> <span style="font-size:13px"> Note: The preview
-button may load few seconds after.</span></li>
-	<li> Swipe right to enjoy reading the sample of the book.</li>
-    </ul>
+	<p>Here are the steps:</p>
+<ol>   
+	<li> Select book title</li>
+    <li> Click <b>Preview</b>
+        <br/> <span style="font-size:14px"> Note: The preview
+button may load few seconds after and can be found beside the close button</span></li>
+	<li> Swipe right to enjoy reading the sample of the book</li>
+    </ol>
         </div> </div>
 
 
 
 <div>
 		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">How to preview Audiobooks via the eReads screens?</label>
+        <label for="acc5">How do I preview Audiobooks on the eReads screen?</label>
 <div class="acc-body">
-      	<p>Follow these steps:</p>
-<ul>   
-	<li> Select a digital book title on the eReads screen.</li>
-	<li> Click on the preview button located beside the close button.
-    <br/> <span style="font-size:13px"> Note: The preview
-button may load few seconds after.</span></li>
-	<li> Click on the play button on the screen to enjoy listening to the sample of
+      	<p>Here are the steps:</p>
+<ol>   
+	<li> Select book title</li>
+	<li>  Click <b>Preview</b>
+    <br/> <span style="font-size:14px"> Note: The preview
+button may load few seconds after and can be found beside the close button</span></li>
+    <li> Click <b>Play</b> to enjoy listening to the sample of
 the book.</li>
-    </ul>  
+    </ol>  
         </div> </div> 
+
 
 
 </div> </div><!--close FAQ-section-->

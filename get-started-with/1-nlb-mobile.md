@@ -180,7 +180,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 </div></div>
 
 
-<div id="qr"><h2>Using the QR Login Feature on NLB Websites</h2>
+<div id="qr"><p><h2>Using the QR Login Feature on NLB Websites</h2></p>
     <div>
         <input type="radio" name="acc" id="acc99">
         <label for="acc99">What’s NLB QR Login?</label>
@@ -212,7 +212,6 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 			<li>NLB Mobile will show you a confirmation screen that mentions the website you are trying to log into. Tap "Yes" to confirm.</li>
 			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
 		</ol>
-		</p>
 	<img src="/images/QRLogin.png">
     </div>
     </div>
