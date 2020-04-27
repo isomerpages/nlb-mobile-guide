@@ -21,7 +21,7 @@ Source: <a href="https://www.youtube.com/watch?v=TFs8jd01APk" target="_blank">Li
 <h5>2. 8 Simple Ways To Make Fried Rice by Tasty</h5>
 A familiar favourite for mealtimes. In this video learn how to cook 8 different styles of fried rice.  
 <div class="bp-youtube"><iframe width="875" height="492" src="https://www.youtube.com/embed/OM1ZfRKdoFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=OM1ZfRKdoFs" target="_blank">8 Simple Ways To Make Fried Rice</a> (2019, August 21). Tasty.Co. 
+Source: <a href="https://www.youtube.com/watch?v=OM1ZfRKdoFs" target="_blank">8 Simple Ways To Make Fried Rice</a> (2019, August 21). Tasty.co. 
 
 <h5>3. How to Make Dalgona Coffee / Frothy Coffee by The Happy Noona</h5>
 You probably have seen a version of this recipe on the internet by now. If you have not tried it yet, how about sampling this video demonstration?   
