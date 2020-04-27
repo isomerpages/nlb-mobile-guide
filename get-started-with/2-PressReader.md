@@ -162,7 +162,7 @@ An **international** digital newsstand on the go:
         <label for="sph1a">Can I read the newspapers on tablets and smartphones? </label>
 
  <div class="acc-body">
-  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above.  
+  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above. However, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers.   
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
