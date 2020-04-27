@@ -31,7 +31,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <li> Take online courses</li>
 	<li> Borrow physical items using your mobile device</li>
 	<li> Check the accounts of you and your family</li>
-	<!--<li><b>*New* Log in to NLB websites quickly by scanning a QR code</b></li>-->
+	<li><b>*New - April 2020* Log in to NLB websites quickly by scanning a QR code</b></li>
 </ul>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
@@ -77,7 +77,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 		<li>View the titles you borrowed from the libraries for the last three years</li>
 		<li>Update your particulars such as email address and mobile number</li>
 		<li>Switch between family members&rsquo; accounts for quick access to library transactions</li>
-		<li><b> *New* Log in to NLB websites quickly by scanning a QR code</b></li>
+		<li><b> *New - April 2020* Log in to NLB websites quickly by scanning a QR code</b></li>
 		</ul>
 		<p><strong>eCard</strong></p>
 		<ul>
@@ -179,7 +179,6 @@ The NLB Mobile app is your personal library, anywhere, anytime:
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div></div>
 
-<!--
 
 <p><a name="qr"><h2>Using the QR Login Feature on NLB Websites</h2></a></p>
     <div>
@@ -231,9 +230,6 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <p>Currently, NLB QR Login is available only for NLB’s websites. We will be rolling out this feature to the computers in our libraries soon.</p>
     </div>
     </div>
-
-
--->
 
 
 <p><h2>Borrowing physical items, eBooks and Audiobooks</h2></p>
