@@ -188,6 +188,15 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 </div><!--close div for qn -->
 
 <div>
+        <input type="radio" name="acc" id="sph2a">
+        <label for="sph2a">How do I zoom in to the newspaper on my computer?</label>
+
+ <div class="acc-body">
+  <p>If you are using a desktop / laptop computer, double-click on the area you wish to read to enlarge that part of the page. Double-click again to see the full page. 
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
         <input type="radio" name="acc" id="sph3">
         <label for="sph3">What time will the newspapers be published?</label>
 
@@ -202,15 +211,6 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 
  <div class="acc-body">
   <p>We will enable access to SPH newspapers through the NLB Mobile app from the last week of April / first week of May.  
-</p></div><!--close acc-body-->
-</div><!--close div for qn -->
-
-<div>
-        <input type="radio" name="acc" id="sph4a">
-        <label for="sph4a">How do I zoom in to the ePaper on my computer?</label>
-
- <div class="acc-body">
-  <p>If you are using a desktop / laptop computer, double-click on the area you wish to read to enlarge that part of the page. Double-click again to see the full page. 
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
