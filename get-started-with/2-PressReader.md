@@ -206,6 +206,15 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 </div><!--close div for qn -->
 
 <div>
+        <input type="radio" name="acc" id="sph4a">
+        <label for="sph4a">How do I zoom in to the ePaper on my computer?</label>
+
+ <div class="acc-body">
+  <p>If you are using a desktop / laptop computer, double-click on the area you wish to read to enlarge that part of the page. Double-click again to see the full page. 
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
         <input type="radio" name="acc" id="sph5">
         <label for="sph5">Why can’t I download the newspapers?  </label>
 
