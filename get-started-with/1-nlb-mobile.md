@@ -180,7 +180,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 </div></div>
 
 
-<div id="qr"><h2>Using the QR Login Feature on NLB Websites</h2>
+<div id="qr"><p><h2>Using the QR Login Feature on NLB Websites</h2></p>
     <div>
         <input type="radio" name="acc" id="acc99">
         <label for="acc99">What’s NLB QR Login?</label>
