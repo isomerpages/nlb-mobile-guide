@@ -33,11 +33,11 @@ Source: <a href="https://youtu.be/bqqANy2EoKI" target="_blank">How to Make Dalgo
 
 <p><strong>1. <a href="https://www.lynda.com/Portraits-tutorials/First-shots-preschool-age-child-indoors/461844/495287-4.html?org=nlb.gov.sg" target="_blank">Become a Family Photographer</a></strong><br/>
 Family photos are a great treasure trove of memories. Learn how to take excellent photos of your loved ones, and understand the unique opportunities and challenges involved with family photography in this expert-led video.</p>
-<a href="https://www.lynda.com/Portraits-tutorials/First-shots-preschool-age-child-indoors/461844/495287-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Portraits-tutorials/First-shots-preschool-age-child-indoors/461844/495287-4.html?org=nlb.gov.sg"><img src="/images/PL-5-lynda-photo.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Raising-financially-fit-kids/5038201/2243008-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3ateaching+your+kid+about+finance%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg" target="_blank">Teaching Your Kids About Finance</a></strong><br/>
 Financial literacy is an important life-skill that should be cultivated from a young age. This course provides information and resources to kick-start your child’s financial education. This is as good a time as any to nurture your children’s financial smarts.</p>
-<a href="https://www.lynda.com/Business-tutorials/Raising-financially-fit-kids/5038201/2243008-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3ateaching+your+kid+about+finance%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Raising-financially-fit-kids/5038201/2243008-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3ateaching+your+kid+about+finance%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg"><img src="/images/PL-5-lynda-finance.png" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
