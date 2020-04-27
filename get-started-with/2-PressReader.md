@@ -46,7 +46,7 @@ An **international** digital newsstand on the go:
 -->
 
 <div class="FAQ-section" id="PressReaderStart"> 
-  <h2>Getting Started</h2> 
+  <p><h2>Getting Started</h2></p> 
   <div class="acc-kontainer"><!--div for each button-->
 <div>
 		<input type="radio" name="acc" id="acc1">
