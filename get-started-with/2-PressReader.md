@@ -14,7 +14,7 @@ title: eMagazines and eNewspapers
 <td>
 	<h2 style="text-align: center;">*New!* Read local newspapers from home during the circuit breaker period</h2>
 	<p>
-		Although our libraries are temporarily closed, you can now read newspapers published by Singapore Press Holdings (SPH) <b>from home</b>, as part of our arrangement with SPH for the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. Read up on the news while staying safe at home.
+		You can now use the ePaper service by Singapore Press Holdings (SPH) to read up on the news during the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. Read up on the news while staying safe at home.
 	</p>
 	<p><a href="/get-started-with/pressreader/#sph">Learn more</a></p>
 </td>
