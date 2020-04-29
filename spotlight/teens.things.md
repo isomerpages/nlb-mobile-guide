@@ -3,7 +3,7 @@ title:  For the ‘Gram  
 date:   2020-05-6
 permalink: /spotlight/teensthingsl/for-the-gram
 description: 6 Golden Steps to make your images look amazing on Instagram using Photoshop. 
-image: /images/
+
 
 <!—TITLE-->
 <h5><a style="text-decoration:none;">For the ‘Gram  </a></h5>
