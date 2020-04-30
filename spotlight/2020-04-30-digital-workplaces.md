@@ -65,11 +65,11 @@ Source: <a href="https://www.youtube.com/embed/iX5buvMPzGE" target="_blank">How 
 Smith, K. (2020). Remote Work Tools, The Essentials you Need (And We Love). <i>Skillcrush</i>. 
 Retrieved 2020, April 22.
 
-<h5>2. <a href="https://www.techradar.com/sg/news/remote-working-could-put-an-end-to-the-office-as-we-know-it" target="_blank">A guide to managing your (newly) remote workers</a></h5>
+<h5>2. <a href="https://www.techradar.com/sg/news/remote-working-could-put-an-end-to-the-office-as-we-know-it" target="_blank">Remote working could put an end to the office as we know it</a></h5>
 Khalili, J. (2020, April 4). Remote working could put an end to the office as we know it. <i>TechRadar</i>. 
 Retrieved 2020, April 22.
 
-<h5>3. <a href="https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers" target="_blank">Remote working could put an end to the office as we know it</a></h5>
+<h5>3. <a href="https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers" target="_blank">A guide to managing your (newly) remote workers</a></h5>
 Larson, B.Z., Vroman, S.R., & Makarius, E.E. (2020, March 18). A guide to managing your (newly) remote workers. <i>Harvard Business Review</i>. 
 Retrieved 2020, April 22.
 
@@ -101,7 +101,7 @@ Attaran, M. (2019, January). <a href="http://eresources.nlb.gov.sg/main/browse/r
 Loten, A. (2020, March 6). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Workplace Technology – What office life might look like in the year 2030: Glimpses of the future include working commutes, smarter elevators, robot assistants, flexible floor plans and maybe even productive meetings</a>. <i>Wall Street Journal</i>. Retrieved 2020, April 22 from ProQuest via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h5>4. A guide for working (from home) parents</h5>
-Thompson, A.P. (2020, March 19). <a href="https://search.nlb.gov.sg/Search?query=a+guide+for+working+from+home+parents+thompson+avni+patel&cont=ejournal" target="_blank">A guide for working (from home) parents</a>. <i>Harvard Business Review</i>. Retrieved 2020, April 22 from ProQuest via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+Thompson, A.P. (2020, March 19). <a href="https://search.nlb.gov.sg/Search?query=a+guide+for+working+from+home+parents+thompson+avni+patel&cont=ejournal" target="_blank">A guide for working (from home) parents</a>. <i>Harvard Business Review</i>. Retrieved 2020, April 22 from EBSCOhost via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h4>Chinese and Malay resources</h4>
 <h5>1. <a href="http://www.xfrb.com.cn/html/zixun/jinrongkeji/jinrongkeji/552692.html" target="_blank">Digital Workplace 企业未来的数字化工作方式</a></h5>
