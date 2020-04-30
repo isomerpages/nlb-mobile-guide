@@ -36,12 +36,16 @@
   sub-links:
   - title: All
     url: /spotlight/
+# - title: A New Normal
+#    url: /spotlight/newnormal/
   - title: Pandemics
     url: /spotlight/pandemics/
   - title: Upskill
     url: /spotlight/upskill/
   - title: Wellbeing
     url: /spotlight/wellbeing/
+# - title: Teens.Things
+#   url: /spotlight/teensthings/
 
 - title: Contact Us
   url: /contact-us/
