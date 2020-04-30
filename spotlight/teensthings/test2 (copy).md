@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Package 4 - The happiness of your life depends upon the quality of your thoughts
 date:   2020-04-03
-permalink: /spotlight/wellbeing/your-new-filename-here
+permalink: /spotlight/teensthings/your-new-filename-here
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
 image: /images/PL-2-intro.jpg
 ---
