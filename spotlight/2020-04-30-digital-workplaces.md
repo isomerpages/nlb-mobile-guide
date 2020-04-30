@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Package 9 - Digital Workplaces
+title:  Learning Package 1 - Digital Workplaces
 date:   2020-04-30
 permalink: /spotlight/newnormal/digital-workplaces
 description: A 2019 report found that 48 percent of staff in the United States already worked from home at least once a week. In Singapore, employers have been gradually adopting telecommuting.
@@ -61,71 +61,72 @@ Source: <a href="https://www.youtube.com/embed/iX5buvMPzGE" target="_blank">How 
 
 
 <h4>Websites</h4>
-<h5>1. <a href="https://www.cdc.gov/parainfluenza/about/index.html" target="_blank">Human Parainfluenza Viruses (HPIVs)</a></h5>
-Human Parainfluenza Viruses (HPIVs). (2019). <i>Centers for Disease Control and Prevention</i>. 
-Retrieved March 25, 2020.
+<h5>1. <a href="https://skillcrush.com/blog/remote-work-tools" target="_blank">The essential remote work tools you need to get things done</a></h5>
+Smith, K. (2020). Remote Work Tools, The Essentials you Need (And We Love). <i>Skillcrush</i>. 
+Retrieved 2020, April 22.
 
+<h5>2. <a href="https://www.techradar.com/sg/news/remote-working-could-put-an-end-to-the-office-as-we-know-it" target="_blank">A guide to managing your (newly) remote workers</a></h5>
+Khalili, J. (2020, April 4). Remote working could put an end to the office as we know it. <i>TechRadar</i>. 
+Retrieved 2020, April 22.
 
+<h5>3. <a href="https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers" target="_blank">Remote working could put an end to the office as we know it</a></h5>
+Larson, B.Z., Vroman, S.R., & Makarius, E.E. (2020, March 18). A guide to managing your (newly) remote workers. <i>Harvard Business Review</i>. 
+Retrieved 2020, April 22.
 
+<h5>4. <a href="https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote" target="_blank">How to collaborate effectively if your team is remote</a></h5>
+Dhawan, E., & Chamorro-Premuzic, T. (2018, February 27). How to collaborate effectively if your team is remote. <i>Harvard Business Review</i>. 
+Retrieved 2020, April 22.
 
-<h5>1. <a href="https://www.cdc.gov/parainfluenza/about/index.html" target="_blank">Human Parainfluenza Viruses (HPIVs)</a></h5>
-Human Parainfluenza Viruses (HPIVs). (2019). <i>Centers for Disease Control and Prevention</i>. 
-Retrieved March 25, 2020.
+<h5>5. <a href="https://www.forbes.com/sites/forbestechcouncil/2020/01/15/digital-workplaces-mean-more-than-instant-messaging" target="_blank">Digital workplaces mean more than instant messaging</a></h5>
+Lamneck, K. (2020, January 15). Digital workplaces mean more than instant messaging. <i>Forbes</i>. 
+Retrieved 2020, April 22.
 
-<h5>2. <a href="https://www.discovermagazine.com/health/what-defines-a-pandemic-and-how-are-they-stopped" target="_blank">What defines a ‘Pandemic,’ and how are they stopped?</a></h5>
-What defines a ‘Pandemic,’ and how are they stopped? (2020). <i>Discover</i>. Retrieved March 26, 2020. 
+<h5>6. <a href="https://www.mom.gov.sg/~/media/mom/documents/employment-practices/employers-guide-on-implementing-homebased-work.pdf" target="_blank">An employer’s guide to implementing ICT-enabled home-based work</a></h5>
+Tripartite Committee on Work-Life Strategy (2011). An employer’s guide to implementing ICT-enabled home-based work. <i>Ministry of Manpower</i>. 
+Retrieved 2020, April 28.
 
-<h5>3. <a href="http://theconversation.com/pandemics-from-homer-to-stephen-king-what-we-can-learn-from-literary-history-133572" target="_blank">Pandemics from Homer to Stephen King: What we can learn from literary history</a></h5>
-Pandemics from Homer to Stephen King: what we can learn from literary history. (2020). <i>The Conversation</i>. Retrieved March 26, 2020. 
+<h5>7. <a href="https://www.skillsfuture.sg/digitalworkplace" target="_blank">SkillsFuture for digital workplace</a></h5>
+SkillsFuture Singapore. (2020). SkillsFuture for Digital Workplace. <i>SkillsFuture</i>. 
+Retrieved 2020, April 22.
 
-<h5>4. <a href="https://www.medicalnewstoday.com/categories/infectious_diseases" target="_blank">Infectious diseases / bacteria / viruses</a></h5>
-Infectious Diseases / Bacteria / Viruses. (2020). <i>Medical News Today</i>. Retrieved March 25, 2020.
-
-<h5>5. <a href="https://www.sciencedaily.com/news/health_medicine/viruses/" target="_blank">Viruses news</a></h5>
-Viruses News. (2020). <i>Science Daily</i>. Retrieved March 25, 2020.<br/>
-
-<img src="/images/NL-1-hygiene.png" style="width:500px;">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/" target="_blank">pixabay.com/illustrations/covid-covid-2019-covid-19-4941846/</a></p>
-<p><strong>If you are interested to read more about viruses, check out the following books and journal articles:</strong></p>
-<h4>Books</h4>
-<h5>1. The Germ Files: Health-conscious, Nutritious, Life-changing Facts about the Microbes that Share Our Bodies and Our World (eBook)</h5>
-Tetro, J. (2016). <i>The germ files: Health-conscious, nutritious, life-changing facts about the microbes that share our bodies and our world</i>. Toronto, Canada: Doubleday Canada.<br/> 
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=5e1ba148-bbe4-4f33-91c2-a1af4b92869e"><img src="/images/NL-1-germ-files.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
-
-<h5>2. Viruses: A Very Short Introduction (eBook)</h5>
-Crawford, D. H. (2020). <i>Viruses: A very short introduction</i>. Oxford, UK: OUP Oxford.<br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=cc313a77-08be-41cd-b9ab-6d3c41a79d6a"><img src="/images/NL-1-viruses-a-very-short-introduction.jpg" style="width:200px; text-align:left;"></a>
-
-<h5>3. Virusphere: Ebola, AIDS, influenza and the hidden world of the virus (eBook)</h5> 
-Ryan, F. (2019). <i>Virusphere: Ebola, AIDS, influenza and the hidden world of the virus</i>. New York: HarperCollins Publisher.<br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=422b9357-0123-471d-be25-b6213a0c1a1e"><img src="/images/NL-1-virusphere.jpg" style="width:200px; text-align:left;"></a>
-
-<h5>4. Viruses as Complex Adaptive Systems (Book)</h5>
-Solé, R. and Elena, S. F. (2019). <i>Viruses as complex adaptive systems</i>. Princeton, New Jersey: Princeton University Press.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203807831"><img src="/images/NL-1-viruses-as-complex-adaptive-systems.jpg" style="width:200px; text-align:left;"></a>
-<div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Princeton, New Jersey: Princeton University Press, 2019 </div>
-<h5>5. Infection Prevention and Control at a Glance (Book)</h5>
-Weston, D., Burgess, A. and Roberts, S. (2017). <i>Infection prevention and control at a glance</i>. Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203111966"><img src="/images/NL-1-infection-prevention.jpg" style="width:200px; text-align:left;"></a>
-<div style="font-size:8pt; line-height:10px;">Book Cover: All rights reserved, Chichester, West Sussex; Hoboken, NJ: John Wiley and Sons, Ltd, 2017 </div>
+<p><strong>If you are interested to read up more on digital workplaces, check out the following journal articles and resources in Chinese and Malay.</strong></p>
 <h4>Journal Articles</h4>
-<h5>1. Transmission routes of respiratory viruses among humans</h5>
-Kutter, J. S. &#91;et. al.&#93;. (2018, February). <a href="https://www.sciencedirect.com/science/article/pii/S1879625717301773" target="_blank">Transmission routes of respiratory viruses among humans</a>. <i>Current Opinion in Virology</i>, 28, 142-151. Retrieved March 25, 2020. 
+<h5>1. Digital workplace and culture: How digital technologies are changing the workforce and how enterprises can adapt and evolve</h5>
+Buchanan, J. (2016). <a href="https://www2.deloitte.com/us/en/pages/human-capital/articles/digital-workplace-and-culture.html" target="_blank">Digital workplace and culture: How digital technologies are changing the workforce and how enterprises can adapt and evolve</a>. <i>Deloitte</i>. Retrieved 2020, April 22.
 
-<h5>2. Emerging respiratory viruses in children</h5>
-Schuster, J. E. (2018, March). <a href="https://www.id.theclinics.com/article/S0891-5520(17)30096-X/fulltext" target="_blank">Emerging respiratory viruses in children</a>. <i>Infectious Disease Clinics</i>, 31 (1), 65-74. Retrieved March 25, 2020.
+<h5>2. Increasing productivity in the information age</h5>
+Attaran, M. (2019, January). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Increasing productivity in the information age</a>. <i>Industrial Management, 61(1), 16</i>. Retrieved 2020, April 22 from ProQuest via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
-<h5>3. Factors affecting the tissue damaging consequences of viral infections</h5>
-Sumbria D., Berber E. and Rouse B.T. (2019, October 4). <a href="https://doi.org/10.3389/fmicb.2019.02314" target="_blank">Factors Affecting the Tissue Damaging Consequences of Viral Infections</a>. <i>Front. Microbiol</i>, 10:2314. Retrieved March 26, 2020.
+<h5>3. Workplace Technology – What office life might look like in the year 2030: Glimpses of the future include working commutes, smarter elevators, robot assistants, flexible floor plans and maybe even productive meetings</h5>
+Loten, A. (2020, March 6). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Workplace Technology – What office life might look like in the year 2030: Glimpses of the future include working commutes, smarter elevators, robot assistants, flexible floor plans and maybe even productive meetings</a>. <i>Wall Street Journal</i>. Retrieved 2020, April 22 from ProQuest via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
-<h5>4. Viral evolution and Immune responses</h5>
-Domingo-Calap, P. (2019) <a href="https://doi.org/10.17352/jcmbt.000033" target="_blank">Viral evolution and Immune responses</a>. <i>Journal of Clinical Microbiology and Biochemical Technology</i>, 5(2): 013-018. Retrieved March 26, 2020.
+<h5>4. A guide for working (from home) parents</h5>
+Thompson, A.P. (2020, March 19). <a href="https://search.nlb.gov.sg/Search?query=a+guide+for+working+from+home+parents+thompson+avni+patel&cont=ejournal" target="_blank">A guide for working (from home) parents</a>. <i>Harvard Business Review</i>. Retrieved 2020, April 22 from ProQuest via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
-<h5>5. Rates of asymptomatic respiratory virus infection across age groups</h5>
-Galanti, M. [et. al.]. (2019). Rates of asymptomatic respiratory virus infection across age groups. <i>Epidemiology and Infection</i>, 147, 1-6. Retrieved March 25, 2020. To access this article, please go to <a href="http://eresources.nlb.gov.sg/main/" target="_blank">NLB’s eResources website</a> - <b>ProQuest Central database</b>. You will require myLibraryID to access this article.
+<h4>Chinese and Malay resources</h4>
+<h5>1. <a href="http://www.xfrb.com.cn/html/zixun/jinrongkeji/jinrongkeji/552692.html" target="_blank">Digital Workplace 企业未来的数字化工作方式</a></h5>
+张秋丽编辑。(2019年6月28日) 。Digital Workplace 企业未来的数字化工作方式。 <i>消费日报网。</i> Retrieved 2020, April 22.
+
+This article examines the advantages of a digital workplace and predicts that all companies will go digital as technology advances.
+
+<h5>2. <a href="https://www.zaobao.com.sg/zlifestyle/life-hacks/story20200401-1042059" target="_blank">居家办公新手必看：视讯会议101</a></h5>
+杨全龙。（2020年4月1日）。居家办公新手必看：视讯会议101。 <i>联合早报。</i> Retrieved 2020, April 22.
+
+To prevent the spread of COVID-19, people in Singapore have been asked to work from home where possible. Videoconferencing has become the new normal. This article provides some tips on how to set up videoconferences at home.
+
+<h5>3. <a href="https://money.kompas.com/read/2020/03/17/113900926/kerja-di-rumah-karena-virus-corona-simak-5-tips-ini?page=all" target="_blank">Kerja di rumah karena Virus Corona? Simak 5 tips ini</a></h5>
+Kerja di rumah karena Virus Corona? Simak 5 tips ini. (2020, March 17). <i>Kompas.Com</i> Retrieved 2020, April 21.
+
+For those who have to telecommute during this coronavirus outbreak, this article shares five tips on how to work from home effectively.
+
+<h5>3. <a href="https://berita.mediacorp.sg/mobilem/singapura/tenaga-kerja-beritamediacorp-dudukrumahsaja-manfaatkan-teknologi/4430964.html" target="_blank">Tenaga kerja BERITAmediacorp #dudukrumahsaja, manfaatkan teknologi jalankan tugas</a></h5>
+Tenaga kerja BERITAmediacorp #dudukrumahsaja, manfaatkan teknologi jalankan tugas. (2020, April 13). <i>Berita Mediacorp</i> Retrieved 2020, April 21.
+
+This news segment features how the BERITAmediacorp team made use of technology to enable its staff to work from home.
 
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
 The information in this resource guide is valid as of April 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
 All Rights Reserved. National Library Board Singapore 2020.<br/></p>
 
-
+---
+#### **References**
