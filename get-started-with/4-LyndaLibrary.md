@@ -8,6 +8,11 @@ title: eLearning
 ---
 <h2>Introducing LyndaLibrary</h2>
 
+<div class="vd">
+     <video width="720px" poster="/images/Thumbnail_Libby_video.PNG" controls>
+  <source src="/images/Video_Lynda.mp4" type="video/mp4" />
+</video>
+	
 Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i>LyndaLibrary by LinkedIn</i>:
 <ul>   
 	<li> <b>Learn anything:</b> Over 8,000 courses covering a wide range of topics, from data science to leadership skills</li>
