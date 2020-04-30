@@ -119,7 +119,7 @@ Kerja di rumah karena Virus Corona? Simak 5 tips ini. (2020, March 17). <i>Kompa
 
 For those who have to telecommute during this coronavirus outbreak, this article shares five tips on how to work from home effectively.
 
-<h5>3. <a href="https://berita.mediacorp.sg/mobilem/singapura/tenaga-kerja-beritamediacorp-dudukrumahsaja-manfaatkan-teknologi/4430964.html" target="_blank">Tenaga kerja BERITAmediacorp #dudukrumahsaja, manfaatkan teknologi jalankan tugas</a></h5>
+<h5>4. <a href="https://berita.mediacorp.sg/mobilem/singapura/tenaga-kerja-beritamediacorp-dudukrumahsaja-manfaatkan-teknologi/4430964.html" target="_blank">Tenaga kerja BERITAmediacorp #dudukrumahsaja, manfaatkan teknologi jalankan tugas</a></h5>
 Tenaga kerja BERITAmediacorp #dudukrumahsaja, manfaatkan teknologi jalankan tugas. (2020, April 13). <i>Berita Mediacorp</i> Retrieved 2020, April 21.
 
 This news segment features how the BERITAmediacorp team made use of technology to enable its staff to work from home.
