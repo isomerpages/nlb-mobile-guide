@@ -87,19 +87,19 @@ Artisan, 2019.<br/>
 Author Melanie Fallick travelled around the world and met artists and makers to learn about the meaning behind working with their hands. She learnt that making means slowing down and connecting with others. Read on to find out how your own artistic endeavours can enrich your life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5496B5CD-F2D2-40E8-85A2-1D989663F414">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5496B5CD-F2D2-40E8-85A2-1D989663F414">online</a>&#128187;.<br/>
 
-<h5>The Two-Pencil Method: The Revolutionary Approach to Drawing It All</h5>
-<i>Mark Crilley</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=EF720A28-CC73-4F5A-A11F-5084B2332D18"><img src="/images/PL-6-The-two-penciled.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
-Drawing requires focus, so it can make you happier and more productive.  Why not try drawing a little everyday since it can not only help you to pass time, but also improve your artistic skills and mood?<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF720A28-CC73-4F5A-A11F-5084B2332D18">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EF720A28-CC73-4F5A-A11F-5084B2332D18">online</a> &#128187;.<br/>
-
 <h5>Botanical Line Drawing: 200 Step-by-Step Flowers, Leaves, Cacti, Succulent, And Other Items Found in Nature</h5>
 <i>Peggy Dean</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5FC36E43-827E-4140-B7C4-3D0C9F7422FB"><img src="/images/PL-6-Botanical-line-drawing.jpg" style="width:300px; text-align:left;"></a><br/>
 Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
 Want some nature in your home but don’t know how to? One simple way is to draw items from nature. Unleash your inner artist by following the simple instructions in this book to draw flowers, leaves, cacti, succulents and other items in nature.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5FC36E43-827E-4140-B7C4-3D0C9F7422FB">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/5FC36E43-827E-4140-B7C4-3D0C9F7422FB">online</a> &#128187;.<br/>
+
+<h5>The Two-Pencil Method: The Revolutionary Approach to Drawing It All</h5>
+<i>Mark Crilley</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=EF720A28-CC73-4F5A-A11F-5084B2332D18"><img src="/images/PL-6-The-two-penciled.jpg" style="width:300px; text-align:left;"></a><br/>
+Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
+Drawing requires focus, so it can make you happier and more productive.  Why not try drawing a little everyday since it can not only help you to pass time, but also improve your artistic skills and mood?<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF720A28-CC73-4F5A-A11F-5084B2332D18">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EF720A28-CC73-4F5A-A11F-5084B2332D18">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
