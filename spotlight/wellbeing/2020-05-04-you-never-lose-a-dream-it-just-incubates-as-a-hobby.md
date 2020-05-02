@@ -80,6 +80,13 @@ Tuttle Publishing, 2019.<br/>
 Get in touch with the child in you and occupy yourself with the intricate art of origami, by engaging your brain and honing your fine motor skills.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=85B7C148-53F7-40F9-AAD5-7571CD32A6C6">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/85B7C148-53F7-40F9-AAD5-7571CD32A6C6">online</a> &#128187;.<br/>
 
+<h5>Making a Life: Working By Hand and Discovering the Life you are Meant to Live</h5>
+<i>Melanie Falick</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5496B5CD-F2D2-40E8-85A2-1D989663F414"><img src="/images/PL-6-Making-a-life.jpg" style="width:300px; text-align:left;"></a><br/>
+Artisan, 2019.<br/> 
+Author Melanie Fallick travelled around the world and met artists and makers to learn about the meaning behind working with their hands. She learnt that making means slowing down and connecting with others. Read on to find out how your own artistic endeavours can enrich your life.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5496B5CD-F2D2-40E8-85A2-1D989663F414">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5496B5CD-F2D2-40E8-85A2-1D989663F414">online</a>&#128187;.<br/>
+
 <h5>The Two-Pencil Method: The Revolutionary Approach to Drawing It All</h5>
 <i>Mark Crilley</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=EF720A28-CC73-4F5A-A11F-5084B2332D18"><img src="/images/PL-6-The-two-penciled.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -93,31 +100,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF720A28
 Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
 Want some nature in your home but don’t know how to? One simple way is to draw items from nature. Unleash your inner artist by following the simple instructions in this book to draw flowers, leaves, cacti, succulents and other items in nature.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5FC36E43-827E-4140-B7C4-3D0C9F7422FB">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/5FC36E43-827E-4140-B7C4-3D0C9F7422FB">online</a> &#128187;.<br/>
-
-
-
-
-
-<h5>A Beautiful Mess Happy Handmade Home: Painting, Crafting, and Decorating a Cheerful, More Inspiring Space</h5>
-<i>Elsie Larson and Emma Chapman</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF1F5CE9-3925-439D-80EE-408B0B4CCFFD"><img src="/images/PL-6-Handmade-home.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2014.<br/>
-There’s no better time than now to overhaul the space in your home. Through DIY projects, learn how to paint, craft and decorate your way to a bright and happy space that is distinctively yours.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF1F5CE9-3925-439D-80EE-408B0B4CCFFD">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CF1F5CE9-3925-439D-80EE-408B0B4CCFFD">online</a> &#128187;.<br/>
-
-<h5>50 Things to Do with a Penknife: The Whittler's Guide to Life</h5>
-<i>Matt Collins</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=51AE83D7-93EF-4FBB-B7A7-BE1C84EC6512"><img src="/images/PL-6-Penknife.jpg" style="width:300px; text-align:left;"></a><br/>
-Pavilion Books, 2018.<br/>
-Have some time on your hands? Start whittling! Start small with quick makes such as a doorstop or a bookmark, or delve into more elaborate projects like carving your own bird feeder! You’ll be surprised with what you can do with a penknife.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=51AE83D7-93EF-4FBB-B7A7-BE1C84EC6512">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/51AE83D7-93EF-4FBB-B7A7-BE1C84EC6512">online</a> &#128187;.<br/>
-
-<h5>Brain Workout: Tips and Techniques to Train Your Mind</h5>
-<i>Gareth Moore</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED246424-D393-48F8-A638-A47350EBA544"><img src="/images/PL-6-Brain-workout.png" style="width:300px; text-align:left;"></a><br/>
-Watkins Media, 2018.<br/>
-While staying home, it’s not only important to keep your body active, it’s also important to keep your mind active. By performing mental workouts, you can build your brain power and keep your mind alert and agile.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED246424-D393-48F8-A638-A47350EBA544">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ED246424-D393-48F8-A638-A47350EBA544">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
