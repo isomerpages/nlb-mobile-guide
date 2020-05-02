@@ -73,13 +73,12 @@ Mango Media, 2019.<br/>
 What if we channel our stress into creating art that brings us peace? This unique guided journal utilises techniques like doodling and writing exercises to calm and inspire.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7E36EF83-F587-4968-AA1F-5ABB2341D601">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/7E36EF83-F587-4968-AA1F-5ABB2341D601">online</a>&#128187;.<br/> 
 
-
-<h5>The Watercolor Course You've Always Wanted: Guided Lessons for Beginners and Experienced Artists</h5>
-<i>Leslie Frontz</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=BD39918D-4A6D-46F6-BA9B-97B4AD61820E"><img src="/images/PL-6-Watercolor.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2015.<br/>
-This handbook offers a fresh approach to watercolour. Learn how to achieve beautiful, captivating watercolour paintings through thoughtful discussion, expert instruction, and in-depth step-by-step demonstrations.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BD39918D-4A6D-46F6-BA9B-97B4AD61820E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BD39918D-4A6D-46F6-BA9B-97B4AD61820E">online</a> &#128187;.<br/>
+<h5>Origami Endangered Animals: Paper Models of Threatened Wildlife</h5>
+<i>Michael G. Lafosse and Richard L. Alexander</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=85B7C148-53F7-40F9-AAD5-7571CD32A6C6"><img src="/images/PL-6-Origami-endangered-animals.jpg" style="width:300px; text-align:left;"></a><br/>
+Tuttle Publishing, 2019.<br/>
+Get in touch with the child in you and occupy yourself with the intricate art of origami, by engaging your brain and honing your fine motor skills.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=85B7C148-53F7-40F9-AAD5-7571CD32A6C6">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/85B7C148-53F7-40F9-AAD5-7571CD32A6C6">online</a> &#128187;.<br/>
 
 <h5>The Two-Pencil Method: The Revolutionary Approach to Drawing It All</h5>
 <i>Mark Crilley</i><br/>
@@ -95,19 +94,9 @@ Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
 Want some nature in your home but don’t know how to? One simple way is to draw items from nature. Unleash your inner artist by following the simple instructions in this book to draw flowers, leaves, cacti, succulents and other items in nature.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5FC36E43-827E-4140-B7C4-3D0C9F7422FB">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/5FC36E43-827E-4140-B7C4-3D0C9F7422FB">online</a> &#128187;.<br/>
 
-<h5>World of Geekcraft</h5>
-<i>Susan Beal and Jay B. Sauceda</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF98D5A9-E536-475D-88A7-9BCBF79F685D"><img src="/images/PL-6-Geekcraft.jpg" style="width:300px; text-align:left;"></a><br/>
-Chronicle Books LLC, 2011.<br/>
-Geeks, rejoice! Finally, a guide to how to craft things that truly matter – like LOST tin-can telephones, D&D dice earrings and terrariums for your Star Wars figurines.  Learn how to make your own unique pieces of pop culture collectibles in this kooky projects collection.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CF98D5A9-E536-475D-88A7-9BCBF79F685D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CF98D5A9-E536-475D-88A7-9BCBF79F685D">online</a> &#128187;.<br/>
 
-<h5>Origami Endangered Animals: Paper Models of Threatened Wildlife</h5>
-<i>Michael G. Lafosse and Richard L. Alexander</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=85B7C148-53F7-40F9-AAD5-7571CD32A6C6"><img src="/images/PL-6-Origami-endangered-animals.jpg" style="width:300px; text-align:left;"></a><br/>
-Tuttle Publishing, 2019.<br/>
-Get in touch with the child in you and occupy yourself with the intricate art of origami, by engaging your brain and honing your fine motor skills.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=85B7C148-53F7-40F9-AAD5-7571CD32A6C6">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/85B7C148-53F7-40F9-AAD5-7571CD32A6C6">online</a> &#128187;.<br/>
+
+
 
 <h5>A Beautiful Mess Happy Handmade Home: Painting, Crafting, and Decorating a Cheerful, More Inspiring Space</h5>
 <i>Elsie Larson and Emma Chapman</i><br/>
