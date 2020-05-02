@@ -54,7 +54,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=700ADBDA
 
 <h5>101 DIY Face Masks</h5>
 <i>Jennifer McCartney</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4AA242FF-BC79-4126-B298-07F25831A8C5"><img src="/images/PL-6-DIY-Face-Masks" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4AA242FF-BC79-4126-B298-07F25831A8C5"><img src="/images/PL-6-DIY-Face-Masks.jpg" style="width:300px; text-align:left;"></a><br/>
 Countryman Press, 2018.<br/>
 Learn various ways to create your own face mask to manage skin problems. There are masks for hydrating, brightening, tightening and calming. Consider following the instructions in this book when you next prepare your own DIY facial.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AA242FF-BC79-4126-B298-07F25831A8C5">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4AA242FF-BC79-4126-B298-07F25831A8C5">online</a> &#128187;.<br/>
