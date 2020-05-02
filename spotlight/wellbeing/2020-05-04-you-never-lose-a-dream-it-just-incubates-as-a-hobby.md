@@ -45,6 +45,13 @@ In this fast-paced and fun course, hear 32 inspiring stories of busy people who 
 
 <h4>eBooks</h4>
 
+<h5>Keep what you love</h5>
+<i>Irene Smit and Astrid van der Hulst</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=700ADBDA-E587-4491-9F4C-22EB85C03B54"><img src="/images/PL-6-Keep-what-you-love.jpg" style="width:300px; text-align:left;"></a><br/>
+Workman Publishing Company 2020.<br/>
+Filled with illustrations this book provides handy tips on how to sort through your stuff. Practical tips and advice with useful quotes give inspiration to readers who wish to declutter their items.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=700ADBDA-E587-4491-9F4C-22EB85C03B54">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/700ADBDA-E587-4491-9F4C-22EB85C03B54">online</a>&#128187;.<br/>
+
 <h5>Anxious Art</h5>
 <i>Elina Diaz and Yaddyra Peralta</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7E36EF83-F587-4968-AA1F-5ABB2341D601"><img src="/images/PL-6-Anxious-art.jpg" style="width:300px; text-align:left;"></a><br/>
