@@ -45,7 +45,7 @@ In this fast-paced and fun course, hear 32 inspiring stories of busy people who 
 
 <h4>eBooks</h4>
 
-<h5>Keep what you love</h5>
+<h5>Keep What You Love</h5>
 <i>Irene Smit and Astrid van der Hulst</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=700ADBDA-E587-4491-9F4C-22EB85C03B54"><img src="/images/PL-6-Keep-what-you-love.jpg" style="width:300px; text-align:left;"></a><br/>
 Workman Publishing Company 2020.<br/>
@@ -58,6 +58,13 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=700ADBDA
 Countryman Press, 2018.<br/>
 Learn various ways to create your own face mask to manage skin problems. There are masks for hydrating, brightening, tightening and calming. Consider following the instructions in this book when you next prepare your own DIY facial.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AA242FF-BC79-4126-B298-07F25831A8C5">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4AA242FF-BC79-4126-B298-07F25831A8C5">online</a> &#128187;.<br/>
+
+<h5>Computers for Seniors</h5>
+<i>Chris Ewin, Carrie Ewin and Cheryl Ewin</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=00B4C22F-A232-4CD8-9885-2E0D103B4CE4"><img src="/images/PL-6-Computer-for-seniors.jpg" style="width:300px; text-align:left;"></a><br/>
+No Starch Press, 2017.<br/> 
+Learn how to use your computer with useful instructions and accompanying illustrations. Start from the basics and progress on to fun and useful skills such as sharing photographs, searching for news and music and even learn about safe ways to use money-managing tools.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=00B4C22F-A232-4CD8-9885-2E0D103B4CE4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/00B4C22F-A232-4CD8-9885-2E0D103B4CE4">online</a>&#128187;.<br/>
 
 <h5>Anxious Art</h5>
 <i>Elina Diaz and Yaddyra Peralta</i><br/>
