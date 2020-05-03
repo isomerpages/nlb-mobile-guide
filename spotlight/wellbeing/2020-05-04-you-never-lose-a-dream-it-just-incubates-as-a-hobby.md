@@ -8,7 +8,7 @@ image: /images/PL-6-Intro Image.jpg
 ---
 <img src="/images/PL-6-Intro Image.jpg">
 <p><q>You never lose a dream, it just incubates as a hobby.</q> - Larry Page</p>
-<p>With most of us spending our days cooped up behind four walls, it's never been more important to prioritise one’s wellbeing. Indulging in a new hobby is a great way to improve one’s mental health, pass time meaningfully and reduce stress. Here are some ideas to inspire that creative streak within.</p>
+<p>With most of us spending our days cooped up at home, it's never been more important to prioritise one’s wellbeing. Indulging in a hobby is a great way to improve one’s mental health, pass time meaningfully and reduce stress. Here are some ideas to inspire your creative streak.</p>
 
 <h4>Videos</h4>
 <h5>1.	How to Get Better at the Things you Care About by Eduardo Briceño</h5>
@@ -37,7 +37,7 @@ In this fast-paced and fun course, hear 32 inspiring stories of busy people who 
 
 <h5>1. <a href="https://www.businessinsider.sg/hobbies-successful-people-2017-2">21 Hobbies of Highly Successful People</a><br/>
 <i>Rachel Gillett and Hillary Hoffower.</i> Published on Business Insider US, 3 Dec 2018.</h5>
-<p>Having a hobby is an important way to recharge and relax after a day’s work - even the most successful people have hobbies! From playing chess to knitting, here are the habits of 21 highly successful people.</p>
+<p>Having a hobby is an important way to recharge and relax after a day’s work - even the most successful people have hobbies! From playing chess to knitting, here are the hobbies of 21 highly successful people.</p>
 
 <h5>2. <a href="https://www.forbes.com/sites/ryanrobinson/2020/01/15/grow-hobby-business/">4 Signs Your Hobby Could Grow into A Full-Time Business</a><br/>
 <i>Ryan Robinson.</i> Published on Forbes.com, 15 Jan 2020.</h5>
