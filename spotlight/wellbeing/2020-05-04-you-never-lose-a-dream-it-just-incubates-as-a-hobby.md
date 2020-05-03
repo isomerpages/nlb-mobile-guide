@@ -59,7 +59,7 @@ Tuttle Publishing, 2019.<br/>
 Get in touch with the child in you and occupy yourself with the intricate art of origami, by engaging your brain and honing your fine motor skills.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=85B7C148-53F7-40F9-AAD5-7571CD32A6C6">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/85B7C148-53F7-40F9-AAD5-7571CD32A6C6">online</a> &#128187;.<br/>
 
-<h5>Making a Life: Working By Hand and Discovering the Life you are Meant to Live</h5>
+<h5>Making a Life: Working By Hand and Discovering the Life You Are Meant to Live</h5>
 <i>Melanie Falick</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5496B5CD-F2D2-40E8-85A2-1D989663F414"><img src="/images/PL-6-Making-a-life.jpg" style="width:300px; text-align:left;"></a><br/>
 Artisan, 2019.<br/> 
