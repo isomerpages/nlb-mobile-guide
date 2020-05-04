@@ -4,6 +4,7 @@ title:  Paper Crafts
 date:   2020-05-6
 permalink: /spotlight/kids/papercrafts
 description: Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
+image: /images/PL-1-header.jpg
 ---
 
 <h1 style="text-align:center">~Curiousity is the wick in the candleof learning~<p><i>William Arthur Ward</i></p></h1>
