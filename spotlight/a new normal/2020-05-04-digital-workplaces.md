@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Learning Package 1 - Digital Workplaces
-date:   2020-04-30
+date:   2020-05-04
 permalink: /spotlight/newnormal/digital-workplaces
 description: A 2019 report found that 48 percent of staff in the United States already worked from home at least once a week. In Singapore, employers have been gradually adopting telecommuting.
 image: /images/NL-a1-overview.jpg
@@ -127,6 +127,5 @@ This news segment features how the BERITAmediacorp team made use of technology t
 <p style="font-size:10pt;"><b>Disclaimer/ Rights statement</b><br/>
 The information in this resource guide is valid as of April 2020 and correct as far as we are able to ascertain from our sources. It is not intended to be an exhaustive or complete history on the subject. Please contact the Library for further reading materials on the topic.<br/>
 All Rights Reserved. National Library Board Singapore 2020.<br/></p>
-
 ---
 #### **References**
