@@ -4,6 +4,7 @@ date:   2020-05-6
 permalink: /spotlight/kids/paper-crafts
 description: Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
  
+<center><h5>~Curiousity is the wick in the candleof learning~<i>William Arthur Ward</i></h5></center>>
 <h4>Paper Crafts</h4>
 <p>Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.</p>
 <p>You&rsquo;ll need:</p>
@@ -18,7 +19,7 @@ description: Looking for easy craft activities for children? Write thoughtful me
 <div class="bp-youtube"><iframe src="https://www.youtube.com/embed/D4XSlCCXyvU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=D4XSlCCXyvU&amp;feature=youtu.be" target="_blank" rel="noopener">Paper Heart Flower Craft | Mothers Day Craft for Kids</a> (2018, April 14)</p>
 
 <p>&nbsp;</p>
-<h4>More craft ideas? Check out these eBooks for ideas to transform paper into awesome creations.</h4>
+<h4>Be curious! Check out these eBooks for ideas to transform paper into awesome creations.</h4>
 <h5>Awesome Paper Projects You Can Create (Imagine It, Build It)</h5>
 <i>Marne Ventura</i><br/>
 <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B"><img src="/images/PL-1-paper1.jpg" style="width:300px; text-align:left;"></a><br/>
