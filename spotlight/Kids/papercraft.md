@@ -24,7 +24,7 @@ image: /images/PL-1-header.jpg
 <p><h5>Awesome Paper Projects You Can Create (Imagine It, Build It)</h5></p>
 <i>Marne Ventura</i><br/>
 <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B"><img src="/images/PL-1-paper1.jpg" style="width:300px; text-align:left;"></a><br/>
-Capstone, 2017.<br/> 
+Publisher: Capstone, 2017<br/> 
 Don't throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!<br/> 
 Borrow the eBook <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">online</a> 💻.
 <p><h5>Origami Games: Hands-on Fun for Kids!(Hands-On Fun for Kids!: Origami Book with 22 Creative Games: Great for Kids and Parents)</h5></p>
