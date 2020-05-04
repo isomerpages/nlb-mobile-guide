@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Paper Crafts
+title:  Stay Curious with Your Child
 date:   2020-05-6
 permalink: /spotlight/kids/papercraft
 description: Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
