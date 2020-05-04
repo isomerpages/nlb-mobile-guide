@@ -1,10 +1,9 @@
 layout: post
-title:  For the ‘Gram  
+title:  Paper Crafts
 date:   2020-05-6
-permalink: /spotlight/teensthings/for-the-gram
-description: 6 Golden Steps to make your images look amazing on Instagram using Photoshop. 
-
-
+permalink: /spotlight/kids/paper-crafts
+description: Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
+ 
 <!—TITLE-->
 <h5><a style="text-decoration:none;">For the ‘Gram  </a></h5>
 
