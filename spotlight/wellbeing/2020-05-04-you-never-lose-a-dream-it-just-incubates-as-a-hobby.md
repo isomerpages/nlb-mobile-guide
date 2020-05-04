@@ -44,7 +44,7 @@ In this fast-paced and fun course, hear 32 inspiring stories of busy people who 
 <p>A hobby can be so much more than just a fun way to pass the time. If approached in the right way, here are 4 signs it could blossom into a full-blown career.
 </p>
 <p>
-Read the latest issue of Forbes <a href="https://libbyapp.com/library/nlb/everything/page-1/5418405">in your browser or the Libby app</a>. There's also <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1"><i>The Economist</i> and many more</a>.
+  Read the latest issue of <i>Forbes</i> magazine <a href="https://libbyapp.com/library/nlb/everything/page-1/5418405">in your browser or the Libby app</a>. There's also <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1"><i>The Economist</i> and many more</a>.
 </p>
 
 <h4>eBooks</h4>
