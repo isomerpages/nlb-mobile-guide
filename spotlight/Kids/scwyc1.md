@@ -35,7 +35,7 @@ Publisher: Tuttle Pub, 2010<br/>
 <p>Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork.</p>
 Borrow the eBook <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">online</a> 💻.
 <h4>Tip for parents:</h4>
-<p>Home-based learning provides an opportunity to make better relationships with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.</p>
+<p>School Holidays provide an opportunity to create happy memories with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.</p>
 <p>Source: <a href="https://www.unicef.org/coronavirus/covid-19-parenting-tips#3e" target="_blank">Tips for parenting during the coronavirus (COVID-19) outbreak</a>(Last accessed on 30 April 2020)</p><br/>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
