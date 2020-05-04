@@ -7,7 +7,7 @@ description: Looking for easy craft activities for children? Write thoughtful me
 image: /images/PL-1-header.jpg
 ---
 <img src="/images/PL-1-header.jpg">
-<h1 style="text-align:center">~Curiousity is the wick in the candle of learning.~<p><i>William Arthur Ward</i></p></h1>
+<h1 style="text-align:center">Curiousity is the wick in the candle of learning.<p><i>William Arthur Ward</i></p></h1>
 <h4>Paper Crafts</h4>
 <p>Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.</p>
 <p>You&rsquo;ll need:</p>
@@ -30,8 +30,8 @@ Borrow the eBook <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71
 <p><h5>Origami Games: Hands-on Fun for Kids!(Hands-On Fun for Kids!: Origami Book with 22 Creative Games: Great for Kids and Parents)</h5></p>
 <i>Joel Stern</i><br/>
 <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D"><img src="/images/PL-1-paper2.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English736.982 STE -[ART]
-<p>Publisher: Tuttle Pub, 2010</p>
+Call Number: English736.982 STE -[ART]<br/)
+Publisher: Tuttle Pub, 2010
 Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork. A perfect origami-for-kids book it also encourages folders to come up with and document their own customized games using a template provided in the back of the book, making it a great way to learn origami.<br/> 
 Borrow the eBook <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">online</a> 💻.
 <h4>Tip for parents:</h4>
