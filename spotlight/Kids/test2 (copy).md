@@ -17,7 +17,7 @@ description: Looking for easy craft activities for children? Write thoughtful me
 
 <p>Try this out and tag us at @publiclibrarysg with #librarysg 😀</p>
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p>Source: <a href="https://www.youtube.com/watch?v=D4XSlCCXyvU&amp;feature=youtu.be" target="_blank" rel="noopener">Paper Heart Flower Craft | Mothers Day Craft for Kids</a> (2018, April 14)</p>
 <p>&nbsp;</p>
