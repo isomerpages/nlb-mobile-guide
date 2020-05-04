@@ -152,9 +152,11 @@ An **international** digital newsstand on the go:
         <label for="sph1">How can I read SPH newspapers from home during the circuit breaker period?</label>
 
  <div class="acc-body">
-  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the circuit breaker period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site.</p>
+  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the circuit breaker period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
 <p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
-</p></div><!--close acc-body-->
+</p>
+<p>If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject.</p>
+</div><!--close acc-body-->
 </div><!--close div for qn -->
 
 <div>
@@ -162,7 +164,7 @@ An **international** digital newsstand on the go:
         <label for="sph1a">Can I read the newspapers on tablets and smartphones? </label>
 
  <div class="acc-body">
-  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above. However, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers.   
+  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple mobile devices should be on iOS / iPadOS 13 and above. However, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject. To help troubleshooting, please indicate your device brand, model and operating system.    
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -192,7 +194,16 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
         <label for="sph2a">How do I zoom in to the newspaper on my computer?</label>
 
  <div class="acc-body">
-  <p>If you are using a desktop / laptop computer, double-click on the area you wish to read to enlarge that part of the page. Double-click again to see the full page. 
+  <p>If you are using a desktop / laptop computer, double-click on the area you wish to read to enlarge that part of the page. Double-click again to see the full page. If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject. To help troubleshooting, please indicate your device brand, model and operating system.     
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph2b">
+        <label for="sph2b">Who can I contact if the navigation or zoom features on the ePaper do not work well for my device?</label>
+
+ <div class="acc-body">
+  <p>If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject. To help troubleshooting, please indicate your device brand, model and operating system.   
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -210,7 +221,7 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
         <label for="sph4">Can I access the SPH newspapers from the NLB Mobile app? </label>
 
  <div class="acc-body">
-  <p>We will enable access to SPH newspapers through the NLB Mobile app from the last week of April / first week of May.  
+  <p>Yes, you can! Tap on the SPH logo in the NLB Moble app's homepage.  
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
