@@ -23,8 +23,15 @@ description: Looking for easy craft activities for children? Write thoughtful me
 <i>Marne Ventura</i><br/>
 <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B"><img src="/images/PL-1-paper1.jpg" style="width:300px; text-align:left;"></a><br/>
 Capstone, 2017.<br/> Don't throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!<br/> 
- 
+<p>&nbsp;</p>
+Capstone, 2017.<br/> Don't throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!<br/>
+<p>&nbsp;</p>
 Borrow the eBook <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">online</a> 💻.</p>
+<p>&nbsp;</p>
+<h4>Tip for parents:</h4>
+<p>Home-based learning provides an opportunity to make better relationships with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.</p>
+<p>Source: <a href="https://www.unicef.org/coronavirus/covid-19-parenting-tips#3e" target="_blank">Tips for parenting during the coronavirus (COVID-19) outbreak</a>(Last accessed on 30 April 2020)</p>
+<p>&nbsp;</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
