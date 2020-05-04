@@ -27,7 +27,7 @@ image: /images/PL-1-header.jpg
 Publisher: Capstone, 2017<br/>
 <p>Don't throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!</p>
 Borrow the eBook <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">online</a> 💻.
-<p><h5>Origami Games: Hands-on Fun for Kids!(Hands-On Fun for Kids!: Origami Book with 22 Creative Games: Great for Kids and Parents)</h5></p>
+<p><h5>Origami Games: Hands-on Fun for Kids!</h5></p>
 <i>Joel Stern</i><br/>
 <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D"><img src="/images/PL-1-paper2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English736.982 STE -[ART]<br/>
