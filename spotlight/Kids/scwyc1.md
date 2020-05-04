@@ -3,13 +3,13 @@ layout: post
 title:  Stay Curious with Your Child - Paper Crafts
 date:   2020-05-6
 permalink: /spotlight/kids/papercrafts
-description: Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
+description: Looking for easy craft activities? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
 image: /images/PL-1-header.jpg
 ---
 <img src="/images/PL-1-header.jpg">
-<h1 style="text-align:center">Curiousity is the wick in the candle of learning.<p><i>William Arthur Ward</i></p></h1>
+<h1 style="text-align:center">Curiosity is the wick in the candle of learning.<p><i>William Arthur Ward</i></p></h1>
 <h4>Paper Crafts</h4>
-<p>Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.</p>
+<p>Looking for easy craft activities? Write thoughtful messages in these paper hearts to appreciate your family and friends.</p>
 <p>You&rsquo;ll need:</p>
 <ul>
 <li>Paper</li>
