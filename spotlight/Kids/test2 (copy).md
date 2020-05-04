@@ -14,11 +14,11 @@ description: Looking for easy craft activities for children? Write thoughtful me
 <li>Straw (can be replaced by chopstick)</li>
 <li>Colouring materials</li>
 </ul>
-
 <p>Try this out and tag us at @publiclibrarysg with #librarysg 😀</p>
 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/D4XSlCCXyvU" target="_blank">Paper Heart Flower Craft | Mothers Day Craft for Kids</a> (2018, April 14) 
+Source:<a href="https://www.youtube.com/embed/D4XSlCCXyvU" target="_blank">Paper Heart Flower Craft | Mothers Day Craft for Kids</a> (2018, April 14) 
+
 <p>&nbsp;</p>
 <h4>More craft ideas? Check out these eBooks for ideas to transform paper into awesome creations.</h4>
 <h5>Awesome Paper Projects You Can Create (Imagine It, Build It)</h5>
