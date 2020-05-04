@@ -5,8 +5,7 @@ permalink: /spotlight/kids/paper-crafts
 description: Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
 
 
-<h1 style="text-align:center">~Curiousity is the wick in the candleof learning~</h1>
-<h1 style="text-align:center"><h1><i>William Arthur Ward</i></h1>
+<h1 style="text-align:center">~Curiousity is the wick in the candleof learning~<i>William Arthur Ward</i></h1>
 <h4>Paper Crafts</h4>
 <p>Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.</p>
 <p>You&rsquo;ll need:</p>
