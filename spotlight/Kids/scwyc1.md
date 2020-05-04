@@ -32,7 +32,7 @@ Borrow the eBook <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71
 <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D"><img src="/images/PL-1-paper2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English736.982 STE -[ART]<br/>
 Publisher: Tuttle Pub, 2010<br/>
-Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork. A perfect origami-for-kids book it also encourages folders to come up with and document their own customized games using a template provided in the back of the book, making it a great way to learn origami.<br/> 
+Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork.<br/> 
 Borrow the eBook <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">online</a> 💻.
 <h4>Tip for parents:</h4>
 <p>Home-based learning provides an opportunity to make better relationships with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.</p>
