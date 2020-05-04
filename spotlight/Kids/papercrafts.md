@@ -19,7 +19,7 @@ image: /images/PL-1-header.jpg
 <li>Colouring materials</li>
 </ul>
 <p>Try this out and tag us at @publiclibrarysg with #librarysg 😀</p>
-<div class="bp-youtube"><iframe src="https://www.youtube.com/embed/D4XSlCCXyvU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=D4XSlCCXyvU&amp;feature=youtu.be" target="_blank" rel="noopener">Paper Heart Flower Craft | Mothers Day Craft for Kids</a> (2018, April 14)</p>
+<div class="bp-youtube"><iframe src="https://www.youtube.com/embed/D4XSlCCXyvU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=D4XSlCCXyvU&amp;feature=youtu.be" target="_blank" rel="noopener">Paper Heart Flower Craft | Mothers Day Craft for Kids</a> (2018, April 14)
 <h4>Be curious! Check out these eBooks for ideas to transform paper into awesome creations.</h4>
 <h5>Awesome Paper Projects You Can Create (Imagine It, Build It)</h5>
 <i>Marne Ventura</i><br/>
