@@ -26,11 +26,11 @@ Source: <a href="https://www.youtube.com/watch?v=WfTZ5iIUn4s" target="_blank">Th
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg" target="_blank">Become a Craft Business Owner</a></strong><br/>
 Turn your crafting hobby and passion into a full-fledged business by embarking on this learning journey. Discover the exciting world of entrepreneurship, learn the fundamentals of running a small craft business, and get ready to set up shop! This is the second video in the <i>Learning Path: Become a Craft Business Owner</i> series of videos.</p>
-<a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/PL-6-Lynda-Become-craft-business-owner.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/32-Ways-Make-Extra-Money/2808540-2.html?org=nlb.gov.sg" target="_blank">32 Ways to Make Extra Money</a></strong><br/>
 In this fast-paced and fun course, hear 32 inspiring stories of busy people who used their existing skills to create revenue during their off-hours from regular jobs.</p>
-<a href="https://www.lynda.com/Business-tutorials/32-Ways-Make-Extra-Money/2808540-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/32-Ways-Make-Extra-Money/2808540-2.html?org=nlb.gov.sg"><img src="/images/PL-6-Lynda-Ways-to-make-money.png" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
@@ -41,7 +41,11 @@ In this fast-paced and fun course, hear 32 inspiring stories of busy people who 
 
 <h5>2. <a href="https://www.forbes.com/sites/ryanrobinson/2020/01/15/grow-hobby-business/">4 Signs Your Hobby Could Grow into A Full-Time Business</a><br/>
 <i>Ryan Robinson.</i> Published on Forbes.com, 15 Jan 2020.</h5>
-<p>A hobby can be so much more than just a fun way to pass the time. If approached in the right way, here are 4 signs it could blossom into a full-blown career.</p>
+<p>A hobby can be so much more than just a fun way to pass the time. If approached in the right way, here are 4 signs it could blossom into a full-blown career.
+</p>
+<p>
+Read the latest issue of Forbes <a href="https://libbyapp.com/library/nlb/everything/page-1/5418405">in your browser or the Libby app</a>. There's also <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1"><i>The Economist</i> and many more</a>.
+</p>
 
 <h4>eBooks</h4>
 
