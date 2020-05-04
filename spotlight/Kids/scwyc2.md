@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Stay Curious with Your Child - Paper Crafts
+title:  Stay Curious with Your Child - Yoga for Kids
 date:   2020-05-6
 permalink: /spotlight/kids/yogaforkids
 description: Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
@@ -24,15 +24,15 @@ image: /images/PL-1-header.jpg
 <p><h5>Awesome Paper Projects You Can Create (Imagine It, Build It)</h5></p>
 <i>Marne Ventura</i><br/>
 <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B"><img src="/images/PL-1-paper1.jpg" style="width:300px; text-align:left;"></a><br/>
-<p>Publisher: Capstone, 2017<p>
-Don't throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!<br/> 
+Publisher: Capstone, 2017<br/>
+<p>Don't throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!</p>
 Borrow the eBook <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/B2220018-13D4-4EAF-A71E-EE36AAB00D3B">online</a> 💻.
 <p><h5>Origami Games: Hands-on Fun for Kids!(Hands-On Fun for Kids!: Origami Book with 22 Creative Games: Great for Kids and Parents)</h5></p>
 <i>Joel Stern</i><br/>
 <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D"><img src="/images/PL-1-paper2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English736.982 STE -[ART]<br/>
 Publisher: Tuttle Pub, 2010<br/>
-Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork. A perfect origami-for-kids book it also encourages folders to come up with and document their own customized games using a template provided in the back of the book, making it a great way to learn origami.<br/> 
+<p>Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork.</p>
 Borrow the eBook <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">online</a> 💻.
 <h4>Tip for parents:</h4>
 <p>Home-based learning provides an opportunity to make better relationships with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.</p>
