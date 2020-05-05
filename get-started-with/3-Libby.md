@@ -156,8 +156,8 @@ If you want to know why your titles are not downloading or how to adjust your au
 <div>
 	<input type="radio" name="acc" id="acc7c">
         <label for="acc7c">What's the difference between Libby and PressReader?</label>
-        <div class="acc-body>
-		<p>
+	<div class="acc-body">
+		    <p>
 		    The difference between PressReader and Libby is that Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:</p>
 		    <ol>
 			<li>Allure</li>
