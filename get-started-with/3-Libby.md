@@ -86,7 +86,7 @@ title: eBooks and Audiobooks
 </div></div>
 
 <div>
-        <input type="radio" name="acc" id="acc6" checked>
+        <input type="radio" name="acc" id="acc6">
         <label for="acc6">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
         <div class="acc-body">
     	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / eAudiobooks. </p>
@@ -122,11 +122,11 @@ If you want to know why your titles are not downloading or how to adjust your au
 
 <h2><a name="mag">eMagazines on Libby</a></h2>
 <div>
-	<input type="radio" name="acc" id="acc7a">
+	<input type="radio" name="acc" id="acc7a" checked>
         <label for="acc7a">How can I borrow eMagazines in Libby?</label>
         <div class="acc-body">
 		<p>
-		Just follow the steps in the video below. You can skip to 0:24 if you are already familiar with what Libby is.
+		Just follow the steps in the video below. You can skip to 0:24 if you are already familiar with what Libby is. If you've borrowed eBooks from Libby before, the steps are the same. 
 		</p>
 		<div class="vd">
 			<video width="720px" poster="/images/Thumbnail_Libby_video.PNG" controls>
@@ -135,11 +135,73 @@ If you want to know why your titles are not downloading or how to adjust your au
 			<p>
 				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a> to see the full list of magazines available in Libby.
 			</p>
-			<p>If you can't find the magazines you want in Libby, try <a href="/get-started-with/Libby/" target="_blank" rel="noopener">PressReader (click here for the guide)</a>.
+			<p>If you can't find the magazines you want in Libby, try <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">PressReader (click here for the guide)</a>.
 			</p>
 	</div>
 </div>
 
+<div>
+	<input type="radio" name="acc" id="acc7b">
+        <label for="acc7b">Do the eMagazines add to my eBook loan quota?</label>
+        <div class="acc-body">
+		<p>
+		Good news! Magazines don't affect your eBook loan quota. What's more, you can borrow unlimited magazines. We also have unlimited <b>copies</b> of every magazine - so you never need to wait for your turn to borrow. 
+			</p>
+		<p>
+			Each magazine issue can be borrowed for 21 days. After that, feel free to borrow again if you still want it.
+		</p>
+	</div>
+</div>
+
+<div>
+	<input type="radio" name="acc" id="acc7c">
+        <label for="acc7c">What's the difference between Libby and PressReader?</label>
+        <div class="acc-body>
+		<p>
+		    The difference between PressReader and Libby is that Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:</p>
+		    <ol>
+			<li>Allure</li>
+			<li>Billboard</li>
+			<li>Bon Appetit</li>
+			<li>Conde Nast Traveler</li>
+			<li>Marie Claire</li>
+			<li>Rolling Stone</li>
+			<li>The Economist</li>
+			<li>The Hollywood Reporter</li>
+			<li>The New Yorker</li>
+			<li>Wired</li>
+		    </ol>
+		    <p>
+		    If the above titles aren't what you are looking for, try PressReader for a wider selection that includes newspapers too. <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Click here</a> for the PressReader guide.
+		    </p>
+		    <p>
+		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, feel free to borrow again if you still want them.
+	</div>
+</div>
+
+<div>
+	<input type="radio" name="acc" id="acc7c">
+        <label for="acc7c">What's the difference between Libby and PressReader?</label>
+        <div class="acc-body>
+		<p>
+		    The difference between PressReader and Libby is that Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:</p>
+		    <ol>
+			<li>Allure</li>
+			<li>Billboard</li>
+			<li>Bon Appetit</li>
+			<li>Conde Nast Traveler</li>
+			<li>Marie Claire</li>
+			<li>Rolling Stone</li>
+			<li>The Economist</li>
+			<li>The Hollywood Reporter</li>
+			<li>The New Yorker</li>
+			<li>Wired</li>
+		    </ol>
+		    <p>
+		    If the above titles aren't what you are looking for, try PressReader for a wider selection that includes newspapers too. <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Click here</a> for the PressReader guide.
+		    </p>
+	</div>
+</div>
 
 <h2>Different Devices</h2>
 <div>
