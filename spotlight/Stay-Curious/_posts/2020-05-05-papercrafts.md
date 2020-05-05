@@ -2,7 +2,7 @@
 layout: post
 title:  Stay Curious with Your Child - Paper Crafts
 date:   2020-05-05
-permalink: /spotlight/stay-curious/papercrafts
+permalink: /spotlight/stay-curious/2020-05-05-papercrafts
 description: Looking for easy craft activities? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
 image: /images/PL-1-header.jpg
 ---
