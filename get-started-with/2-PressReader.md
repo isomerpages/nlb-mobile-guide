@@ -149,7 +149,7 @@ An **international** digital newsstand on the go:
 	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
         <div class="acc-body">
 		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another vendor - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to read <i>The Economist</i> on your browser or the Libby app.</p>
-		<p class="end-note">The difference between PressReader and Libby is that Libby has a smaller collection of only magazines, but includes some that are not available in PressReader. These are:
+		<p>The difference between PressReader and Libby is that Libby has a smaller collection of only magazines, but includes some that are not available in PressReader. These are:
 		<ol>
 			<li>Allure</li>
 			<li>Billboard</li>
