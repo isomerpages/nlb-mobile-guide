@@ -313,7 +313,6 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <div>
 		<input type="radio" name="acc" id="acc20">
         <label for="acc20">My eBook/eAudiobook isn't downloading.</label>
-
         <div class="acc-body">
   <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
   <p><img src="/images/Screenshot_Libby-change-download-rules.jpg"></p>
