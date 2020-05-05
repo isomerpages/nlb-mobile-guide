@@ -168,6 +168,35 @@ An **international** digital newsstand on the go:
 </div>
 </div> 
 
+<div>
+		<input type="radio" name="acc" id="acc6b">
+	<label for="acc6b">What is the difference between Libby's eMagazines and PressReader's eNewspapers and eMagazines?</label>
+        <div class="acc-body">
+		<p>
+			    PressReader has a much larger collection that includes newspapers. Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:
+		</p>
+		<ol>
+			<li>Allure</li>
+			<li>Billboard</li>
+			<li>Bon Appetit</li>
+			<li>Conde Nast Traveler</li>
+			<li>Marie Claire</li>
+			<li>Rolling Stone</li>
+			<li>The Economist</li>
+			<li>The Hollywood Reporter</li>
+			<li>The New Yorker</li>
+			<li>Wired</li>
+		</ol>
+		<p>
+		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/" target="_blank" rel="noopener">Click here</a> for the Libby guide.
+		    </p>
+		<p>
+		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, just borrow again if you still want them.
+		</p>
+
+</div>
+</div> 
+
 <p>
 <div class="FAQ-section" id="sph">
 <h2>Read SPH newspapers at home during the circuit breaker period</h2>
