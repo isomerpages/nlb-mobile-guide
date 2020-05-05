@@ -144,6 +144,59 @@ An **international** digital newsstand on the go:
   </div>
 </div> 
 
+<div>
+		<input type="radio" name="acc" id="acc6a">
+	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
+        <div class="acc-body">
+		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another vendor - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to read <i>The Economist</i> on your browser or the Libby app.</p>
+		<p>The difference between PressReader and Libby is that Libby has a smaller collection of only magazines, but includes some that are not available in PressReader. These are:
+		<ol>
+			<li>Allure</li>
+			<li>Billboard</li>
+			<li>Bon Appetit</li>
+			<li>Conde Nast Traveler</li>
+			<li>Marie Claire</li>
+			<li>Rolling Stone</li>
+			<li>The Economist</li>
+			<li>The Hollywood Reporter</li>
+			<li>The New Yorker</li>
+			<li>Wired</li>
+		</ol>
+		</p>
+  
+
+</div>
+</div> 
+
+<div>
+		<input type="radio" name="acc" id="acc6b">
+	<label for="acc6b">What is the difference between Libby's eMagazines and PressReader's eNewspapers and eMagazines?</label>
+        <div class="acc-body">
+		<p>
+			    PressReader has a much larger collection that includes newspapers. Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:
+		</p>
+		<ol>
+			<li>Allure</li>
+			<li>Billboard</li>
+			<li>Bon Appetit</li>
+			<li>Conde Nast Traveler</li>
+			<li>Marie Claire</li>
+			<li>Rolling Stone</li>
+			<li>The Economist</li>
+			<li>The Hollywood Reporter</li>
+			<li>The New Yorker</li>
+			<li>Wired</li>
+		</ol>
+		<p>
+		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mag" target="_blank" rel="noopener">Click here</a> for the Libby guide.
+		    </p>
+		<p>
+		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, just borrow again if you still want them.
+		</p>
+
+</div>
+</div> 
+
 <p>
 <div class="FAQ-section" id="sph">
 <h2>Read SPH newspapers at home during the circuit breaker period</h2>
