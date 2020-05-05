@@ -188,7 +188,7 @@ An **international** digital newsstand on the go:
 			<li>Wired</li>
 		</ol>
 		<p>
-		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mags" target="_blank" rel="noopener">Click here</a> for the Libby guide.
+		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mag" target="_blank" rel="noopener">Click here</a> for the Libby guide.
 		    </p>
 		<p>
 		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, just borrow again if you still want them.
