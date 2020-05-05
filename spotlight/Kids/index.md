@@ -1,0 +1,8 @@
+---
+layout: resources-alt
+title: Stay Curious With Your Child
+permalink: /spotlight/kids/
+breadcrumb: Stay Curious With Your Child
+description: Bite-sized activities for you and your child to learn and tinker together
+image: /images/pl-1-header.jpg
+---
