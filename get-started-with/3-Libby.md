@@ -174,8 +174,9 @@ If you want to know why your titles are not downloading or how to adjust your au
 		    <p>
 		    If the above titles aren't what you are looking for, try PressReader for a wider selection that includes newspapers too. <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Click here</a> for the PressReader guide.
 		    </p>
-		    <p>
+		<p>
 		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, feel free to borrow again if you still want them.
+		</p>
 	</div>
 </div>
 
