@@ -85,7 +85,6 @@ title: eBooks and Audiobooks
 		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
  <div>
-
         <input type="radio" name="acc" id="acc6" checked>
         <label for="acc6">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
         <div class="acc-body">
@@ -136,7 +135,6 @@ If you want to know why your titles are not downloading or how to adjust your au
  <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">Is there a device limit for Libby?</label>
-
         <div class="acc-body">
   <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
 </div></div>
@@ -309,7 +307,6 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <div class="acc-body">
   <p>If you still can't sign in after following the steps in the video near the top of this page, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
 <p>Help topics are also available on the <a href="https://help.libbyapp.com/" target="_blank">Libby support site</a>.</p>
-
 </div>
 </div>
 
@@ -336,7 +333,6 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <div>
 		<input type="radio" name="acc" id="acc22">
         <label for="acc22">Can I read in landscape mode on my phone using Libby?</label>
-
         <div class="acc-body">
   <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
