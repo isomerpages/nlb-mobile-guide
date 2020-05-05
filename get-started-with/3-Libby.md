@@ -77,14 +77,15 @@ title: eBooks and Audiobooks
 </div>
 </div>
 
- <div>
+<div>
         <input type="radio" name="acc" id="acc5">
         <label for="acc5">Can I use more than one library card or cards from different libraries in Libby?</label>
         <div class="acc-body">
 		<p>Yes, you can! </p>
 		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
- <div>
+
+<div>
         <input type="radio" name="acc" id="acc6" checked>
         <label for="acc6">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
         <div class="acc-body">
@@ -121,18 +122,16 @@ If you want to know why your titles are not downloading or how to adjust your au
 
 <!--  
 <h2><a name="mag">eMagazines on Libby</a></h2>
- <div>
+<div>
 		<input type="radio" name="acc" id="acc99">
         <label for="acc99">Is there a device limit for Libby?</label>
-
         <div class="acc-body">
   <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
 </div></div>
 -->
 
-
-  <h2>Different Devices</h2>
- <div>
+<h2>Different Devices</h2>
+<div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">Is there a device limit for Libby?</label>
         <div class="acc-body">
