@@ -179,30 +179,6 @@ If you want to know why your titles are not downloading or how to adjust your au
 	</div>
 </div>
 
-<div>
-	<input type="radio" name="acc" id="acc7c">
-        <label for="acc7c">What's the difference between Libby and PressReader?</label>
-        <div class="acc-body>
-		<p>
-		    The difference between PressReader and Libby is that Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:</p>
-		    <ol>
-			<li>Allure</li>
-			<li>Billboard</li>
-			<li>Bon Appetit</li>
-			<li>Conde Nast Traveler</li>
-			<li>Marie Claire</li>
-			<li>Rolling Stone</li>
-			<li>The Economist</li>
-			<li>The Hollywood Reporter</li>
-			<li>The New Yorker</li>
-			<li>Wired</li>
-		    </ol>
-		    <p>
-		    If the above titles aren't what you are looking for, try PressReader for a wider selection that includes newspapers too. <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Click here</a> for the PressReader guide.
-		    </p>
-	</div>
-</div>
-
 <h2>Different Devices</h2>
 <div>
 		<input type="radio" name="acc" id="acc8">
