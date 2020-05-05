@@ -10,7 +10,7 @@ title: eBooks and Audiobooks
 <tbody>
 <tr>
 <td>
-	<h2><p style="text-align: center;">New Features on Libby</p></h2>
+	<h1><p style="text-align: center;">New Features on Libby</p></h1>
 	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, <i>Reader's Digest</i> and <i>Newsweek</i>? <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to see the full list on your browser or the Libby app.</p>
 <!-- 
 <p><a href="https://mobileapp.nlb.gov.sg/get-started-with/libby/#mag">Learn more</a></p>
@@ -110,8 +110,8 @@ title: eBooks and Audiobooks
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc23">
-        <label for="acc23">How do I know if my books have been downloaded to my device?</label>
+		<input type="radio" name="acc" id="acc7">
+        <label for="acc7">How do I know if my books have been downloaded to my device?</label>
                 <div class="acc-body">
 <p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
 <p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
@@ -120,27 +120,38 @@ title: eBooks and Audiobooks
 If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div></div>
 
-<!--  
 <h2><a name="mag">eMagazines on Libby</a></h2>
 <div>
-		<input type="radio" name="acc" id="acc99">
-        <label for="acc99">Is there a device limit for Libby?</label>
+	<input type="radio" name="acc" id="acc7a">
+        <label for="acc7a">How can I borrow eMagazines in Libby?</label>
         <div class="acc-body">
-  <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
-</div></div>
--->
+		<p>
+		Just follow the steps in the video below. You can skip to 0:24 if you are already familiar with what Libby is.
+		</p>
+		<div class="vd">
+			<video width="720px" poster="/images/Thumbnail_Libby_video.PNG" controls>
+				<source src="/images/Video_Libby_lowres.mp4" type="video/mp4" />
+			</video>
+			<p>
+				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a> to see the full list of magazines available in Libby.
+			</p>
+			<p>If you can't find the magazines you want in Libby, try <a href="/get-started-with/Libby/" target="_blank" rel="noopener">PressReader (click here for the guide)</a>.
+			</p>
+	</div>
+</div>
+
 
 <h2>Different Devices</h2>
 <div>
-		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">Is there a device limit for Libby?</label>
+		<input type="radio" name="acc" id="acc8">
+        <label for="acc8">Is there a device limit for Libby?</label>
         <div class="acc-body">
   <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc8">
-        <label for="acc8">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</label>
+		<input type="radio" name="acc" id="acc9">
+        <label for="acc9">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</label>
         <div class="acc-body">
       <p>If you are using Libby across multiple devices:</p>
 <ul>
@@ -159,8 +170,8 @@ If you want to know why your titles are not downloading or how to adjust your au
   <h2>Libby versus OverDrive</h2>
 
 <div>
-		<input type="radio" name="acc" id="acc9">
-        <label for="acc9">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
+		<input type="radio" name="acc" id="acc10">
+        <label for="acc10">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
         <div class="acc-body">
   <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / Audiobooks online, but does not have a built-in reader for downloaded eBooks / Audiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
         </p>
@@ -168,8 +179,8 @@ If you want to know why your titles are not downloading or how to adjust your au
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc10">
-        <label for="acc10">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and Audiobooks?  </label>
+		<input type="radio" name="acc" id="acc11">
+        <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and Audiobooks?  </label>
         <div class="acc-body">
 		<p>You can still use OverDrive to borrow eBooks and Audiobooks from NLB.</p>
     <p><ol><li>Launch OverDrive.</li>
@@ -184,8 +195,8 @@ If you want to know why your titles are not downloading or how to adjust your au
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc11">
-        <label for="acc11">Is Libby replacing the OverDrive app?</label>
+		<input type="radio" name="acc" id="acc12">
+        <label for="acc12">Is Libby replacing the OverDrive app?</label>
         <div class="acc-body">
     <p>Libby will not be replacing the OverDrive app. OverDrive has no plans to remove the OverDrive app. We will keep users updated on the latest developments from OverDrive, if any.
       </p>
@@ -195,8 +206,8 @@ If you want to know why your titles are not downloading or how to adjust your au
   <h2>Skip the Line</h2>
 
 <div>
-		<input type="radio" name="acc" id="acc12">
-        <label for="acc12">I saw a category called “Skip the Line” in Libby. What is it?</label>
+		<input type="radio" name="acc" id="acc13">
+        <label for="acc13">I saw a category called “Skip the Line” in Libby. What is it?</label>
         <div class="acc-body">
 		<p><strong>“Skip the Line”</strong> is a feature that lets you to borrow popular digital titles immediately, instead of joining the reservation queue. “Skip the Line” copies have special rules:</p>
 <ul>
@@ -210,16 +221,16 @@ If you want to know why your titles are not downloading or how to adjust your au
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc13">
-        <label for="acc13">How do I know which titles have “Skip the Line” copies?</label>
+		<input type="radio" name="acc" id="acc14">
+        <label for="acc14">How do I know which titles have “Skip the Line” copies?</label>
         <div class="acc-body">
   <p>Titles with “Skip the Line” copies have a four-leaf clover icon next to the “Borrow” button. </p>
   </div>
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc14">
-        <label for="acc14">Where can I browse a list of all “Skip the Line” titles?</label>
+		<input type="radio" name="acc" id="acc15">
+        <label for="acc15">Where can I browse a list of all “Skip the Line” titles?</label>
         <div class="acc-body">
   <p>It’s simple! Launch Libby. Tap on the “Library” tab, then select “Explore”. Select 
 “Skip the Line”. Check back often as the list changes frequently.</p>
@@ -227,16 +238,16 @@ If you want to know why your titles are not downloading or how to adjust your au
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc15">
-        <label for="acc15">A book I have already reserved has a “Skip the Line” copy. Can I still borrow a “Skip the Line” copy?</label>
+		<input type="radio" name="acc" id="acc16">
+        <label for="acc16">A book I have already reserved has a “Skip the Line” copy. Can I still borrow a “Skip the Line” copy?</label>
         <div class="acc-body">
   <p>Yes, you can! A “Skip the Line” loan will not affect your reservation.</p>
   </div>
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc16">
-        <label for="acc16">Does my “Skip the Line” loan contribute to my loan quota?</label>
+		<input type="radio" name="acc" id="acc17">
+        <label for="acc17">Does my “Skip the Line” loan contribute to my loan quota?</label>
         <div class="acc-body">
   <p>Yes, it contributes to your loan quota (i.e. 16 eBooks/ eAudiobooks).</p><p class="end-note">Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
 eBooks / eAudiobooks you currently have on loan.</p>
@@ -244,8 +255,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc17">
-        <label for="acc17">Can I browse or borrow “Skip the Line” titles on NLB Mobile or nlb.overdrive.com?</label>
+		<input type="radio" name="acc" id="acc18">
+        <label for="acc18">Can I browse or borrow “Skip the Line” titles on NLB Mobile or nlb.overdrive.com?</label>
         <div class="acc-body">
   <p>No. Currently, you can only browse or borrow “Skip the Line” titles using the Libby app.</p>
   </div>
@@ -254,8 +265,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <h2>Compatibility with eReaders / apps</h2>
 
 <div>
-		<input type="radio" name="acc" id="acc18">
-        <label for="acc18">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
+		<input type="radio" name="acc" id="acc19">
+        <label for="acc19">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
         <div class="acc-body">
 <p>Format availability for eBooks is subject to the negotiations between OverDrive and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
 <p><strong>Kindle</strong>: Currently, Kindle is not supported.</p>
@@ -301,8 +312,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <h2>Troubleshooting</h2>
 
    <div>
-        <input type="radio" name="acc" id="acc19">
-        <label for="acc19">I can't sign in to Libby.</label>
+        <input type="radio" name="acc" id="acc20">
+        <label for="acc20">I can't sign in to Libby.</label>
         <div class="acc-body">
   <p>If you still can't sign in after following the steps in the video near the top of this page, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
 <p>Help topics are also available on the <a href="https://help.libbyapp.com/" target="_blank">Libby support site</a>.</p>
@@ -310,8 +321,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc20">
-        <label for="acc20">My eBook/eAudiobook isn't downloading.</label>
+		<input type="radio" name="acc" id="acc21">
+        <label for="acc21">My eBook/eAudiobook isn't downloading.</label>
         <div class="acc-body">
   <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
   <p><img src="/images/Screenshot_Libby-change-download-rules.jpg"></p>
@@ -320,8 +331,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
   </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc21">
-		<label for="acc21">I checked out a book using OverDrive, and now I can’t return it early on Libby.</label>
+		<input type="radio" name="acc" id="acc22">
+		<label for="acc22">I checked out a book using OverDrive, and now I can’t return it early on Libby.</label>
 	<div class="acc-body"><p>You can return all your eBooks from the NLB Mobile app. Go to Account > eBook Loans. </p>
       <p class="end-note">eBooks added to the Libby app are in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
       <p class="end-note">With the exception of <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
@@ -329,8 +340,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc22">
-        <label for="acc22">Can I read in landscape mode on my phone using Libby?</label>
+		<input type="radio" name="acc" id="acc23">
+        <label for="acc23">Can I read in landscape mode on my phone using Libby?</label>
         <div class="acc-body">
   <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
