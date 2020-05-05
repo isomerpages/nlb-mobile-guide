@@ -37,8 +37,6 @@ A user ID for library members that lets you:
   </li>
 </ul>
 <p>To receive the waiver, sign up for library membership <strong>at the libraries</strong> instead of online.</p>
-
-
 		</div>
 	</div>
 
