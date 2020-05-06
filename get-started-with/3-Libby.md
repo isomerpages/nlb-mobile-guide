@@ -40,7 +40,6 @@ title: eBooks and Audiobooks
 </div><!--close div for qn-->
 
 	<p><h2>What is Libby, and How to Download eBooks and Audiobooks with Libby</h2></p>
-
 <div class="vd">
      <video width="720px" poster="/images/Thumbnail_Libby_video.PNG" controls>
   <source src="/images/Video_Libby_lowres.mp4" type="video/mp4" />
@@ -70,8 +69,6 @@ title: eBooks and Audiobooks
 <div>
 		<input type="radio" name="acc" id="acc4">
 		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
-
-
 <div class="acc-body">
   <p>Your 'user ID' refers to your NLB myLibrary ID. </p>
 </div>
@@ -108,6 +105,17 @@ title: eBooks and Audiobooks
 <p>To check your notification settings in Libby, please read <a href="https://help.libbyapp.com/6174.htm" target="_blank">this Help article</a> on setting up and managing notifications. </p>
 
 </div></div>
+
+<div>
+		<input type="radio" name="acc" id="acc6a">
+		<label for="acc6a">How can I renew the eBooks / audiobooks? </label>
+<div class="acc-body">
+  <p>You can renew a title a few days before it's due using these steps:<br/>
+Go to Shelf > Loans.<br/>
+Tap Manage Loan.<br/>
+Tap Renew Loan, then Renew. </p>
+</div>
+</div>
 
 <div>
 		<input type="radio" name="acc" id="acc7">
