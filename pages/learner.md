@@ -58,7 +58,7 @@ title: Top Tips for Learners
 <p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
 <p>Find out more about <a href="/get-started-with/lynda/">LyndaLibrary</a>.</p>
 <h3>I want to learn but I can't seem to find the time to do it! Do you have tips for me?</h3>
-<p>We recommend eAudiobooks as they allow you to multitask. You can learn something just by listening to eAudiobooks anytime, anywhere, whether you're stuck in traffic or doing chores. Just search for a subject you wish to explore and tap on 'audiobooks' underneath the search term to see what is available.</p>
+<p>We recommend audiobooks as they allow you to multitask. You can learn something just by listening to audiobooks anytime, anywhere, whether you're stuck in traffic or doing chores. Just search for a subject you wish to explore and tap on 'audiobooks' underneath the search term to see what is available.</p>
 <p><img src="/images/Libby_screenshot_audiobooksearch.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">        
         </p>
 
