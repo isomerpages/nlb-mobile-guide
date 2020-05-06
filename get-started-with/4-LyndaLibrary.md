@@ -8,7 +8,21 @@ title: eLearning
 ---
 <h2>Introducing LyndaLibrary</h2>
 
-Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i>LyndaLibrary by LinkedIn</i>:
+<div class="vd">
+     <video width="720px" poster="/images/Thumbnail-Lynda.PNG" controls>
+  <source src="/images/Video_Lynda_SPH.mp4" type="video/mp4" />
+</video>
+
+<!--Use this version when SPH newspapers aren't available remotely anymore
+<div class="vd">
+     <video width="720px" poster="/images/Thumbnail-Lynda.PNG" controls>
+  <source src="/images/Video_Lynda.mp4" type="video/mp4" />
+</video>
+-->
+
+<p>
+	Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i>LyndaLibrary by LinkedIn</i>:
+	</p>
 <ul>   
 	<li> <b>Learn anything:</b> Over 8,000 courses covering a wide range of topics, from data science to leadership skills</li>
 	<li> <b>Learn from experts:</b> Many courses are taught by recognised industry experts

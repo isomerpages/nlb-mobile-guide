@@ -10,8 +10,10 @@ title: Top Tips for Seniors
 If you are new to NLB's digital collection (which include eNewspapers, eBooks, eLearning), you're in the right place!
 <p>To start using any of NLB's digital services, you need a myLibrary ID. To find out if you need to create one, go to the <a href="https://account.nlb.gov.sg" target="_blank">myLibrary account page</a>. If you need to create one, <a href="/images/mylibrary_guide_TOYL.pdf" target="_blank"> this handy step-by-step PDF guide (1.2 MB)</a> has all the answers, in all 4 languages. For more questions on myLibrary ID, go to our <a href="/get-started-with/myLibrary/#mylibrary" target="_blank">myLibrary ID FAQ page</a>.</p>
 
-<h3>Read eNewspapers and eMagazines</h3>
-Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. For SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao, please visit any of our libraries. 
+<h3>Read local newspapers during the circuit breaker</h3>
+<p>Although our libraries are temporarily closed, you can now read <b>newspapers published by Singapore Press Holdings (SPH) from home</b>, as part of our arrangement with SPH for the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page.</a> Read up on the news while staying safe at home.</p>
+<h3>International eNewspapers and eMagazines</h3>
+<p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. <!--For SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao, please visit any of our libraries. -->
 <p>Watch this video to learn how to read eNewspapers and eMagazines.</p>
 <div class="vd">
      <video width="720px" poster="/images/Thumbnail_PressReader_video.PNG" controls>
