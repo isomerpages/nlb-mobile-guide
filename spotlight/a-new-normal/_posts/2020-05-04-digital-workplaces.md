@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Package 1 - Digital Workplaces
 date:   2020-05-04
-permalink: /spotlight/newnormal/digital-workplaces
+permalink: /spotlight/a-new-normal/digital-workplaces
 description: A 2019 report found that 48 percent of staff in the United States already worked from home at least once a week. In Singapore, employers have been gradually adopting telecommuting.
 image: /images/NL-a1-overview.jpg
 ---
