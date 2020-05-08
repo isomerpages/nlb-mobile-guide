@@ -45,7 +45,7 @@ title: eLearning
         <label for="acc2">How do I start using LyndaLibrary from the NLB Mobile app? </label>
 
 <div class="acc-body">
-  <p>Sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
+  <p>Sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary. Do note that if you are a new LyndaLibrary user, you will be prompted to create a Lynda profile. 
       </p>
 
 </div></div>
@@ -69,7 +69,7 @@ title: eLearning
         <label for="acc3">Do I need a Lynda.com or a LinkedIn account? </label>
 
 <div class="acc-body">
-	<p>This is optional as long as you access the online courses from the <b>NLB Mobile app</b>. As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to. However, if you sign in from a desktop, you will be prompted to create a Lynda.com profile to save your history and bookmarks.</p>
+	<p>As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to. Do note that you will be prompted to create a Lynda.com profile to save your history and bookmarks.</p>
     </div>
 </div>
 
