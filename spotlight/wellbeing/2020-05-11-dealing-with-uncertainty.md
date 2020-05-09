@@ -19,7 +19,7 @@ Source: <a href="https://www.youtube.com/watch?v=veEQQ-N9xWU" target="_blank">Th
 <h5>2. Breaking the Anxiety Cycle through Kindness by Steven Zanella</h5>
 According to Steven Zanella, who had spent a large part of his life worrying about uncertainties, practising positive thoughts allows you to feel less fearful about the unknown, and instead, see it as an infinite possibility. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/EgU3i-g8ZRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/EgU3i-g8ZRY" target="_blank">Breaking the Anxiety Cycle through Kindness</a> (2016, February 2). TED. 
+Source: <a href="https://www.youtube.com/watch?v=EgU3i-g8ZRY" target="_blank">Breaking the Anxiety Cycle through Kindness</a> (2016, February 2). TED. 
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
