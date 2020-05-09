@@ -69,7 +69,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BC3F6302
 <h5>Thriving Through Uncertainty: Moving Beyond Fear of the Unknown and Making Change Work for You</h5>
 <i>Tama Kieves</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=81857BB3-C703-4447-8756-FB4636D61212"><img src="/images/PL-7-Thriving-through-uncertainty.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 650.1 KIE -[BIZ]. Penguin Publishing Group, 2018.<br/>
+Penguin Publishing Group, 2018.<br/>
 While staying at home, pick up this book to find out how to take charge of yourself and succeed in times of uncertainty.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=81857BB3-C703-4447-8756-FB4636D61212">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/81857BB3-C703-4447-8756-FB4636D61212">online</a> &#128187;.<br/>
 
