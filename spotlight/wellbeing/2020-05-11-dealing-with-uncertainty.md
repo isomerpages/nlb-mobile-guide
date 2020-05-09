@@ -14,7 +14,7 @@ image: /images/PL-7-Intro-Image.jpg
 <h5>1. The Art of Being Yourself by Caroline McHugh</h5>
 People will be more satisfied if they realise that the only job they have in life is to be as good as they can possibly be at being themselves: a unique and less-conscious individual.  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/veEQQ-N9xWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/veEQQ-N9xWU" target="_blank">The Art of Being Yourself</a> (2013, February 15). TED. 
+Source: <a href="https://www.youtube.com/watch?v=veEQQ-N9xWU" target="_blank">The Art of Being Yourself</a> (2013, February 15). TED. 
 
 <h5>2. Breaking the Anxiety Cycle through Kindness by Steven Zanella</h5>
 According to Steven Zanella, who had spent a large part of his life worrying about uncertainties, practising positive thoughts allows you to feel less fearful about the unknown, and instead, see it as an infinite possibility. 
