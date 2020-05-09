@@ -52,27 +52,19 @@ Red Wheel Weiser, 2016.<br/>
 What is a day like without worry? How productive can you be? This book will teach the reader to shift and condition the internal state of mind, and build up the environment to support these changes.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=662EAAFD-6B09-4D2A-BE18-91D03EFC9D90">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/662EAAFD-6B09-4D2A-BE18-91D03EFC9D90">online</a>&#128187;.<br/> 
 
+<h5>The Daily Stoic</h5>
+<i>Ryan Holiday, Stephen Hanselman</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6F5C216-A82B-43A7-B470-E2348328FDA5"><img src="/images/PL-7-The-Daily-Stoic.jpg" style="width:300px; text-align:left;"></a><br/>
+Penguin Publishing Group, 2016.<br/> 
+The writer, Ryan Holiday gives advice and guidance on how to live a life of calm, serenity and resilience in order to live well day by day.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6F5C216-A82B-43A7-B470-E2348328FDA5">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/B6F5C216-A82B-43A7-B470-E2348328FDA5">online</a>&#128187;.<br/>
 
-<h5>Nonsense: The Power of Not Knowing</h5>
-<i>Jamie Holmes</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4D673ADE-5A4D-45B6-8ABD-D37E77908534"><img src="/images/PL-7-Nonsense.jpg" style="width:300px; text-align:left;"></a><br/>
-Crown, 2015.<br/>
-Our need for answers has its own dangers. It makes us go to our first, though not always the best, solution. This book explores how uncertainty and ambiguity can allow us to see the world from another perspective.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4D673ADE-5A4D-45B6-8ABD-D37E77908534">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4D673ADE-5A4D-45B6-8ABD-D37E77908534">online</a> &#128187;.<br/>
-
-<h5>Can You Learn to Be Lucky: Why Some People Seem to Win More Often Than Others</h5>
-<i>Karla Starr</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=F925831C-0B45-4A39-B447-3E78D335D3AE"><img src="/images/PL-7-Can-You-Learn-to-Be-Lucky.jpg" style="width:300px; text-align:left;"></a><br/>
-Penguin Publishing Group, 2018.<br/>
-Are you lucky or not? Unlucky, "random" outcomes have predictable effects on our behaviour that often make us act in self-defeating ways without even realizing it. This book teaches how to harness personal strengths to overcome life's unlucky patterns.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F925831C-0B45-4A39-B447-3E78D335D3AE">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F925831C-0B45-4A39-B447-3E78D335D3AE">online</a> &#128187;.<br/>
-
-<h5>The Anxiety Toolkit: Strategies for Fine-Tuning Your Mind and Moving Past Your Stuck Points</h5>
-<i>Alice Boyes</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=38679DCB-E293-429C-938A-ECF87B8D504C"><img src="/images/PL-7-The-Anxiety-Toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
-Penguin Publishing Group, 2015.<br/>
-Whether you are anxious on a situational basis, or have to cope with an anxiety disorder, this book gives practical tips and tricks to identify triggers, alongside tools to create confidence.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=38679DCB-E293-429C-938A-ECF87B8D504C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/38679DCB-E293-429C-938A-ECF87B8D504C">online</a> &#128187;.<br/>
+<h5>Antifragile: Things That Gain from Disorder</h5>
+<i>Nassim Nicholas Taleb</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BC3F6302-0727-4EBF-97D1-7DBE6A0570C5"><img src="/images/PL-7-Antifragile.jpg" style="width:300px; text-align:left;"></a><br/>
+Random House Publishing Group, 2012.<br/> 
+Though uncertainty is a part of life, Taleb explains what it means to be antifragile and how such an attitude keeps us strong.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BC3F6302-0727-4EBF-97D1-7DBE6A0570C5">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/BC3F6302-0727-4EBF-97D1-7DBE6A0570C5">online</a>&#128187;.<br/>
 
 <h5>Thriving Through Uncertainty: Moving Beyond Fear of the Unknown and Making Change Work for You</h5>
 <i>Tama Kieves</i><br/>
@@ -81,26 +73,34 @@ Call Number: English 650.1 KIE -[BIZ]. Penguin Publishing Group, 2018.<br/>
 While staying at home, pick up this book to find out how to take charge of yourself and succeed in times of uncertainty.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=81857BB3-C703-4447-8756-FB4636D61212">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/81857BB3-C703-4447-8756-FB4636D61212">online</a> &#128187;.<br/>
 
-<h5>Tame Your Anxiety: Rewiring Your Brain for Happiness</h5>
-<i>Loretta Graziano Breuning</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=373FB5EB-2CED-4C6C-ACE2-C509E7733C0D"><img src="/images/PL-7-Tame-your-anxiety.jpg" style="width:300px; text-align:left;"></a><br/>
-Rowman & Littlefield Publishers, 2019.<br/>
-Anxiety is natural. Let this book teach you about tools that can help you rewire your brain to cope with anxiety.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=373FB5EB-2CED-4C6C-ACE2-C509E7733C0D">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/373FB5EB-2CED-4C6C-ACE2-C509E7733C0D">online</a> &#128187;.<br/>
-
-<h5>Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness</h5>
-<i>Rick Hanson with Forrest Hanson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3F27000E-1CF4-4B5D-A890-A10D99F68E02"><img src="/images/PL-7-Resilient.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
-Understand the notion of resilience, and learn how to handle difficulties and interact with others effectively. Discover the power of a positive mindset and how it promotes a happy and healthier well-being.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3F27000E-1CF4-4B5D-A890-A10D99F68E02">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3F27000E-1CF4-4B5D-A890-A10D99F68E02">online</a> &#128187;.<br/>
-
 <h5>The Positive Shift: Mastering Mindset to Improve Happiness, Health, and Longevity</h5>
 <i>Catherine A. Sanderson</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=56A9A49D-3388-4632-91B1-44161B2F68E3"><img src="/images/PL-7-The-positive-shift.jpg" style="width:300px; text-align:left;"></a><br/>
 BenBella Books, Inc., 2019.<br/>
 Discover the power of a positive mindset and how it promotes a happy and healthier well-being.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=56A9A49D-3388-4632-91B1-44161B2F68E3">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/56A9A49D-3388-4632-91B1-44161B2F68E3">online</a> &#128187;.<br/>
+
+<h5>The Little Book of Self-Care: 200 Ways to Refresh, Restore, and Rejuvenate</h5>
+<i>Adams Media</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=00B4C22F-A232-4CD8-9885-2E0D103B4CE4"><img src="/images/PL-7-The-little-book-of-self-care.png" style="width:300px; text-align:left;"></a><br/>
+Adams Media, 2017.<br/> 
+This book offers accessible ways to care for one’s self. When refreshed and strong, it is easier to face the world and care for others in return.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/">online</a>&#128187;.<br/>
+
+<h5>Art Matters: Because Your Imagination Can Change the World</h5>
+<i>Neil Gaiman, Chris Riddell</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69022F1E-D3BA-45FA-BD7D-6E322FEEFC7D"><img src="/images/PL-7-Art-matters.jpg" style="width:300px; text-align:left;"></a><br/>
+HarperAudio, 2018.<br/> 
+This audiobook brings together Gaiman’s writings on the importance of art and creativity, to be bold when faced with difficulties and hardships. Art can transform the world.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69022F1E-D3BA-45FA-BD7D-6E322FEEFC7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/69022F1E-D3BA-45FA-BD7D-6E322FEEFC7D">online</a>&#128187;.<br/>
+
+<h5>Lean Out: A Meditation On the Madness of Modern Life</h5>
+<i>Tara Henley</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=66E086E6-553E-4829-9A79-22DF41CE0917"><img src="/images/PL-7-Lean-out.jpg" style="width:300px; text-align:left;"></a><br/>
+Appetite by Random House, 2020.<br/> 
+When the writer faced health problems due to her stressful lifestyle, she embarked on a quest to find out what it means to drop out of the rat race and strive for meaningful connections.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=66E086E6-553E-4829-9A79-22DF41CE0917">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/66E086E6-553E-4829-9A79-22DF41CE0917">online</a>&#128187;.<br/>
+
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
