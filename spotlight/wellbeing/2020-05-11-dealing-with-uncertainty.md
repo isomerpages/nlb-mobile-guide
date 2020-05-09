@@ -28,7 +28,7 @@ Source: <a href="https://www.youtube.com/watch?v=EgU3i-g8ZRY" target="_blank">Br
 There is a difference between hearing and listening. Beyond listening, there is the art of empathic listening. Learn how listening with empathy can help create more precise solutions.</p>
 <a href="https://www.lynda.com/Business-tutorials/Listen-empathy/746310/5012291-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Dealing-your-own-frustration/784281/2700055-4.html?org=nlb.gov.sg" target="_blank">Dealing with your own Frustration</a></strong><br/>
+<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Dealing-your-own-frustration/784281/2700055-4.html?org=nlb.gov.sg" target="_blank">Dealing with Your Own Frustration</a></strong><br/>
 Improve your wellbeing with two simple activities – meditation and sleep!</p>
 <a href="https://www.lynda.com/Business-tutorials/Dealing-your-own-frustration/784281/2700055-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
