@@ -35,7 +35,7 @@ Improve your wellbeing with two simple activities – meditation and sleep!</p>
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://www.ccl.org/articles/leading-effectively-articles/9-tips-for-dealing-with-uncertainty-and-anxiety/">9 Tips for Dealing with Uncertainty & Anxiety Right Now</a><br/>
+<h5>1. <a href="https://www.ccl.org/articles/leading-effectively-articles/9-tips-for-dealing-with-uncertainty-and-anxiety">9 Tips for Dealing with Uncertainty & Anxiety Right Now</a><br/>
 <i>Katya Fernandez.</i> Published on Centre for Creative Leadership, 3 Dec 2018.</h5>
 <p>This article presents practical and simple tips to change the way you think and feel in times of uncertainty. Intentional focus, looking on the bright side, and meditating, these are just some of the few ways you can feel better without even leaving your chair.</p>
 
