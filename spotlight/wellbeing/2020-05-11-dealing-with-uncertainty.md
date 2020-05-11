@@ -8,7 +8,7 @@ image: /images/PL-7-Intro-Image.jpg
 ---
 <img src="/images/PL-7-Intro-Image.jpg">
 <p><q>The only constant is change.</q> - Heraclitus.</p>
-<p>When life throws you lemons, you make…. wait. What if they aren’t even lemons? Uncertainty is an inevitable part of life, so how can we deal with the metaphorical lemon (or any other strange fruit, really?) to reset ourselves and emerge a different and stronger person? Here are some resources on dealing with uncertainty in exceptional times.</p>
+<p>When life throws you lemons, you make…. wait. What if they aren’t even lemons? Uncertainty is an inevitable part of life, so how can we deal with the metaphorical lemon (or any other fruit, really?) to reset ourselves and emerge a stronger person? Here are some resources on dealing with uncertainty in exceptional times.</p>
 
 <h4>Videos</h4>
 <h5>1. The Art of Being Yourself by Caroline McHugh</h5>
