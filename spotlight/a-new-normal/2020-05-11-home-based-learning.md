@@ -12,7 +12,7 @@ In response to COVID-19, many schools across the globe have closed and transitio
 
 Distance or online learning is not new to the education sector, especially with the rising popularity of massive open online courses (MOOC) in the past decade and the integration of technology in the classroom.[^2] However, the current duration and scale of HBL is an unprecedented one for students, teachers and families alike, and is part of a wider crisis management.[^3]
 
-The learning that takes place at home “may not be entirely e-learning, but a small part of a learning activity to be undertaken by children who cannot be in school”.[^4] Observations during this HBL period across the world include the impact of socio-economic factors on accessibility to learning, developments in technology to support the needs of differently-abled learners, and alternative modes of assessment for students.[^5]
+Observations during this HBL period across the world include the impact of socio-economic factors on accessibility to learning, developments in technology to support the needs of differently-abled learners, and alternative modes of assessment for students.[^4]
 
 The lessons learnt from the current COVID-19 crisis may chart new directions for the education landscape in Singapore and the rest of world. To find out more about HBL and online learning, check out the resources below. 
 
@@ -24,9 +24,7 @@ Look out for our next instalment, which will explore the impact of technology on
 
 [^3]: Dodd, H. (2020, April 14). I can’t believe I am going to say this, but I would rather be at school. *The New York Times,* retrieved 2020, May 2 from <https://www.nytimes.com/2020/04/14/us/school-at-home-students-coronavirus.html>; Bromley, M. (2020, March 18). Coronavirus: Crisis management and school closure – issues to consider. *SecEd*. Retrieved 2020, April 30 from <https://www.sec-ed.co.uk/best-practice/coronavirus-covid-19-crisis-management-school-closure-headteachers/>
 
-[^4]: Quek, G. (2020, April 1). Tackling home-based learning. *CNA938, Singapore Today*. Retrieved 2020, April 30 from <https://www.nie.edu.sg/about-us/news-events/news/news-detail/tackling-home-based-learning-assoc-prof-gwendoline-quek>
-
-[^5]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from <https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202>; Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from <https://blogs.worldbank.org/education/educational-challenges-and-opportunities-covid-19-pandemic>; 
+[^4]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from <https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202>; Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from <https://blogs.worldbank.org/education/educational-challenges-and-opportunities-covid-19-pandemic>; 
 
 <h4>Videos & Podcasts</h4>
 <h5>1. Education Now | Socially distant – And more connected than ever</h5>
@@ -40,8 +38,8 @@ Source: <a href="https://www.youtube.com/embed/E9t53lZw_rg" target="_blank">What
 <h5>3. <a href="https://www.npr.org/programs/ted-radio-hour/825896890/teaching-for-better-humans-2-0" target="_blank">Teaching for better humans 2.0</a></h5>
 Teaching for better humans 2.0. (2020, April 3). <i>NPR</i>. Retrieved 2020, April 28.
 
-<h5>4. <a href="https://podcasts.apple.com/us/podcast/a-new-normal-when-we-return-to-school-what-can-we-expect/id586119906?i=1000472149222" target="_blank">A New Normal? When We Return To School, What Can We Expect?</a></h5>
-A New Normal? When We Return To School, What Can We Expect? (2020, April 21). <i>EdChat</i>. Retrieved 2020, May 2.
+<h5>4. <a href="https://podcasts.apple.com/us/podcast/a-new-normal-when-we-return-to-school-what-can-we-expect/id586119906?i=1000472149222" target="_blank">A new normal? When we return to school, what can we expect?</a></h5>
+A new normal? When we return to school, what can we expect? (2020, April 21). <i>EdChat</i>. Retrieved 2020, May 2.
 
 <h4>Websites</h4>
 <h5>1. <a href="https://www.forbes.com/sites/enriquedans/2020/04/13/the-coronavirus-pandemic-has-unleashed-a-revolution-in-education-from-now-on-blended-learning-will-be-the-benchmark" target="_blank">The coronavirus pandemic has unleashed a revolution in education: From now on blended learning will be the benchmark</a></h5>
@@ -67,8 +65,8 @@ UNESCO. (2020). <i>Distance learning solutions</i>. Retrieved 2020, April 28.
 Losh, E. (2014). <i>The war on learning: Gaining ground in the digital university</i>. Cambridge, MA: The MIT Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
 <a href="https://nlb.overdrive.com/media/1741463" target="_blank"><img src="/images/NL-a3-the-war-on-learning.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>2. Education and Social Media: Toward a Digital Future</h5>
-Greenhow, C., Sonnevend, J. & Agur, C. (2016). <i>Education and Social Media: Toward a Digital Future</i>. Cambridge, MA: The MIT Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+<h5>2. Education and social media: Toward a digital future</h5>
+Greenhow, C., Sonnevend, J. & Agur, C. (2016). <i>Education and social media: Toward a digital future</i>. Cambridge, MA: The MIT Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
 <a href="https://nlb.overdrive.com/media/2755278" target="_blank"><img src="/images/NL-a3-education-and-social-media.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>3. The end of college. Creating the future of learning and the university of everywhere.</h5>
