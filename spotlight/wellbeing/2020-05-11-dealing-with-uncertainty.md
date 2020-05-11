@@ -78,7 +78,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=56A9A49D
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=cbe0a0dc-a167-4007-87c1-915b9a0f4366"><img src="/images/PL-7-The-little-book-of-self-care.png" style="width:300px; text-align:left;"></a><br/>
 Adams Media, 2017.<br/> 
 This book offers accessible ways to care for one’s self. When refreshed and strong, it is easier to face the world and care for others in return.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= cbe0a0dc-a167-4007-87c1-915b9a0f4366">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ cbe0a0dc-a167-4007-87c1-915b9a0f4366">online</a>&#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=cbe0a0dc-a167-4007-87c1-915b9a0f4366">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/cbe0a0dc-a167-4007-87c1-915b9a0f4366">online</a>&#128187;.<br/>
 
 <h5>Art Matters: Because Your Imagination Can Change the World</h5>
 <i>Neil Gaiman, Chris Riddell</i><br/>
