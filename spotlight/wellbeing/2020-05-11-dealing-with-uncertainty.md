@@ -41,7 +41,7 @@ Improve your wellbeing with two simple activities – meditation and sleep!</p>
 
 <h5>2. <a href="https://www.bbc.com/worklife/article/20200501-six-tips-to-deal-with-uncertainty">Six Tips to Deal with Uncertainty</a><br/>
 <i>Eleonore Voisard.</i> Published on BBC.com, 2 May 2020.</h5>
-<p>The loss of control over many basic and important things in life is a cause for anxiety about many things: work, finances, and health. The article together with a companion video suggests ways in which we can feel more centred and grounded in hard times.</p>
+<p>The loss of control over many basic and important things in life is a cause for anxiety about many things: work, finances, and health. The article together with a companion video suggests ways in which we can feel more centred.</p>
 
 <h4>eBooks</h4>
 
