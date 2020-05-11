@@ -45,13 +45,6 @@ Improve your wellbeing with two simple activities – meditation and sleep!</p>
 
 <h4>eBooks</h4>
 
-<h5>The Worry-Free Mind: Train Your Brain, Calm the Stress Spin Cycle, and Discover a Happier, More Productive You</h5>
-<i>Carol Kershaw and Bill Wade</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=662EAAFD-6B09-4D2A-BE18-91D03EFC9D90"><img src="/images/PL-7-The-Worry-Free-Mind.jpg" style="width:300px; text-align:left;"></a><br/>
-Red Wheel Weiser, 2016.<br/> 
-What is a day like without worry? How productive can you be? This book will teach the reader to shift and condition the internal state of mind, and build up the environment to support these changes.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=662EAAFD-6B09-4D2A-BE18-91D03EFC9D90">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/662EAAFD-6B09-4D2A-BE18-91D03EFC9D90">online</a>&#128187;.<br/> 
-
 <h5>The Daily Stoic</h5>
 <i>Ryan Holiday, Stephen Hanselman</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6F5C216-A82B-43A7-B470-E2348328FDA5"><img src="/images/PL-7-The-Daily-Stoic.jpg" style="width:300px; text-align:left;"></a><br/>
