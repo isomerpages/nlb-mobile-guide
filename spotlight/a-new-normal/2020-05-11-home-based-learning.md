@@ -18,15 +18,15 @@ The lessons learnt from the current COVID-19 crisis may chart new directions for
 
 Look out for our next instalment, which will explore the impact of technology on learning.
 
-[^1]: UNESCO. (2020). *COVID-19 educational disruption and response.* Retrieved 2020, May 2 from https://en.unesco.org/covid19/educationresponse/ 
+[^1]: UNESCO. (2020). *COVID-19 educational disruption and response.* Retrieved 2020, May 2 from <https://en.unesco.org/covid19/educationresponse/>
 
-[^2]: Pappano. (2012, November 2). The year of the MOOC. *The New York Times*. Retrieved 2020, April 30 from https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html; Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202; Trucano, M. (2014, September 16). Education & technology in an age of pandemics (revisited). *World Bank Blogs*. Retrieved 2020, April 29 from https://blogs.worldbank.org/edutech/education-technology-age-pandemics-revisited
+[^2]: Pappano. (2012, November 2). The year of the MOOC. *The New York Times*. Retrieved 2020, April 30 from <https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html>; Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from <https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202>; Trucano, M. (2014, September 16). Education & technology in an age of pandemics (revisited). *World Bank Blogs*. Retrieved 2020, April 29 from <https://blogs.worldbank.org/edutech/education-technology-age-pandemics-revisited>
 
-[^3]: Dodd, H. (2020, April 14). I can’t believe I am going to say this, but I would rather be at school. *The New York Times,* retrieved 2020, May 2 from https://www.nytimes.com/2020/04/14/us/school-at-home-students-coronavirus.html; Bromley, M. (2020, March 18). Coronavirus: Crisis management and school closure – issues to consider. *SecEd*. Retrieved 2020, April 30 from https://www.sec-ed.co.uk/best-practice/coronavirus-covid-19-crisis-management-school-closure-headteachers/
+[^3]: Dodd, H. (2020, April 14). I can’t believe I am going to say this, but I would rather be at school. *The New York Times,* retrieved 2020, May 2 from <https://www.nytimes.com/2020/04/14/us/school-at-home-students-coronavirus.html>; Bromley, M. (2020, March 18). Coronavirus: Crisis management and school closure – issues to consider. *SecEd*. Retrieved 2020, April 30 from <https://www.sec-ed.co.uk/best-practice/coronavirus-covid-19-crisis-management-school-closure-headteachers/>
 
-[^4]: Quek, G. (2020, April 1). Tackling home-based learning. *CNA938, Singapore Today*. Retrieved 2020, April 30 from https://www.nie.edu.sg/about-us/news-events/news/news-detail/tackling-home-based-learning-assoc-prof-gwendoline-quek
+[^4]: Quek, G. (2020, April 1). Tackling home-based learning. *CNA938, Singapore Today*. Retrieved 2020, April 30 from <https://www.nie.edu.sg/about-us/news-events/news/news-detail/tackling-home-based-learning-assoc-prof-gwendoline-quek>
 
-[^5]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202; Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from https://blogs.worldbank.org/education/educational-challenges-and-opportunities-covid-19-pandemic; 
+[^5]: Robert, C. (2020, April 11). Commentary: Home-based learning is strange, new ground. But we can conquer that too. *ChannelNewsAsia.* Retrieved 2020, April 29 from <https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202>; Saavedra, J. (2020, March 3). Educational challenges and opportunities of the Coronavirus (COVID-19) pandemic. Retrieved 2020, April 29 from <https://blogs.worldbank.org/education/educational-challenges-and-opportunities-covid-19-pandemic>; 
 
 <h4>Videos & Podcasts</h4>
 <h5>1. Education Now | Socially distant – And more connected than ever</h5>
@@ -98,12 +98,12 @@ Eggert, D., & Beutner, M. (2019). <a href="http://eresources.nlb.gov.sg/main/bro
 Chadha, A. (2018). <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Virtual classrooms: Analyzing student and instructor collaborative experiences</a>. <i>Journal of the Scholarship of Teaching and Learning</i>, 18(3). Retrieved 2020, April 24 from ProQuest via NLB’s eResources website (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h4>Chinese, Malay and Tamil resources</h4>
-<h5>1. <a href="https://news.gmw.cn/2020-03/20/content_33666437.htm" target="_blank">停课不停学：居家学习，效果如何。</a></h5>
+<h5>1. <a href="https://news.gmw.cn/2020-03/20/content_33666437.htm" target="_blank">停课不停学：居家学习，效果如何</a></h5>
 孙宗鹤编辑。（2020年3月20日）。停课不停学：居家学习，效果如何。<i>光明网。</i> Retrieved 2020, April 30.
 
 The China Education Policy Research Institute of Beijing Normal University conducted a survey on online learning among primary, junior high and high school students in 31 provinces in China. This article examines the survey results and provides recommendations on improving the effectiveness of online learning.
 
-<h5>2. <a href="https://www.8world.com/topic/jujiaxuexi" target="_blank">居家学习专题。</a></h5>
+<h5>2. <a href="https://www.8world.com/topic/jujiaxuexi" target="_blank">居家学习专题</a></h5>
 居家学习专题。<i>新加坡8视界。</i> Retrieved 2020, April 30.
 
 This site contains information related to home-based learning published on 8world.com, the Chinese digital portal managed by Mediacorp.
