@@ -70,7 +70,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=81857BB3
 <i>Catherine A. Sanderson</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=56A9A49D-3388-4632-91B1-44161B2F68E3"><img src="/images/PL-7-The-positive-shift.jpg" style="width:300px; text-align:left;"></a><br/>
 BenBella Books, Inc., 2019.<br/>
-Discover the power of a positive mindset and how it promotes a happy and healthier well-being.<br/>
+Discover the power of a positive mindset and how it promotes a happy and healthier wellbeing.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=56A9A49D-3388-4632-91B1-44161B2F68E3">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/56A9A49D-3388-4632-91B1-44161B2F68E3">online</a> &#128187;.<br/>
 
 <h5>The Little Book of Self-Care: 200 Ways to Refresh, Restore, and Rejuvenate</h5>
