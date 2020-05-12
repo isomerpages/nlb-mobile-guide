@@ -25,18 +25,20 @@ Publisher: Random House Children’s Books<br/>
 <p>Say Namaste to Meddy Teddy, a rising star in the yogi world, in his debut picture book! In his first-ever companion book, Meddy Teddy encourages readers to try yoga poses as he comes out of hibernation, greets the springtime, and teaches his forest friends how to mindfully get through a variety of situations. 
 </p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D">with the app</a> 📱 or <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D">online</a> 💻.
-<p><h5>Origami Games: Hands-on Fun for Kids!</h5></p>
-<i>Joel Stern</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7457F25D-2830-4EC5-9547-CB1986379739"><img src="/images/PL-2-yoga2.jpg" style="width:300px; text-align:left;"></a><br/>
+<p><h5>Breathe Like a Bear</h5></p>
+<i>Kira Wiley</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7"><img src="/images/PL-2-yoga2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English736.982 STE -[ART]<br/>
-Publisher: Tuttle Publishing, 2010<br/>
-<p>Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork.</p>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7457F25D-2830-4EC5-9547-CB1986379739">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/%7B7457F25D-2830-4EC5-9547-CB1986379739%7D">online</a> 💻.
+Publisher: Random House Children’s Books<br/>
+<p>Breathe Like a Bear is a beautifully illustrated collection of mindfulness exercises designed to teach kids techniques for managing their bodies, breath, and emotions. Best of all, these 30 simple, short breathing practices and movements can be performed anytime, anywhere. This book is sure to help kids find calm, gain focus, and feel energized during the day.
+</p>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7">with the app</a> 📱 or <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7">online</a> 💻.
 <h4>For more stay-home activities to engage children, visit:</h4>
 <p><a href="http://www.nlb.gov.sg/discovereads/diy-resources/" target="_blank">http://www.nlb.gov.sg/discovereads/diy-resources/</a></p>
 <h4>Tip for parents:</h4>
-<p>School holidays provide an opportunity to create happy memories with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.</p>
-<p>Source: <a href="https://www.unicef.org/coronavirus/covid-19-parenting-tips#3e" target="_blank">Tips for parenting during the coronavirus (COVID-19) outbreak</a>(Last accessed on 30 April 2020)</p><br/>
+<p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence. </p>
+<p>Source: <a href="https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055" target="_blank">More than just a game: Yoga for school-age children</a></p><br/>
+All websites were last accessed on 4 May 2020.
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
