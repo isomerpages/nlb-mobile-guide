@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Stay Curious with Your Child - Yoga for Kida
+title:  Stay Curious with Your Child - Yoga for Kids
 date:   2020-05-13
 permalink: /spotlight/stay-curious/2020-05-13-yogaforkids
 description: Looking for easy craft activities? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
@@ -38,7 +38,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A
 <h4>Tip for parents:</h4>
 <p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence. </p>
 <p>Source: <a href="https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055" target="_blank">More than just a game: Yoga for school-age children</a></p><br/>
-All websites were last accessed on 4 May 2020.<br/>
+<p>All websites were last accessed on 4 May 2020.</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
