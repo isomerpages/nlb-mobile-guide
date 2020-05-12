@@ -3,7 +3,7 @@ layout: post
 title:  Stay Curious with Your Child - Yoga for Kids
 date:   2020-05-13
 permalink: /spotlight/stay-curious/2020-05-13-yogaforkids
-description: Looking for easy craft activities? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
+description: Go on a fun yoga adventure and learn amazingly easy moves to relax with your child. 
 image: /images/PL-1-header.jpg
 ---
 <img src="/images/PL-1-header.jpg">
