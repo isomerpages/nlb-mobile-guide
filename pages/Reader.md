@@ -18,7 +18,7 @@ title: Top Tips for Avid Readers
 		<input type="radio" name="acc" id="acc1" checked>
 		<label for="acc1"><i></i> Any recommendations on what to read next?</label>
 		<div class="acc-body">
-			<p>Tap on 'Library' in the Libby app, located at the bottom left corner of your screen,  and scroll down to browse book lists by category,  e.g. thrillers or what’s trending. Just tap on the theme you’re in the mood for and let Libby lead you to your next great read!</p>
+			<p>Tap on 'Library' in the Libby app, located at the bottom left corner of your screen,  and scroll down to browse book lists by category,  e.g. thrillers or what’s trending. Just tap on the theme you’re in the mood for, and select Refine > 'Available Now' if you only want to see titles you can borrow immediately. Let Libby lead you to your next great read!</p>
 		</div>
 	</div>
     <div>
@@ -28,7 +28,7 @@ title: Top Tips for Avid Readers
 			<p>How about audiobooks? You can listen to them while doing chores, driving –even right before bed as part of your wind-down routine. Some of these books are read by famous authors themselves, especially autobiographies such as Becoming by Michelle Obama. To check if the book you want has an audiobook version, simply search for the title. The word “audiobook” will appear underneath your search term if available.</p>
 			<br>
 			<img src="/images/Reader_screenshot_audiobook_search_Becoming.jpg" alt="A screenshot showing how to filter search results by eAudiobooks.">
-			<p>If you just want to explore what is available, tap on 'Library' in the Libby app and select 'Available Audiobooks'. If you listen before bedtime, Libby can automatically pause the narration after a specific amount of time set by you. Open the audiobook and tap, hold and drag down the moon icon to set the sleep timer.</p>
+			<p>If you just want to explore what is available, tap on 'Library' in the Libby app, scroll down to the yellow 'What's Available?' speech bubble and and select 'Available Audiobooks'. If you listen before bedtime, Libby can automatically pause the narration after a specific amount of time set by you. Open the audiobook and drag down the moon icon to set the sleep timer.</p>
 			<p>Short stories are also a great way to squeeze in some reading. To find them, go to Library -> Explore -> Subjects -> Short Stories. Some of these are also available as eAudiobooks!</p>
 		</div>
 	</div>
