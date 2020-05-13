@@ -7,7 +7,7 @@ description: Go on a fun yoga adventure and learn amazingly easy moves to relax 
 image: /images/PL-1-header.jpg
 ---
 <img src="/images/PL-1-header.jpg">
-<h1 style="text-align:center">“Our bodies are our gardens – our wills are our gardeners.” <p><i>William Shakespeare</i></p></h1>
+<h1 style="text-align:center">“Our bodies are our gardens &#9472; our wills are our gardeners.” <p><i>William Shakespeare</i></p></h1>
 <h4>Yoga for Kids</h4>
 <p>Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.</p>
 <p>All you need are:</p>
