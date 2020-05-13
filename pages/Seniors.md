@@ -22,7 +22,7 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 </div>
 
 <p><h2>Top Tips for Seniors</h2></p>
-<a href="/images/Seniors.png"><img src="Seniors_lowres.png" alt="An infographic featuring top tips for seniors on NLB's digital collection, such as accessing eNewspapers and eMagazines, stories for grandchildren, eLearning and so on."></a>
+<a href="/images/Seniors.png"><img src="/images/Seniors_lowres.png" alt="An infographic featuring top tips for seniors on NLB's digital collection, such as accessing eNewspapers and eMagazines, stories for grandchildren, eLearning and so on."></a>
 <a href="/images/Seniors.png">Click to enlarge</a>
 
 <p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
