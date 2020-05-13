@@ -38,7 +38,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7457F25D
 <p><a href="http://www.nlb.gov.sg/discovereads/diy-resources/" target="_blank">http://www.nlb.gov.sg/discovereads/diy-resources/</a></p>
 <h4>Tip for parents:</h4>
 <p>School holidays provide an opportunity to create happy memories with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.</p>
-<p>Source: <a href="https://www.unicef.org/coronavirus/covid-19-parenting-tips#3e" target="_blank">Tips for parenting during the coronavirus (COVID-19) outbreak</a>(Last accessed on 30 April 2020)</p><br/>
+<p>Source: <a href="https://www.unicef.org/coronavirus/covid-19-parenting-tips#3e" target="_blank">Tips for parenting during the coronavirus (COVID-19) outbreak</a></p><br/>
+<p>
+  All websites were last accessed on 30 April 2020.
+  </p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
