@@ -36,8 +36,17 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A
 <h4>For more stay-home activities to engage children, visit:</h4>
 <p><a href="http://www.nlb.gov.sg/discovereads/diy-resources/" target="_blank">http://www.nlb.gov.sg/discovereads/diy-resources/</a></p>
 <h4>Tip for parents:</h4>
-<p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence. </p>
-<p>Source: <a href="https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055" target="_blank">More than just a game: Yoga for school-age children</a></p><br/>
+When kids are active, their bodies can do the things they want and need them to do. Why? Because regular exercise provides these benefits:
+
+<ul>
+<li>strong muscles and bones</li>
+<li>healthy weight</li>
+<li>decreased risk of developing type 2 diabetes</li>
+<li>better sleep</li>
+<li>a better outlook on life</li>
+</ul>
+<p>Physically active kids also are more likely to be motivated, focused, and successful in school. And mastering physical skills builds confidence at every age.</p>
+<p>Source: <a href="https://kidshealth.org/en/parents/active-kids.html" target="_blank">Motivating Kids to Be Active</a></p><br/>
 <p>All websites were last accessed on 4 May 2020.</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
