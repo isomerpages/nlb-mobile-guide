@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Stay Curious with Your Child - Yoga for Kids
-date:   2020-05-13
-permalink: /spotlight/stay-curious/2020-05-13-yogaforkids
+title:  Stay Curious with Your Child - Science Exploration
+date:   2020-05-20
+permalink: /spotlight/stay-curious/2020-05-20-science-exploration
 description: Go on a fun yoga adventure and learn amazingly easy moves to relax with your child. 
 image: /images/PL-1-header.jpg
 ---
 <img src="/images/PL-1-header.jpg">
-<h1 style="text-align:center">“Our bodies are our gardens &#9472; our wills are our gardeners.” <p><i>William Shakespeare</i></p></h1>
+<h1 style="text-align:center">“Our bodies are our gardens – our wills are our gardeners.” <p><i>William Shakespeare</i></p></h1>
 <h4>Yoga for Kids</h4>
 <p>Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.</p>
 <p>All you need are:</p>
@@ -36,7 +36,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A
 <h4>For more stay-home activities to engage children, visit:</h4>
 <p><a href="http://www.nlb.gov.sg/discovereads/diy-resources/" target="_blank">http://www.nlb.gov.sg/discovereads/diy-resources/</a></p>
 <h4>Tip for parents:</h4>
-<p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence.</p>
+<p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence. </p>
 <p>Source: <a href="https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055" target="_blank">More than just a game: Yoga for school-age children</a></p><br/>
 <p>All websites were last accessed on 4 May 2020.</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
