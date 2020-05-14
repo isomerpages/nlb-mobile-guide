@@ -413,7 +413,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <input type="radio" name="acc" id="acc23b">
         <label for="acc23b">Other than Readalongs, do you have other more interactive eBooks for children?</label>
         <div class="acc-body">
-		<p><a href="https://go.gov.sg/nlb-ereadalongs" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
+		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
 	
 </div></div>
 
