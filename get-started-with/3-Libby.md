@@ -405,18 +405,15 @@ eBooks / eAudiobooks you currently have on loan.</p>
 				<li><a href="https://libbyapp.com/library/nlb/guide/chinese" target="_blank" rel="noopener">Chinese</a</li>
 					<li><a href="https://libbyapp.com/library/nlb/guide/malay" target="_blank" rel="noopener">Malay</a></li>
 					<li><a href="https://libbyapp.com/library/nlb/guide/tamil" target="_blank" rel="noopener">Tamil</a></li>
-					</ul>
-		<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="https://eresources.nlb.gov.sg/main/Pages/MobileDevices" target="_blank" rel="noopener">FAQ guide on HyRead</a> in our eResources site.</p>
-				</div>
-	</div>
+					<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="https://eresources.nlb.gov.sg/main/Pages/MobileDevices" target="_blank" rel="noopener">FAQ guide on HyRead</a> in our eResources site.</p>
+
+</div></div>
 	
    <div>
         <input type="radio" name="acc" id="acc23b">
         <label for="acc23b">Other than Readalongs, do you have other more interactive eBooks for children?</label>
         <div class="acc-body">
-		<p>
-			<a href="https://go.gov.sg/nlb-ereadalongs" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.
-		</p>
-	</div>
-</div>
+		<p><a href="https://go.gov.sg/nlb-ereadalongs" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
+	
+</div></div>
 
