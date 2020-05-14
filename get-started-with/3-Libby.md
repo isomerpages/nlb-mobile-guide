@@ -393,32 +393,22 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
 
-<p>
 <div class="FAQ-section" id="Others">
-  <h2>Can't Find the eBooks You Want?</h2>
-</p>
+	<p><h2>Can't Find the eBooks You Want?</h2></p>
+
    <div>
         <input type="radio" name="acc" id="acc23a">
         <label for="acc23a">Where can I find more eBooks written in the Mother Tongue Languages?</label>
         <div class="acc-body">
-		<p>
-			You can find more books in the following languages in Libby by clicking on the relevant link:
+		<p>You can find more books in the following languages in Libby by clicking on the relevant link:</p>
 			<ul>
-				<li>
-					<a href="https://libbyapp.com/library/nlb/guide/chinese" target="_blank" rel="noopener">Chinese</a>
-				</li>
-				<li>
-					<a href="https://libbyapp.com/library/nlb/guide/malay" target="_blank" rel="noopener">Malay</a>
-				</li>
-								<li>
-					<a href="https://libbyapp.com/library/nlb/guide/tamil" target="_blank" rel="noopener">Tamil</a>
-				</li>
-		</ul>
-		<p>
-			In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks.<a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="https://eresources.nlb.gov.sg/main/Pages/MobileDevices" target="_blank" rel="noopener">FAQ guide on HyRead</a> in our eResources site.
-		</p>
+				<li><a href="https://libbyapp.com/library/nlb/guide/chinese" target="_blank" rel="noopener">Chinese</a</li>
+					<li><a href="https://libbyapp.com/library/nlb/guide/malay" target="_blank" rel="noopener">Malay</a></li>
+					<li><a href="https://libbyapp.com/library/nlb/guide/tamil" target="_blank" rel="noopener">Tamil</a></li>
+					</ul>
+		<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="https://eresources.nlb.gov.sg/main/Pages/MobileDevices" target="_blank" rel="noopener">FAQ guide on HyRead</a> in our eResources site.</p>
 				</div>
-		</div>
+	</div>
 	
    <div>
         <input type="radio" name="acc" id="acc23b">
