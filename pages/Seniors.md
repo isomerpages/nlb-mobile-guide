@@ -31,6 +31,10 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 <p>Find out more about <a href="/get-started-with/lynda/">eLearning</a>.</p>
 
 <p><h2>More Tips</h2></p>
+
+<p><h5>How to Tell When It's Fake News</h5></p>
+<a href="https://sure.nlb.gov.sg/resources/audience/seniors/combating-fake-news" target="_blank" rel="noopener">This page from the National Library's information literacy team</a>  has clear guides on the telltale signs of fake news.
+
 <p><h5>Be Savvy and Safe when you Go Digital</h5></p>
 
 <p>Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">IMDA's "Stay Healthy, Go Digital"</a> site. It includes content such as:</p>
