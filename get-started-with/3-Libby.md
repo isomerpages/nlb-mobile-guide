@@ -416,9 +416,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>
 			In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks.<a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="https://eresources.nlb.gov.sg/main/Pages/MobileDevices" target="_blank" rel="noopener">FAQ guide on HyRead</a> in our eResources site.
 		</p>
-				
-</div>
-</div>
+				</div>
+		/div>
 	
    <div>
         <input type="radio" name="acc" id="acc23b">
@@ -427,6 +426,5 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>
 			<a href="https://go.gov.sg/nlb-ereadalongs" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.
 		</p>
-
-</div>
+	</div>
 </div>
