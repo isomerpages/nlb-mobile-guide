@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Learning Package 4 - Impact of Technology on Learning
-date:   2020-05-14
+date:   2020-05-15
 permalink: /spotlight/a-new-normal/impact-of-technology-on-learning
 description: The COVID-19 pandemic has radically shifted the learning experience on an unprecedented scale.
 image: /images/NL-a4-main.jpg
@@ -52,7 +52,6 @@ Lau, J. (2020, April 21). Will online education widen Asia’s digital divide? <
 
 <h4>Ebooks</h4>
 <h5>1. The learning challenge: Dealing with technology, innovation and change in learning and development</h5>
-
 Paine, N. (2014). <i>The learning challenge: Dealing with technology, innovation and change in learning and development</i>. Kogan Page. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
 <a href="https://nlb.overdrive.com/media/E3546DBA-0D21-48AD-8794-8F2C1A1FE0F2" target="_blank"><img src="/images/NL-a4-learning-challenge.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
@@ -76,11 +75,11 @@ Source: <a href="https://www.youtube.com/embed/atVkNBXMVnY" target="_blank">Digi
 
 <h5>2. The future of universities in a block chain world</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/s6bk1PKIuzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://youtu.be/s6bk1PKIuzo" target="_blank">The future of universities in a block chain world | Diane Sieber | TEDxBoulder</a>. (2017, October 18). <i>TEDx Talks</i>. Retrieved 2020, April 28. 
+Source: <a href="https://www.youtube.com/embed/s6bk1PKIuzo" target="_blank">The future of universities in a block chain world | Diane Sieber | TEDxBoulder</a>. (2017, October 18). <i>TEDx Talks</i>. Retrieved 2020, April 28. 
 
 <h5>3. Neuroscience, AI and the future of education</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/_cYIvfS-knA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://youtu.be/_cYIvfS-knA" target="_blank">Neuroscience, AI and the future of education | Scott Bolland | TEDxSouthBank.</a> (2016, June 30). <i>TEDx Talks</i>. Retrieved 2020, April 28.
+Source: <a href="https://www.youtube.com/embed/_cYIvfS-knA" target="_blank">Neuroscience, AI and the future of education | Scott Bolland | TEDxSouthBank.</a> (2016, June 30). <i>TEDx Talks</i>. Retrieved 2020, April 28.
 
 <h5>4. <a href="https://www.gse.harvard.edu/news/20/04/harvard-edcast-remote-learning-and-digital-divide" target="_blank">Harvard EdCast: Remote learning and the digital divide</a></h5>
 Harvard EdCast: Remote learning and the digital divide. (2020, April 22). <i>Harvard Graduate School of Education</i>. Retrieved 2020, May 11.
@@ -93,7 +92,7 @@ Harvard EdCast: Remote learning and the digital divide. (2020, April 22). <i>Har
 <h5>1. <a href="https://search.nlb.gov.sg/Search?query=investigating+self-directed+learning+technology+readiness&cont=ejournal" target="_blank">Investigating self-directed learning and technology readiness in blended learning environment</a></h5>
 Geng, S., Law, K.M.Y., & Niu, B. (2019). Investigating self-directed learning and technology readiness in blended learning environment. <i>International Journal of Educational Technology in Higher Education 16(1)</i>, 1–22. Retrieved 2020, April 30 from ProQuest database via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">eResources website.</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
-<h5>2. <a href="https://search.nlb.gov.sg/Search?query=adult+learning+control+society+digital+era+govrnance+control&cont=ejournal" target="_blank">Adult learning in the control society: Digital era governance, literacies of control, and the work of adult educators</a></h5>
+<h5>2. <a href="https://search.nlb.gov.sg/Search?query=adult+learning+control+society+digital+era+governance+control&cont=ejournal" target="_blank">Adult learning in the control society: Digital era governance, literacies of control, and the work of adult educators</a></h5>
 Smythe, S. (2018). Adult learning in the control society: Digital era governance, literacies of control, and the work of adult educators.<i> Adult Education Quarterly, 68(3)</i>, 197-214. Retrieved 2020, May 14 from EBSCOhost database via NLB’s <a href="http://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">eResources website.</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h5>3. <a href="https://search.nlb.gov.sg/Search?query=the+online+learning+divide+reilly+katie&cont=ejournal" target="_blank">The online learning divide</a></h5>
