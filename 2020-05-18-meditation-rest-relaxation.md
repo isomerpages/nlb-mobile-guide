@@ -47,7 +47,7 @@ Sometimes, we need to slow down to be more productive.</p>
 <h4>eBooks</h4>
 <h5>Aware: The Science and Practice of Presence--The Groundbreaking Meditation Practice</h5>
 <i> Daniel Siegel</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC"><img src="/images/ PL-8-Aware.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC"><img src="/images/PL-8-Aware.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Publishing Group, 2018.<br/> 
 Reflective practise, as taught by the writer helps one to be more present and focus better. Learn about the science behind meditation and follow the instructional guides and learn the steps to become more emotionally resilient and at peace.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC">online</a>&#128187;.<br/>
@@ -61,7 +61,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4F3E26BA
 
 <h5>Relax and Renew: Restful Yoga for Stressful Times</h5>
 <i>Judith Hanson Lasater</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9941A6C2-A28A-48D5-8548-832474AE3293"><img src="/images/ PL-8-Relax-renew.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9941A6C2-A28A-48D5-8548-832474AE3293"><img src="/images/PL-8-Relax-renew.jpg" style="width:300px; text-align:left;"></a><br/>
 Shambhala, 2016.<br/> 
 Take some time each day to relax. Certain postures and breathing techniques in restorative yoga are taught in this book to encourage relaxation and relieve stress.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9941A6C2-A28A-48D5-8548-832474AE3293">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9941A6C2-A28A-48D5-8548-832474AE3293">online</a>&#128187;.<br/>
