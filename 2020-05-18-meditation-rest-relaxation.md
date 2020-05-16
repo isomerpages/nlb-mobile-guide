@@ -45,35 +45,12 @@ Sometimes, we need to slow down to be more productive.</p>
 <p>Clutter is a source of stress especially if you feel overwhelmed with the amount of stuff you have around you while working from home. Why not use this opportunity to do some decluttering at home!</p>
 
 <h4>eBooks</h4>
-
-<h5>10% Happier</h5>
-<i>Dan Harris</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4da3e1e6-c2e9-4102-9e6e-c4bb9717c8ad"><img src="/images/PL-8-10-percent-happier.jpg" style="width:300px; text-align:left;"></a><br/>
-HarperCollins, 2019.<br/> 
-A humorous sharing by Dan Harris on his journey towards happiness.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4da3e1e6-c2e9-4102-9e6e-c4bb9717c8ad">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4da3e1e6-c2e9-4102-9e6e-c4bb9717c8ad">online</a>&#128187;.<br/> 
-
-
-<h5>Meditation for Fidgety Skeptics</h5>
-<i>Dan Harris and Jeffrey Warren</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=DEAE6B49-A9C3-42B3-A3C2-8E3C4C4FA457"><img src="/images/PL-8-Meditation-for-Fidgety-Skeptics.jpg" style="width:300px; text-align:left;"></a><br/>
-Random House Publishing Group, 2017.<br/>
-An easy-to-follow guide for first-timers or people who are interested in meditation. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DEAE6B49-A9C3-42B3-A3C2-8E3C4C4FA457">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/DEAE6B49-A9C3-42B3-A3C2-8E3C4C4FA457">online</a> &#128187;.<br/>
-
-<h5>Stress-Proof</h5>
-<i>Mithu Storoni</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=95C99E90-D988-4764-965E-689D353F9C65"><img src="/images/PL-8-Stress-proof.jpg" style="width:300px; text-align:left;"></a><br/>
-Penguin Publishing Group, 2017.<br/>
-A book that shares simple, scientific-based techniques to reduce stress and improve your resilience.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=95C99E90-D988-4764-965E-689D353F9C65">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/95C99E90-D988-4764-965E-689D353F9C65">online</a> &#128187;.<br/>
-
-<h5>One Zentangle a Day</h5>
-<i>Beckah Krahula</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AD51E90-8B7C-44BC-841A-94A7718FF59C"><img src="/images/PL-8-One-zentange-a-day.jpg" style="width:300px; text-align:left;"></a><br/>
-Quarry Books, 2013.<br/>
-Have a little relaxation fun by drawing some Zentangle.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AD51E90-8B7C-44BC-841A-94A7718FF59C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4AD51E90-8B7C-44BC-841A-94A7718FF59C">online</a> &#128187;.<br/>
+<h5>Aware: The Science and Practice of Presence--The Groundbreaking Meditation Practice</h5>
+<i> Daniel Siegel</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC"><img src="/images/ PL-8-Aware.jpg" style="width:300px; text-align:left;"></a><br/>
+Penguin Publishing Group, 2018.<br/> 
+Reflective practise, as taught by the writer helps one to be more present and focus better. Learn about the science behind meditation and follow the instructional guides and learn the steps to become more emotionally resilient and at peace.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC">online</a>&#128187;.<br/>
 
 <h5>Breathe Slower, Deeper, Better</h5>
 <i>Yael Bloch</i><br/>
@@ -82,26 +59,47 @@ The Experiment, 2019.<br/>
 Live better – physically, emotionally, and spiritually – by taking simple steps to enhance your breathing.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4F3E26BA-67F9-4A7A-9785-D88042901F7B">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4F3E26BA-67F9-4A7A-9785-D88042901F7B">online</a> &#128187;.<br/>
 
-<h5>Stillness Is the Key</h5>
-<i>Ryan Holiday</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FEF0DEF5-3A18-4E4F-95BE-2F27FC65D887"><img src="/images/PL-8-Stillness-is-a-key.jpeg" style="width:300px; text-align:left;"></a><br/>
-Penguin Publishing Group, 2019.<br/>
-<i>Stillness Is the Key</i> offers a simple but inspiring antidote to the stress of 24/7 news and social media updates.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FEF0DEF5-3A18-4E4F-95BE-2F27FC65D887">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/FEF0DEF5-3A18-4E4F-95BE-2F27FC65D887">online</a> &#128187;.<br/>
+<h5>Relax and Renew: Restful Yoga for Stressful Times</h5>
+<i>Judith Hanson Lasater</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9941A6C2-A28A-48D5-8548-832474AE3293"><img src="/images/ PL-8-Relax-renew.jpg" style="width:300px; text-align:left;"></a><br/>
+Shambhala, 2016.<br/> 
+Take some time each day to relax. Certain postures and breathing techniques in restorative yoga are taught in this book to encourage relaxation and relieve stress.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9941A6C2-A28A-48D5-8548-832474AE3293">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9941A6C2-A28A-48D5-8548-832474AE3293">online</a>&#128187;.<br/>
 
-<h5>Rest</h5>
-<i>Alex Soojung-Kim Pang</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4F2078F0-3C42-45AC-80A5-3BB30F4D93F9"><img src="/images/PL-8-Rest.jpeg" style="width:300px; text-align:left;"></a><br/>
-Basic Books, 2017.<br/>
-<i>Rest</i> offers a roadmap to rediscovering the importance of rest in our lives, and a convincing argument that we need to relax more if we actually want to get more done.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4F2078F0-3C42-45AC-80A5-3BB30F4D93F9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4F2078F0-3C42-45AC-80A5-3BB30F4D93F9">online</a> &#128187;.<br/>
+<h5>Sleep: Change the Way You Sleep with this 90 Minute Read</h5>
+<i>Nick Littlehales</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=45FC300E-0ABE-45BC-91CE-B0AE9FA724E0"><img src="/images/PL-8-Sleep.jpg" style="width:300px; text-align:left;"></a><br/>
+Penguin Books Ltd, 2016.<br/> 
+The writer, Nick Littlehales is a sleep consultant to athletes who compete at the highest levels. Learn about bedding, sleeping postures and personal characteristics that can lead to a better night’s sleep.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=45FC300E-0ABE-45BC-91CE-B0AE9FA724E0">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/45FC300E-0ABE-45BC-91CE-B0AE9FA724E0">online</a>&#128187;.<br/>
 
-<h5>The Book of Rest</h5>
-<i>James Reeves</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FA3E9FB5-84C1-445B-95C1-30F5D8542933"><img src="/images/PL-8-The-book-of-rest.jpeg" style="width:300px; text-align:left;"></a><br/>
-HarperCollins Publishers, 2019.<br/>
-<i>The Book of Rest</i> reveals how to find a moment of peace even in the busiest of days, and a path to a calmer, happier and more relaxed you.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FA3E9FB5-84C1-445B-95C1-30F5D8542933">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/FA3E9FB5-84C1-445B-95C1-30F5D8542933">online</a> &#128187;.<br/>
+<h5>365 Simple Pleasures: Daily Suggestions for Comfort and Joy</h5>
+<i>Susannah Seton</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC75245-F4F0-437F-848F-3604FD45A502"><img src="/images/PL-8-365-simple-pleasures.jpg" style="width:300px; text-align:left;"></a><br/>
+Red Wheel Weiser, 2012.<br/> 
+Looking for ways to feel at ease yet energized? How about infusing a room with aromatic fragrances or maintaining a cactus garden?  Susannah Seton presents a generous selection of ideas in this book.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC75245-F4F0-437F-848F-3604FD45A502">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5EC75245-F4F0-437F-848F-3604FD45A502">online</a>&#128187;.<br/>
+
+<h5>One Zentangle a Day</h5>
+<i>Beckah Krahula</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AD51E90-8B7C-44BC-841A-94A7718FF59C"><img src="/images/PL-8-One-zentange-a-day.jpg" style="width:300px; text-align:left;"></a><br/>
+Quarry Books, 2013.<br/>
+Have a little relaxation fun by drawing some Zentangle.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AD51E90-8B7C-44BC-841A-94A7718FF59C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4AD51E90-8B7C-44BC-841A-94A7718FF59C">online</a> &#128187;.<br/>
+
+<h5>In Tune: Music as the Bridge to Mindfulness</h5>
+<i>Richard Wolf</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2EFDC25B-11C6-4E10-ADA3-3BEE030369D3"><img src="/images/PL-8-In-tune.jpg" style="width:300px; text-align:left;"></a><br/>
+The Experiment, 2019.<br/> 
+Learn the skills required in musical practice to achieve a better experience of mindfulness. These music-based exercises are meant to enhance meditation and creativity.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2EFDC25B-11C6-4E10-ADA3-3BEE030369D3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/2EFDC25B-11C6-4E10-ADA3-3BEE030369D3">online</a>&#128187;.<br/>
+
+<h5>Holistic Space: 108 Ways to Create a Mindful and Peaceful Home</h5>
+<i>Anjie Cho</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= C0C758D7-7B02-48AF-97B2-4DBD991FDD4A"><img src="/images/PL-8-Holistic-spaces.jpg" style="width:300px; text-align:left;"></a><br/>
+Ryland Peters & Small, 2018.<br/> 
+Learn how to improve your living and working spaces with the principles of feng shui and green design. Follow this guide to clear and refresh your living environment. Tips include bringing nature indoors and the thoughtful use of colours.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C0C758D7-7B02-48AF-97B2-4DBD991FDD4A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C0C758D7-7B02-48AF-97B2-4DBD991FDD4A">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
