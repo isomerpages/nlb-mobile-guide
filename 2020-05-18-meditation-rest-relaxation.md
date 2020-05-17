@@ -84,7 +84,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC75245
 <i>Beckah Krahula</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AD51E90-8B7C-44BC-841A-94A7718FF59C"><img src="/images/PL-8-One-zentange-a-day.jpg" style="width:300px; text-align:left;"></a><br/>
 Quarry Books, 2013.<br/>
-Have a little relaxation fun by drawing some Zentangle.<br/>
+Have a little relaxation fun by drawing patterns using repetitive lines, marks, circles and shapes. This style is known as Zentangle and is a way to practice meditation and focus.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4AD51E90-8B7C-44BC-841A-94A7718FF59C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4AD51E90-8B7C-44BC-841A-94A7718FF59C">online</a> &#128187;.<br/>
 
 <h5>In Tune: Music as the Bridge to Mindfulness</h5>
