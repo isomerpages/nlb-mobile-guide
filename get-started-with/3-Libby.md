@@ -315,7 +315,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<input type="radio" name="acc" id="acc19">
         <label for="acc19">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
         <div class="acc-body">
-<p>Format availability for eBooks is subject to the negotiations between OverDrive and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
+<p>Format availability for eBooks is subject to the negotiations between OverDrive* and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
+		
 <p><strong>Kindle</strong>: Currently, Kindle is not supported.</p>
 		<p><strong>Kobo</strong>: Yes, you can access NLB's eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
 <ul>
@@ -326,9 +327,11 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <li>Aura H2O Edition 2, or&nbsp;</li>
   <li>Clara HD devices.</li>
 </ul>
-<p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
-  <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank">Read this article</a> for a step-by-step guide on how to borrow OverDrive ebooks on your Kobo device.
+<p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive* on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
+  <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank">Read this article</a> for a step-by-step guide on how to borrow ebooks on your Kobo device.
 </p>
+<p class="endnote">*The Libby app interface is not currently available on Kobo - only the OverDrive app interface. However, the selection of eBooks available and what you have borrowed from either app would be the same.</p>
+
 <p>For older models of Kobo eReaders such as those below, you will need to transfer NLB's eBooks from a computer using the free Adobe Digital Editions software:</p>
 <ul>
   <li>Kobo Aura</li>
