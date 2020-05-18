@@ -8,10 +8,13 @@ title: eReads
 ---
 <h2>About eReads</h2>
 
+<p></p>
+
 <div class="vd">
      <video width="720px" poster="/images/Thumbnail_eReads_video.PNG" controls>
   <source src="/images/Video_eReads.mp4" type="video/mp4" />
 </video>
+
 
 <p>Discover digital books, eBooks and Audiobooks, selected by NLB librarians on eReads screens.</p>  
 
