@@ -27,11 +27,11 @@ Source: <a href="https://www.youtube.com/watch?v=CQjGqtH-2YI" target="_blank">Ho
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Identifying-triggers/2810626/2236627-4.html?org=nlb.gov.sg" target="_blank">Managing Stress with Todd Dewett</a></strong><br/>
 Check out these simple and practical tips on managing stress by Todd Dewett.</p>
-<a href="https://www.lynda.com/Business-tutorials/Identifying-triggers/2810626/2236627-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Identifying-triggers/2810626/2236627-4.html?org=nlb.gov.sg"><img src="/images/PL-8-Lyndalibrary-managing-stress.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/How-Slow-Down-More-Productive/2822203-2.html?org=nlb.gov.sg" target="_blank">Slowing Down in a Fast World</a></strong><br/>
 Sometimes, we need to slow down to be more productive.</p>
-<a href="https://www.lynda.com/Business-tutorials/How-Slow-Down-More-Productive/2822203-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/How-Slow-Down-More-Productive/2822203-2.html?org=nlb.gov.sg"><img src="/images/PL-8-Lyndalibrary-Slowing-down-in-a-fast-world.png" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
@@ -49,7 +49,7 @@ Sometimes, we need to slow down to be more productive.</p>
 <i> Daniel Siegel</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC"><img src="/images/PL-8-Aware.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Publishing Group, 2018.<br/> 
-Reflective practise, as taught by the writer helps one to be more present and focus better. Learn about the science behind meditation and follow the instructional guides and learn the steps to become more emotionally resilient and at peace.<br/>
+Reflective practice, as taught by the writer, helps one to be more present and focus better. Learn about the science behind meditation. Follow the instructional guides and learn the steps to become more emotionally resilient and at peace.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4CCBFAC6-C8DC-460D-8B49-72E4B6787BCC">online</a>&#128187;.<br/>
 
 <h5>Breathe Slower, Deeper, Better</h5>
@@ -70,7 +70,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9941A6C2
 <i>Nick Littlehales</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=45FC300E-0ABE-45BC-91CE-B0AE9FA724E0"><img src="/images/PL-8-Sleep.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Books Ltd, 2016.<br/> 
-The writer, Nick Littlehales is a sleep consultant to athletes who compete at the highest levels. Learn about bedding, sleeping postures and personal characteristics that can lead to a better night’s sleep.<br/>
+The writer, Nick Littlehales, is a sleep consultant to athletes who compete at the highest levels. Learn about bedding, sleeping postures and personal characteristics that can lead to a better night’s sleep.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=45FC300E-0ABE-45BC-91CE-B0AE9FA724E0">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/45FC300E-0ABE-45BC-91CE-B0AE9FA724E0">online</a>&#128187;.<br/>
 
 <h5>365 Simple Pleasures: Daily Suggestions for Comfort and Joy</h5>
