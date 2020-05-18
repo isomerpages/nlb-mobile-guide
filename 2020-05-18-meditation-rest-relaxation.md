@@ -96,7 +96,8 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2EFDC25B
 
 <h5>Holistic Space: 108 Ways to Create a Mindful and Peaceful Home</h5>
 <i>Anjie Cho</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C0C758D7-7B02-48AF-97B2-4DBD991FDD4A"><img src="/images/PL-8-Holistic-spaces.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C0C758D7-7B02-48AF-97B2-4DBD991FDD4A">
+<img src="/images/PL-8-Holistic-spaces.jpg" style="width:300px; text-align:left;"></a><br/>
 Ryland Peters & Small, 2018.<br/> 
 Learn how to improve your living and working spaces with the principles of feng shui and green design. Follow this guide to clear and refresh your living environment. Tips include bringing nature indoors and the thoughtful use of colours.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C0C758D7-7B02-48AF-97B2-4DBD991FDD4A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C0C758D7-7B02-48AF-97B2-4DBD991FDD4A">online</a>&#128187;.<br/>
