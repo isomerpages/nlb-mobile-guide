@@ -37,7 +37,7 @@ Sometimes, we need to slow down to be more productive.</p>
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://www.psychologytoday.com/sg/blog/compassion-matters/202004/10-ways-fight-loneliness-while-sheltering-home">10 Ways to Fight Loneliness While Sheltering at Home</a><br/>
-<i>Lise Firestone.</i> Published on Psychologytoday.com, on 28 April 2020</h5>
+<i>Lise Firestone.</i> Published on Psychologytoday.com, on 28 April 2020.</h5>
 <p>Here are some tips on how to cope with loneliness while you #stayathome during this period.</p>
 
 <h5>2. <a href="https://www.verywellmind.com/the-cost-of-clutter-3144688">The Cost of Clutter in Your Life</a><br/>
@@ -66,7 +66,7 @@ Shambhala, 2016.<br/>
 Take some time each day to relax. Certain postures and breathing techniques in restorative yoga are taught in this book to encourage relaxation and relieve stress.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9941A6C2-A28A-48D5-8548-832474AE3293">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9941A6C2-A28A-48D5-8548-832474AE3293">online</a>&#128187;.<br/>
 
-<h5>Sleep: Change the Way You Sleep with this 90 Minute Read</h5>
+<h5>Sleep</h5>
 <i>Nick Littlehales</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=45FC300E-0ABE-45BC-91CE-B0AE9FA724E0"><img src="/images/PL-8-Sleep.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Books Ltd, 2016.<br/> 
