@@ -32,10 +32,8 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 
 <p><h2>More Tips</h2></p>
 
-<!--Hide SURE content till NL approval
-<p><h5>How to Tell When It's Fake News</h5></p>
-<p><a href="https://sure.nlb.gov.sg/resources/audience/seniors/combating-fake-news" target="_blank" rel="noopener">This page from the National Library's information literacy team</a>  has clear guides on the telltale signs of fake news.</p>
--->
+<p><h5>How to Spot Fake News</h5></p>
+<p>Find out how you can spot fake news using NLB’s <a href="https://sure.nlb.gov.sg/resources/audience/seniors/combating-fake-news" target="_blank" rel="noopener">S.U.R.E. resources</a>. Some of these resources are also available in <a href="https://sure.nlb.gov.sg/resources/audience/seniors/multilingual" target="_blank" rel="noopener">Chinese, Malay and Tamil</a>.</p>
 
 <p><h5>Be Savvy and Safe when you Go Digital</h5></p>
 
