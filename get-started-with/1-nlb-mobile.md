@@ -9,9 +9,8 @@ title: NLB Mobile app
 <h2>About the NLB Mobile app</h2>
 <p>
 	<div class="vd">
-     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
-  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
-</video>
+<!--NLB Mobile app features video - PLS YouTube-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </p>
 <!--ul style="list-style:none inside none;">
@@ -36,9 +35,8 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
 <div class="vd">
-     <video width="720px" poster="/images/Thumbnail_BorroweBooks_video.png" controls>
-  <source src="/images/Read_eBooks.mp4" type="video/mp4" />
-</video>
+	<!--Borrow eBooks w/ NLB Mobile app video - PLS YouTube-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h3>How to Borrow Physical Items using the NLB Mobile app</h3>
@@ -56,8 +54,8 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 		<div class="acc-body">
 			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.
 	<div class="vd">
-     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
-  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
+<!--NLB Mobile app features video - PLS YouTube-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </video>
 </div>
 </p>
