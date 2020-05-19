@@ -22,13 +22,12 @@ image: /images/PL-1-header.jpg
 </ul>
 <p>Try this out and tag us at @publiclibrarysg with #librarysg 😀</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=I2bjA-3Vn6E&list=PLasCX3wfxLR3nEKMhsCUjyi5f4W6Rg6wf&index=22&t=0s" target="_blank" rel="noopener">Sink or Float Density Tower Science Experiments for Kids!!!</a>(13 September 2019)
-<h4>Be curious! Read these eBooks for more calming poses and mindfulness exercises.</h4>
-<p><h5>Meddy Teddy: A Mindful Yoga Journey</h5></p>
-<i>Apple Jordan</i><br/>
+<h4>Be curious! Read these eBooks for more fun experiments to make science come alive at home.</h4>
+<p><h5>Snackable Science Experiments (60 Edible Tests to Try and Taste)</h5></p>
+<i>Emma Vanstone</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D"><img src="/images/PL-3-science1.jpg" style="width:300px; text-align:left;"></a><br/>
-Publisher: Random House Children’s Books<br/>
-<p>Say Namaste to Meddy Teddy, a rising star in the yogi world, in his debut picture book! In his first-ever companion book, Meddy Teddy encourages readers to try yoga poses as he comes out of hibernation, greets the springtime, and teaches his forest friends how to mindfully get through a variety of situations. 
-</p>
+Publisher: Page Street Publishing<br/>
+<p>Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!</p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/C22123A8-7D01-4D44-9CD9-E32960504F4D">online</a> 💻.
 <p><h5>Breathe Like a Bear</h5></p>
 <i>Kira Wiley</i><br/>
