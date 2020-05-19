@@ -35,9 +35,7 @@ An **international** digital newsstand on the go:
 	</ul>
   <h2>How to Read eNewspapers and eMagazines</h2> 
 <div class="vd">
-     <video width="720px" poster="/images/Thumbnail_PressReader_video.PNG" controls>
-  <source src="/images/PressReaderVideo_PXS_NLBLogo.mp4" type="video/mp4" />
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <!--Hide SPH gif till libraries reopen
