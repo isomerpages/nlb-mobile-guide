@@ -58,7 +58,6 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <p>
 	<div class="vd">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</video>
 		</div>
 </p>
 	
