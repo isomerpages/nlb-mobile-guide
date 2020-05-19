@@ -29,20 +29,20 @@ image: /images/PL-1-header.jpg
 Publisher: Page Street Publishing<br/>
 <p>Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!</p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/1B25D757-38FD-4025-84FA-62175E399D69">online</a> 💻.
-<p><h5>Breathe Like a Bear</h5></p>
-<i>Kira Wiley</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7"><img src="/images/PL-3-science2.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: J158.1 WIL <br/>
-Publisher: Random House Children’s Books<br/>
-<p>Breathe Like a Bear is a beautifully illustrated collection of mindfulness exercises designed to teach kids techniques for managing their bodies, breath, and emotions. Best of all, these 30 simple, short breathing practices and movements can be performed anytime, anywhere. This book is sure to help kids find calm, gain focus, and feel energized during the day.
-</p>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7">online</a> 💻.
+<p><h5>30-Minute Chemistry Projects</h5></p>
+<i>Anna Leigh</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B7C501FF-B51A-41CE-A267-E161096DDD89"><img src="/images/PL-3-science2.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: J540.78 LEI <br/>
+Publisher: Lerner Publishing Group<br/>
+<p>Did you know that you can make plastic, snow, and even a lava lamp in less than 30 minutes? Clear, step-by-step instructions guide readers through the exciting science projects, and Science Takeaway sidebars explain the chemistry behind these cool creations.</p>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B7C501FF-B51A-41CE-A267-E161096DDD89">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/B7C501FF-B51A-41CE-A267-E161096DDD89">online</a> 💻.
 <h4>For more stay-home activities to engage children, visit:</h4>
 <p><a href="http://www.nlb.gov.sg/discovereads/diy-resources/" target="_blank">http://www.nlb.gov.sg/discovereads/diy-resources/</a></p>
 <h4>Tip for parents:</h4>
-<p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence.</p>
-<p>Source: <a href="https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055" target="_blank">More than just a game: Yoga for school-age children</a></p><br/>
-<p>All websites were last accessed on 4 May 2020.</p>
+<p>Encourage scientific thinking in your child by exploring and finding answers together when your child asks you questions. Don’t jump in with the right answers immediately. Prompt questions and give your child some time to think and experiment.</p>
+<p>Source: <a href="https://www.naeyc.org/our-work/families/support-science-learning" target="_blank">10 Tips to Support Children's Science Learning</a></p><br/>
+<p>All websites were last accessed on 15 May 2020.</p>
+<p>The book covers and synopses are the copyright of the respective publishing companies.</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
