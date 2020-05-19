@@ -9,10 +9,9 @@ title: eLearning
 <h2>Introducing LyndaLibrary</h2>
 
 <div class="vd">
-     <video width="720px" poster="/images/Thumbnail-Lynda.PNG" controls>
-  <source src="/images/Video_Lynda_SPH.mp4" type="video/mp4" />
-</video>
-
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	
 <!--Use this version when SPH newspapers aren't available remotely anymore
 <div class="vd">
      <video width="720px" poster="/images/Thumbnail-Lynda.PNG" controls>
