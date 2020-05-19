@@ -2,21 +2,26 @@
 layout: post
 title:  Stay Curious with Your Child - Science Exploration
 date:   2020-05-20
-permalink: /spotlight/stay-curious/2020-05-20-science-exploration
-description: Go on a fun yoga adventure and learn amazingly easy moves to relax with your child. 
+permalink: /spotlight/stay-curious/2020-05-20-Science-Exploration
+description: Sink or float? Get creative in exploring the concept of density and find out!  
+
 image: /images/PL-1-header.jpg
 ---
 <img src="/images/PL-1-header.jpg">
-<h1 style="text-align:center">“Our bodies are our gardens – our wills are our gardeners.” <p><i>William Shakespeare</i></p></h1>
-<h4>Yoga for Kids</h4>
-<p>Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.</p>
-<p>All you need are:</p>
+<h1 style="text-align:center">“When you’re curious, you find lots of interesting things to do.”<p><i>Walt Disney</i></p></h1>
+<h4>Science Exploration</h4>
+<p>Sink or float? Get creative in exploring the concept of density and find out!</p>
+<p>You’ll need: :</p>
 <ul>
-<li>Yoga mat (can be replaced by towels or thick blankets)</li>
-<li>Comfy clothes</li>
+<li>Tall container</li>
+<li>Syrup</li>
+<li>Water</li>
+<li>Cooking Oil</li>
+<li>Food colouring (optional)</li>
+<li>Random objects from around the house</li>  
 </ul>
 <p>Try this out and tag us at @publiclibrarysg with #librarysg 😀</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/40SZl84Lr7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=40SZl84Lr7A&feature=emb_title" target="_blank" rel="noopener">Betsy the Banana | A Cosmic Kids Yoga Adventure!</a> (31 January 2016 )
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=I2bjA-3Vn6E&list=PLasCX3wfxLR3nEKMhsCUjyi5f4W6Rg6wf&index=22&t=0s" target="_blank" rel="noopener">Sink or Float Density Tower Science Experiments for Kids!!!</a>(13 September 2019)
 <h4>Be curious! Read these eBooks for more calming poses and mindfulness exercises.</h4>
 <p><h5>Meddy Teddy: A Mindful Yoga Journey</h5></p>
 <i>Apple Jordan</i><br/>
@@ -28,7 +33,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8
 <p><h5>Breathe Like a Bear</h5></p>
 <i>Kira Wiley</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7"><img src="/images/PL-2-yoga2.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number:J158.1 WIL <br/>
+Call Number: J158.1 WIL <br/>
 Publisher: Random House Children’s Books<br/>
 <p>Breathe Like a Bear is a beautifully illustrated collection of mindfulness exercises designed to teach kids techniques for managing their bodies, breath, and emotions. Best of all, these 30 simple, short breathing practices and movements can be performed anytime, anywhere. This book is sure to help kids find calm, gain focus, and feel energized during the day.
 </p>
@@ -36,7 +41,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A
 <h4>For more stay-home activities to engage children, visit:</h4>
 <p><a href="http://www.nlb.gov.sg/discovereads/diy-resources/" target="_blank">http://www.nlb.gov.sg/discovereads/diy-resources/</a></p>
 <h4>Tip for parents:</h4>
-<p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence. </p>
+<p>Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence.</p>
 <p>Source: <a href="https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055" target="_blank">More than just a game: Yoga for school-age children</a></p><br/>
 <p>All websites were last accessed on 4 May 2020.</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
