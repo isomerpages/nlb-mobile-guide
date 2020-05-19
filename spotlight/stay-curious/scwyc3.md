@@ -25,10 +25,10 @@ image: /images/PL-1-header.jpg
 <h4>Be curious! Read these eBooks for more fun experiments to make science come alive at home.</h4>
 <p><h5>Snackable Science Experiments (60 Edible Tests to Try and Taste)</h5></p>
 <i>Emma Vanstone</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D"><img src="/images/PL-3-science1.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69"><img src="/images/PL-3-science1.jpg" style="width:300px; text-align:left;"></a><br/>
 Publisher: Page Street Publishing<br/>
 <p>Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!</p>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/C22123A8-7D01-4D44-9CD9-E32960504F4D">online</a> 💻.
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/1B25D757-38FD-4025-84FA-62175E399D69">online</a> 💻.
 <p><h5>Breathe Like a Bear</h5></p>
 <i>Kira Wiley</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7"><img src="/images/PL-3-science2.jpg" style="width:300px; text-align:left;"></a><br/>
