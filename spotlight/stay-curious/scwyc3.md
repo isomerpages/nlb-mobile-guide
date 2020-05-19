@@ -25,14 +25,14 @@ image: /images/PL-1-header.jpg
 <h4>Be curious! Read these eBooks for more calming poses and mindfulness exercises.</h4>
 <p><h5>Meddy Teddy: A Mindful Yoga Journey</h5></p>
 <i>Apple Jordan</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D"><img src="/images/PL-2-yoga1.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D"><img src="/images/PL-3-science1.jpg" style="width:300px; text-align:left;"></a><br/>
 Publisher: Random House Children’s Books<br/>
 <p>Say Namaste to Meddy Teddy, a rising star in the yogi world, in his debut picture book! In his first-ever companion book, Meddy Teddy encourages readers to try yoga poses as he comes out of hibernation, greets the springtime, and teaches his forest friends how to mindfully get through a variety of situations. 
 </p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C22123A8-7D01-4D44-9CD9-E32960504F4D">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/C22123A8-7D01-4D44-9CD9-E32960504F4D">online</a> 💻.
 <p><h5>Breathe Like a Bear</h5></p>
 <i>Kira Wiley</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7"><img src="/images/PL-2-yoga2.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65044E9A-2B16-4EB8-9F57-0C8E4D7EDBD7"><img src="/images/PL-3-science2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: J158.1 WIL <br/>
 Publisher: Random House Children’s Books<br/>
 <p>Breathe Like a Bear is a beautifully illustrated collection of mindfulness exercises designed to teach kids techniques for managing their bodies, breath, and emotions. Best of all, these 30 simple, short breathing practices and movements can be performed anytime, anywhere. This book is sure to help kids find calm, gain focus, and feel energized during the day.
