@@ -53,8 +53,8 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 		<label for="acc1">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
 			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.
-	<div class="vd">
 <!--NLB Mobile app features video - PLS YouTube-->
+<div class="vd">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </video>
 </div>
