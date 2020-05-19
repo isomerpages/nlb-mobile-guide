@@ -11,7 +11,7 @@ image: /images/NL-a5-overview.jpg
 
 Technological advances have enabled us to access art and culture from across the world in unprecedented ways. Today, we can visit a museum virtually in the middle of the night without crossing the thresholds of our doors. With COVID-19 and the closure of arts and cultural spaces, such digital options have become even more diverse and ubiquitous. This has prompted a re-think about how digital modes can become one of the primary ways of accessing art and culture.
 
-In Singapore, theatre companies such as Wild Rice, Pangdemonium, and the Necessary Stage have made their shows available online, while museums like the National Gallery[^1] and the National Museum of Singapore[^2] have created virtual experiences that are accessible from home.
+In Singapore, theatre companies such as Wild Rice, Pangdemonium, and the Necessary Stage have made their shows available online, while cultural institutions like the National Library, the National Gallery and the National Museum of Singapore have created virtual experiences that are accessible from home.[^1]
 
 We cannot expect these digital platforms to substitute the physical experiences of performances or visiting exhibitions and shows. There is something irreplaceable about the immediacy of a live theatrical production, the atmosphere created by the cadences of a live symphonic orchestra, or the feeling of being drawn into the physical enormity of a Pollock painting, because such experiences cannot be fully replicated on our computer screens or smartphones. 
 
@@ -20,9 +20,7 @@ However, digital platforms can afford new ways of representing and appreciating 
 Explore the resources below to find out more about virtual arts and culture. 
 Look out for our next instalment where we will explore sports and fitness in the new normal.
 
-[^1]: National Gallery Singapore. Gallery Anywhere. Retrieved 2020, May 15 from <https://www.nationalgallery.sg/galleryanywhere>
-
-[^2]: National Museum of Singapore. An Old New World. Retrieved 2020, May 15 from <https://www.nhb.gov.sg/media/exhibition-online/aonw/index.html>
+[^1]: National Library. Singapore (2020, May 18). National Library Exhibitions. Retrieved 2020, May 18 from <https://exhibitions.nlb.gov.sg/>; National Gallery Singapore. Gallery Anywhere. Retrieved 2020, May 15 from <https://www.nationalgallery.sg/galleryanywhere>; National Museum of Singapore. An Old New World. Retrieved 2020, May 15 from <https://www.nhb.gov.sg/media/exhibition-online/aonw/index.html>
 
 
 <h4>Videos & Podcasts</h4>
@@ -97,10 +95,10 @@ Zebracki, M., & Luger, J. (2019). <a href="https://doi.org/10.1177/0309132518791
 Blume, J. (2017). <a href="http://www.jstor.org/stable/j.ctv1xxrxw.10" target="_blank">Exploring the potentials and challenges of virtual distribution of contemporary art. In Frömming U., Köhn S., Fox S., & Terry M. (Eds.)</a>. <i>Digital environments: Ethnographic perspectives across global online and offline spaces </i>, (pp. 97-116). Bielefeld: Transcript Verlag. Retrieved 2020, May 8 via NLB’s <a href="https://eresources.nlb.gov.sg/main/browse/resource/1322/" target="_blank">eResources website</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h5>4. Let’s get virtual: Examination of best practices to provide public access to digital versions of three-dimensional objects</h5>
-Johnson, T. M. (2016). <a href="https://doi.org/10.6017/ital.v35i2.9343" target="_blank">Let’s get virtual: Examination of best practices to provide public access to digital versions of three-dimensional objects</a>. <i>Information Technology & Libraries</i>, 35(2), 39–55. Retrieved 2020, May 8 via NLB’s <a href="https://eresources.nlb.gov.sg/main/browse/resource/1329/ target="_blank">eResources website</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+Johnson, T. M. (2016). <a href="https://doi.org/10.6017/ital.v35i2.9343" target="_blank">Let’s get virtual: Examination of best practices to provide public access to digital versions of three-dimensional objects</a>. <i>Information Technology & Libraries</i>, 35(2), 39–55. Retrieved 2020, May 8 via NLB’s <a href="https://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">eResources website</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h5>5. Online role-playing games and the definition of theatre</h5>
-Nellhaus, T. (2017). <a href="https://doi.org/10.1017/S0266464X17000483" target="_blank">Online role-playing games and the definition of theatre</a>. <i>New Theatre Quarterly</i>, 33(4), 345–359. Retrieved 2020, May 8 via NLB’s <a href="https://eresources.nlb.gov.sg/main/browse/resource/1329/ target="_blank">eResources website</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
+Nellhaus, T. (2017). <a href="https://doi.org/10.1017/S0266464X17000483" target="_blank">Online role-playing games and the definition of theatre</a>. <i>New Theatre Quarterly</i>, 33(4), 345–359. Retrieved 2020, May 8 via NLB’s <a href="https://eresources.nlb.gov.sg/main/browse/resource/1329/" target="_blank">eResources website</a> (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this article.)
 
 <h4>Chinese and Tamil resources</h4>
 <h5>1. <a href="https://www.bbc.com/ukchina/simp/51928514" target="_blank">肺炎疫情：虚拟科技突破艺术时空限制</a></h5>
