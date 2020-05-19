@@ -41,9 +41,8 @@ title: eBooks and Audiobooks
 
 	<p><h2>What is Libby, and How to Download eBooks and Audiobooks with Libby</h2></p>
 <div class="vd">
-     <video width="720px" poster="/images/Thumbnail_Libby_video.PNG" controls>
-  <source src="/images/Video_Libby_lowres.mp4" type="video/mp4" />
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
   <h2>Libby versus NLB Mobile</h2>
 
@@ -137,9 +136,8 @@ If you want to know why your titles are not downloading or how to adjust your au
 		Just follow the steps in the video below. You can skip to 0:24 if you are already familiar with what Libby is. If you've borrowed eBooks from Libby before, the steps are the same. 
 		</p>
 		<div class="vd">
-			<video width="720px" poster="/images/Thumbnail_Libby_video.PNG" controls>
-				<source src="/images/Video_Libby_lowres.mp4" type="video/mp4" />
-			</video>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
 			<p>
 				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a> to see the full list of magazines available in Libby.
 			</p>
