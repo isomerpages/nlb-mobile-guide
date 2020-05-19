@@ -28,7 +28,7 @@ Look out for our next instalment where we will explore sports and fitness in the
 <h4>Videos & Podcasts</h4>
 <h5>1. Viewing art in the digital age</h5>
 <a href="https://podcasts.apple.com/us/podcast/episode-7-viewing-art-in-the-digital-age-part-i/id1437258276?i=1000430743019" target="_blank">Viewing art in the digital age (Part I)</a>
-Viewing art in the digital age (Part I). (2019, January 11). <i>UNTITLED, ART. Podcast</i>. Retrieved 2020, May 11.
+Viewing art in the digital age (Part I). (2019, January 11). <i>UNTITLED, ART. Podcast</i>. Retrieved 2020, May 11.<p><p>
 <a href="https://podcasts.apple.com/us/podcast/episode-8-viewing-art-in-the-digital-age-part-ii/id1437258276?i=1000431320680" target="_blank">Viewing art in the digital age (Part II)</a>
 Viewing art in the digital age (Part I). (2019, January 11). <i>UNTITLED, ART. Podcast</i>. Retrieved 2020, May 11.
 
@@ -37,14 +37,14 @@ Cultural policies in the digital age. (2018, April 12). <i>UNESCO</i>. Retrieved
 
 <h5>3. Visiting museums online</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/5XCASfvQiZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=5XCASfvQiZM" target="_blank">Visiting museums online. </a>(2020, April 12). <i>CBS Sunday Morning</i>. Retrieved 2020, May 16.
+Source: <a href="https://www.youtube.com/watch?v=5XCASfvQiZM" target="_blank">Visiting museums online.</a> (2020, April 12). <i>CBS Sunday Morning</i>. Retrieved 2020, May 16.
 
 <h5>4. <a href="https://podcasts.google.com/?feed=aHR0cDovL3dvZWdvc2hvdy5jb20vcnNz&episode=YjI0YmVjYjBiNzViNDViZmI5MzcxZmU1ODFiYjQ3YmY" target="_blank">LIVE EPISODE:…with live performance in the digital age</a></h5>
 LIVE EPISODE:…with live performance in the digital age. (2019, February 15). <i>What on Earth is Going On?</i> Retrieved 2020, May 11.
 
 <h5>5. Art in the age of Instagram</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/8DLNFDQt8Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=8DLNFDQt8Pc" target="_blank">Art in the age of Instagram. (2016, March 2). <i>TEDx</i>. Retrieved 2020, May 11.
+Source: <a href="https://www.youtube.com/watch?v=8DLNFDQt8Pc" target="_blank">Art in the age of Instagram.</a> (2016, March 2). <i>TEDx</i>. Retrieved 2020, May 11.
 
 
 <h4>Websites</h4>
