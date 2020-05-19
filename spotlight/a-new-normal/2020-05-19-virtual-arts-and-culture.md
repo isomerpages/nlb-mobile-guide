@@ -28,7 +28,7 @@ Look out for our next instalment where we will explore sports and fitness in the
 <h4>Videos & Podcasts</h4>
 <h5>1. Viewing art in the digital age</h5>
 <a href="https://podcasts.apple.com/us/podcast/episode-7-viewing-art-in-the-digital-age-part-i/id1437258276?i=1000430743019" target="_blank">Viewing art in the digital age (Part I)</a>
-Viewing art in the digital age (Part I). (2019, January 11). <i>UNTITLED, ART. Podcast</i>. Retrieved 2020, May 11.<p><p>
+Viewing art in the digital age (Part I). (2019, January 11). <i>UNTITLED, ART. Podcast</i>. Retrieved 2020, May 11.</p></p>
 <a href="https://podcasts.apple.com/us/podcast/episode-8-viewing-art-in-the-digital-age-part-ii/id1437258276?i=1000431320680" target="_blank">Viewing art in the digital age (Part II)</a>
 Viewing art in the digital age (Part I). (2019, January 11). <i>UNTITLED, ART. Podcast</i>. Retrieved 2020, May 11.
 
