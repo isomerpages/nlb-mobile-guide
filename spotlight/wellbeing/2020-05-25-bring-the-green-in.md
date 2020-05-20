@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  Learning Package 4 - The happiness of your life depends upon the quality of your thoughts
-date:   2020-04-03
-permalink: /spotlight/wellbeing/your-new-filename-here
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
+title:  Learning Package 9 - Bring in the green
+date:   2020-05-25
+permalink: /spotlight/wellbeing/2020-05-25-bring-the-green-in
+description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
 image: /images/PL-2-intro.jpg
 ---
 <img src="/images/PL-2-intro.jpg">
-<p><q>The happiness of your life depends upon the quality of your thoughts.</q> - Marcus Aurelius, <i>Meditations</i>.</p>
-<p>How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
+<p><q>The natural world is the greatest source of excitement.</q> - Sir David Attenborough.</p>
+<p>What are the personal and natural resources that we can harness so that nature becomes a bigger part of us? This article will show you the various natural aspirations we can work towards, and at the same time, help us reduce our carbon footprint.</p>
 
 <h4>Videos</h4>
-<h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
-Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, comes and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
+<h5>1. How To Grow Mung Bean Sprouts At Home by HOW TO MAKE AT HOME</h5>
+Remember the bean sprouts that grew from mung beans (or green beans) as part of a Science experiment in primary school? With this video, you can grow them again on a larger scale.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/atL41M6BBM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://https://www.youtube.com/watch?v=atL41M6BBM8" target="_blank">How to grow mung bean sprout at home, very easy with plastic basket </a> (2016, November 3). HOW TO MAKE AT HOME. 
 
-<h5>2. The Surprising Science of Happiness by Dan Gilbert</h5>
-We’re surprisingly more resilient than we think. Research shows that setbacks that we think would be traumatising tend to have less impact than we would expect, and that we are capable of being happy even when things don't go as planned. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/4q1dgn_C0AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">The Surprising Science of Happiness</a> (2012, April 27). TED. 
+<h5>2. How To Grow Chillies At Home by Urban Gardening</h5>
+What do you need to grow chillies? The answer is simple: chillies. This video will show you how to do just that with chilli seeds.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/rPlEA5_JrBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=rPlEA5_JrBs" target="_blank">How To Grow Chillies At Home</a> (2018, September 30). Urban Gardening.
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
