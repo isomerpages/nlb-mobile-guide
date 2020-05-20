@@ -45,41 +45,41 @@ This course shows organisations how to adopt smart sustainability practices to d
 
 <h4>eBooks</h4>
 
-<h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
-<i>Sonja Lyubomirsky</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/PL-2-thehowofhap.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 LYU. New York: Penguin Books, 2008.<br/> 
-Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">online</a>&#128187;.<br/> 
+<h5>Start Simple: Eleven Everyday Ingredients for Countless Weeknight Meals</h5>
+<i>Lucas Volger</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=768FD917-B138-4CC0-B9CF-220A465CD3B1"><img src="/images/PL-9-Start-simple-eleven-everyday-ingredients-for-countless-weeknight-meals.jpg" style="width:300px; text-align:left;"></a><br/>
+HarperCollins, 2020.<br/>
+Magic can happen with just a few ingredients such as sweet potatoes, eggs, cabbage, mushrooms, tofu, cauliflower. Chefs can throw in their own variations and favourite flavours—mixing, matching, and adding ingredients to customize their dishes.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=768FD917-B138-4CC0-B9CF-220A465CD3B1">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/768FD917-B138-4CC0-B9CF-220A465CD3B1">online</a>&#128187;.<br/> 
 
 
-<h5>Nudge: Improving Decisions About Health, Wealth, and Happiness</h5>
-<i>Richard H. Thaler & Cass R. Sunstein</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5-E00E-40F6-B084-37D6AA4E6C19"><img src="/images/PL-2-nudge.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 330.019 THA -[BIZ]. New York: Penguin Books, 2009.<br/>
-People do not choose freely, even when they think they do. Circumstances, context and biases affect our decisions. <i>Nudge</i> teaches us how to steer away from bad decisions towards engineering better choices for ourselves and others.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5-E00E-40F6-B084-37D6AA4E6C19">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/30E812F5-E00E-40F6-B084-37D6AA4E6C19">online</a> &#128187;.<br/>
+<h5>Super Easy Amigurumi: Crochet Cute Animals</h5>
+<i>Mitsuki Hoshi</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3D7CE964-E03E-46D0-88D7-CF9ECC48898E"><img src="/images/PL-2-nudge.jpg" style="width:300px; text-align:left;"></a><br/>
+HarperCollins, 2017.<br/>
+Begin with basic crochet techniques to create four animals, each increasing in complexity: the chick, chicken, parakeet and penguin. With photos and clear instructional crochet charts, you will become an amigurumi master in no time!<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3D7CE964-E03E-46D0-88D7-CF9ECC48898E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3D7CE964-E03E-46D0-88D7-CF9ECC48898E">online</a> &#128187;.<br/>
 
-<h5>The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom</h5>
-<i>Jonathan Haidt</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=61788AD8-9790-48BC-B25B-21396A645187"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 170 HAI. New York: Basic Books, 2006.<br/>
-Old is gold. <i>The Happiness Hypothesis</i> examines the world’s philosophical wisdom through the lens of psychological science, and shows how they are still relevant in our lives today.  <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=61788AD8-9790-48BC-B25B-21396A645187">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/%7B61788AD8-9790-48BC-B25B-21396A645187%7D">online</a> &#128187;.<br/>
-
-<h5>Man's Search for Meaning</h5>
-<i>Viktor E. Frankl</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
-We’re currently living through trying times but this is not the first time the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
-
-<h5>The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life is Worth More Than Anything You Can Buy in a Store</h5>
-<i>Cait Flanders</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 153.8 FLA. California: Hay House Inc, 2018.<br/>
-Can less truly be more? According to the author, yes. Follow Cait Flanders on her 1-year journey to get more life out of fewer things.<br/>
+<h5>Container Vegetable Gardening: Growing Crops in Pots in Every Space</h5>
+<i>Liz Dobbs</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
+CompanionHouse Books, 2019.<br/>
+Even without an outdoor garden, you can still grow herbs and vegetables. Filled with colourful images of the plants and how-to instructions, you will be tempted to grow the herbs or vegetables and pick them fresh for your use.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
+
+<h5>Wild At Home: How to Style and Care for Beautiful Plants</h5>
+<i>Hilton Carter</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-9-Wild-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
+Atlantic Books, 2019.<br/>
+Plant cultivation and care is a common love and past time. Besides born again cooks, we also have born again green-fingered gardeners.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
+
+<h5>The Simple Life</h5>
+<i>Rhonda Hetzel</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=997312EC-50D1-4E09-827D-0A0956182D32"><img src="/images/PL-9-The-simple-life.png" style="width:300px; text-align:left;"></a><br/>
+Penguin Special: Penguin Special, 2014.<br/>
+Having decided to live frugally and embrace sustainability, Rhonda Hetzel set about to find the various ways to work out how to achieve her goal by focusing on the simple things that make life worth living: family, friends, and a home-cooked meal.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=997312EC-50D1-4E09-827D-0A0956182D32">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/997312EC-50D1-4E09-827D-0A0956182D32">online</a> &#128187;.<br/>
 
 <h5>Five True Things: A Little Guide to Embracing Life's Big Challenges</h5>
 <i>David Richo</i><br/>
@@ -87,20 +87,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC
 Call Number: 152.41 RIC. Colorado: Shambhala, 2019.<br/>
 Find peace in the midst of life’s challenges by learning and accepting five key facts of life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E1CDAA62-3968-4F6D-A427-3614FB9AF55F">online</a> &#128187;.<br/>
-
-<h5>The Healthy Mind Toolkit: Simple Strategies to Get Out of Your Own Way and Enjoy Your Life</h5>
-<i>Alice Boyes</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E"><img src="/images/PL-2-health-mind-toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
-Call number: 616.891425 BOY – [HEA]. New York: TarcherPerigee, 2018.<br/>
-Sometimes, we are our own worst enemy. Learn simple steps to achieve success and defeat the man in the mirror.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">online</a> &#128187;.<br/>
-
-<h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
-<i>Sarah Wilson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
-HarperCollins, 2018.<br/>
-This practical and funny book encourages those with anxiety to embrace themselves for who they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
