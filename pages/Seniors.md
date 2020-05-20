@@ -16,9 +16,7 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 <p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. <!--For SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao, please visit any of our libraries. -->
 <p>Watch this video to learn how to read eNewspapers and eMagazines.</p>
 <div class="vd">
-     <video width="720px" poster="/images/Thumbnail_PressReader_video.PNG" controls>
-  <source src="/images/PressReaderVideo_PXS_NLBLogo.mp4" type="video/mp4" />
-</video>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p><h2>Top Tips for Seniors</h2></p>
@@ -32,10 +30,8 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 
 <p><h2>More Tips</h2></p>
 
-<!--Hide SURE content till NL approval
-<p><h5>How to Tell When It's Fake News</h5></p>
-<p><a href="https://sure.nlb.gov.sg/resources/audience/seniors/combating-fake-news" target="_blank" rel="noopener">This page from the National Library's information literacy team</a>  has clear guides on the telltale signs of fake news.</p>
--->
+<p><h5>How to Spot Fake News</h5></p>
+<p>Find out how you can spot fake news using NLB’s <a href="https://sure.nlb.gov.sg/resources/audience/seniors/combating-fake-news" target="_blank" rel="noopener">S.U.R.E. resources</a>. Some of these resources are also available in <a href="https://sure.nlb.gov.sg/resources/audience/seniors/multilingual" target="_blank" rel="noopener">Chinese, Malay and Tamil</a>.</p>
 
 <p><h5>Be Savvy and Safe when you Go Digital</h5></p>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Package 7 - The only constant is change.
+title:  Learning Package 7 - The Only Constant Is Change
 date:   2020-05-11
 permalink: /spotlight/wellbeing/2020-05-11-dealing-with-uncertainty
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 

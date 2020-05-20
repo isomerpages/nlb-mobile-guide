@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Package 6 - You never lose a dream, it just incubates as a hobby
+title:  Learning Package 6 - You Never Lose a Dream, It Just Incubates as a Hobby
 date:   2020-05-04
 permalink: /spotlight/wellbeing/2020-05-04-you-never-lose-a-dream-it-just-incubates-as-a-hobby
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 

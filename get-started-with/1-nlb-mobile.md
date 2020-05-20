@@ -9,9 +9,8 @@ title: NLB Mobile app
 <h2>About the NLB Mobile app</h2>
 <p>
 	<div class="vd">
-     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
-  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
-</video>
+<!--NLB Mobile app features video - PLS YouTube-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </p>
 <!--ul style="list-style:none inside none;">
@@ -36,9 +35,8 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
 <div class="vd">
-     <video width="720px" poster="/images/Thumbnail_BorroweBooks_video.png" controls>
-  <source src="/images/Read_eBooks.mp4" type="video/mp4" />
-</video>
+	<!--Borrow eBooks w/ NLB Mobile app video - PLS YouTube-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h3>How to Borrow Physical Items using the NLB Mobile app</h3>
@@ -54,13 +52,15 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
-			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.
+			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
+			
+<!--NLB Mobile app features video - PLS YouTube-->
+<p>
 	<div class="vd">
-     <video width="720px" poster="/images/Thumbnail_NLBMobile-features-video.png" controls>
-  <source src="/images/Video_NLB-Mobile-Features.mp4" type="video/mp4" />
-</video>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
 </p>
+	
 		<h5>List of Features</h5>
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 		<p><strong>Borrow and read / listen</strong></p>
