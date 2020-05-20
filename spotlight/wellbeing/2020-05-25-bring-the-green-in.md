@@ -24,24 +24,24 @@ Source: <a href="https://www.youtube.com/watch?v=rPlEA5_JrBs" target="_blank">Ho
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg" target="_blank">Happiness Tips</a></strong><br/>
-From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg" target="_blank">The Employee’s Guide to Sustainability</a></strong><br/>
+As an employee, this video will teach you how to find a sustainable way to commute, reduce food waste, refusing, reducing, reusing, and recycling, and how to make sustainable food choices in your workplace.</p>
+<a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg" target="_blank">Arianna Huffington's Thrive 01: Discovering Meditation and Sleep</a></strong><br/>
-Improve your wellbeing with two simple activities – meditation and sleep!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg" target="_blank">Sustainability Strategies</a></strong><br/>
+This course shows organisations how to adopt smart sustainability practices to drive financial performance, attract and retain employees, and protect the company's license to operate.</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://bbc.com/news/uk-51936286">Coronavirus: How Families Can Cope with Self-Isolating Together</a><br/>
-<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020.</h5>
-<p>How do you cope with your children or other members of your family as you spend more and more time cooped up together at home? Learn how experts and different families are spending their time together in this article. </p>
+<h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind The Scenes With Li Ziqi, The Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
+<i>Goldthread.</i> Published on SCMP, on 17 September 2019</h5>
+<p>When I worked in the city, it was about survival. Now when I work in the countryside, I feel like I’m truly living,” says Li Ziqi, the unusual Chinese internet celebrity who showcases her life in rural China where she goes about her day picking flowers, building furniture from bamboo, and preparing food using traditional techniques. </p>
 
-<h5>2. <a href="https://www.nylon.com.sg/2020/04/trendy-easy-to-make-recipes-to-try-at-home-including-d-i-y-bubble-tea">Trendy & Easy-To-Make Recipes to Try At Home, Including D-I-Y Bubble Tea</a><br/>
-<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020.</h5>
-<p>Everyone now has the time to aspire to be a home chef and experiment with different recipes. Here are 6 that may just suit your tastebuds’ fancy should you have the ingredients at home already.</p>
+<h5>2. <a href="https://cnaluxury.channelnewsasia.com/experiences/urban-farming-singapore-11925958">Raising the roof: Cultivating Singapore’s Urban Farming Scene</a><br/>
+<i>Stacy Rodrigues.</i> Published on Channel News Asia.</h5>
+<p>Singapore once cultivated plantations which is where Orchard Road got its name, but with urban farming, we may just be able to hope a little.</p>
 
 <h4>eBooks</h4>
 
