@@ -16,9 +16,7 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 <p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. <!--For SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao, please visit any of our libraries. -->
 <p>Watch this video to learn how to read eNewspapers and eMagazines.</p>
 <div class="vd">
-     <video width="720px" poster="/images/Thumbnail_PressReader_video.PNG" controls>
-  <source src="/images/PressReaderVideo_PXS_NLBLogo.mp4" type="video/mp4" />
-</video>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p><h2>Top Tips for Seniors</h2></p>
