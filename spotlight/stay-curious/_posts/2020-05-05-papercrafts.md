@@ -42,6 +42,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7457F25D
 <p>
   All websites were last accessed on 30 April 2020.
   </p>
+<p>The book covers and synopses are the copyright of the respective publishing companies.</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
