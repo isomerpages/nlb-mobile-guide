@@ -4,9 +4,9 @@ title:  Learning Package 9 - Bring in the green
 date:   2020-05-25
 permalink: /spotlight/wellbeing/2020-05-25-bring-the-green-in
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
-image: /images/PL-2-intro.jpg
+image: /images/PL-9-Intro-Image.jpg
 ---
-<img src="/images/PL-2-intro.jpg">
+<img src="/images/PL-9-Intro-Image.jpg">
 <p><q>The natural world is the greatest source of excitement.</q> - Sir David Attenborough.</p>
 <p>What are the personal and natural resources that we can harness so that nature becomes a bigger part of us? This article will show you the various natural aspirations we can work towards, and at the same time, help us reduce our carbon footprint.</p>
 
@@ -55,14 +55,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=768FD917
 
 <h5>Super Easy Amigurumi: Crochet Cute Animals</h5>
 <i>Mitsuki Hoshi</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3D7CE964-E03E-46D0-88D7-CF9ECC48898E"><img src="/images/PL-2-nudge.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3D7CE964-E03E-46D0-88D7-CF9ECC48898E"><img src="/images/PL-9-Super-easy-amigurumi.jpg" style="width:300px; text-align:left;"></a><br/>
 HarperCollins, 2017.<br/>
 Begin with basic crochet techniques to create four animals, each increasing in complexity: the chick, chicken, parakeet and penguin. With photos and clear instructional crochet charts, you will become an amigurumi master in no time!<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3D7CE964-E03E-46D0-88D7-CF9ECC48898E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3D7CE964-E03E-46D0-88D7-CF9ECC48898E">online</a> &#128187;.<br/>
 
 <h5>Container Vegetable Gardening: Growing Crops in Pots in Every Space</h5>
 <i>Liz Dobbs</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-9-Container-vege-gardening.jpg" style="width:300px; text-align:left;"></a><br/>
 CompanionHouse Books, 2019.<br/>
 Even without an outdoor garden, you can still grow herbs and vegetables. Filled with colourful images of the plants and how-to instructions, you will be tempted to grow the herbs or vegetables and pick them fresh for your use.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
@@ -80,13 +80,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC
 Penguin Special: Penguin Special, 2014.<br/>
 Having decided to live frugally and embrace sustainability, Rhonda Hetzel set about to find the various ways to work out how to achieve her goal by focusing on the simple things that make life worth living: family, friends, and a home-cooked meal.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=997312EC-50D1-4E09-827D-0A0956182D32">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/997312EC-50D1-4E09-827D-0A0956182D32">online</a> &#128187;.<br/>
-
-<h5>Five True Things: A Little Guide to Embracing Life's Big Challenges</h5>
-<i>David Richo</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F"><img src="/images/PL-2-five-true-things.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: 152.41 RIC. Colorado: Shambhala, 2019.<br/>
-Find peace in the midst of life’s challenges by learning and accepting five key facts of life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E1CDAA62-3968-4F6D-A427-3614FB9AF55F">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
