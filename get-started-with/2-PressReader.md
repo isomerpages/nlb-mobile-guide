@@ -236,8 +236,7 @@ An **international** digital newsstand on the go:
 		<li>Berita Harian</li>
 		<li>Tamil Murasu</li> 
 	</ol>
-After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.
-	</p>
+<p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
