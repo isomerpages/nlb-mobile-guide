@@ -243,20 +243,31 @@ After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.s
 
 <div>
         <input type="radio" name="acc" id="sph2a">
-        <label for="sph2a">How do I zoom in to the newspaper / turn pages / read issues from other dates on my computer?</label>
+        <label for="sph2a">How do I zoom in to the newspaper page / turn pages / read issues from other dates?</label>
 
  <div class="acc-body">
-	<h5>If you are reading the English and Malay SPH ePapers (The Straits Times, The Business Times, The New Paper, and Berita Harian)</h5>
-		<p>If you are reading <b>from a desktop/laptop</b>, you will see an updated interface (wef 20 May 2020) with navigation and zoom settings above the pages of the ePaper. Click on the magnifying glass on top, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want. When you have finished this page, click on the magnifying glass again, then click on the left or right arrow to turn the page.</p>
-		<p>To read an issue from another date, click on the calendar icon (the leftmost icon) on top, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first.</p> 
+	<p>The interface differs depending on which SPH ePaper you are reading.</p>
+	<h5>For English and Malay SPH ePapers (The Straits Times, The Business Times, The New Paper, and Berita Harian)</h5>
+	<h6>When Reading from Desktop / Laptop Computers</h6>
+	<p><b>Zooming in and out:</b> The interface has been updated (wef 20 May 2020) with navigation and zoom settings above the pages of the ePaper. Click on the magnifying glass on top, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want. </p>
+	<p><b>Turning pages:</b> Click on the left or right arrow. If you do not see the arrows, click on the magnifying glass first.</p>
+	<p><b>Reading an issue from another date:</b> Click on the calendar icon (the leftmost icon) on top, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first.</p> 
+	<h6>When Reading from Mobile Phones / Tablets</h6>
+	<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
+	<p><b>Turning pages:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then swipe right or left.</p>
+	<p><b>Reading an issue from another date:</b> Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.</p> 	
 	
-<p><h5>If you are reading the Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h5></p>
-		<p>If you are reading <b>from a desktop/laptop</b>, double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. When you have finished this page, double-click until it zooms out, then click on the left or right arrow to turn the page.</p>
-		<p>To read an issue from another date, click on the coloured button on the top right, then select the desired date.</p> 
+<p><h5>For Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h5></p>
+	<h6>When Reading from Desktop / Laptop Computers</h6>
+		<p><b>Zooming in and out:</b> Double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. </p>
+		<p><b>Turning pages:</b> Double-click until the page zooms out, then click on the left or right arrow.</p>
+		<p><b>Reading an issue from another date:</b> Click on the coloured button on the top right, then select the desired date.</p> 
 		
-<p><h5>If you are reading Tamil Murasu</h5></p>
-	<p>If you are reading <b>from a desktop/laptop</b>, click on the magnifying glass with a '+' sign at the top to zoom in. When you have finished this page, click on the left or right arrow to turn the page.</p>
-			<p>To read an issue from another date, click on the calendar icon on the top right, then select the desired date.</p> 
+<p><h5>For Tamil Murasu</h5></p>
+	<p><b>Zooming in and out:</b> To enlarge the text or images, use the magnifying glass with a '+' sign. To zoom out, use the magnifying glass with a '-' sign. The empty magnifying glass is for returning to the fully zoomed-out view of the page.</p>
+	<p><b>Turning pages:</b> Use the left or right arrow.</p>
+	<p><b>Reading an issue from another date:</b> Click on the calendar icon on the top right, then select the desired date.</p>
+	<p class="end-note">SPH's ePaper for Tamil Murasu has the same interface for both computers and mobile devices.</p>
 
 <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
 
