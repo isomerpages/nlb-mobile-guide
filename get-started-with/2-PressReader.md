@@ -246,9 +246,20 @@ After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.s
         <label for="sph2a">How do I zoom in to the newspaper / turn pages / read issues from other dates on my computer?</label>
 
  <div class="acc-body">
-	<p>If you are reading <b>from a desktop/laptop</b>, you will see an updated interface (wef 20 May 2020) with navigation and zoom settings above the pages of the ePaper. Click on the magnifying glass on top, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want. When you have finished this page, click on the magnifying glass again, then click on the left or right arrow to turn the page.</p>
-	<p>To read an issue from another date, click on the calendar icon (the leftmost icon) on top, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first.</p> 
-	<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
+	<h5>If you are reading the English and Malay SPH ePapers (The Straits Times, The Business Times, The New Paper, and Berita Harian)</h5>
+		<p>If you are reading <b>from a desktop/laptop</b>, you will see an updated interface (wef 20 May 2020) with navigation and zoom settings above the pages of the ePaper. Click on the magnifying glass on top, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want. When you have finished this page, click on the magnifying glass again, then click on the left or right arrow to turn the page.</p>
+		<p>To read an issue from another date, click on the calendar icon (the leftmost icon) on top, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first.</p> 
+	
+<p><h5>If you are reading the Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h5></p>
+		<p>If you are reading <b>from a desktop/laptop</b>, double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. When you have finished this page, double-click until it zooms out, then click on the left or right arrow to turn the page.</p>
+		<p>To read an issue from another date, click on the coloured button on the top right, then select the desired date.</p> 
+		
+<p><h5>If you are reading Tamil Murasu</h5></p>
+	<p>If you are reading <b>from a desktop/laptop</b>, click on the magnifying glass with a '+' sign at the top to zoom in. When you have finished this page, click on the left or right arrow to turn the page.</p>
+			<p>To read an issue from another date, click on the calendar icon on the top right, then select the desired date.</p> 
+
+<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
+
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
