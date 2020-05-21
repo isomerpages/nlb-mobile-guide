@@ -7,7 +7,7 @@ image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
 
-
+<!-- Hide New Features box
 <table style="border-color: blue;" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -21,7 +21,7 @@ title: eMagazines and eNewspapers
 </tr>
 </tbody>
 </table>
-
+!--end hide New Features box>
 
 <h2>About PressReader</h2> 
 
@@ -197,16 +197,16 @@ An **international** digital newsstand on the go:
 
 <p>
 <div class="FAQ-section" id="sph">
-<h2>Read SPH newspapers at home during the circuit breaker period</h2>
+<h2>Read SPH newspapers at home during the library closure period</h2>
 	<div>
         <input type="radio" name="acc" id="sph1">
-        <label for="sph1">How can I read SPH newspapers from home during the circuit breaker period?</label>
+        <label for="sph1">How can I read SPH newspapers from home during the library closure period?</label>
 
  <div class="acc-body">
-  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the circuit breaker period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
+  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the library closure period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
 <p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
 </p>
-<p>If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject.</p>
+<p>If you encounter problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -215,8 +215,8 @@ An **international** digital newsstand on the go:
         <label for="sph1a">Can I read the newspapers on tablets and smartphones? </label>
 
  <div class="acc-body">
-  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. For users of Android devices, not all the browsers may work (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject. To help troubleshooting, please indicate your device brand, model, operating system and browser.    
-</p></div><!--close acc-body-->
+  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. For users of Android devices, not all the browsers may work (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser.</p>
+</div><!--close acc-body-->
 </div><!--close div for qn -->
 
 
@@ -225,37 +225,66 @@ An **international** digital newsstand on the go:
         <label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
 
  <div class="acc-body">
-  <p>You can read the current issues of:
+	<p>You can read the current issues of:</p>
 	  <ol>
-		  <li>The Straits Times</li> 
-<li>The Business Times</li> 
-<li>The New Paper</li> 
-<li>Lianhe Zaobao</li>
-<li>Lianhe Wanbao</li>
-<li>Shin Min Daily News</li> 
-<li>Berita Harian</li>
-		  <li>Tamil Murasu</li> 
+		<li>The Straits Times</li> 
+		<li>The Business Times</li> 
+		<li>The New Paper</li> 
+		<li>Lianhe Zaobao</li>
+		<li>Lianhe Wanbao</li>
+		<li>Shin Min Daily News</li> 
+		<li>Berita Harian</li>
+		<li>Tamil Murasu</li> 
 	</ol>
-When you are brought to the SPH ePaper site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.
-</p></div><!--close acc-body-->
+<p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
+</div><!--close acc-body-->
 </div><!--close div for qn -->
 
 <div>
         <input type="radio" name="acc" id="sph2a">
-        <label for="sph2a">How do I zoom in to the newspaper on my computer?</label>
+        <label for="sph2a">How do I zoom in to the newspaper page / turn pages / read issues from other dates?</label>
 
  <div class="acc-body">
-  <p>If you are using a desktop / laptop computer, double-click on the area you wish to read to enlarge that part of the page. Double-click again to see the full page. If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject. To help troubleshooting, please indicate your device brand, model, operating system and browser.   
-</p></div><!--close acc-body-->
+	<p>The interface differs depending on which SPH ePaper you are reading.</p>
+	<h4>For English and Malay SPH ePapers (The Straits Times, The Business Times, The New Paper, and Berita Harian)</h4>
+	<h5>When Reading from Desktop / Laptop Computers</h5>
+	<p><b>Zooming in and out:</b> The interface has been updated (wef 20 May 2020) with navigation and zoom settings above the pages of the ePaper. Click on the magnifying glass on top, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want. </p>
+	<p><b>Turning pages:</b> Click on the left or right arrow. If you do not see the arrows, click on the magnifying glass first.</p>
+	<p><b>Reading an issue from another date:</b> Click on the calendar icon (the leftmost icon) on top, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first.</p> 
+	<h5>When Reading from Mobile Phones / Tablets</h5>
+	<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
+	<p><b>Turning pages:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then swipe right or left.</p>
+	<p><b>Reading an issue from another date:</b> Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.</p> 	
+	
+<p><h4>For Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h4></p>
+	<h5>When Reading from Desktop / Laptop Computers</h5>
+		<p><b>Zooming in and out:</b> Double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. </p>
+		<p><b>Turning pages:</b> Double-click until the page zooms out, then click on the left or right arrow.</p>
+		<p><b>Reading an issue from another date:</b> Click on the brightly coloured button on the top right, then select the desired date.</p> 
+	<h5>When Reading from Mobile Phones / Tablets</h5>
+		<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
+		<p><b>Turning pages:</b> Swipe right or left.</p>
+		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the brightly coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p> 	
+		
+<p><h4>For Tamil Murasu</h4></p>
+	<p class="end-note">SPH's ePaper for Tamil Murasu has the same interface for computers and mobile devices.</p>
+	<p><b>Zooming in and out:</b> To enlarge the text or images, use the magnifying glass with a '+' sign. To zoom out, use the magnifying glass with a '-' sign. The empty magnifying glass is for returning to the fully zoomed-out view of the page.</p>
+	<p><b>Turning pages:</b> Use the left or right arrow.</p>
+	<p><b>Reading an issue from another date:</b> Click on the calendar icon on the top right, then select the desired date.</p>
+	
+
+<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
+
+</div><!--close acc-body-->
 </div><!--close div for qn -->
 
 <div>
         <input type="radio" name="acc" id="sph2b">
-        <label for="sph2b">Who can I contact if the navigation or zoom features on the ePaper do not work well for my device?</label>
+        <label for="sph2b">Who can I contact if the navigation or zoom features on the ePaper do not work for my device?</label>
 
  <div class="acc-body">
-  <p>If you encounter problems zooming into or turning pages of the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email subject. To help troubleshooting, please indicate your device brand, model, operating system and browser.   
-</p></div><!--close acc-body-->
+  <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
+</div><!--close acc-body-->
 </div><!--close div for qn -->
 
 <div>
@@ -269,10 +298,10 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 
 <div>
         <input type="radio" name="acc" id="sph4">
-        <label for="sph4">Can I access the SPH newspapers from the NLB Mobile app? </label>
+        <label for="sph4">Can I access SPH newspapers from the NLB Mobile app? </label>
 
  <div class="acc-body">
-  <p>Yes, you can! Tap on the SPH logo in the NLB Moble app's homepage. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. For users of Android devices, not all the browsers may work (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. 
+  <p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. 
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -287,12 +316,12 @@ When you are brought to the SPH ePaper site, you will be able to read the issues
 
 <div>
         <input type="radio" name="acc" id="sph6">
-        <label for="sph6">I see a SPH login screen. What should I do? </label>
+        <label for="sph6">I see an SPH login screen. What should I do? </label>
  <div class="acc-body">
 	<p>This may happen for a few reasons.</p>
-<p>First, you may be using a device with an older operating system. Please update your operating system, e.g. Apple devices should be on iOS / iPadOS 13 / MacOS 15 and above.</p>
+<p>First, you may be using a device with an older operating system. Please update your operating system, e.g. Apple devices should be on iOS / iPadOS 13 / MacOS 15 and above. Go to Settings > Software Update to check which version of the operating system you are on, and update to a new version if needed.</p>
 <p>Second, you may be using an incompatible browser. For example, Android users on Opera may wish to try another browser.</p>
-<p>Third, if this happens while you were reading the ePaper, this may because your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
+<p>Third, if this happens while you were reading the ePaper, this may be because your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
