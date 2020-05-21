@@ -319,7 +319,7 @@ An **international** digital newsstand on the go:
         <label for="sph6">I see an SPH login screen. What should I do? </label>
  <div class="acc-body">
 	<p>This may happen for a few reasons.</p>
-<p>First, you may be using a device with an older operating system. Please update your operating system, e.g. Apple devices should be on iOS / iPadOS 13 / MacOS 15 and above. Go Settings > Software Update to check which version of the operating system you are on, and update to a new version if needed.</p>
+<p>First, you may be using a device with an older operating system. Please update your operating system, e.g. Apple devices should be on iOS / iPadOS 13 / MacOS 15 and above. Go to Settings > Software Update to check which version of the operating system you are on, and update to a new version if needed.</p>
 <p>Second, you may be using an incompatible browser. For example, Android users on Opera may wish to try another browser.</p>
 <p>Third, if this happens while you were reading the ePaper, this may be because your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p></div><!--close acc-body-->
