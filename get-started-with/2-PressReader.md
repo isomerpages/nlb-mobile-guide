@@ -227,14 +227,14 @@ An **international** digital newsstand on the go:
  <div class="acc-body">
   <p>You can read the current issues of:
 	  <ol>
-		  <li>The Straits Times</li> 
-<li>The Business Times</li> 
-<li>The New Paper</li> 
-<li>Lianhe Zaobao</li>
-<li>Lianhe Wanbao</li>
-<li>Shin Min Daily News</li> 
-<li>Berita Harian</li>
-		  <li>Tamil Murasu</li> 
+		<li>The Straits Times</li> 
+		<li>The Business Times</li> 
+		<li>The New Paper</li> 
+		<li>Lianhe Zaobao</li>
+		<li>Lianhe Wanbao</li>
+		<li>Shin Min Daily News</li> 
+		<li>Berita Harian</li>
+		<li>Tamil Murasu</li> 
 	</ol>
 After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.
 	</p>
@@ -243,17 +243,18 @@ After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.s
 
 <div>
         <input type="radio" name="acc" id="sph2a">
-        <label for="sph2a">How do I zoom in to the newspaper on my computer?</label>
+        <label for="sph2a">How do I zoom in to the newspaper / turn pages / read issues from other dates on my computer?</label>
 
  <div class="acc-body">
-	<p>If you are reading <b>from a desktop/laptop</b>, you will see an updated interface (wef 20 May 2020) with navigation and zoom settings above the pages of the ePaper. Also, you can now drag the page around with your mouse after zooming in.</p>
+	<p>If you are reading <b>from a desktop/laptop</b>, you will see an updated interface (wef 20 May 2020) with navigation and zoom settings above the pages of the ePaper. Click on the magnifying glass on top, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want. When you have finished this page, click on the magnifying glass again, then click on the left or right arrow to turn the page.</p>
+	<p>To read an issue from another date, click on the calendar icon (the leftmost icon) on top, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first.</p> 
 	<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
 <div>
         <input type="radio" name="acc" id="sph2b">
-        <label for="sph2b">Who can I contact if the navigation or zoom features on the ePaper do not work well for my device?</label>
+        <label for="sph2b">Who can I contact if the navigation or zoom features on the ePaper do not work for my device?</label>
 
  <div class="acc-body">
   <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
