@@ -225,7 +225,7 @@ An **international** digital newsstand on the go:
         <label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
 
  <div class="acc-body">
-  <p>You can read the current issues of:
+	<p>You can read the current issues of:</p>
 	  <ol>
 		<li>The Straits Times</li> 
 		<li>The Business Times</li> 
