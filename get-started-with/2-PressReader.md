@@ -260,11 +260,11 @@ An **international** digital newsstand on the go:
 	<h5>When Reading from Desktop / Laptop Computers</h5>
 		<p><b>Zooming in and out:</b> Double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. </p>
 		<p><b>Turning pages:</b> Double-click until the page zooms out, then click on the left or right arrow.</p>
-		<p><b>Reading an issue from another date:</b> Click on the coloured button on the top right, then select the desired date.</p> 
+		<p><b>Reading an issue from another date:</b> Click on the brightly coloured button on the top right, then select the desired date.</p> 
 	<h5>When Reading from Mobile Phones / Tablets</h5>
 		<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
 		<p><b>Turning pages:</b> Swipe right or left.</p>
-		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p> 	
+		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the brightly coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p> 	
 		
 <p><h4>For Tamil Murasu</h4></p>
 	<p class="end-note">SPH's ePaper for Tamil Murasu has the same interface for computers and mobile devices.</p>
