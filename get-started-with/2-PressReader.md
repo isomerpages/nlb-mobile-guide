@@ -225,7 +225,7 @@ An **international** digital newsstand on the go:
         <label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
 
  <div class="acc-body">
-  <p>You can read the current issues of:
+	<p>You can read the current issues of:</p>
 	  <ol>
 		<li>The Straits Times</li> 
 		<li>The Business Times</li> 
@@ -236,8 +236,7 @@ An **international** digital newsstand on the go:
 		<li>Berita Harian</li>
 		<li>Tamil Murasu</li> 
 	</ol>
-After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.
-	</p>
+<p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -261,11 +260,11 @@ After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.s
 	<h5>When Reading from Desktop / Laptop Computers</h5>
 		<p><b>Zooming in and out:</b> Double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. </p>
 		<p><b>Turning pages:</b> Double-click until the page zooms out, then click on the left or right arrow.</p>
-		<p><b>Reading an issue from another date:</b> Click on the coloured button on the top right, then select the desired date.</p> 
+		<p><b>Reading an issue from another date:</b> Click on the brightly coloured button on the top right, then select the desired date.</p> 
 	<h5>When Reading from Mobile Phones / Tablets</h5>
 		<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
 		<p><b>Turning pages:</b> Swipe right or left.</p>
-		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p> 	
+		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the brightly coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p> 	
 		
 <p><h4>For Tamil Murasu</h4></p>
 	<p class="end-note">SPH's ePaper for Tamil Murasu has the same interface for computers and mobile devices.</p>
