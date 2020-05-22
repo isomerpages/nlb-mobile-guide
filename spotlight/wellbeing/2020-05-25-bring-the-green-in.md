@@ -86,7 +86,7 @@ Potter/Ten Speed/Harmony/Rodale, 2019.<br/>
 Learn the steps of keeping your very own beautiful bonsai in this book filled with lovely photographs.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC748FE-18C5-47F9-960B-33A143B418B4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5EC748FE-18C5-47F9-960B-33A143B418B4">online</a>&#128187;.<br/>
 
-<h5>SSucculents at Home: Choosing, Growing, and Decorating With the Easiest Houseplants Ever</h5>
+<h5>Succulents at Home: Choosing, Growing, and Decorating With the Easiest Houseplants Ever</h5>
 <i>John Tullock</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCA71A21-A197-4600-9174-CEB91422C6E1"><img src="/images/PL-9-Succulents-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
 Countryman Press, 2019.<br/> 
