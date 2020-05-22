@@ -95,10 +95,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCA71A21
 
 <h5>How Not to Kill Your Houseplant: Survival Tips for the Horticulturally Challenged</h5>
 <i>Veronica Peerless</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id="><img src="/images/PL-9-How-not-to-kill-your-houseplant.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=https://nlb.overdrive.com/media/80491d89-5c67-4ac8-baab-898517220284"><img src="/images/PL-9-How-not-to-kill-your-houseplant.jpg" style="width:300px; text-align:left;"></a><br/>
 Dorling Kindersley Ltd, 2019.<br/> 
 Keep your plants in the best shape possible by learning their characteristics and needs, such as the right amount of light and water. Also, identify the signs of an unhealthy plant and the ways to save them. All the best!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/">online</a>&#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=https://nlb.overdrive.com/media/80491d89-5c67-4ac8-baab-898517220284">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/https://nlb.overdrive.com/media/80491d89-5c67-4ac8-baab-898517220284">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
