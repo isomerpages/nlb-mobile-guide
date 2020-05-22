@@ -35,7 +35,7 @@ This course shows organisations how to adopt smart sustainability practices to d
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind The Scenes With Li Ziqi, the Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
-<i>Goldthread.</i> Published on SCMP, on 17 September 2019</h5>
+<i>Goldthread.</i> Published on SCMP, on 17 September 2019.</h5>
 <p>When I worked in the city, it was about survival. Now when I work in the countryside, I feel like I’m truly living,” says Li Ziqi, the unusual Chinese internet celebrity who showcases her life in rural China where she goes about her day picking flowers, building furniture from bamboo, and preparing food using traditional techniques. </p>
 
 <h5>2. <a href="https://cnaluxury.channelnewsasia.com/experiences/urban-farming-singapore-11925958">Raising the roof: Cultivating Singapore’s Urban Farming Scene</a><br/>
