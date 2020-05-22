@@ -41,7 +41,7 @@ This course shows organisations how to adopt smart sustainability practices to d
 
 <h5>2. <a href="https://cnaluxury.channelnewsasia.com/experiences/urban-farming-singapore-11925958">Raising the roof: Cultivating Singapore’s Urban Farming Scene</a><br/>
 <i>Stacy Rodrigues.</i> Published on Channel News Asia.</h5>
-<p>Singapore once cultivated plantations which is where Orchard Road got its name, but with urban farming a new generation of farmers is hard at work planning ways grow vegetables in available spaces in the city.</p>
+<p>Singapore once cultivated plantations which is where Orchard Road got its name. Now a new generation of farmers are hard at work growing vegetables and herbs in suitable spaces such as rooftops.</p>
 
 <h4>eBooks</h4>
 
