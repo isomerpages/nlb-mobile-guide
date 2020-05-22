@@ -74,7 +74,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3DCA3D51
 
 <h5>The Kitchen Herb Garden</h5>
 <i>Rosalind Creasy</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id C1DA7266-2661-4579-944F-B51EB3AA00ED"><img src="/images/PL-9-The-kitchen-herb-garden.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C1DA7266-2661-4579-944F-B51EB3AA00ED"><img src="/images/PL-9-The-kitchen-herb-garden.jpg" style="width:300px; text-align:left;"></a><br/>
 Tuttle Publishing, 2019.<br/> 
 From seeds to stove top. Learn about preparing the soil and also elegant dining suggestions. With easy-to-follow instructions and inspirational ideas every step of the way.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C1DA7266-2661-4579-944F-B51EB3AA00ED">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C1DA7266-2661-4579-944F-B51EB3AA00ED">online</a>&#128187;.<br/>
