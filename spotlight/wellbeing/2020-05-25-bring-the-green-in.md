@@ -51,7 +51,7 @@ Sasquatch Books , 2019.<br/>
 Numerous ideas and tips to introduce a newbie to the world of indoor plants. Learn about easy to care for plants and trending centre pieces in this beautiful book.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/14BF8718-BD12-401C-A623-21A3BFA64186">online</a>&#128187;.<br/>
 
-<h5>Wild At Home: How to Style and Care for Beautiful Plants</h5>
+<h5>Wild at Home: How to Style and Care for Beautiful Plants</h5>
 <i>Hilton Carter</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-9-Wild-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
 Atlantic Books, 2019.<br/>
@@ -65,7 +65,7 @@ Skyhorse, 2018.<br/>
 Learn which plants have health benefits and discover how to care for them effectively in your home or office.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED964987-7856-4A64-9108-E39AAA52B0AA">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ED964987-7856-4A64-9108-E39AAA52B0AA">online</a>&#128187;.<br/>
 
-h5>Living Décor</h5>
+<h5>Living Décor</h5>
 <i>Maria Colletti</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3DCA3D51-F2AD-4029-8F9F-4F9F1B17824C"><img src="/images/PL-9-Living-deco.jpg" style="width:300px; text-align:left;"></a><br/>
 Cool Springs Press, 2019.<br/> 
