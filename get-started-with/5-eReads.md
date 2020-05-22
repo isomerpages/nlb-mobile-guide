@@ -18,8 +18,8 @@ title: eReads
 
 <p>Discover digital books, eBooks and Audiobooks, selected by NLB librarians on eReads screens.</p>  
 
-<p>Sign in with myLibraryID on NLB Mobile App to scan and borrow digital books conveniently using QR codes from the eReads screens.<br/><br/>Overdue fines is a thing of the past since eBooks and Audiobooks will be automatically returned on due date.
-<br/><br/>Not a Member yet? Do refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID</a> guide.</p>
+<p>Sign in with myLibraryID on the NLB Mobile app to scan and borrow digital books conveniently using QR codes from the eReads screens.<br/><br/>Overdue fines are a thing of the past since eBooks and audiobooks will be automatically returned on the due date.
+<br/><br/>Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
 
 
 
@@ -33,10 +33,10 @@ title: eReads
         <p>Here are the steps:</p>
 <ol>   
 	<li> Select book title</li>
-	<li> Launch your NLB Mobile App and tap the camera icon at the top-left corner</li>
-<li>Scan the QR code displayed and borrow the eBook/Audiobook title</li>
+	<li> Launch your NLB Mobile app and tap the camera icon at the top left corner</li>
+	<li>Scan the QR code displayed and borrow the eBook/audiobook title</li>
     </ol> <p>
-    If you would like to read or listen offline, please refer to our  <a href="/get-started-with/libby/">Libby</a> guide.
+    If you would like to read or listen offline, please refer to our  <a href="/get-started-with/libby/">Libby guide</a>.
     </p></div></div>
 
 
@@ -49,8 +49,7 @@ title: eReads
 <ol>   
 	<li> Select book title</li>
     <li> Click <b>Preview</b>
-        <br/> <span style="font-size:14px"> Note: The preview
-button may load few seconds after and can be found beside the close button</span></li>
+         <p class"end-note"> Note: The preview button may load a few seconds after, and can be found next to the 'Close' button.</p></li>
 	<li> Swipe right to enjoy reading the sample of the book</li>
     </ol>
         </div> </div>
@@ -59,14 +58,13 @@ button may load few seconds after and can be found beside the close button</span
 
 <div>
 		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">How do I preview Audiobooks on the eReads screen?</label>
+        <label for="acc5">How do I preview audiobooks on the eReads screen?</label>
 <div class="acc-body">
       	<p>Here are the steps:</p>
 <ol>   
 	<li> Select book title</li>
 	<li>  Click <b>Preview</b>
-    <br/> <span style="font-size:14px"> Note: The preview
-button may load few seconds after and can be found beside the close button</span></li>
+    <p class"end-note"> Note: The preview button may load a few seconds after, and can be found next to the 'Close' button.</p></li>
     <li> Click <b>Play</b> to enjoy listening to the sample of
 the book.</li>
     </ol>  
