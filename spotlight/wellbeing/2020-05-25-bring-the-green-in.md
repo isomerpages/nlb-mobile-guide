@@ -11,7 +11,7 @@ image: /images/PL-9-Intro-Image.jpg
 <p>What are the personal and natural resources that we can harness so that nature becomes a bigger part of us? This article will show you the various natural aspirations we can work towards, and at the same time, help us reduce our carbon footprint.</p>
 
 <h4>Videos</h4>
-<h5>1. How To Grow Mung Bean Sprouts At Home by HOW TO MAKE AT HOME</h5>
+<h5>1. How to Grow Mung Bean Sprouts at Home</h5>
 Remember the bean sprouts that grew from mung beans (or green beans) as part of a Science experiment in primary school? With this video, you can grow them again on a larger scale.  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/atL41M6BBM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=atL41M6BBM8&feature=youtu.be" target="_blank">How to grow mung bean sprout at home, very easy with plastic basket </a> (2016, November 3). HOW TO MAKE AT HOME. 
