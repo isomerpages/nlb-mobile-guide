@@ -47,7 +47,7 @@ This course shows organisations how to adopt smart sustainability practices to d
 <h5>The Inspired Houseplant: Transform Your Home With Indoor Plants From Kokedama to Terrariums and Water Gardens to Edibles</h5>
 <i>Jen Stearns</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186"><img src="/images/PL-9-The-inspired-house-plant.jpg" style="width:300px; text-align:left;"></a><br/>
-Sasquatch Books , 2019.<br/> 
+Sasquatch Books, 2019.<br/> 
 Numerous ideas and tips to introduce a newbie to the world of indoor plants. Learn about easy to care for plants and trending centre pieces in this beautiful book.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/14BF8718-BD12-401C-A623-21A3BFA64186">online</a>&#128187;.<br/>
 
