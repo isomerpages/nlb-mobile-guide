@@ -59,13 +59,6 @@ Atlantic Books, 2019.<br/>
 Plant cultivation and care is a common love and past time. Besides born again cooks, we also have born again green-fingered gardeners.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
 
-<h5>Hanging Kokedama</h5>
-<i>Coraleigh Parker</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C438D2A3-D5E6-426B-979F-7225706208A4"><img src="/images/PL-9-Hanging-kokedama.jpg" style="width:300px; text-align:left;"></a><br/>
-Jacqui Small, 2018.<br/> 
-Learn all about the Japanese art of creating pot-less suspended plants, known as kokedama.  Contemporary kokedama is the next botanical trend and you can turn any of your favourite plants into a kokedama "on a string"!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C438D2A3-D5E6-426B-979F-7225706208A4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C438D2A3-D5E6-426B-979F-7225706208A4">online</a>&#128187;.<br/>
-
 <h5>Healing Houseplants</h5>
 <i>Michelle Polk</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED964987-7856-4A64-9108-E39AAA52B0AA"><img src="/images/PL-9-Healing-houseplants.jpg" style="width:300px; text-align:left;"></a><br/>
