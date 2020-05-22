@@ -25,7 +25,7 @@ Source: <a href="https://www.youtube.com/watch?v=rPlEA5_JrBs" target="_blank">Ho
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg" target="_blank">The Employee’s Guide to Sustainability</a></strong><br/>
-As an employee, this video will teach you how to find a sustainable way to commute, reduce food waste, refusing, reducing, reusing, and recycling, and how to make sustainable food choices in your workplace.</p>
+As an employee, this video will teach you how to find a sustainable way to commute, reduce food waste, reducing, reusing, and recycling, and how to make sustainable food choices in your workplace.</p>
 <a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndalibrary-The-Employees-Guide-to-Sustainability.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg" target="_blank">Sustainability Strategies</a></strong><br/>
@@ -41,7 +41,7 @@ This course shows organisations how to adopt smart sustainability practices to d
 
 <h5>2. <a href="https://cnaluxury.channelnewsasia.com/experiences/urban-farming-singapore-11925958">Raising the roof: Cultivating Singapore’s Urban Farming Scene</a><br/>
 <i>Stacy Rodrigues.</i> Published on Channel News Asia.</h5>
-<p>Singapore once cultivated plantations which is where Orchard Road got its name, but with urban farming, we may just be able to hope a little.</p>
+<p>Singapore once cultivated plantations which is where Orchard Road got its name, but with urban farming a new generation of farmers is hard at work planning ways grow vegetables in available spaces in the city.</p>
 
 <h4>eBooks</h4>
 
