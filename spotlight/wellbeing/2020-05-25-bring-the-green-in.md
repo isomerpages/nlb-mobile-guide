@@ -61,7 +61,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC
 
 <h5>Hanging Kokedama</h5>
 <i>Coraleigh Parker</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C438D2A3-D5E6-426B-979F-7225706208A4"><img src="/images/PL-9-Hanging-kokedama" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C438D2A3-D5E6-426B-979F-7225706208A4"><img src="/images/PL-9-Hanging-kokedama.jpg" style="width:300px; text-align:left;"></a><br/>
 Jacqui Small, 2018.<br/> 
 Learn all about the Japanese art of creating pot-less suspended plants, known as kokedama.  Contemporary kokedama is the next botanical trend and you can turn any of your favourite plants into a kokedama "on a string"!<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C438D2A3-D5E6-426B-979F-7225706208A4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C438D2A3-D5E6-426B-979F-7225706208A4">online</a>&#128187;.<br/>
