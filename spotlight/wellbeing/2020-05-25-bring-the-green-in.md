@@ -34,17 +34,17 @@ This course shows organisations how to adopt smart sustainability practices to d
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind The Scenes With Li Ziqi, the Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
+<h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind the Scenes With Li Ziqi, the Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
 <i>Goldthread.</i> Published on SCMP, on 17 September 2019.</h5>
-<p>When I worked in the city, it was about survival. Now when I work in the countryside, I feel like I’m truly living,” says Li Ziqi, the unusual Chinese internet celebrity who showcases her life in rural China where she goes about her day picking flowers, building furniture from bamboo, and preparing food using traditional techniques. </p>
+<p>"When I worked in the city, it was about survival. Now when I work in the countryside, I feel like I’m truly living,” says Li Ziqi, the unusual Chinese internet celebrity who showcases her life in rural China where she goes about her day picking flowers, building furniture from bamboo, and preparing food using traditional techniques. </p>
 
-<h5>2. <a href="https://cnaluxury.channelnewsasia.com/experiences/urban-farming-singapore-11925958">Raising the roof: Cultivating Singapore’s Urban Farming Scene</a><br/>
+<h5>2. <a href="https://cnaluxury.channelnewsasia.com/experiences/urban-farming-singapore-11925958">Raising the Roof: Cultivating Singapore’s Urban Farming Scene</a><br/>
 <i>Stacy Rodrigues.</i> Published on Channel News Asia.</h5>
 <p>Singapore once cultivated plantations which is where Orchard Road got its name. Now a new generation of farmers are hard at work growing vegetables and herbs in suitable spaces such as rooftops.</p>
 
 <h4>eBooks</h4>
 
-<h5> The Inspired Houseplant: Transform Your Home With Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles</h5>
+<h5>The Inspired Houseplant: Transform Your Home With Indoor Plants From Kokedama to Terrariums and Water Gardens to Edibles</h5>
 <i>Jen Stearns</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186"><img src="/images/PL-9-The-inspired-house-plant.jpg" style="width:300px; text-align:left;"></a><br/>
 Sasquatch Books , 2019.<br/> 
