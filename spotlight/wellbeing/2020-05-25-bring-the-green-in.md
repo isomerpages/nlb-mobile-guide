@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Package 9 - Bring in the green
+title:  Learning Package 9 - Bring the green in
 date:   2020-05-25
 permalink: /spotlight/wellbeing/2020-05-25-bring-the-green-in
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
@@ -45,27 +45,12 @@ This course shows organisations how to adopt smart sustainability practices to d
 
 <h4>eBooks</h4>
 
-<h5>Start Simple: Eleven Everyday Ingredients for Countless Weeknight Meals</h5>
-<i>Lucas Volger</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=768FD917-B138-4CC0-B9CF-220A465CD3B1"><img src="/images/PL-9-Start-simple-eleven-everyday-ingredients-for-countless-weeknight-meals.jpg" style="width:300px; text-align:left;"></a><br/>
-HarperCollins, 2020.<br/>
-Magic can happen with just a few ingredients such as sweet potatoes, eggs, cabbage, mushrooms, tofu, cauliflower. Chefs can throw in their own variations and favourite flavours—mixing, matching, and adding ingredients to customize their dishes.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=768FD917-B138-4CC0-B9CF-220A465CD3B1">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/768FD917-B138-4CC0-B9CF-220A465CD3B1">online</a>&#128187;.<br/> 
-
-
-<h5>Super Easy Amigurumi: Crochet Cute Animals</h5>
-<i>Mitsuki Hoshi</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3D7CE964-E03E-46D0-88D7-CF9ECC48898E"><img src="/images/PL-9-Super-easy-amigurumi.jpg" style="width:300px; text-align:left;"></a><br/>
-HarperCollins, 2017.<br/>
-Begin with basic crochet techniques to create four animals, each increasing in complexity: the chick, chicken, parakeet and penguin. With photos and clear instructional crochet charts, you will become an amigurumi master in no time!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3D7CE964-E03E-46D0-88D7-CF9ECC48898E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3D7CE964-E03E-46D0-88D7-CF9ECC48898E">online</a> &#128187;.<br/>
-
-<h5>Container Vegetable Gardening: Growing Crops in Pots in Every Space</h5>
-<i>Liz Dobbs</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-9-Container-vege-gardening.jpg" style="width:300px; text-align:left;"></a><br/>
-CompanionHouse Books, 2019.<br/>
-Even without an outdoor garden, you can still grow herbs and vegetables. Filled with colourful images of the plants and how-to instructions, you will be tempted to grow the herbs or vegetables and pick them fresh for your use.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
+<h5> The Inspired Houseplant: Transform Your Home With Indoor Plants from Kokedama to Terrariums and Water Gardens to Edibles</h5>
+<i>Jen Stearns</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186"><img src="/images/PL-9-The-inspired-house-plant.jpg" style="width:300px; text-align:left;"></a><br/>
+Sasquatch Books , 2019.<br/> 
+Numerous ideas and tips to introduce a newbie to the world of indoor plants. Learn about easy to care for plants and trending centre pieces in this beautiful book.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/14BF8718-BD12-401C-A623-21A3BFA64186">online</a>&#128187;.<br/>
 
 <h5>Wild At Home: How to Style and Care for Beautiful Plants</h5>
 <i>Hilton Carter</i><br/>
@@ -74,12 +59,47 @@ Atlantic Books, 2019.<br/>
 Plant cultivation and care is a common love and past time. Besides born again cooks, we also have born again green-fingered gardeners.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
 
-<h5>The Simple Life</h5>
-<i>Rhonda Hetzel</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=997312EC-50D1-4E09-827D-0A0956182D32"><img src="/images/PL-9-The-simple-life.png" style="width:300px; text-align:left;"></a><br/>
-Penguin Special: Penguin Special, 2014.<br/>
-Having decided to live frugally and embrace sustainability, Rhonda Hetzel set about to find the various ways to work out how to achieve her goal by focusing on the simple things that make life worth living: family, friends, and a home-cooked meal.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=997312EC-50D1-4E09-827D-0A0956182D32">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/997312EC-50D1-4E09-827D-0A0956182D32">online</a> &#128187;.<br/>
+<h5>Hanging Kokedama</h5>
+<i>Coraleigh Parker</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C438D2A3-D5E6-426B-979F-7225706208A4"><img src="/images/PL-9-Hanging-kokedama" style="width:300px; text-align:left;"></a><br/>
+Jacqui Small, 2018.<br/> 
+Learn all about the Japanese art of creating pot-less suspended plants, known as kokedama.  Contemporary kokedama is the next botanical trend and you can turn any of your favourite plants into a kokedama "on a string"!<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C438D2A3-D5E6-426B-979F-7225706208A4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C438D2A3-D5E6-426B-979F-7225706208A4">online</a>&#128187;.<br/>
+
+<h5>Healing Houseplants</h5>
+<i>Michelle Polk</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED964987-7856-4A64-9108-E39AAA52B0AA"><img src="/images/PL-9-Healing-houseplants.jpg" style="width:300px; text-align:left;"></a><br/>
+Skyhorse, 2018.<br/> 
+Learn which plants have health benefits and discover how to care for them effectively in your home or office.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED964987-7856-4A64-9108-E39AAA52B0AA">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ED964987-7856-4A64-9108-E39AAA52B0AA">online</a>&#128187;.<br/>
+
+h5>Living Décor</h5>
+<i>Maria Colletti</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3DCA3D51-F2AD-4029-8F9F-4F9F1B17824C"><img src="/images/PL-9-Living-deco.jpg" style="width:300px; text-align:left;"></a><br/>
+Cool Springs Press, 2019.<br/> 
+Welcome houseplants into your space and use them to make beautiful home decor projects that showcase your plants and creativity.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3DCA3D51-F2AD-4029-8F9F-4F9F1B17824C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3DCA3D51-F2AD-4029-8F9F-4F9F1B17824C">online</a>&#128187;.<br/>
+
+<h5>The Kitchen Herb Garden</h5>
+<i>Rosalind Creasy</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id C1DA7266-2661-4579-944F-B51EB3AA00ED"><img src="/images/PL-9-The-kitchen-herb-garden.jpg" style="width:300px; text-align:left;"></a><br/>
+Tuttle Publishing, 2019.<br/> 
+From seeds to stove top. Learn about preparing the soil and also elegant dining suggestions. With easy-to-follow instructions and inspirational ideas every step of the way.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C1DA7266-2661-4579-944F-B51EB3AA00ED">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C1DA7266-2661-4579-944F-B51EB3AA00ED">online</a>&#128187;.<br/>
+
+<h5>The Little Book of Bonsai: An Easy Guide to Caring for Your Bonsai Tree</h5>
+<i>Jonas Dupuich</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC748FE-18C5-47F9-960B-33A143B418B4"><img src="/images/PL-9-The-little-book-of-bonsai.jpg" style="width:300px; text-align:left;"></a><br/>
+Potter/Ten Speed/Harmony/Rodale, 2019.<br/> 
+Learn the steps of keeping your very own beautiful bonsai in this book filled with lovely photographs.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC748FE-18C5-47F9-960B-33A143B418B4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5EC748FE-18C5-47F9-960B-33A143B418B4">online</a>&#128187;.<br/>
+
+<h5>Succulents at Home: Choosing, Growing, and Decorating With the Easiest Houseplants Ever</h5>
+<i>John Tullock</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCA71A21-A197-4600-9174-CEB91422C6E1"><img src="/images/PL-9-Succulents-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
+Countryman Press, 2019.<br/> 
+Reflective practise, as taught by the writer helps one to be more present and focus better. Succulents may be flower-shaped, round or pointy and they are generally suitable for growing indoors. Learn how to do so including tips on choosing the soil, container and repotting.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCA71A21-A197-4600-9174-CEB91422C6E1">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/DCA71A21-A197-4600-9174-CEB91422C6E1">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
