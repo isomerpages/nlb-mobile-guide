@@ -26,11 +26,11 @@ Source: <a href="https://www.youtube.com/watch?v=rPlEA5_JrBs" target="_blank">Ho
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg" target="_blank">The Employee’s Guide to Sustainability</a></strong><br/>
 As an employee, this video will teach you how to find a sustainable way to commute, reduce food waste, reducing, reusing, and recycling, and how to make sustainable food choices in your workplace.</p>
-<a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndalibrary-The-Employees-Guide-to-Sustainability.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg" target="_blank">Sustainability Strategies</a></strong><br/>
 This course shows organisations how to adopt smart sustainability practices to drive financial performance, attract and retain employees, and protect the company's license to operate.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndalibrary-Sustainability-Strategies.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
