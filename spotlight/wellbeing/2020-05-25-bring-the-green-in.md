@@ -16,12 +16,12 @@ Remember the bean sprouts that grew from mung beans (or green beans) as part of 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/atL41M6BBM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=atL41M6BBM8&feature=youtu.be" target="_blank">How to grow mung bean sprout at home, very easy with plastic basket </a> (2016, November 3). HOW TO MAKE AT HOME. 
 
-<h5>2. How To Grow Chillies At Home by Urban Gardening</h5>
+<h5>2. How to Grow Chillies at Home by Urban Gardening</h5>
 What do you need to grow chillies? The answer is simple: chillies. This video will show you how to do just that with chilli seeds.  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/rPlEA5_JrBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=rPlEA5_JrBs" target="_blank">How To Grow Chillies At Home</a> (2018, September 30). Urban Gardening.
 
-<h4>eLearning videos from Lynda Library</h4>
+<h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg" target="_blank">The Employee’s Guide to Sustainability</a></strong><br/>
@@ -34,7 +34,7 @@ This course shows organisations how to adopt smart sustainability practices to d
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind The Scenes With Li Ziqi, The Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
+<h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind The Scenes With Li Ziqi, the Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
 <i>Goldthread.</i> Published on SCMP, on 17 September 2019</h5>
 <p>When I worked in the city, it was about survival. Now when I work in the countryside, I feel like I’m truly living,” says Li Ziqi, the unusual Chinese internet celebrity who showcases her life in rural China where she goes about her day picking flowers, building furniture from bamboo, and preparing food using traditional techniques. </p>
 
