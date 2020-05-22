@@ -32,7 +32,6 @@ As an employee, this video will teach you how to find a sustainable way to commu
 This course shows organisations how to adopt smart sustainability practices to drive financial performance, attract and retain employees, and protect the company's license to operate.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndalibrary-Sustainability-Strategies.jpg" style="width:400px;"></a>
 
-
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind The Scenes With Li Ziqi, The Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
@@ -93,6 +92,13 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC748FE
 Countryman Press, 2019.<br/> 
 Reflective practise, as taught by the writer helps one to be more present and focus better. Succulents may be flower-shaped, round or pointy and they are generally suitable for growing indoors. Learn how to do so including tips on choosing the soil, container and repotting.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCA71A21-A197-4600-9174-CEB91422C6E1">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/DCA71A21-A197-4600-9174-CEB91422C6E1">online</a>&#128187;.<br/>
+
+<h5>How Not to Kill Your Houseplant: Survival Tips for the Horticulturally Challenged</h5>
+<i>Veronica Peerless</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id="><img src="/images/PL-9-How-not-to-kill-your-houseplant.jpg" style="width:300px; text-align:left;"></a><br/>
+Dorling Kindersley Ltd, 2019.<br/> 
+Keep your plants in the best shape possible by learning their characteristics and needs, such as the right amount of light and water. Also, identify the signs of an unhealthy plant and the ways to save them. All the best!<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
