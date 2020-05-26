@@ -206,6 +206,8 @@ An **international** digital newsstand on the go:
   <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the library closure period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
 <p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
 </p>
+		<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
+	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 <p>If you encounter problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
@@ -215,7 +217,11 @@ An **international** digital newsstand on the go:
         <label for="sph1a">Can I read the newspapers on tablets and smartphones? </label>
 
  <div class="acc-body">
-  <p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. For users of Android devices, not all the browsers may work (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser.</p>
+	<p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above.</p> 	
+	<p class="end-note">If you are using the Safari browser on an iPad, first, go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface.</p>
+	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
+	<p>For users of Android devices, not all the browsers may work (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers.</p>
+	<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -254,7 +260,9 @@ An **international** digital newsstand on the go:
 	<h5>When Reading from Mobile Phones / Tablets</h5>
 	<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
 	<p><b>Turning pages:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then swipe right or left.</p>
-	<p><b>Reading an issue from another date:</b> Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.</p> 	
+	<p><b>Reading an issue from another date:</b> Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.</p>
+	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
+	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 	
 <p><h4>For Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h4></p>
 	<h5>When Reading from Desktop / Laptop Computers</h5>
@@ -264,7 +272,9 @@ An **international** digital newsstand on the go:
 	<h5>When Reading from Mobile Phones / Tablets</h5>
 		<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
 		<p><b>Turning pages:</b> Swipe right or left.</p>
-		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the brightly coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p> 	
+		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the brightly coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p>
+	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
+	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 		
 <p><h4>For Tamil Murasu</h4></p>
 	<p class="end-note">SPH's ePaper for Tamil Murasu has the same interface for computers and mobile devices.</p>
@@ -280,10 +290,12 @@ An **international** digital newsstand on the go:
 
 <div>
         <input type="radio" name="acc" id="sph2b">
-        <label for="sph2b">Who can I contact if the navigation or zoom features on the ePaper do not work for my device?</label>
+        <label for="sph2b">The navigation or zoom features on the ePaper do not work for my device.</label>
 
  <div class="acc-body">
-  <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
+  <p>If you are using the Safari browser on an iPad, first, make sure that you are using the mobile version of the website. To check this, go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p></p>
+  <p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
+  <p>If the above does not apply and you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
@@ -319,7 +331,7 @@ An **international** digital newsstand on the go:
         <label for="sph6">I see an SPH login screen. What should I do? </label>
  <div class="acc-body">
 	<p>This may happen for a few reasons.</p>
-<p>First, you may be using a device with an older operating system. Please update your operating system, e.g. Apple devices should be on iOS / iPadOS 13 / MacOS 15 and above. Go to Settings > Software Update to check which version of the operating system you are on, and update to a new version if needed.</p>
+<p>First, you may be using a device with an older operating system. Please update your operating system, e.g. Apple devices should be on iOS 13 / iPadOS 13 / MacOS 15 and above. Go to Settings > General > Software Update to check which version of the operating system you are on, and update to a new version if needed.</p>
 <p>Second, you may be using an incompatible browser. For example, Android users on Opera may wish to try another browser.</p>
 <p>Third, if this happens while you were reading the ePaper, this may be because your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p></div><!--close acc-body-->
