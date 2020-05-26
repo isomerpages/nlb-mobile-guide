@@ -313,10 +313,11 @@ An **international** digital newsstand on the go:
         <label for="sph4">Can I access SPH newspapers from the NLB Mobile app? </label>
 
  <div class="acc-body">
-  <p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
+	<p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
+	<p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>
 	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
-	  <p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>
+
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
