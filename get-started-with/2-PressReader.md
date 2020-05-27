@@ -21,10 +21,9 @@ title: eMagazines and eNewspapers
 </tr>
 </tbody>
 </table>
-!--end hide New Features box>
+--end hide New Features box>
 
 <h2>About PressReader</h2> 
-
 An **international** digital newsstand on the go:
 <ul>
 <li>Current issues from over 7,000 of the world’s leading publications</li>
