@@ -9,7 +9,7 @@ title: eMagazines and eNewspapers
 
 <div class="FAQ-section" id="AboutPressReader"> 
 	<p><h2>About PressReader</h2></p>
-	<p>An **international** digital newsstand on the go:</p>
+	<p>An <b>international</b> digital newsstand on the go:</p>
 <ul>
 <li>Current issues from over 7,000 of the world’s leading publications</li>
 <li>From more than 100 countries</li>
