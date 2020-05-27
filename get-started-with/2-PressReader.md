@@ -23,7 +23,8 @@ title: eMagazines and eNewspapers
 </table>
 --end hide New Features box>
 
-<h2>About PressReader</h2> 
+<div class="FAQ-section" id="AboutPressReader"> 
+<p><h2>About PressReader</h2></p>
 An **international** digital newsstand on the go:
 <ul>
 <li>Current issues from over 7,000 of the world’s leading publications</li>
