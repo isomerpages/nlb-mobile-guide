@@ -15,7 +15,7 @@ image: /images/PL-1-header.jpg
 <li>Comfortable clothes and footwear</li>
 </ul>
 <p>Try this out and tag us at @publiclibrarysg with #librarysg 😀</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/fomkRYcl_mo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=fomkRYcl_mo&feature=youtu.be" target="_blank" rel="noopener">Super fun KID'S Workout! 8-Minute HIIT fitness class for kids. Let's Kid Fit GO!</a>(1 April 2020)
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/fomkRYcl_mo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=fomkRYcl_mo" target="_blank" rel="noopener">Super fun KID'S Workout! 8-Minute HIIT fitness class for kids. Let's Kid Fit GO!</a>(1 April 2020)
 <h4>Be Curious! Read these eBooks to motivate your children to stay active and healthy.</h4>
 <p><h5>Oh, the Things You Can Do That Are Good for You</h5></p>
 <i>Tish Rabe</i><br/>
