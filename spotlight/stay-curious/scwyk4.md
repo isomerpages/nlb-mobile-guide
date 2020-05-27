@@ -19,14 +19,14 @@ image: /images/PL-1-header.jpg
 <h4>Be Curious! Read these eBooks to motivate your children to stay active and healthy.</h4>
 <p><h5>Oh, the Things You Can Do That Are Good for You</h5></p>
 <i>Tish Rabe</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69"><img src="/images/PL-3-science1.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69"><img src="/images/PL-4-HIIT1.jpg" style="width:300px; text-align:left;"></a><br/>
 Publisher: Random House Children's Books<br/>
 <p>The Cat in the Hat teaches young readers the basics of healthy living including the importance of eating right, staying active, getting enough sleep, handwashing and even the best way to sneeze when you don't have a tissue handy! Containing simple, fun suggestions for children to increase their activity throughout the day, this is a book that supports healthy bodies AND healthy minds!
 </p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/1B25D757-38FD-4025-84FA-62175E399D69">online</a> 💻.
 <p><h5>30-Minute Chemistry Projects</h5></p>
 <i>Anna Leigh</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B7C501FF-B51A-41CE-A267-E161096DDD89"><img src="/images/PL-3-science2.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B7C501FF-B51A-41CE-A267-E161096DDD89"><img src="/images/PL-4-HIIT2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: J540.78 LEI <br/>
 Publisher: Lerner Publishing Group<br/>
 <p>Did you know that you can make plastic, snow, and even a lava lamp in less than 30 minutes? Clear, step-by-step instructions guide readers through the exciting science projects, and Science Takeaway sidebars explain the chemistry behind these cool creations.</p>
