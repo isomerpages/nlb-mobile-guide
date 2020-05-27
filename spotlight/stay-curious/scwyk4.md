@@ -19,11 +19,11 @@ image: /images/PL-1-header.jpg
 <h4>Be Curious! Read these eBooks to motivate your children to stay active and healthy.</h4>
 <p><h5>Oh, the Things You Can Do That Are Good for You</h5></p>
 <i>Tish Rabe</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4704987"><img src="/images/PL-4-HIIT1.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=96f60aa8-fe0b-4be2-b79e-5636f63a5843"><img src="/images/PL-4-HIIT1.jpg" style="width:300px; text-align:left;"></a><br/>
 Publisher: Random House Children's Books<br/>
 <p>The Cat in the Hat teaches young readers the basics of healthy living including the importance of eating right, staying active, getting enough sleep, handwashing and even the best way to sneeze when you don't have a tissue handy! Containing simple, fun suggestions for children to increase their activity throughout the day, this is a book that supports healthy bodies AND healthy minds!
 </p>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4704987">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/4704987">online</a> 💻.
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=96f60aa8-fe0b-4be2-b79e-5636f63a5843">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/96f60aa8-fe0b-4be2-b79e-5636f63a5843">online</a> 💻.
 <p><h5>My Weird School Fast Facts: Sports</h5></p>
 <i>Dan Gutman</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5F4D03B6-67D3-4D94-B106-40C4C3347BEE"><img src="/images/PL-4-HIIT2.jpg" style="width:300px; text-align:left;"></a><br/>
