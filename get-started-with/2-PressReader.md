@@ -1,11 +1,26 @@
 ---
 layout: simple-page
 permalink: /get-started-with/PressReader/
-breadcrumb: eMagazines and eNewspapers
+breadcrumb: Get Started / eMagazines and eNewspapers
 description: How to Read eMagazines and eNewspapers using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
+
+<div class="FAQ-section" id="AboutPressReader"> 
+	<p><h2>About PressReader</h2></p>
+	<p>An **international** digital newsstand on the go:</p>
+<ul>
+<li>Current issues from over 7,000 of the world’s leading publications</li>
+<li>From more than 100 countries</li>
+<li>International papers and magazines - <i>The Washington Post, The Guardian, Newsweek, 
+	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
+<li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
+	</ul>
+  <h2>How to Read eNewspapers and eMagazines</h2> 
+<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <!-- Hide New Features box
 <table style="border-color: blue;" border="1" cellpadding="10">
@@ -22,21 +37,6 @@ title: eMagazines and eNewspapers
 </tbody>
 </table>
 --end hide New Features box>
-
-<div class="FAQ-section" id="AboutPressReader"> 
-<p><h2>About PressReader</h2></p>
-An **international** digital newsstand on the go:
-<ul>
-<li>Current issues from over 7,000 of the world’s leading publications</li>
-<li>From more than 100 countries</li>
-<li>International papers and magazines - <i>The Washington Post, The Guardian, Newsweek, 
-	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
-<li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
-	</ul>
-  <h2>How to Read eNewspapers and eMagazines</h2> 
-<div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <!--Hide SPH gif till libraries reopen
 <p> <h2>How to Read SPH eNewspapers</h2> </p>
