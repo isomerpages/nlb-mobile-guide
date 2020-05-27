@@ -27,7 +27,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757
 <p><h5>My Weird School Fast Facts: Sports</h5></p>
 <i>Dan Gutman</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5F4D03B6-67D3-4D94-B106-40C4C3347BEE"><img src="/images/PL-4-HIIT2.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: J540.78 LEI <br/>
 Publisher: HarperCollins<br/>
 <p>Whether you're a kid who wants to know more about sports or just someone who is curious why Major League Baseball umpires have to wear black underwear, this is the book for you!</p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5F4D03B6-67D3-4D94-B106-40C4C3347BEE">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/5F4D03B6-67D3-4D94-B106-40C4C3347BEE">online</a> 💻.
