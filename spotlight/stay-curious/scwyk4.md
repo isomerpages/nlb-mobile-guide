@@ -16,12 +16,13 @@ image: /images/PL-1-header.jpg
 </ul>
 <p>Try this out and tag us at @publiclibrarysg with #librarysg 😀</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/fomkRYcl_mo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><p>Source: <a href="https://www.youtube.com/watch?v=fomkRYcl_mo&feature=youtu.be" target="_blank" rel="noopener">Super fun KID'S Workout! 8-Minute HIIT fitness class for kids. Let's Kid Fit GO!</a>(1 April 2020)
-<h4>Be curious! Read these eBooks for more fun experiments to make science come alive at home.</h4>
-<p><h5>Snackable Science Experiments (60 Edible Tests to Try and Taste)</h5></p>
-<i>Emma Vanstone</i><br/>
+<h4>Be Curious! Read these eBooks to motivate your children to stay active and healthy.</h4>
+<p><h5>Oh, the Things You Can Do That Are Good for You</h5></p>
+<i>Tish Rabe</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69"><img src="/images/PL-3-science1.jpg" style="width:300px; text-align:left;"></a><br/>
-Publisher: Page Street Publishing<br/>
-<p>Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!</p>
+Publisher: Random House Children's Books<br/>
+<p>The Cat in the Hat teaches young readers the basics of healthy living including the importance of eating right, staying active, getting enough sleep, handwashing and even the best way to sneeze when you don't have a tissue handy! Containing simple, fun suggestions for children to increase their activity throughout the day, this is a book that supports healthy bodies AND healthy minds!
+</p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/1B25D757-38FD-4025-84FA-62175E399D69">online</a> 💻.
 <p><h5>30-Minute Chemistry Projects</h5></p>
 <i>Anna Leigh</i><br/>
