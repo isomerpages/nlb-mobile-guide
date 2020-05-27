@@ -7,6 +7,21 @@ image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
 
+<div class="FAQ-section" id="AboutPressReader"> 
+	<p><h2>About PressReader</h2></p>
+	<p>An <b>international</b> digital newsstand on the go:</p>
+<ul>
+<li>Current issues from over 7,000 of the world’s leading publications</li>
+<li>From more than 100 countries</li>
+<li>International papers and magazines - <i>The Washington Post, The Guardian, Newsweek, 
+	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
+<li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
+	</ul>
+	<p><h2>How to Read eNewspapers and eMagazines</h2></p>
+<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <!-- Hide New Features box
 <table style="border-color: blue;" border="1" cellpadding="10">
 <tbody>
@@ -21,22 +36,7 @@ title: eMagazines and eNewspapers
 </tr>
 </tbody>
 </table>
-!--end hide New Features box>
-
-<h2>About PressReader</h2> 
-
-An **international** digital newsstand on the go:
-<ul>
-<li>Current issues from over 7,000 of the world’s leading publications</li>
-<li>From more than 100 countries</li>
-<li>International papers and magazines - <i>The Washington Post, The Guardian, Newsweek, 
-	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
-<li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
-	</ul>
-  <h2>How to Read eNewspapers and eMagazines</h2> 
-<div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+--end hide New Features box>
 
 <!--Hide SPH gif till libraries reopen
 <p> <h2>How to Read SPH eNewspapers</h2> </p>
@@ -263,7 +263,7 @@ An **international** digital newsstand on the go:
 	<p><b>Reading an issue from another date:</b> Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.</p>
 	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
-	
+
 <p><h4>For Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h4></p>
 	<h5>When Reading from Desktop / Laptop Computers</h5>
 		<p><b>Zooming in and out:</b> Double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. </p>
@@ -275,13 +275,13 @@ An **international** digital newsstand on the go:
 		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the brightly coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p>
 	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
-		
+
 <p><h4>For Tamil Murasu</h4></p>
 	<p class="end-note">SPH's ePaper for Tamil Murasu has the same interface for computers and mobile devices.</p>
 	<p><b>Zooming in and out:</b> To enlarge the text or images, use the magnifying glass with a '+' sign. To zoom out, use the magnifying glass with a '-' sign. The empty magnifying glass is for returning to the fully zoomed-out view of the page.</p>
 	<p><b>Turning pages:</b> Use the left or right arrow.</p>
 	<p><b>Reading an issue from another date:</b> Click on the calendar icon on the top right, then select the desired date.</p>
-	
+
 
 <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
 
