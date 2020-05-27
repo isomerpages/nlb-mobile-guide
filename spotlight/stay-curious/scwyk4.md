@@ -24,19 +24,20 @@ Publisher: Random House Children's Books<br/>
 <p>The Cat in the Hat teaches young readers the basics of healthy living including the importance of eating right, staying active, getting enough sleep, handwashing and even the best way to sneeze when you don't have a tissue handy! Containing simple, fun suggestions for children to increase their activity throughout the day, this is a book that supports healthy bodies AND healthy minds!
 </p>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1B25D757-38FD-4025-84FA-62175E399D69">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/1B25D757-38FD-4025-84FA-62175E399D69">online</a> 💻.
-<p><h5>30-Minute Chemistry Projects</h5></p>
-<i>Anna Leigh</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B7C501FF-B51A-41CE-A267-E161096DDD89"><img src="/images/PL-4-HIIT2.jpg" style="width:300px; text-align:left;"></a><br/>
+<p><h5>My Weird School Fast Facts: Sports</h5></p>
+<i>Dan Gutman</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5F4D03B6-67D3-4D94-B106-40C4C3347BEE"><img src="/images/PL-4-HIIT2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: J540.78 LEI <br/>
-Publisher: Lerner Publishing Group<br/>
-<p>Did you know that you can make plastic, snow, and even a lava lamp in less than 30 minutes? Clear, step-by-step instructions guide readers through the exciting science projects, and Science Takeaway sidebars explain the chemistry behind these cool creations.</p>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B7C501FF-B51A-41CE-A267-E161096DDD89">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/B7C501FF-B51A-41CE-A267-E161096DDD89">online</a> 💻.
+Publisher: HarperCollins<br/>
+<p>Whether you're a kid who wants to know more about sports or just someone who is curious why Major League Baseball umpires have to wear black underwear, this is the book for you!</p>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5F4D03B6-67D3-4D94-B106-40C4C3347BEE">with the app</a> 📱 or <a href="https://nlb.overdrive.com/media/5F4D03B6-67D3-4D94-B106-40C4C3347BEE">online</a> 💻.
 <h4>For more stay-home activities to engage children, visit:</h4>
 <p><a href="http://www.nlb.gov.sg/discovereads/diy-resources/" target="_blank">http://www.nlb.gov.sg/discovereads/diy-resources/</a></p>
 <h4>Tip for parents:</h4>
-<p>Encourage scientific thinking in your child by exploring and finding answers together when your child asks you questions. Don’t jump in with the right answers immediately. Prompt questions and give your child some time to think and experiment.</p>
-<p>Source: <a href="https://www.naeyc.org/our-work/families/support-science-learning" target="_blank">10 Tips to Support Children's Science Learning</a></p><br/>
-<p>All websites were last accessed on 15 May 2020.</p>
+<p>When outdoor play isn’t an option, make screen time an active time through dance videos and interactive video games.
+</p>
+<p>Source: <a href="https://www.eatright.org/fitness/exercise/family-activities/easy-ways-to-encourage-your-kids-to-get-active" target="_blank">Easy Ways to Encourage Your Kids to Get Active</a></p><br/>
+<p>All websites were last accessed on 25 May 2020.</p>
 <p>The book covers and synopses are the copyright of the respective publishing companies.</p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
 <tbody>
