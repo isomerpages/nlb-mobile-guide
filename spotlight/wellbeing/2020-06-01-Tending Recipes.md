@@ -3,23 +3,23 @@ layout: post
 title:  Learning Package 10 - Trending Recipes
 date:   2020-06-01
 permalink: /spotlight/wellbeing/2020-06-01-Tending Recipes.md
-description: Cooking and baking is a delicious way to occupy your time. Whether you are an amateur cook or an aspiring MasterChef, here are some trending recipes to recreate at home.  
+description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm.  
 image: /images/PL-10-banner-no-text-raw2.jpg
 ---
 <img src="/images/PL-10-banner-no-text-raw2.jpg">
 <p><q>Eating and reading are two pleasures that combine admirably.</q> - C.S. Lewis.</p>
-<p>How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
+<p>Cooking and baking is a delicious way to occupy your time. Whether you are an amateur cook or an aspiring MasterChef, here are some trending recipes to recreate at home.</p>
 
 <h4>Videos</h4>
-<h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
-Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, comes and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
+<h5>1. We Tried Making Steamed Milo Cake! By AsiaOne</h5>
+No oven? No problem! Using only three ingredients, this chocolatey and malty sweet treat is a piece of cake.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/zViTlqmE-UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://youtu.be/zViTlqmE-UI" target="_blank">We Tried Making Steamed Milo Cake! </a> (2020, April 11). AsiaOne. 
 
-<h5>2. The Surprising Science of Happiness by Dan Gilbert</h5>
-We’re surprisingly more resilient than we think. Research shows that setbacks that we think would be traumatising tend to have less impact than we would expect, and that we are capable of being happy even when things don't go as planned. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/4q1dgn_C0AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">The Surprising Science of Happiness</a> (2012, April 27). TED. 
+<h5>2. Easy Banana Bread Recipe By Cooking with Rila</h5>
+Going bananas? Why not make a loaf of banana bread? 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vPUuY-bEK2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">asy Banana Bread Recipe</a> (2020, January 10). Cooking with Rila. 
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
