@@ -28,7 +28,7 @@ title: eReads
 		<input type="radio" name="acc" id="acc1">
         <label for="acc1">Where are eReads screens found? </label>
 <div class="acc-body">
-      	<p>eReads screens can be found in schools, community clubs, malls and our libraries. <br/></br/>Do check out our locations below.</p>
+      	<p>eReads screens can be found in schools, community clubs, malls and our libraries. <br/>Do check out our locations below.</p>
 
   <p><b>Libraries</b></p>
 <ul>   
