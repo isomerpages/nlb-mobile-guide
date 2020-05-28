@@ -24,24 +24,24 @@ Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">as
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg" target="_blank">Happiness Tips</a></strong><br/>
-From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg" target="_blank">What makes a good team, dividing up the work.</a></strong><br/>
+A great chef needs to know how to assign tasks to his crew in the kitchen. Learn about the ideal roles for a successful team.</p>
+<a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg" target="_blank">Arianna Huffington's Thrive 01: Discovering Meditation and Sleep</a></strong><br/>
-Improve your wellbeing with two simple activities – meditation and sleep!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg" target="_blank">The Ingredients of Good Routines: Identifying Routine Tasks</a></strong><br/>
+Cooking is a routine everyday task. Learn some steps to add routines into your life so you can get more done after preparing your meals.</p>
+<a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://bbc.com/news/uk-51936286">Coronavirus: How Families Can Cope with Self-Isolating Together</a><br/>
-<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020.</h5>
-<p>How do you cope with your children or other members of your family as you spend more and more time cooped up together at home? Learn how experts and different families are spending their time together in this article. </p>
+<h5>1. <a href="https://guide.michelin.com/sg/en/article/features/michelin-chefs-recipes-social-media">Quarantine Cooking: MICHELIN Chefs Share Recipes on Social Media</a><br/>
+Published on MICHELIN Guide Asia, 2 April 2020</h5>
+<p>Take a masterclass in cooking! Top chefs from around the world are taking to social media to share recipes and videos from their own home kitchens.</p>
 
-<h5>2. <a href="https://www.nylon.com.sg/2020/04/trendy-easy-to-make-recipes-to-try-at-home-including-d-i-y-bubble-tea">Trendy & Easy-To-Make Recipes to Try At Home, Including D-I-Y Bubble Tea</a><br/>
-<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020.</h5>
-<p>Everyone now has the time to aspire to be a home chef and experiment with different recipes. Here are 6 that may just suit your tastebuds’ fancy should you have the ingredients at home already.</p>
+<h5>2. <a href="https://www.homeanddecor.com.sg/design/news/official-and-not-so-official-iconic-recipes-to-try-at-home-during-the-extended-circuit-breaker-time/">11 Official (and Not-so-Official) Iconic Recipes to Try at Home During the Extended Circuit Breaker Time</a><br/>
+Published on Home Décor, on 25 April 2020.</h5>
+<p>Missing your favourite food establishments during this time? Fret not! Most of these brands have released official recipes of some of their iconic dishes.</p>
 
 <h4>eBooks</h4>
 
