@@ -19,7 +19,7 @@ Source: <a href="https://youtu.be/zViTlqmE-UI" target="_blank">We Tried Making S
 <h5>2. Easy Banana Bread Recipe By Cooking with Rila</h5>
 Going bananas? Why not make a loaf of banana bread? 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vPUuY-bEK2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">asy Banana Bread Recipe</a> (2020, January 10). Cooking with Rila. 
+Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">Easy Banana Bread Recipe</a> (2020, January 10). Cooking with Rila. 
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
