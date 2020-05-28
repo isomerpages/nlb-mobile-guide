@@ -4,9 +4,9 @@ title:  Learning Package 8 - Community Spirit
 date:   2020-05-28
 permalink: /spotlight/a-new-normal/community_spirit
 description: The COVID-19 pandemic is more than just a health crisis. It encompasses human, economic and social crises that have indiscriminately disrupted and affected people’s lives and livelihoods.
-image: /images/NL-a8-main.jpg
+image: /images/NL-a8-main.png
 ---
-<img src="/images/NL-a8-main.jpg">
+<img src="/images/NL-a8-main.png">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/hand-united-together-people-unity-1917895/" target="_blank">https://pixabay.com/photos/hand-united-together-people-unity-1917895/</a></p>
 The COVID-19 pandemic is more than just a health crisis. It encompasses human, economic and social crises that have indiscriminately disrupted and affected people’s lives and livelihoods.[^1] However, communities around the world are demonstrating solidarity, strength and resilience by banding together to provide support and help to those who are vulnerable and in need.
