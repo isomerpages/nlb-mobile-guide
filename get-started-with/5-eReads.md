@@ -22,13 +22,48 @@ title: eReads
 <br/><br/>Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
 
 
-
-
 <div class="acc-kontainer" id="eReads-get-started">          
 	<div>
 <div>
 		<input type="radio" name="acc" id="acc1">
-        <label for="acc1">How do I borrow eBooks/audiobooks on the eReads screen?</label>
+        <label for="acc1">Where are eReads screens found? </label>
+<div class="acc-body">
+      	<p>eReads screens can be found in schools, community clubs, malls and our libraries. <br/>Do check out our locations below.</p>
+
+  <p><b>Libraries</b></p>
+<ul>   
+	<li> library@harbourfront</li>
+	<li> Yishun Public Library</li>
+    <li> Bedok Public Library</li>
+    </ul>  
+
+<p>
+    <b>Community</b>
+</p><ul><li>Radin Mas Community Club</li><li>Wisma Geylang Serai Community Club</li>
+<li>Century Square Mall</li>
+<li>Lifelong Learning Institute</li>
+<li>Our Tampines Hub</li>
+<li>Enabling Village</li>
+</ul>  
+<p>
+    <b>Educational</b>
+</p>
+
+<ul>   
+	<li>Anglo Chinese School (Independent)</li>
+    <li>Bedok South Secondary School</li>
+    <li>Montfort Secondary School</li>
+    <li>Meridian Secondary School</li>
+    <li>Millennia Institute</li>
+    <li>Ngee Ann Polytechnic</li>
+    <li>Rosyth School</li>
+    </ul>      </div> </div> 
+
+
+
+<div>
+		<input type="radio" name="acc" id="acc2">
+        <label for="acc2">How do I borrow eBooks/audiobooks on the eReads screen?</label>
 <div class="acc-body">
         <p>Here are the steps:</p>
 <ol>   
@@ -38,7 +73,6 @@ title: eReads
     </ol> <p>
     If you would like to read or listen offline, please refer to our  <a href="/get-started-with/libby/">Libby guide</a>.
     </p></div></div>
-
 
 
 <div>
@@ -55,10 +89,9 @@ title: eReads
         </div> </div>
 
 
-
 <div>
-		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">How do I preview audiobooks on the eReads screen?</label>
+		<input type="radio" name="acc" id="acc4">
+        <label for="acc4">How do I preview audiobooks on the eReads screen?</label>
 <div class="acc-body">
       	<p>Here are the steps:</p>
 <ol>   
@@ -69,6 +102,7 @@ title: eReads
 the book.</li>
     </ol>  
         </div> </div> 
+
 
 
 
