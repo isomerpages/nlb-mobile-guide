@@ -7,7 +7,7 @@ description: What we read feeds our soul and this list of eBooks and videos have
 image: /images/PL-10-banner-no-text-raw2.jpg
 ---
 <img src="/images/PL-10-banner-no-text-raw2.jpg">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/"target="_blank">https://www.pexels.com/</a></p>
+<p style="font-size:8pt;">Photo credit: Retrieved from <ahref="https://www.pexels.com/"target="_blank">https://www.pexels.com/</a></p>
 <p><q>Eating and reading are two pleasures that combine admirably.</q> - C.S. Lewis.</p>
 <p>Cooking and baking is a delicious way to occupy your time. Whether you are an amateur cook or an aspiring MasterChef, here are some trending recipes to recreate at home.</p>
 
@@ -37,7 +37,7 @@ Cooking is a routine everyday task. Learn some steps to add routines into your l
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://guide.michelin.com/sg/en/article/features/michelin-chefs-recipes-social-media">Quarantine Cooking: MICHELIN Chefs Share Recipes on Social Media</a><br/>
-Published on MICHELIN Guide Asia, 2 April 2020</h5>
+Published on MICHELIN Guide Asia, 2 April 2020.</h5>
 <p>Take a masterclass in cooking! Top chefs from around the world are taking to social media to share recipes and videos from their own home kitchens.</p>
 
 <h5>2. <a href="https://www.homeanddecor.com.sg/design/news/official-and-not-so-official-iconic-recipes-to-try-at-home-during-the-extended-circuit-breaker-time/">11 Official (and Not-so-Official) Iconic Recipes to Try at Home During the Extended Circuit Breaker Time</a><br/>
