@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Learning Package 8 - Community Spirit
-date:   2020-05-28
+date:   2020-05-29
 permalink: /spotlight/a-new-normal/community-spirit
 description: The COVID-19 pandemic is more than just a health crisis. It encompasses human, economic and social crises that have indiscriminately disrupted and affected people’s lives and livelihoods.
 image: /images/NL-a8-main.png
@@ -11,7 +11,7 @@ image: /images/NL-a8-main.png
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/hand-united-together-people-unity-1917895/" target="_blank">https://pixabay.com/photos/hand-united-together-people-unity-1917895/</a></p>
 The COVID-19 pandemic is more than just a health crisis. It encompasses human, economic and social crises that have indiscriminately disrupted and affected people’s lives and livelihoods.[^1] However, communities around the world are demonstrating solidarity, strength and resilience by banding together to provide support and help to those who are vulnerable and in need.
 
-Community resilience, which refers to the community’s ability to utilise available resources to respond, withstand, adapt and recover from adversity, is exhibited through the many community-led and ground-up initiatives that have been established in Singapore and other countries in recent months.[^2] People from varied backgrounds around the world are volunteering their time, knowledge, skills and resources to help not just the elderly and disabled but also healthcare workers, foreign workers and families in need. There are also groups rallying to help those facing discrimination or stigma as a result of misinformation surrounding the virus.[^3] Fundraising campaigns have also been launched to provide financial relief to those affected by COVID-19.[^4]
+Community resilience, which refers to the community’s ability to utilise available resources to respond, withstand, adapt and recover from adversity, is exhibited through the many community-led and ground-up initiatives that have been established in Singapore and other countries in recent months.[^2] People from varied backgrounds around the world are volunteering their time, knowledge, skills and resources to help not just the elderly and disabled but also healthcare workers, foreign workers and families in need. There are groups rallying to help those facing discrimination or stigma as a result of misinformation surrounding the virus.[^3] Fundraising campaigns have also been launched to provide financial relief to those affected by COVID-19.[^4]
 
 In Singapore, the SGUnited portal was launched on 20 February 2020. The one-stop portal enables those keen to contribute to community-led efforts to help those affected by the disruptions caused by the pandemic through donations, volunteering or other
 forms of support.[^5] Some of the initiatives included providing meals for the breaking of fast during the month of Ramadan, sewing reusable masks for migrant workers, supporting local businesses through the purchase of gift cards and monetary donations to support the urgent and critical needs of vulnerable local communities.[^6]
@@ -84,26 +84,26 @@ Sell, C. (2010). <i>A cup of comfort for a better world</i>. New York: Adams Med
 <h4>Videos and Podcasts</h4>
 <h5>1. COVID-19: Community groups in Singapore race to help foreign workers</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/seYNmnnqUqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/seYNmnnqUqE" target="_blank">COVID-19: Community groups in Singapore race to help foreign workers.</a> COVID-19: community groups in Singapore race to help foreign workers. (2020, April 23). <i>CNA</i>. Retrieved 2020, May 5.
+Source: <a href="https://www.youtube.com/embed/seYNmnnqUqE" target="_blank">COVID-19: Community groups in Singapore race to help foreign workers.</a> (2020, April 23). <i>CNA</i>. Retrieved 2020, May 5.
 
 <h5>2. COVID-19: Volunteers aim to sew 50,000 reusable masks during circuit breaker period</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/OMpUqYX8H8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/OMpUqYX8H8Q" target="_blank">COVID-19: volunteers aim to sew 50,000 reusable masks during circuit breaker period.</a> COVID-19: community groups in Singapore race to help foreign workers. (2020, April 8). <i>CNA</i>. Retrieved 2020, May 5.
+Source: <a href="https://www.youtube.com/embed/OMpUqYX8H8Q" target="_blank">COVID-19: volunteers aim to sew 50,000 reusable masks during circuit breaker period.</a> (2020, April 8). <i>CNA</i>. Retrieved 2020, May 5.
 
 <h5>3. Acts of kindness spread as UK tackles COVID-19 pandemic</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/8qNJyA--rvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/8qNJyA--rvc" target="_blank">Acts of kindness spread as UK tackles COVID-19 pandemic.</a> COVID-19: community groups in Singapore race to help foreign workers. (2020, April 6). <i>CNA</i>. Retrieved 2020, May 5.
+Source: <a href="https://www.youtube.com/embed/8qNJyA--rvc" target="_blank">Acts of kindness spread as UK tackles COVID-19 pandemic.</a> (2020, April 6). <i>CNA</i>. Retrieved 2020, May 5.
 
 <h5>4. Coronavirus: How local communities support each other and keep the spirits up</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/XjJ8xU3HkMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/XjJ8xU3HkMo" target="_blank">Coronavirus: how local communities support each other and keep the spirits up.</a> COVID-19: community groups in Singapore race to help foreign workers. (2020, March 17). <i>DW News</i>. Retrieved 2020, May 5.
+Source: <a href="https://www.youtube.com/embed/XjJ8xU3HkMo" target="_blank">Coronavirus: how local communities support each other and keep the spirits up.</a> (2020, March 17). <i>DW News</i>. Retrieved 2020, May 5.
 
 
 
 If you are interested to read up further on volunteerism and the spirit of giving, check out the following journal articles and resources in Chinese, Malay and Tamil.
 
 <h4>Journal articles</h4>
-<h5>1. <a href="https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/RR-Report-Volunteers-In-Disaster-Management.pdf" target="_blank">A review of informal volunteerism in emergencies and disasters: definition, opportunities and challenges</a></h5>
+<h5>1. <a href="https://www.sciencedirect.com/science/article/pii/S2212420915300388" target="_blank">A review of informal volunteerism in emergencies and disasters: definition, opportunities and challenges</a></h5>
 Whittaker, J., McLennan, B., & Handmer, J. (2015, September). A review of informal volunteerism in emergencies and disasters: definition, opportunities and challenges. <i>International Journal of Disaster Risk Reduction. 13</i>: 358–368. Retrieved 2020, May 5 . 
 
 <h5>2. <a href="http://eresources.nlb.gov.sg/main/browse/resource/1111/" target="_blank">Predictors of early community involvement: advancing the self and caring for others</a></h5>
