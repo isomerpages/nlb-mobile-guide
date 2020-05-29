@@ -17,7 +17,7 @@ No oven? No problem! Using only three ingredients, this chocolatey and malty swe
 Source: <a href="https://youtu.be/zViTlqmE-UI" target="_blank">We Tried Making Steamed Milo Cake! </a> (2020, April 11). AsiaOne. 
 
 <h5>2. Easy Banana Bread Recipe By Cooking with Rila</h5>
-Going bananas? Why not make a loaf of banana bread? 
+Going bananas? Why not make a loaf of banana bread? All it takes is 40 minutes of baking time. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vPUuY-bEK2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">Easy Banana Bread Recipe</a> (2020, January 10). Cooking with Rila. 
 
