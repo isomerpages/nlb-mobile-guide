@@ -17,15 +17,15 @@ No oven? No problem! Using only three ingredients, this chocolatey and malty swe
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/zViTlqmE-UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://youtu.be/zViTlqmE-UI" target="_blank">We Tried Making Steamed Milo Cake! </a> (2020, April 11). AsiaOne. 
 
-<h5>2. Easy Banana Bread Recipe By Cooking with Rila</h5>
+<h5>2. Easy Banana Bread Recipe by Cooking With Rila</h5>
 Going bananas? Why not make a loaf of banana bread? All it takes is 40 minutes of baking time. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vPUuY-bEK2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">Easy Banana Bread Recipe</a> (2020, January 10). Cooking with Rila. 
 
-<h4>eLearning videos from Lynda Library</h4>
+<h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg" target="_blank">What makes a good team, dividing up the work.</a></strong><br/>
+<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg" target="_blank">What Makes a Good Team, Dividing up the Work</a></strong><br/>
 A great chef needs to know how to assign tasks to his crew in the kitchen. Learn about the ideal roles for a successful team.</p>
 <a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
@@ -40,7 +40,7 @@ Cooking is a routine everyday task. Learn some steps to add routines into your l
 Published on MICHELIN Guide Asia, 2 April 2020.</h5>
 <p>Take a masterclass in cooking! Top chefs from around the world are taking to social media to share recipes and videos from their own home kitchens.</p>
 
-<h5>2. <a href="https://www.homeanddecor.com.sg/design/news/official-and-not-so-official-iconic-recipes-to-try-at-home-during-the-extended-circuit-breaker-time/">11 Official (and Not-so-Official) Iconic Recipes to Try at Home During the Extended Circuit Breaker Time</a><br/>
+<h5>2. <a href="https://www.homeanddecor.com.sg/design/news/official-and-not-so-official-iconic-recipes-to-try-at-home-during-the-extended-circuit-breaker-time/">11 Official (And Not-So-Official) Iconic Recipes to Try at Home During the Extended Circuit Breaker Time</a><br/>
 Published on Home Décor, on 25 April 2020.</h5>
 <p>Missing your favourite food establishments during this time? Fret not! Most of these brands have released official recipes of some of their iconic dishes.</p>
 
