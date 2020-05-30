@@ -46,19 +46,9 @@ Published on Home Décor, on 25 April 2020.</h5>
 
 <h4>eBooks</h4>
 
-<h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
-<i>Sonja Lyubomirsky</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/PL-2-thehowofhap.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 LYU. New York: Penguin Books, 2008.<br/> 
-Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">online</a>&#128187;.<br/> 
 
-<h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
-<i>Sarah Wilson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
-HarperCollins, 2018.<br/>
-This practical and funny book encourages those with anxiety to embrace themselves for who they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
+
+
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
