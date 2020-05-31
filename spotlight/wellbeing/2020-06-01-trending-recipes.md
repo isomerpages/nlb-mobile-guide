@@ -47,7 +47,7 @@ Published on Home Décor, on 25 April 2020.</h5>
 <h4>eBooks</h4>
 <h5>Baking Sourdough</h5>
 <i>Kevan Roberts</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D"><img src="/images/.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D"><img src="/images/PL-10-Baking-sourdough.jpg" style="width:300px; text-align:left;"></a><br/>
 Crowood, 2020.<br/>
 Learn the basics of baking sourdough bread, a healthy and popular choice in recent months. The writer, an artisan baker goes through the basics of equipment, ingredients, how to build and maintain a sourdough starter, kneading the dough and more.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/11437C8F-98D2-4676-809A-F8D6302CDD2D">online</a>&#128187;.<br/>
