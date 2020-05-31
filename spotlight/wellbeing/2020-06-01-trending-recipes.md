@@ -45,27 +45,6 @@ Published on Home Décor, on 25 April 2020.</h5>
 <p>Missing your favourite food establishments during this time? Fret not! Most of these brands have released official recipes of some of their iconic dishes.</p>
 
 <h4>eBooks</h4>
-<h5>How to Feed Yourself: 100 Fast, Cheap, and Reliable Recipes for Cooking When You Don't Know What You're Doing</h5>
-<i>Spoon University</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8B8F5665-103A-4672-A7E1-A32221854E5C"><img src="/images/PL-10-How-to-feed-yourself.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
-More than a cookbook for college students, this book is perfect for any beginner. It is organised by nine simple ingredients (from eggs to bananas) and the various ways to cook them from basic to beyond.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8B8F5665-103A-4672-A7E1-A32221854E5C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8B8F5665-103A-4672-A7E1-A32221854E5C">online</a>&#128187;.<br/>
-
-<h5>Fakeaway: Healthy Home-cooked Takeaway Meals</h5>
-<i>Chris Bavin</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69B86E7A-D264-431A-A8CC-2A26F060E34A"><img src="/images/PL-10-Fakeaway.jpg" style="width:300px; text-align:left;"></a><br/>
-Dorling Kindersley Ltd, 2020.<br/>
-With these simple recipes, takeaway food such as pizzas, pasta dishes and curries can be prepared easily to your family’s delight.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69B86E7A-D264-431A-A8CC-2A26F060E34A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/69B86E7A-D264-431A-A8CC-2A26F060E34A">online</a>&#128187;.<br/>
-
-<h5>Rice. Noodles. Yum.: Everyone's Favourite Southeast Asian Dishes</h5>
-<i>Abigail Sotto Raines</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77"><img src="/images/PL-10-Rice-noodles-yum.jpg" style="width:300px; text-align:left;"></a><br/>
-Page Street Publishing, 2019.<br/>
-Popular Southeast Asian recipes fill the pages of writer Raines’ book. Learn how to cook popular dishes such as pad thai and Vietnamese pork with rice noodles which she learnt travelling and researching.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/EFE3135B-00F3-4A93-BF67-10B1043D3E77">online</a>&#128187;.<br/>
-
 <h5>Baking Sourdough</h5>
 <i>Kevan Roberts</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D"><img src="/images/.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -100,6 +79,27 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E435CA2
 Potter/Ten Speed/Harmony/Rodale, 2017.<br/>
 Make your own popsicles using delicious and healthy ingredients. With some well-known and unusual combinations, you can create fantastic desserts to enjoy. These include cookie dough, neopolitan and for the adventurous palate, tumeric golden milk!<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=10D361F2-359D-487E-90C5-8EAEF3254283">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/10D361F2-359D-487E-90C5-8EAEF3254283">online</a>&#128187;.<br/>
+
+<h5>How to Feed Yourself: 100 Fast, Cheap, and Reliable Recipes for Cooking When You Don't Know What You're Doing</h5>
+<i>Spoon University</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8B8F5665-103A-4672-A7E1-A32221854E5C"><img src="/images/PL-10-How-to-feed-yourself.jpg" style="width:300px; text-align:left;"></a><br/>
+Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
+More than a cookbook for college students, this book is perfect for any beginner. It is organised by nine simple ingredients (from eggs to bananas) and the various ways to cook them from basic to beyond.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8B8F5665-103A-4672-A7E1-A32221854E5C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8B8F5665-103A-4672-A7E1-A32221854E5C">online</a>&#128187;.<br/>
+
+<h5>Fakeaway: Healthy Home-cooked Takeaway Meals</h5>
+<i>Chris Bavin</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69B86E7A-D264-431A-A8CC-2A26F060E34A"><img src="/images/PL-10-Fakeaway.jpg" style="width:300px; text-align:left;"></a><br/>
+Dorling Kindersley Ltd, 2020.<br/>
+With these simple recipes, takeaway food such as pizzas, pasta dishes and curries can be prepared easily to your family’s delight.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69B86E7A-D264-431A-A8CC-2A26F060E34A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/69B86E7A-D264-431A-A8CC-2A26F060E34A">online</a>&#128187;.<br/>
+
+<h5>Rice. Noodles. Yum.: Everyone's Favourite Southeast Asian Dishes</h5>
+<i>Abigail Sotto Raines</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77"><img src="/images/PL-10-Rice-noodles-yum.jpg" style="width:300px; text-align:left;"></a><br/>
+Page Street Publishing, 2019.<br/>
+Popular Southeast Asian recipes fill the pages of writer Raines’ book. Learn how to cook popular dishes such as pad thai and Vietnamese pork with rice noodles which she learnt travelling and researching.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/EFE3135B-00F3-4A93-BF67-10B1043D3E77">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
