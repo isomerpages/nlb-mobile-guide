@@ -56,7 +56,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F
 <i>Susan Zimmer</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E7F9AC3C-5D29-4258-95AC-7CCA6C224F67"><img src="/images/PL-10-I-love-coffee.jpg" style="width:300px; text-align:left;"></a><br/>
 Andrews McMeel Publishing, 2014.<br/>
-Do you love coffee and want to create coffee drinks in your home using basic ingredients. Follow this illustrated guide and learn to make drinks like a cappuccino, black forest latte and more.<br/>
+Do you love coffee and want to create coffee drinks in your home using basic ingredients? Follow this illustrated guide and learn to make drinks like cappuccino, black forest latte and more.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E7F9AC3C-5D29-4258-95AC-7CCA6C224F67">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E7F9AC3C-5D29-4258-95AC-7CCA6C224F67">online</a>&#128187;.<br/>
 
 <h5>The Boba Book: Bubble Tea and Beyond</h5>
@@ -98,7 +98,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69B86E7A
 <i>Abigail Sotto Raines</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77"><img src="/images/PL-10-Rice-noodles-yum.jpg" style="width:300px; text-align:left;"></a><br/>
 Page Street Publishing, 2019.<br/>
-Popular Southeast Asian recipes fill the pages of writer Raines’ book. Learn how to cook popular dishes such as pad thai and Vietnamese pork with rice noodles which she learnt travelling and researching.<br/>
+Popular Southeast Asian recipes fill the pages of writer Raines’ book. Learn how to cook popular dishes such as pad thai and Vietnamese pork with rice noodles which she learnt while travelling.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/EFE3135B-00F3-4A93-BF67-10B1043D3E77">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
