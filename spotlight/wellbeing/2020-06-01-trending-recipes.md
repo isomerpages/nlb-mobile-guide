@@ -27,11 +27,11 @@ Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">Ea
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg" target="_blank">What Makes a Good Team, Dividing up the Work</a></strong><br/>
 A great chef needs to know how to assign tasks to his crew in the kitchen. Learn about the ideal roles for a successful team.</p>
-<a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo1-team.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg" target="_blank">The Ingredients of Good Routines: Identifying Routine Tasks</a></strong><br/>
 Cooking is a routine everyday task. Learn some steps to add routines into your life so you can get more done after preparing your meals.</p>
-<a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo2-routines.jpg" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
