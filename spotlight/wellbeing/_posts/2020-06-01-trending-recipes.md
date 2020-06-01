@@ -9,7 +9,7 @@ image: /images/PL-10-banner-no-text-raw2.jpg
 <img src="/images/PL-10-banner-no-text-raw2.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/burger-and-vegetables-placed-on-brown-wood-surface-1565982/" target="_blank">https://www.pexels.com/photo/burger-and-vegetables-placed-on-brown-wood-surface-1565982/</a></p>
 <p><q>Eating and reading are two pleasures that combine admirably.</q> - C.S. Lewis.</p>
-<p>Cooking and baking is a delicious way to occupy your time. Whether you are an amateur cook or an aspiring MasterChef, here are some trending recipes to recreate at home.</p>
+<p>Cooking and baking are delicious ways to occupy your time. Whether you are an amateur cook or an aspiring MasterChef, here are some trending recipes to recreate at home.</p>
 
 <h4>Videos</h4>
 <h5>1. We Tried Making Steamed Milo Cake! By AsiaOne</h5>
