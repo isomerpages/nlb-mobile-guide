@@ -41,15 +41,16 @@ Published on MICHELIN Guide Asia, 2 April 2020.</h5>
 <p>Take a masterclass in cooking! Top chefs from around the world are taking to social media to share recipes and videos from their own home kitchens.</p>
 
 <h5>2. <a href="https://www.homeanddecor.com.sg/design/news/official-and-not-so-official-iconic-recipes-to-try-at-home-during-the-extended-circuit-breaker-time/">11 Official (And Not-So-Official) Iconic Recipes to Try at Home During the Extended Circuit Breaker Time</a><br/>
-Published on Home Décor, on 25 April 2020.</h5>
+Published on Home & Décor Singapore, on 25 April 2020.</h5>
 <p>Missing your favourite food establishments during this time? Fret not! Most of these brands have released official recipes of some of their iconic dishes.</p>
+<p class="end-note">You can borrow Home & Décor and many other eMagazines with <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby</a> or <a href="/get-started-with/pressreader/">PressReader</a>.</p>
 
 <h4>eBooks</h4>
 <h5>Baking Sourdough</h5>
 <i>Kevan Roberts</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D"><img src="/images/PL-10-Baking-sourdough.jpg" style="width:300px; text-align:left;"></a><br/>
 Crowood, 2020.<br/>
-Learn the basics of baking sourdough bread, a healthy and popular choice in recent months. The writer, an artisan baker goes through the basics of equipment, ingredients, how to build and maintain a sourdough starter, kneading the dough and more.<br/>
+Learn the basics of baking sourdough bread, a healthy and popular choice in recent months. The writer, an artisan baker, goes through the basics of equipment, ingredients, how to build and maintain a sourdough starter, kneading the dough and more.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/11437C8F-98D2-4676-809A-F8D6302CDD2D">online</a>&#128187;.<br/>
 
 <h5>I Love Coffee!: Over 100 Easy and Delicious Coffee Drinks</h5>
