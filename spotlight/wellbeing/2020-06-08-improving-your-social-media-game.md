@@ -4,9 +4,9 @@ title:  Learning Package 11 - Improving Your Social Media Game
 date:   2020-06-08
 permalink: /spotlight/wellbeing/2020-06-08-improving-your-social-media-game
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
-image: /images/PL-9-Intro-Image.jpg
+image: /images/PL-11-Intro-image.jpg
 ---
-<img src="/images/PL-9-Intro-Image.jpg">
+<img src="/images/PL-11-Intro-image.jpg">
 <p><q>Handwritten letters, direct eye contact, stolen smiles and the art of listening to your heart was the original social media.</q> - Nitya Prakash.</p>
 <p>Keeping in touch with family and friends via social media is a part of our lives. What we post, share and read keeps our relationships close and bridges the physical distance between us.</p>
 
@@ -24,23 +24,23 @@ Source: <a href="https://www.youtube.com/watch?v=C9n71DKdRbw" target="_blank">5 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg" target="_blank">The Employee’s Guide to Sustainability</a></strong><br/>
-As an employee, this video will teach you how to find a sustainable way to commute, reduce food waste, reducing, reusing, and recycling, and how to make sustainable food choices in your workplace.</p>
-<a href="https://www.lynda.com/Business-tutorials/Employees-Guide-Sustainability/2825691-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Social-media/2818031/2929302-4.html?org=nlb.gov.sg" target="_blank">Social Media from Employee to Entrepreneur</a></strong><br/>
+Ever wondered how one social media platform differs from the other? Find out more about the common social media platforms and their unique characteristics.</p>
+<a href="https://www.lynda.com/Business-tutorials/Social-media/2818031/2929302-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg" target="_blank">Sustainability Strategies</a></strong><br/>
-This course shows organisations how to adopt smart sustainability practices to drive financial performance, attract and retain employees, and protect the company's license to operate.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">Learning Path: Become a Social Media Advertising Specialist</a></strong><br/>
+Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further. Learn the basics in this course all about social media marketing.</p>
+<a href="https://https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://www.scmp.com/lifestyle/entertainment/article/3027602/behind-scenes-li-ziqi-mysterious-chinese-internet-celebrity">Behind the Scenes With Li Ziqi, the Mysterious Chinese Internet Celebrity With 58 Million Fans</a><br/>
-<i>Goldthread.</i> Published on SCMP, on 17 September 2019.</h5>
-<p>"When I worked in the city, it was about survival. Now when I work in the countryside, I feel like I’m truly living,” says Li Ziqi, the unusual Chinese internet celebrity who showcases her life in rural China where she goes about her day picking flowers, building furniture from bamboo, and preparing food using traditional techniques. </p>
+<h5>1. <a href="https://www.oom.com.sg/4-best-social-media-marketing-platforms-in-singapore/amp/">4 Best Social Media Marketing Platforms In Singapore</a><br/>
+<i>Carlo Angelo Sunga.</i> Published on shapingonlinefuture.com, on February 2020.</h5>
+<p>"This article takes a close look at the most dominant social media platforms in Singapore. </p>
 
-<h5>2. <a href="https://cnaluxury.channelnewsasia.com/experiences/urban-farming-singapore-11925958">Raising the Roof: Cultivating Singapore’s Urban Farming Scene</a><br/>
-<i>Stacy Rodrigues.</i> Published on Channel News Asia.</h5>
-<p>Singapore once cultivated plantations which is where Orchard Road got its name. Now a new generation of farmers are hard at work growing vegetables and herbs in suitable spaces such as rooftops.</p>
+<h5>2. <a href="https://www.falcon.io/insights-hub/topics/social-media-strategy/21-tips-increase-instagram-engagement/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D#1">23 Ways to Easily Increase Instagram Engagement in 2020</a><br/>
+<i>Adam Phillips.</i> Published on falcon.io, on February 2020.</h5>
+<p>Instagram is currently very popular and is a great way to reach out for personal or commercial reasons. Learn the best ways to attract viewers.</p>
 
 <h4>eBooks</h4>
 
