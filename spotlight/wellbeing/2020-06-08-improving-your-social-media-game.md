@@ -36,7 +36,7 @@ Enjoy engaging with your friends and family on Instagram and Facebook, but keen 
 
 <h5>1. <a href="https://www.oom.com.sg/4-best-social-media-marketing-platforms-in-singapore/amp/">4 Best Social Media Marketing Platforms In Singapore</a><br/>
 <i>Carlo Angelo Sunga.</i> Published on shapingonlinefuture.com, on February 2020.</h5>
-<p>"This article takes a close look at the most dominant social media platforms in Singapore. </p>
+<p>This article takes a close look at the most dominant social media platforms in Singapore.</p>
 
 <h5>2. <a href="https://www.falcon.io/insights-hub/topics/social-media-strategy/21-tips-increase-instagram-engagement/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D#1">23 Ways to Easily Increase Instagram Engagement in 2020</a><br/>
 <i>Adam Phillips.</i> Published on falcon.io, on February 2020.</h5>
