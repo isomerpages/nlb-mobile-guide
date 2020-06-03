@@ -7,6 +7,8 @@ description: What we read feeds our soul and this list of eBooks and videos have
 image: /images/PL-11-Intro-image.jpg
 ---
 <img src="/images/PL-11-Intro-image.jpg">
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="http://pexels.com/photo/white-smartphone-1851415/" target="_blank">http://pexels.com/photo/white-smartphone-1851415/</a></p>
+
 <p><q>Handwritten letters, direct eye contact, stolen smiles and the art of listening to your heart was the original social media.</q> - Nitya Prakash.</p>
 <p>Keeping in touch with family and friends via social media is a part of our lives. What we post, share and read keeps our relationships close and bridges the physical distance between us.</p>
 
