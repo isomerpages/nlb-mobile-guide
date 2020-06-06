@@ -45,62 +45,66 @@ Enjoy engaging with your friends and family on Instagram and Facebook, but keen 
 <p>Instagram is currently very popular and is a great way to reach out for personal or commercial reasons. Learn the best ways to attract viewers.</p>
 
 <h4>eBooks</h4>
+<h5>Influencer Marketing for Brands: What YouTube and Instagram Can Teach You About the Future of Digital Advertising</h5>
+<i>Aron Levin</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DFE4845D-09F3-4BC1-9D07-BF3188013B3A"><img src="/images/Pl-11-Influencer-marketing-for-brands.jpg" style="width:300px; text-align:left;"></a><br/>
+Apress, 2019.<br/> 
+Learn how to create an effective influencer marketing campaign in 3 steps. Find out more about producing YouTube videos and also understand the digital landscape.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DFE4845D-09F3-4BC1-9D07-BF3188013B3A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/DFE4845D-09F3-4BC1-9D07-BF3188013B3A">online</a>&#128187;.<br/>
 
-<h5>The Inspired Houseplant: Transform Your Home With Indoor Plants From Kokedama to Terrariums and Water Gardens to Edibles</h5>
-<i>Jen Stearns</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186"><img src="/images/PL-9-The-inspired-house-plant.jpg" style="width:300px; text-align:left;"></a><br/>
-Sasquatch Books, 2019.<br/> 
-Numerous ideas and tips to introduce a newbie to the world of indoor plants. Learn about easy to care for plants and trending centre pieces in this beautiful book.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=14BF8718-BD12-401C-A623-21A3BFA64186">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/14BF8718-BD12-401C-A623-21A3BFA64186">online</a>&#128187;.<br/>
+<h5>Influencer: Building Your Personal Brand In the Age of Social Media</h5>
+<i>Brittany Hennessy</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A36FDA55-90DE-4278-8302-3EA3EF285219"><img src="/images/Pl-11-Influencer-building-your-personal-brand.jpg" style="width:300px; text-align:left;"></a><br/>
+Citadel Press, 2018.<br/> 
+The writer has seen the growth of social media through the years and identifies the core influencer principles such as creating content, using hashtags to be discovered and the best ways to improve your profile.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A36FDA55-90DE-4278-8302-3EA3EF285219">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A36FDA55-90DE-4278-8302-3EA3EF285219">online</a>&#128187;.<br/>
 
-<h5>Wild at Home: How to Style and Care for Beautiful Plants</h5>
-<i>Hilton Carter</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D247BFA3-832C-4CD7-ADBA-1EC32C07BE37"><img src="/images/PL-9-Wild-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
-Atlantic Books, 2019.<br/>
-Plant cultivation and care is a common love and past time. Besides born again cooks, we also have born again green-fingered gardeners.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D247BFA3-832C-4CD7-ADBA-1EC32C07BE37">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/D247BFA3-832C-4CD7-ADBA-1EC32C07BE37">online</a>&#128187;.<br/>
+<h5>Influence: How Social Media Influencers Are Shaping Our Digital Future</h5>
+<i>Sara McCorquodale</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A401BF5D-A0B2-4F37-9C6C-576F167CACB7"><img src="/images/Pl-11-Influence-by-saramaquodale.jpg" style="width:300px; text-align:left;"></a><br/>
+Bloomsbury Publishing, 2019.<br/> 
+The power of influencers is explored through interviews with major players in the social media world. Learn how the digital landscape is shaped and how to capitalise on this new media industry.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A401BF5D-A0B2-4F37-9C6C-576F167CACB7">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A401BF5D-A0B2-4F37-9C6C-576F167CACB7">online</a>&#128187;.<br/>
 
-<h5>Healing Houseplants</h5>
-<i>Michelle Polk</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED964987-7856-4A64-9108-E39AAA52B0AA"><img src="/images/PL-9-Healing-houseplants.jpg" style="width:300px; text-align:left;"></a><br/>
-Skyhorse, 2018.<br/> 
-Learn which plants have health benefits and discover how to care for them effectively in your home or office.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ED964987-7856-4A64-9108-E39AAA52B0AA">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ED964987-7856-4A64-9108-E39AAA52B0AA">online</a>&#128187;.<br/>
+<h5>One Million Followers: How I Built a Massive Social Following in 30 Days</h5>
+<i>Brendan Kane</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3B37FAA5-4A18-4D36-8462-29571DD52471"><img src="/images/PL-11-One-million-followers.jpg" style="width:300px; text-align:left;"></a><br/>
+BenBella Books, Inc., 2018.<br/> 
+Brendan Kane has worked with celebrities and famous brands to build their social media following. Learn all about how to create engaging content and build a brand with various social media platforms.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3B37FAA5-4A18-4D36-8462-29571DD52471">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3B37FAA5-4A18-4D36-8462-29571DD52471">online</a>&#128187;.<br/>
 
-<h5>Living Décor</h5>
-<i>Maria Colletti</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3DCA3D51-F2AD-4029-8F9F-4F9F1B17824C"><img src="/images/PL-9-Living-deco.jpg" style="width:300px; text-align:left;"></a><br/>
-Cool Springs Press, 2019.<br/> 
-Welcome houseplants into your space and use them to make beautiful home decor projects that showcase your plants and creativity.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3DCA3D51-F2AD-4029-8F9F-4F9F1B17824C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3DCA3D51-F2AD-4029-8F9F-4F9F1B17824C">online</a>&#128187;.<br/>
+<h5>The Essential Social Media Marketing Handbook: A New Roadmap for Maximizing Your Brand, Influence, and Credibility</h5>
+<i>Gail Martin</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2FA0BE6D-BB77-4072-897F-976E80D23631"><img src="/images/PL-11-The-essential-social-media-marketing-handbook.jpg" style="width:300px; text-align:left;"></a><br/>
+Red Wheel Weiser, 2017.<br/> 
+Social media is an important step to grow your business, gain a greater following and become more credible. Learn the necessary steps to take to build a loyal customer following for the long term.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2FA0BE6D-BB77-4072-897F-976E80D23631">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/2FA0BE6D-BB77-4072-897F-976E80D23631">online</a>&#128187;.<br/>
 
-<h5>The Kitchen Herb Garden</h5>
-<i>Rosalind Creasy</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C1DA7266-2661-4579-944F-B51EB3AA00ED"><img src="/images/PL-9-The-kitchen-herb-garden.jpg" style="width:300px; text-align:left;"></a><br/>
-Tuttle Publishing, 2019.<br/> 
-From seeds to stove top. Learn about preparing the soil and also elegant dining suggestions. With easy-to-follow instructions and inspirational ideas every step of the way.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C1DA7266-2661-4579-944F-B51EB3AA00ED">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C1DA7266-2661-4579-944F-B51EB3AA00ED">online</a>&#128187;.<br/>
+<h5>Tell Me About Yourself: Personal Branding and Social Media Recruiting in the Brave New Online World</h5>
+<i>Stavros Papakonstantinidis</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49"><img src="/images/Pl-11-Tell-me-about-yourself.jpg" style="width:300px; text-align:left;"></a><br/>
+Business Expert Press, 2018.<br/> 
+Learn how personal branding can help when it comes to social media recruitment and professional career development.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49">online</a>&#128187;.<br/>
 
-<h5>The Little Book of Bonsai: An Easy Guide to Caring for Your Bonsai Tree</h5>
-<i>Jonas Dupuich</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC748FE-18C5-47F9-960B-33A143B418B4"><img src="/images/PL-9-The-little-book-of-bonsai.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2019.<br/> 
-Learn the steps of keeping your very own beautiful bonsai in this book filled with lovely photographs.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5EC748FE-18C5-47F9-960B-33A143B418B4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5EC748FE-18C5-47F9-960B-33A143B418B4">online</a>&#128187;.<br/>
+<h5>Capture Your Style: Transform Your Instagram Photos, Showcase Your Life, and Build the Ultimate Platform</h5>
+<i>Aimee Song</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77"><img src="/images/PL-11-Capture-your-style.jpg" style="width:300px; text-align:left;"></a><br/>
+ABRAM, 2016.<br/> 
+Popular and successful Instagram star, Aimee Song, shares the secrets to styling and promotion on Instagram. Learn the tips and techniques to create the perfect photograph plus how to market your brand.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/">online</a>&#128187;.<br/>
 
-<h5>Succulents at Home: Choosing, Growing, and Decorating With the Easiest Houseplants Ever</h5>
-<i>John Tullock</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCA71A21-A197-4600-9174-CEB91422C6E1"><img src="/images/PL-9-Succulents-at-home.jpg" style="width:300px; text-align:left;"></a><br/>
-Countryman Press, 2019.<br/> 
-Succulents may be flower-shaped, round or pointy and they are generally suitable for growing indoors. Learn how to do so including tips on choosing the soil, container and repotting.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCA71A21-A197-4600-9174-CEB91422C6E1">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/DCA71A21-A197-4600-9174-CEB91422C6E1">online</a>&#128187;.<br/>
+<h5>Twitter Power 3.0: How to Dominate Your Market One Tweet at a Time</h5>
+<i>Joel Comm, Dave Taylor</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id="><img src="/images/PL-11-Twitter-3.jpg" style="width:300px; text-align:left;"></a><br/>
+Wiley, 2015.<br/> 
+Twitter is an important part of a social media marketing strategy when it comes to promoting businesses. Learn ways to create campaigns to spread your company’s message and gain a larger following.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/">online</a>&#128187;.<br/>
 
-<h5>How Not to Kill Your Houseplant: Survival Tips for the Horticulturally Challenged</h5>
-<i>Veronica Peerless</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=80491d89-5c67-4ac8-baab-898517220284"><img src="/images/PL-9-How-not-to-kill-your-houseplant.jpg" style="width:300px; text-align:left;"></a><br/>
-Dorling Kindersley Ltd, 2019.<br/> 
-Keep your plants in the best shape possible by learning their characteristics and needs, such as the right amount of light and water. Also, identify the signs of an unhealthy plant and the ways to save them. All the best!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=80491d89-5c67-4ac8-baab-898517220284">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/80491d89-5c67-4ac8-baab-898517220284">online</a>&#128187;.<br/>
+
+
+
+
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
