@@ -26,7 +26,7 @@ Source: <a href="https://www.youtube.com/watch?v=10IuyBkrB7o" target="_blank">7 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">Learning Path: Become a Social Media Advertising Specialist</a></strong><br/>
+<p><strong>1. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">What is Social Media Marketing</a></strong><br/>
 Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further? Learn the basics in this course all about social media marketing.</p>
 <a href="https://https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
 
