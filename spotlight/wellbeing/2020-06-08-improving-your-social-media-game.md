@@ -31,7 +31,7 @@ Ever wondered how one social media platform differs from the other? Find out mor
 <a href="https://www.lynda.com/Business-tutorials/Social-media/2818031/2929302-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">Learning Path: Become a Social Media Advertising Specialist</a></strong><br/>
-Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further. Learn the basics in this course all about social media marketing.</p>
+Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further? Learn the basics in this course all about social media marketing.</p>
 <a href="https://https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
@@ -42,7 +42,7 @@ Enjoy engaging with your friends and family on Instagram and Facebook, but keen 
 
 <h5>2. <a href="https://www.falcon.io/insights-hub/topics/social-media-strategy/21-tips-increase-instagram-engagement/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D#1">23 Ways to Easily Increase Instagram Engagement in 2020</a><br/>
 <i>Adam Phillips.</i> Published on falcon.io, on February 2020.</h5>
-<p>Instagram is currently very popular and is a great way to reach out for personal or commercial reasons. Learn the best ways to attract viewers.</p>
+<p>Instagram is a very popular social media platform. Learn useful ways to increase engagement such as posting consistently and having a visually consistent feed to attract followers to your page.</p>
 
 <h4>eBooks</h4>
 <h5>Influencer Marketing for Brands: What YouTube and Instagram Can Teach You About the Future of Digital Advertising</h5>
