@@ -13,10 +13,10 @@ image: /images/PL-11-Intro-image.jpg
 <p>Keeping in touch with family and friends via social media is a part of our lives. What we post, share and read keeps our relationships close and bridges the physical distance between us.</p>
 
 <h4>Videos</h4>
-<h5>1. How to Start Social Media Marketing (4 ESSENTIAL Tips for Beginners) by Neil Patel</h5>
-Learn some useful ways to begin your social media marketing journey.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/-tdFvJLw2UQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://m.youtube.com/watch?v=-tdFvJLw2UQ" target="_blank">How to Start Social Media Marketing (4 ESSENTIAL Tips for Beginners) </a> (2018, Sept 18). Neil Patel. 
+<h5>1. LinkedIn 2020 Trends by Kerri Twigg</h5>
+A Linkedin top voice expert shares five actions to take if you are looking for a new job or intending to build up your profile on LinkedIn.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/sQaGlGHDyF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=sQaGlGHDyF8" target="_blank"> LinkedIn 2020 Trends by Kerri Twigg </a> (2020, May 15). Kerri Twigg.
 
 <h5>2. 5 Easy Tips For Writing Social Media Posts by Jerry Potter</h5>
 Being able to post effectively will drive traffic to your social media site. Learn more from this video.  
