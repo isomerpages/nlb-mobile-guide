@@ -26,9 +26,9 @@ Source: <a href="https://www.youtube.com/watch?v=10IuyBkrB7o" target="_blank">7 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Social-media/2818031/2929302-4.html?org=nlb.gov.sg" target="_blank">Social Media from Employee to Entrepreneur</a></strong><br/>
-Ever wondered how one social media platform differs from the other? Find out more about the common social media platforms and their unique characteristics.</p>
-<a href="https://www.lynda.com/Business-tutorials/Social-media/2818031/2929302-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">Learning Path: Become a Social Media Advertising Specialist</a></strong><br/>
+Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further? Learn the basics in this course all about social media marketing.</p>
+<a href="https://https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg" target="_blank">Make Social Media More Effective for Your Business</a></strong><br/>
 These series of videos from digital communication strategist, Martin Waxman, teaches viewers how to analyse what’s working and what’s not with their current social media marketing strategy and also reviews the latest developments on various platforms for viewers to better understand how to position their brand correctly.</p>
@@ -52,7 +52,7 @@ Apress, 2019.<br/>
 Learn how to create an effective influencer marketing campaign in 3 steps. Find out more about producing YouTube videos and also understand the digital landscape.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DFE4845D-09F3-4BC1-9D07-BF3188013B3A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/DFE4845D-09F3-4BC1-9D07-BF3188013B3A">online</a>&#128187;.<br/>
 
-<h5>Influencer: Building Your Personal Brand In the Age of Social Media</h5>
+<h5>Influencer: Building Your Personal Brand in the Age of Social Media</h5>
 <i>Brittany Hennessy</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A36FDA55-90DE-4278-8302-3EA3EF285219"><img src="/images/Pl-11-Influencer-building-your-personal-brand.jpg" style="width:300px; text-align:left;"></a><br/>
 Citadel Press, 2018.<br/> 
