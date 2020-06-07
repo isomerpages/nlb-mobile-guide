@@ -16,12 +16,12 @@ image: /images/PL-11-Intro-image.jpg
 <h5>1. LinkedIn 2020 Trends by Kerri Twigg</h5>
 A Linkedin top voice expert shares five actions to take if you are looking for a new job or intending to build up your profile on LinkedIn.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/sQaGlGHDyF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=sQaGlGHDyF8" target="_blank"> LinkedIn 2020 Trends by Kerri Twigg </a> (2020, May 15). Kerri Twigg.
+Source: <a href="https://www.youtube.com/watch?v=sQaGlGHDyF8" target="_blank"> LinkedIn 2020 Trends </a> (2020, May 15). Kerri Twigg.
 
-<h5>2. 5 Easy Tips For Writing Social Media Posts by Jerry Potter</h5>
-Being able to post effectively will drive traffic to your social media site. Learn more from this video.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/C9n71DKdRbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=C9n71DKdRbw" target="_blank">5 Easy Tips For Writing Social Media Posts</a> (2017, December 15). Five Minute Social Media.
+<h5>2. 7 Marketing Trends to Help you DOMINATE Social Media in 2020 by Neil Patel</h5>
+In this video, Neil Patel explains seven marketing trends that will help users dominate social media in 2020.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/10IuyBkrB7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=10IuyBkrB7o" target="_blank">7 Marketing Trends to Help you DOMINATE Social Media in 2020 </a> (2020, March 9). Neil Patel.
 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
@@ -30,9 +30,9 @@ Source: <a href="https://www.youtube.com/watch?v=C9n71DKdRbw" target="_blank">5 
 Ever wondered how one social media platform differs from the other? Find out more about the common social media platforms and their unique characteristics.</p>
 <a href="https://www.lynda.com/Business-tutorials/Social-media/2818031/2929302-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">Learning Path: Become a Social Media Advertising Specialist</a></strong><br/>
-Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further? Learn the basics in this course all about social media marketing.</p>
-<a href="https://https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg" target="_blank">Make Social Media More Effective for Your Business</a></strong><br/>
+These series of videos from digital communication strategist, Martin Waxman, teaches viewers how to analyse what’s working and what’s not with their current social media marketing strategy and also reviews the latest developments on various platforms for viewers to better understand how to position their brand correctly.</p>
+<a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
