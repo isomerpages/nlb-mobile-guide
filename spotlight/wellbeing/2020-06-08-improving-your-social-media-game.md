@@ -16,7 +16,7 @@ image: /images/PL-11-Intro-image.jpg
 <h5>1. LinkedIn 2020 Trends by Kerri Twigg</h5>
 A Linkedin top voice expert shares five actions to take if you are looking for a new job or intending to build up your profile on LinkedIn.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/sQaGlGHDyF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=sQaGlGHDyF8" target="_blank"> LinkedIn 2020 Trends </a> (2020, May 15). Kerri Twigg.
+Source: <a href="https://www.youtube.com/watch?v=sQaGlGHDyF8" target="_blank"> LinkedIn 2020 Trends </a> (2020, May 14). Kerri Twigg.
 
 <h5>2. 7 Marketing Trends to Help you DOMINATE Social Media in 2020 by Neil Patel</h5>
 In this video, Neil Patel explains seven marketing trends that will help users dominate social media in 2020.
