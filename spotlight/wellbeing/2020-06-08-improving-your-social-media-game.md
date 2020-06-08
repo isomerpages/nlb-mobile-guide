@@ -28,11 +28,11 @@ Source: <a href="https://www.youtube.com/watch?v=10IuyBkrB7o" target="_blank">7 
 
 <p><strong>1. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">What is Social Media Marketing?</a></strong><br/>
 Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further? Learn the basics in this course all about social media marketing.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-Sustainability-strategies.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-11-Lyndalibrary-what-is.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg" target="_blank">Make Social Media More Effective for Your Business</a></strong><br/>
 These series of videos from digital communication strategist, Martin Waxman, teaches viewers how to analyse what’s working and what’s not with their current social media marketing strategy and also reviews the latest developments on various platforms for viewers to better understand how to position their brand correctly.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg"><img src="/images/PL-9-Lyndavideo-The-employees-guide-to-sustainability.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg"><img src="/images/PL-11-LyndaLibrary-effective.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
