@@ -89,10 +89,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393
 
 <h5>Capture Your Style: Transform Your Instagram Photos, Showcase Your Life, and Build the Ultimate Platform</h5>
 <i>Aimee Song</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77"><img src="/images/PL-11-Capture-your-style.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=37b61b76-c4e3-43eb-8df2-2d1dcf1c52cc"><img src="/images/PL-11-Capture-your-style.jpg" style="width:300px; text-align:left;"></a><br/>
 ABRAM, 2016.<br/> 
 Popular and successful Instagram star, Aimee Song, shares the secrets to styling and promotion on Instagram. Learn the tips and techniques to create the perfect photograph plus how to market your brand.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/">online</a>&#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=37b61b76-c4e3-43eb-8df2-2d1dcf1c52cc">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/37b61b76-c4e3-43eb-8df2-2d1dcf1c52cc">online</a>&#128187;.<br/>
 
 <h5>Twitter Power 3.0: How to Dominate Your Market One Tweet at a Time</h5>
 <i>Joel Comm, Dave Taylor</i><br/>
