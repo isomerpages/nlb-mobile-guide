@@ -96,10 +96,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with t
 
 <h5>Twitter Power 3.0: How to Dominate Your Market One Tweet at a Time</h5>
 <i>Joel Comm, Dave Taylor</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id="><img src="/images/PL-11-Twitter-3.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=035ce534-afc5-4c52-9810-60418a5ece07"><img src="/images/PL-11-Twitter-3.jpg" style="width:300px; text-align:left;"></a><br/>
 Wiley, 2015.<br/> 
 Twitter is an important part of a social media marketing strategy when it comes to promoting businesses. Learn ways to create campaigns to spread your company’s message and gain a larger following.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/">online</a>&#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=035ce534-afc5-4c52-9810-60418a5ece07">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/035ce534-afc5-4c52-9810-60418a5ece07">online</a>&#128187;.<br/>
 
 
 
