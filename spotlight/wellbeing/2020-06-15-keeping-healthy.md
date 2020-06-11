@@ -25,24 +25,25 @@ Source: <a href="https://www.youtube.com/watch?v=aQsOmGflf1o" target="_blank">Wh
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg" target="_blank">What Makes a Good Team, Dividing up the Work</a></strong><br/>
-A great chef needs to know how to assign tasks to his crew in the kitchen. Learn about the ideal roles for a successful team.</p>
-<a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo1-team.jpg" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg " target="_blank">Wellness and Health Journals</a></strong><br/>
+Starting a habit tracker in a journal or diary is a great way to keep track and be aware of your mood (state of mind), what you eat (nutrition) and workouts (fitness). This can help you create good habits and even break bad ones.</p>
+<a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo1-team.jpg" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg" target="_blank">The Ingredients of Good Routines: Identifying Routine Tasks</a></strong><br/>
-Cooking is a routine everyday task. Learn some steps to add routines into your life so you can get more done after preparing your meals.</p>
-<a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo2-routines.jpg" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg" target="_blank">Avoiding Burnout</a></strong><br/>
+This succinct course tells you how to recognize the signs of burnout and the steps you can take to avoid that happening in your work life.</p>
+<a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo2-routines.jpg" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://guide.michelin.com/sg/en/article/features/michelin-chefs-recipes-social-media">Quarantine Cooking: MICHELIN Chefs Share Recipes on Social Media</a><br/>
-Published on MICHELIN Guide Asia, 2 April 2020.</h5>
+<h5>1. <a href="https://www.forbes.com/sites/briannawiest/2020/05/11/how-to-maintain-your-mental-health-while-working-from-home/#3898fd394de2">How to Maintain Your Mental Health While Working From Home</a><br/>
+Published on forbes.com, 11 May 2020.</h5>
 <p>Take a masterclass in cooking! Top chefs from around the world are taking to social media to share recipes and videos from their own home kitchens.</p>
 
-<h5>2. <a href="https://www.homeanddecor.com.sg/design/news/official-and-not-so-official-iconic-recipes-to-try-at-home-during-the-extended-circuit-breaker-time/">11 Official (And Not-So-Official) Iconic Recipes to Try at Home During the Extended Circuit Breaker Time</a><br/>
-Published on Home & Décor Singapore, on 25 April 2020.</h5>
-<p>Missing your favourite food establishments during this time? Fret not! Most of these brands have released official recipes of some of their iconic dishes.</p>
+<h5>2. <a href="https://www.news-medical.net/news/20200415/Unexpected-benefit-of-COVID-19-lockdowns-on-the-environment-and-health.aspx">Unexpected Benefit of COVID-19 Lockdowns On the Environment and Health</a><br/>
+Published on News Medical, on 15 April 2020.</h5>
+<p>Environmental pollution has gone down, as a result of the reduction of economic activity due to the COVID19 pandemic. This article looks at some startling data, a silver lining amidst all the doom and gloom.</p>
+
 <p class="end-note">You can borrow Home & Décor and many other eMagazines with <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby</a> or <a href="/get-started-with/pressreader/">PressReader</a>.</p>
 
 <h4>eBooks</h4>
