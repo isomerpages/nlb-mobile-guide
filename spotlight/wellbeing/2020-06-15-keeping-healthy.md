@@ -38,7 +38,7 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 
 <h5>1. <a href="https://www.forbes.com/sites/briannawiest/2020/05/11/how-to-maintain-your-mental-health-while-working-from-home/#3898fd394de2">How to Maintain Your Mental Health While Working From Home</a><br/>
 <i>Brianna Wiest.</i> Published on forbes.com, 11 May 2020.</h5>
-<p>Take a masterclass in cooking! Top chefs from around the world are taking to social media to share recipes and videos from their own home kitchens.</p>
+<p>As we are likely to continue working from home for some time, the author offers some useful suggestions on how this can be made more bearable and productive, such as sticking to a routine, or taking a walk around the neighbourhood while listening to music.</p>
 
 <h5>2. <a href="https://www.news-medical.net/news/20200415/Unexpected-benefit-of-COVID-19-lockdowns-on-the-environment-and-health.aspx">Unexpected Benefit of COVID-19 Lockdowns On the Environment and Health</a><br/>
 <i>Dr Liji Thomas.</i> Published on News Medical, on 15 April 2020.</h5>
