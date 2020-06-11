@@ -12,15 +12,15 @@ image: /images/PL-12-Intro-image-keeping-healthy.jpg
 <p>We learn who we really are and what we are made of in times of adversity. As much as it is a challenge having our routines upended, read on to discover how it is also a chance to turn things around.</p>
 
 <h4>Videos</h4>
-<h5>1. We Tried Making Steamed Milo Cake! By AsiaOne</h5>
-No oven? No problem! Using only three ingredients, this chocolatey and malty sweet treat is a piece of cake.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/zViTlqmE-UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://youtu.be/zViTlqmE-UI" target="_blank">We Tried Making Steamed Milo Cake! </a> (2020, April 11). AsiaOne. 
+<h5>1. The Health Benefits of Clowning Around by Matthew A. Wilson</h5>
+Laughter is more than needed these days, especially in hospitals. The speaker shares how medical clowns provide relief and distraction to patients, staff, and family members alike.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uTfaua3X0RU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=uTfaua3X0RU" target="_blank">The health benefits of clowning around</a> (2020, Feb 21). TED Talks. 
 
-<h5>2. Easy Banana Bread Recipe By Cooking With Rila</h5>
-Going bananas? Why not make a loaf of banana bread? All it takes is 40 minutes of baking time. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vPUuY-bEK2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">Easy Banana Bread Recipe</a> (2020, January 10). Cooking with Rila. 
+<h5>2. What Your Breath Could Reveal About Your Health by Julian Burschka</h5>
+The early identification of unrecognized diseases in an asymptomatic person increases the success of treatment, and this can be done by means of a simple breath analysis. The speaker explains how. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/aQsOmGflf1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=aQsOmGflf1o" target="_blank">What your breath could reveal about your health</a> (2019, Feb 25). TED Talks. 
 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
