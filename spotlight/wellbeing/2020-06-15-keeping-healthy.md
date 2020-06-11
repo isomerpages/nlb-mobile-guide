@@ -7,7 +7,7 @@ description: What we read feeds our soul and this list of eBooks and videos have
 image: /images/PL-12-Intro-image-keeping-healthy.jpg
 ---
 <img src="/images/PL-12-Intro-image-keeping-healthy.jpg">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg/" target="_blank">https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg</a></p>
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg" target="_blank">https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg</a></p>
 <p><q>Healing is a matter of time, but it is sometimes also a matter of opportunity.</q> - Hippocrates</p>
 <p>We learn who we really are and what we are made of in times of adversity. As much as it is a challenge having our routines upended, read on to discover how it is also a chance to turn things around.</p>
 
