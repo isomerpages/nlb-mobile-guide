@@ -41,7 +41,7 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 <p>As we are likely to continue working from home for some time, the author offers some useful suggestions on how this can be made more bearable and productive, such as sticking to a routine, or taking a walk around the neighbourhood while listening to music.</p>
 
 <h5>2. <a href="https://www.news-medical.net/news/20200415/Unexpected-benefit-of-COVID-19-lockdowns-on-the-environment-and-health.aspx">Unexpected Benefit of COVID-19 Lockdowns On the Environment and Health</a><br/>
-<i>Dr Liji Thomas.</i> Published on News Medical, on 15 April 2020.</h5>
+<i>Dr Liji Thomas.</i> Published on News Medical, 15 April 2020.</h5>
 <p>Environmental pollution has gone down, as a result of the reduction of economic activity due to the COVID19 pandemic. This article looks at some startling data, a silver lining amidst all the doom and gloom.</p>
 
 <p class="end-note">You can borrow Home & Décor and many other eMagazines with <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby</a> or <a href="/get-started-with/pressreader/">PressReader</a>.</p>
