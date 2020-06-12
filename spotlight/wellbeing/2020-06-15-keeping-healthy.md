@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Package 12 - Trending Recipes
 date:   2020-06-15
-permalink: /spotlight/wellbeing/2020-06-15-keeping-healthy.md
+permalink: /spotlight/wellbeing/2020-06-15-keeping-healthy
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm.  
 image: /images/PL-12-Intro-image-keeping-healthy.jpg
 ---
