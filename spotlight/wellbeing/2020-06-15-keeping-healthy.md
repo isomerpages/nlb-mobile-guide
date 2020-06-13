@@ -53,13 +53,6 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 <p class="end-note">Introducing music scores now available as eBooks on <a href="https://nlb.overdrive.com/collection/1089000">Overdrive</a>.</p>
 
 <h4>eBooks</h4>
-<h5>Exercise is Medicine: How Physical Activity Boosts Health and Slows Aging</h5>
-<i>Judy Foreman</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=09C96730-3C13-4C37-9B1A-CAE838A5396A"><img src="/images/PL-12-Exercise-is-medicine.jpg" style="width:300px; text-align:left;"></a><br/>
-Oxford University Press, 2019.<br/> 
-Investigative health journalist, Judy Foreman, suggests that we can age well through exercise. She explains why exercise is powerful and the varied effects of exercise all over the body.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=09C96730-3C13-4C37-9B1A-CAE838A5396A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/09C96730-3C13-4C37-9B1A-CAE838A5396A">online</a>&#128187;.<br/>
-
 <h5>Fitness Hacks for Over 50: 300 Easy Ways to Incorporate Exercise Into Your Life</h5>
 <i>K. Aleisha Fetters</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D"><img src="/images/PL-12-Finess-hacks-for-over-50.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -109,6 +102,13 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2FD30AF
 Simon & Schuster UK, 2019.<br/> 
 Physical intelligence is understanding your body’s reaction to stress and being able to manage these emotions. Learning useful techniques to develop your strength, flexibility, resilience and endurance, will allow you to be confident in handling difficult situations that arise.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">online</a>&#128187;.<br/>
+
+<h5>Exercise is Medicine: How Physical Activity Boosts Health and Slows Aging</h5>
+<i>Judy Foreman</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=09C96730-3C13-4C37-9B1A-CAE838A5396A"><img src="/images/PL-12-Exercise-is-medicine.jpg" style="width:300px; text-align:left;"></a><br/>
+Oxford University Press, 2019.<br/> 
+Investigative health journalist, Judy Foreman, suggests that we can age well through exercise. She explains why exercise is powerful and the varied effects of exercise all over the body.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=09C96730-3C13-4C37-9B1A-CAE838A5396A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/09C96730-3C13-4C37-9B1A-CAE838A5396A">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
