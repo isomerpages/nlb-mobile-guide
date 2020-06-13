@@ -46,9 +46,11 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 <i>Dr Liji Thomas.</i> Published on News Medical, 15 April 2020.</h5>
 <p>Environmental pollution has gone down, as a result of the reduction of economic activity due to the COVID19 pandemic. This article looks at some startling data, a silver lining amidst all the doom and gloom.</p>
 
-<p class="end-note">You can borrow many other eMagazines with <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby</a> or <a href="/get-started-with/pressreader/">PressReader</a>.</p>
+<h5>3. <a href="https://www.healthfitnessrevolution.com/top-10-health-benefits-playing-instrument/">Top 10 Health Benefits of Playing an Instrument</a><br/>
+<i>Health Fitness Revolution.</i> Published on 23 December 2019.</h5>
+<p>Playing a musical instrument has various health benefits such as enhancing coordination and keeping the mind sharp. How about picking this skill now if you have always thought about it.</p>
 
-<p class="end-note">Playing a musical instrument has various health benefits such as improving coordination and keeping one's mind alert. Introducing music scores now available as eBooks on <a href="https://nlb.overdrive.com/collection/1089000">Overdrive</a>.</p>
+<p class="end-note">Introducing music scores now available as eBooks on <a href="https://nlb.overdrive.com/collection/1089000">Overdrive</a>.</p>
 
 <h4>eBooks</h4>
 <h5>Exercise is Medicine: How Physical Activity Boosts Health and Slows Aging</h5>
