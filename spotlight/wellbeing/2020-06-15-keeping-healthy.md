@@ -48,7 +48,7 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 
 <p class="end-note">You can borrow many other eMagazines with <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby</a> or <a href="/get-started-with/pressreader/">PressReader</a>.</p>
 
-<p class="end-note">Playing a musical instrument has various health benefits such as improving coordination and keeping one's mind alert. Introducing music scores now available as eBooks. <a href="https://nlb.overdrive.com/collection/1089000">Overdrive</a>.</p>
+<p class="end-note">Playing a musical instrument has various health benefits such as improving coordination and keeping one's mind alert. Introducing music scores now available as eBooks on <a href="https://nlb.overdrive.com/collection/1089000">Overdrive</a>.</p>
 
 <h4>eBooks</h4>
 <h5>Exercise is Medicine: How Physical Activity Boosts Health and Slows Aging</h5>
