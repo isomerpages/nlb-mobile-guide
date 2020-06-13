@@ -8,14 +8,15 @@ image: /images/PL-12-Intro-image-keeping-healthy.jpg
 ---
 <img src="/images/PL-12-Intro-image-keeping-healthy.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg" target="_blank">https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg</a></p>
-<p><q>Healing is a matter of time, but it is sometimes also a matter of opportunity.</q> - Hippocrates</p>
-<p>We learn who we really are and what we are made of in times of adversity. As much as it is a challenge having our routines upended, read on to discover how it is also a chance to turn things around.</p>
+<p><q>Exercise and application produce order in our affairs, health of body, cheerfulness of mind, and these make us precious to our friends.</q> - Thomas Jefferson</p>
+<p>As much as it is a challenge having our routines upended, read on to discover how it is also a chance to turn things around such as by living a healthier lifestyle.</p>
 
 <h4>Videos</h4>
-<h5>1. The Health Benefits of Clowning Around by Matthew A. Wilson</h5>
-Laughter is more than needed these days, especially in hospitals. The speaker shares how medical clowns provide relief and distraction to patients, staff, and family members alike.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uTfaua3X0RU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=uTfaua3X0RU" target="_blank">The health benefits of clowning around</a> (2020, Feb 21). TED Talks. 
+<h5>1. How Do I Boost My Metabolism By Eating Healthier? By SingHealth</h5>
+Boosting your metabolism helps to maintain a healthier weight. Ways to achieve this include drinking more water or green tea, eating more broccoli and low-fat yoghurt. 
+Watch this video for more tips. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/9JJYWx2HoqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=9JJYWx2HoqM" target="_blank"> How Do I Boost My Metabolism By Eating Healthier?</a> (2020, May 28). SingHealth.
+
 
 <h5>2. What Your Breath Could Reveal About Your Health by Julian Burschka</h5>
 The early identification of unrecognized diseases in an asymptomatic person increases the success of treatment, and this can be done by means of a simple breath analysis. The speaker explains how. 
@@ -26,7 +27,7 @@ Source: <a href="https://www.youtube.com/watch?v=aQsOmGflf1o" target="_blank">Wh
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg " target="_blank">Wellness and Health Journals</a></strong><br/>
-Starting a habit tracker in a journal or diary is a great way to keep track and be aware of your mood (state of mind), what you eat (nutrition) and workouts (fitness). This can help you create good habits and even break bad ones.</p>
+Starting a habit tracker in a journal or diary is a great way to keep track and be aware of what you eat (nutrition) and workouts (fitness). This can help you create good habits and even break bad ones.</p>
 <a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo1-team.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg" target="_blank">Avoiding Burnout</a></strong><br/>
@@ -36,8 +37,8 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://www.forbes.com/sites/briannawiest/2020/05/11/how-to-maintain-your-mental-health-while-working-from-home/#3898fd394de2">How to Maintain Your Mental Health While Working From Home</a><br/>
-<i>Brianna Wiest.</i> Published on forbes.com, 11 May 2020.</h5>
+<h5>1. <a href="hhttps://www.mountelizabeth.com.sg/healthplus/article/20-ways-to-improve-your-health-for-2020-health-plus">20 Ways to Improve Your Health in 2020</a><br/>
+<i>Dr Liji Thomas.</i> Published on News Medical, on 15 April 2020.</h5>  
 <p>As we are likely to continue working from home for some time, the author offers some useful suggestions on how this can be made more bearable and productive, such as sticking to a routine, or taking a walk around the neighbourhood while listening to music.</p>
 
 <h5>2. <a href="https://www.news-medical.net/news/20200415/Unexpected-benefit-of-COVID-19-lockdowns-on-the-environment-and-health.aspx">Unexpected Benefit of COVID-19 Lockdowns On the Environment and Health</a><br/>
