@@ -48,61 +48,62 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 <p class="end-note">You can borrow many other eMagazines with <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby</a> or <a href="/get-started-with/pressreader/">PressReader</a>.</p>
 
 <h4>eBooks</h4>
-<h5>Baking Sourdough</h5>
-<i>Kevan Roberts</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D"><img src="/images/PL-10-Baking-sourdough.jpg" style="width:300px; text-align:left;"></a><br/>
-Crowood, 2020.<br/>
-Learn the basics of baking sourdough bread, a healthy and popular choice in recent months. The writer, an artisan baker, goes through the basics of equipment, ingredients, how to build and maintain a sourdough starter, kneading the dough and more.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=11437C8F-98D2-4676-809A-F8D6302CDD2D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/11437C8F-98D2-4676-809A-F8D6302CDD2D">online</a>&#128187;.<br/>
+<h5>Exercise is Medicine: How Physical Activity Boosts Health and Slows Aging</h5>
+<i>Judy Foreman</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=09C96730-3C13-4C37-9B1A-CAE838A5396A"><img src="/images/PL-12-Exercise-is-medicine.jpg" style="width:300px; text-align:left;"></a><br/>
+Oxford University Press, 2019.<br/> 
+Investigative health journalist, Judy Foreman, suggests that we can age well through exercise. She explains why exercise is powerful and the varied effects of exercise all over the body.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=09C96730-3C13-4C37-9B1A-CAE838A5396A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/09C96730-3C13-4C37-9B1A-CAE838A5396A">online</a>&#128187;.<br/>
 
-<h5>I Love Coffee!: Over 100 Easy and Delicious Coffee Drinks</h5>
-<i>Susan Zimmer</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E7F9AC3C-5D29-4258-95AC-7CCA6C224F67"><img src="/images/PL-10-I-love-coffee.jpg" style="width:300px; text-align:left;"></a><br/>
-Andrews McMeel Publishing, 2014.<br/>
-Do you love coffee and want to create coffee drinks in your home using basic ingredients? Follow this illustrated guide and learn to make drinks like cappuccino, black forest latte and more.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E7F9AC3C-5D29-4258-95AC-7CCA6C224F67">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E7F9AC3C-5D29-4258-95AC-7CCA6C224F67">online</a>&#128187;.<br/>
+<h5>Fitness Hacks for Over 50: 300 Easy Ways to Incorporate Exercise Into Your Life</h5>
+<i>K. Aleisha Fetters</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D"><img src="/images/PL-12-Finess-hacks-for-over-50.jpg" style="width:300px; text-align:left;"></a><br/>
+Adams Media, 2020.<br/> 
+The writer introduces easy activities and movements that are suitable for all ages and abilities. Follow these exercises at home to improve your fitness.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D">online</a>&#128187;.<br/>
 
-<h5>The Boba Book: Bubble Tea and Beyond</h5>
-<i>Andrew Chau, Bin Chen</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C8C427C6-4489-4ABC-B9AE-00B91C964DD6"><img src="/images/PL-10-The-boba-book.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2020.<br/>
-A recipe book dedicated to the art of making bubble tea using ingredients of quality. Admire the photographs of these colourful drinks and create your own.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C8C427C6-4489-4ABC-B9AE-00B91C964DD6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C8C427C6-4489-4ABC-B9AE-00B91C964DD6">online</a>&#128187;.<br/>
+<h5>The Joy of Movement: How Exercise Helps Us Find Happiness, Hope, Connection, and Courage</h5>
+<i>Kelly McGonigal</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F9249A0-BD81-4CD0-8F10-9C227B6272CA"><img src="/images/PL-12-The-joy-of-movement.jpg" style="width:300px; text-align:left;"></a><br/>
+Penguin Publishing Group, 2019.<br/> 
+Movement and activity is a way to bring joy to yourself and your community. Kelly McGonigal shares how people have used various exercises such as swimming, dancing and walking with others to find fulfilment and belonging.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F9249A0-BD81-4CD0-8F10-9C227B6272CA">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9F9249A0-BD81-4CD0-8F10-9C227B6272CA">online</a>&#128187;.<br/>
 
-<h5>The Big Book of Kombucha: Brewing, Flavoring, and Enjoying the Health Benefits of Fermented Tea</h5>
-<i>Hannah Crum</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E435CA2-B275-4A2C-A2C5-90047D3A74CC"><img src="/images/PL-10-The-big-book-of-kombucha.jpg" style="width:300px; text-align:left;"></a><br/>
-Storey Publishing, LLC, 2016.<br/>
-Enjoy the many health benefits of kombucha with over 400 delicious recipes of food and drinks.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E435CA2-B275-4A2C-A2C5-90047D3A74CC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3E435CA2-B275-4A2C-A2C5-90047D3A74CC">online</a>&#128187;.<br/>
+<h5>Better Stretching: 9 Minutes a Day to Greater Flexibility, Less Pain, and Enhanced Performance, the JoeTherapy Way</h5>
+<i>Joe Yoon</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=23B1FE6A-D796-4B94-82EE-2C40C09779CC"><img src="/images/PL-12-Better-stretching.jpg" style="width:300px; text-align:left;"></a><br/>
+St. Martin's Publishing Group, 2020.<br/> 
+Stretching safely is a way to become more agile and mobile. Learn various techniques by following the photographs demonstrating the exercises in just 9 minutes a day.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=23B1FE6A-D796-4B94-82EE-2C40C09779CC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/23B1FE6A-D796-4B94-82EE-2C40C09779CC">online</a>&#128187;.<br/>
 
-<h5>Glow Pops: Super-Easy Superfood Recipes to Help You Look and Feel Your Best</h5>
-<i>Liz Moody</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=10D361F2-359D-487E-90C5-8EAEF3254283"><img src="/images/PL-10-Glow-pops.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2017.<br/>
-Make your own popsicles using delicious and healthy ingredients. With some well-known and unusual combinations, you can create fantastic desserts to enjoy. These include cookie dough, neopolitan and for the adventurous palate, tumeric golden milk!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=10D361F2-359D-487E-90C5-8EAEF3254283">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/10D361F2-359D-487E-90C5-8EAEF3254283">online</a>&#128187;.<br/>
+<h5>How to Make Disease Disappear</h5>
+<i>Rangan Chatterjee</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=446D21FD-F0C6-4154-A1FB-A03EB87952BD"><img src="/images/PL-12-How-to-make-disease-disappear.jpg" style="width:300px; text-align:left;"></a><br/>
+HarperCollins, 2018.<br/> 
+A healthy lifestyle and the right nutrition are the first steps to good long-term health.
+Learn how the four critical pillars of food, relaxation, sleep and movement are the secrets to preventing diseases and staying well.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=446D21FD-F0C6-4154-A1FB-A03EB87952BD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/446D21FD-F0C6-4154-A1FB-A03EB87952BD">online</a>&#128187;.<br/>
 
-<h5>How to Feed Yourself: 100 Fast, Cheap, and Reliable Recipes for Cooking When You Don't Know What You're Doing</h5>
-<i>Spoon University</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8B8F5665-103A-4672-A7E1-A32221854E5C"><img src="/images/PL-10-How-to-feed-yourself.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
-More than a cookbook for college students, this book is perfect for any beginner. It is organised by nine simple ingredients (from eggs to bananas) and the various ways to cook them from basic to beyond.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8B8F5665-103A-4672-A7E1-A32221854E5C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8B8F5665-103A-4672-A7E1-A32221854E5C">online</a>&#128187;.<br/>
+<h5>The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally</h5>
+<i>Jason Fung, Nina Teicholz</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= "><img src="/images/PL-12-The-diabetes-code.jpg" style="width:300px; text-align:left;"></a><br/>
+Greystone Books, 2018.<br/> 
+Type 2 diabetes is a chronic and progressive disease and Dr. Jason Fung wants readers to consider a treatment which involves a proper diet and intermittent fasting.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ ">online</a>&#128187;.<br/>
 
-<h5>Fakeaway: Healthy Home-Cooked Takeaway Meals</h5>
-<i>Chris Bavin</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69B86E7A-D264-431A-A8CC-2A26F060E34A"><img src="/images/PL-10-Fakeaway.jpg" style="width:300px; text-align:left;"></a><br/>
-Dorling Kindersley Ltd, 2020.<br/>
-With these simple recipes, takeaway food such as pizzas, pasta dishes and curries can be prepared easily to your family’s delight.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=69B86E7A-D264-431A-A8CC-2A26F060E34A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/69B86E7A-D264-431A-A8CC-2A26F060E34A">online</a>&#128187;.<br/>
+<h5>The Last Diet: Discover the Secret to Losing Weight – for Good</h5>
+<i>Shahroo Izadi</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2FD30AF-A530-445E-8EE4-1C680FC0294F"><img src="/images/PL-12-The-last-diet.jpg" style="width:300px; text-align:left;"></a><br/>
+Pan Macmillan, 2019.<br/> 
+The writer, a behavioural change specialist, uses her training in the field to advice readers how to get rid of unhealthy food-related habits by first identifying where they come from and thus how to accept and change them.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2FD30AF-A530-445E-8EE4-1C680FC0294F">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C2FD30AF-A530-445E-8EE4-1C680FC0294F">online</a>&#128187;.<br/>
 
-<h5>Rice. Noodles. Yum.: Everyone's Favourite Southeast Asian Dishes</h5>
-<i>Abigail Sotto Raines</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77"><img src="/images/PL-10-Rice-noodles-yum.jpg" style="width:300px; text-align:left;"></a><br/>
-Page Street Publishing, 2019.<br/>
-Popular Southeast Asian recipes fill the pages of writer Raines’ book. Learn how to cook popular dishes such as pad thai and Vietnamese pork with rice noodles which she learnt while travelling.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B-00F3-4A93-BF67-10B1043D3E77">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/EFE3135B-00F3-4A93-BF67-10B1043D3E77">online</a>&#128187;.<br/>
+<h5>Physical Intelligence: Harness Your Body's Untapped Intelligence to Achieve More, Stress Less and Live More Happily</h5>
+<i>Claire Dale, Patricia Peyton</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833"><img src="/images/PL-12-Physical-intelligence.jpg" style="width:300px; text-align:left;"></a><br/>
+Simon & Schuster UK, 2019.<br/> 
+Physical intelligence is understanding your body’s reaction to stress and being able to manage these emotions. Learning useful techniques to develop your strength, flexibility, resilience and endurance, will allow you to be confident in handling difficult situations that arise.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
