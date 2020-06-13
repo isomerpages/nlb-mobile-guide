@@ -53,27 +53,6 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 <p class="end-note">Introducing music scores now available as eBooks on <a href="https://nlb.overdrive.com/collection/1089000">Overdrive</a>.</p>
 
 <h4>eBooks</h4>
-<h5>Fitness Hacks for Over 50: 300 Easy Ways to Incorporate Exercise Into Your Life</h5>
-<i>K. Aleisha Fetters</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D"><img src="/images/PL-12-Finess-hacks-for-over-50.jpg" style="width:300px; text-align:left;"></a><br/>
-Adams Media, 2020.<br/> 
-The writer introduces easy activities and movements that are suitable for all ages and abilities. Follow these exercises at home to improve your fitness.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D">online</a>&#128187;.<br/>
-
-<h5>The Joy of Movement: How Exercise Helps Us Find Happiness, Hope, Connection, and Courage</h5>
-<i>Kelly McGonigal</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F9249A0-BD81-4CD0-8F10-9C227B6272CA"><img src="/images/PL-12-The-joy-of-movement.jpg" style="width:300px; text-align:left;"></a><br/>
-Penguin Publishing Group, 2019.<br/> 
-Movement and activity is a way to bring joy to yourself and your community. Kelly McGonigal shares how people have used various exercises such as swimming, dancing and walking with others to find fulfilment and belonging.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F9249A0-BD81-4CD0-8F10-9C227B6272CA">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9F9249A0-BD81-4CD0-8F10-9C227B6272CA">online</a>&#128187;.<br/>
-
-<h5>Better Stretching: 9 Minutes a Day to Greater Flexibility, Less Pain, and Enhanced Performance, the JoeTherapy Way</h5>
-<i>Joe Yoon</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=23B1FE6A-D796-4B94-82EE-2C40C09779CC"><img src="/images/PL-12-Better-stretching.jpg" style="width:300px; text-align:left;"></a><br/>
-St. Martin's Publishing Group, 2020.<br/> 
-Stretching safely is a way to become more agile and mobile. Learn various techniques by following the photographs demonstrating the exercises in just 9 minutes a day.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=23B1FE6A-D796-4B94-82EE-2C40C09779CC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/23B1FE6A-D796-4B94-82EE-2C40C09779CC">online</a>&#128187;.<br/>
-
 <h5>How to Make Disease Disappear</h5>
 <i>Rangan Chatterjee</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=446D21FD-F0C6-4154-A1FB-A03EB87952BD"><img src="/images/PL-12-How-to-make-disease-disappear.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -96,12 +75,26 @@ Pan Macmillan, 2019.<br/>
 The writer, a behavioural change specialist, uses her training in the field to advice readers how to get rid of unhealthy food-related habits by first identifying where they come from and thus how to accept and change them.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2FD30AF-A530-445E-8EE4-1C680FC0294F">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C2FD30AF-A530-445E-8EE4-1C680FC0294F">online</a>&#128187;.<br/>
 
-<h5>Physical Intelligence: Harness Your Body's Untapped Intelligence to Achieve More, Stress Less and Live More Happily</h5>
-<i>Claire Dale, Patricia Peyton</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833"><img src="/images/PL-12-Physical-intelligence.jpg" style="width:300px; text-align:left;"></a><br/>
-Simon & Schuster UK, 2019.<br/> 
-Physical intelligence is understanding your body’s reaction to stress and being able to manage these emotions. Learning useful techniques to develop your strength, flexibility, resilience and endurance, will allow you to be confident in handling difficult situations that arise.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">online</a>&#128187;.<br/>
+<h5>Fitness Hacks for Over 50: 300 Easy Ways to Incorporate Exercise Into Your Life</h5>
+<i>K. Aleisha Fetters</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D"><img src="/images/PL-12-Finess-hacks-for-over-50.jpg" style="width:300px; text-align:left;"></a><br/>
+Adams Media, 2020.<br/> 
+The writer introduces easy activities and movements that are suitable for all ages and abilities. Follow these exercises at home to improve your fitness.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CEA79A5A-5FBE-4CEB-94ED-CF9D004B266D">online</a>&#128187;.<br/>
+
+<h5>The Joy of Movement: How Exercise Helps Us Find Happiness, Hope, Connection, and Courage</h5>
+<i>Kelly McGonigal</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F9249A0-BD81-4CD0-8F10-9C227B6272CA"><img src="/images/PL-12-The-joy-of-movement.jpg" style="width:300px; text-align:left;"></a><br/>
+Penguin Publishing Group, 2019.<br/> 
+Movement and activity is a way to bring joy to yourself and your community. Kelly McGonigal shares how people have used various exercises such as swimming, dancing and walking with others to find fulfilment and belonging.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F9249A0-BD81-4CD0-8F10-9C227B6272CA">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9F9249A0-BD81-4CD0-8F10-9C227B6272CA">online</a>&#128187;.<br/>
+
+<h5>Better Stretching: 9 Minutes a Day to Greater Flexibility, Less Pain, and Enhanced Performance, the JoeTherapy Way</h5>
+<i>Joe Yoon</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=23B1FE6A-D796-4B94-82EE-2C40C09779CC"><img src="/images/PL-12-Better-stretching.jpg" style="width:300px; text-align:left;"></a><br/>
+St. Martin's Publishing Group, 2020.<br/> 
+Stretching safely is a way to become more agile and mobile. Learn various techniques by following the photographs demonstrating the exercises in just 9 minutes a day.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=23B1FE6A-D796-4B94-82EE-2C40C09779CC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/23B1FE6A-D796-4B94-82EE-2C40C09779CC">online</a>&#128187;.<br/>
 
 <h5>Exercise is Medicine: How Physical Activity Boosts Health and Slows Aging</h5>
 <i>Judy Foreman</i><br/>
@@ -109,6 +102,13 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA
 Oxford University Press, 2019.<br/> 
 Investigative health journalist, Judy Foreman, suggests that we can age well through exercise. She explains why exercise is powerful and the varied effects of exercise all over the body.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=09C96730-3C13-4C37-9B1A-CAE838A5396A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/09C96730-3C13-4C37-9B1A-CAE838A5396A">online</a>&#128187;.<br/>
+
+<h5>Physical Intelligence: Harness Your Body's Untapped Intelligence to Achieve More, Stress Less and Live More Happily</h5>
+<i>Claire Dale, Patricia Peyton</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833"><img src="/images/PL-12-Physical-intelligence.jpg" style="width:300px; text-align:left;"></a><br/>
+Simon & Schuster UK, 2019.<br/> 
+Physical intelligence is understanding your body’s reaction to stress and being able to manage these emotions. Learning useful techniques to develop your strength, flexibility, resilience and endurance, will allow you to be confident in handling difficult situations that arise.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6ED31BCA-3A33-4ED1-8FB0-CAFAE3EC3833">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
