@@ -14,8 +14,9 @@ image: /images/PL-12-Intro-image-keeping-healthy.jpg
 <h4>Videos</h4>
 <h5>1. How Do I Boost My Metabolism By Eating Healthier? By SingHealth</h5>
 Boosting your metabolism helps to maintain a healthier weight. Ways to achieve this include drinking more water or green tea, eating more broccoli and low-fat yoghurt. 
-Watch this video for more tips. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/9JJYWx2HoqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=9JJYWx2HoqM" target="_blank"> How Do I Boost My Metabolism By Eating Healthier?</a> (2020, May 28). SingHealth.
+Watch this video for more tips. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/9JJYWx2HoqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=9JJYWx2HoqM" target="_blank">How Do I Boost My Metabolism By Eating Healthier?</a> (2020, May 28). SingHealth.
 
 
 <h5>2. What Your Breath Could Reveal About Your Health by Julian Burschka</h5>
