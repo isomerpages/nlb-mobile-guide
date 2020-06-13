@@ -38,8 +38,8 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="hhttps://www.mountelizabeth.com.sg/healthplus/article/20-ways-to-improve-your-health-for-2020-health-plus">20 Ways to Improve Your Health in 2020</a><br/>
-<i>Dr Liji Thomas.</i> Published on News Medical, on 15 April 2020.</h5>  
-<p>As we are likely to continue working from home for some time, the author offers some useful suggestions on how this can be made more bearable and productive, such as sticking to a routine, or taking a walk around the neighbourhood while listening to music.</p>
+<i>Dr Samuel Low.</i>Published on Healthplus, on 3 Dec 2019.</h5>  
+<p>There are various ways to easily improve your health. From starting your day with a stretch to eating your food more slowly and adding less sauce to your dish. Look through the list and perhaps you may apply a few to your life.</p>
 
 <h5>2. <a href="https://www.news-medical.net/news/20200415/Unexpected-benefit-of-COVID-19-lockdowns-on-the-environment-and-health.aspx">Unexpected Benefit of COVID-19 Lockdowns On the Environment and Health</a><br/>
 <i>Dr Liji Thomas.</i> Published on News Medical, 15 April 2020.</h5>
