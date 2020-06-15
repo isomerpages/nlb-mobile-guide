@@ -80,9 +80,6 @@ title: eBooks and Audiobooks
 		<p>Yes, you can! </p>
 		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
-
-Libby_holdready_notification
-
 <div>
 		<input type="radio" name="acc" id="acc6a">
 		<label for="acc6a">How can I renew the eBooks / audiobooks? </label>
@@ -93,6 +90,28 @@ Tap Manage Loan.<br/>
 Tap Renew Loan, then Renew. </p>
 </div>
 </div>
+
+<div>
+        <input type="radio" name="acc" id="acc6">
+        <label for="acc6">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
+        <div class="acc-body">
+    	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / audiobooks. </p>
+      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you when it is your turn to borrow. To keep the reservation, simply respond to the notification within 10 days. By default, you will be alerted that your book is ready via a push notification (see screenshot below), but if you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email.</p>
+		<p><img src="images/Libby_holdready_notification.jpg" width="400"></p>
+<p>Once notified, you have three options:</p>  
+<ul>
+<li>borrow now,</li>
+<li>deliver later, which lets you stay next in line for up to 180 days, or</li>
+<li>cancel the reservation.</li>
+</ul>
+<p>These actions have to be taken through:</p>  
+<ul>
+<li>Libby app or <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a></li>
+<li>OverDrive app or <a href="https://nlb.overdrive.com" target="_blank">nlb.overdrive.com</a></li>
+    </ul>
+<p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
+<p>If you fear you may have missed a notification, check your Shelf or Holds in the Libby app. To ensure that your notifications get through, do check your notification settings in Libby (<a href="https://help.libbyapp.com/6174.htm" target="_blank">click here to learn how to setup or manage notifications</a>. </p>
+</div></div>
 
 <div>
 		<input type="radio" name="acc" id="acc7">
@@ -106,15 +125,15 @@ If you want to know why your titles are not downloading or how to adjust your au
   </div></div>
   
   <div>
-		<input type="radio" name="acc" id="acc7a">
-        <label for="acc7a">Why do some of your eBooks have limited copies?</label>
+		<input type="radio" name="acc" id="acc7i">
+        <label for="acc7i">Why do some of your eBooks have limited copies?</label>
                 <div class="acc-body">
 			<p>
 			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details</a> here from our eBooks vendor, OverDrive.</p>
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
-			<p>To find books that are available right now, you can browse <a href="https://libbyapp.com/library/nlb/spotlight-52/books/page-1">"Available" categories in Libby, such as this list of popular but available books for adults</a>. In any category in Libby, you can also filter out unavailable books by tapping on Refine > Available Now. We also have this special category called Skip the Line, where you can immediately borrow popular books which otherwise have very long waiting lists. You can borrow such special copies for a shorter loan period of 7 days. The list is ever-changing and exciting, and you can <a href="https://libbyapp.com/library/nlb/curated-1029173/page-1">check it out here</a>.</p>
+			<p>To find books that are available right now, you can browse "Available" categories in Libby, such as <a href="https://libbyapp.com/library/nlb/spotlight-52/books/page-1">this list of popular but available books for adults</a>. In any category in Libby, you can also filter out unavailable books by tapping on Refine > Available Now. We also have this special category called Skip the Line, where you can immediately borrow popular books which otherwise have very long waiting lists. You can borrow such special copies for 7 days. The list is ever-changing and exciting, and you can <a href="https://libbyapp.com/library/nlb/curated-1029173/page-1">check it out here</a>.</p>
 			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, Home & Decor and The Economist are always available. Click <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">here</a> to see the full list and borrow them.</p>
-			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. To be kept informed of such news, follow us at @publiclibrarysg on our social media channels (We're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
+			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (We're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
   </div></div>
 
