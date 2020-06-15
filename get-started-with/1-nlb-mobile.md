@@ -291,8 +291,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <label for="acc13">How do I reserve eBooks / Audiobooks? And can I cancel the reservation?</label>
 <div class="acc-body">
      	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / audiobooks. </p>
-      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you when it is your turn to borrow. To keep the reservation, simply respond to the notification within 10 days. By default, you will be alerted that your book is ready via a push notification (see screenshot below), but if you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email.</p>
-		<p><img src="/images/Libby_holdready_notification.jpg"></p>
+      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. You will receive a notification in your phone when it is your turn to borrow. If you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email. To keep the reservation, simply respond to the notification within 10 days. </p>
 <p>Once notified, you have three options:</p>  
 <ul>
 <li>borrow now,</li>
