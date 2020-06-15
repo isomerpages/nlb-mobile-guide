@@ -292,7 +292,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <div class="acc-body">
      	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / audiobooks. </p>
       <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you when it is your turn to borrow. To keep the reservation, simply respond to the notification within 10 days. By default, you will be alerted that your book is ready via a push notification (see screenshot below), but if you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email.</p>
-		<p><img src="images/Libby_holdready_notification.jpg" width="400"></p>
+		<p><img src="/images/Libby_holdready_notification.jpg" width="400"></p>
 <p>Once notified, you have three options:</p>  
 <ul>
 <li>borrow now,</li>
@@ -305,6 +305,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <li>OverDrive app or <a href="https://nlb.overdrive.com" target="_blank">nlb.overdrive.com</a></li>
     </ul>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
+</div></div>
 
   <div>
 		<input type="radio" name="acc" id="acc13a">
