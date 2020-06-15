@@ -96,8 +96,7 @@ Tap Renew Loan, then Renew. </p>
         <label for="acc6">There are no more copies available for the title I want. Can I reserve it for free? How do I know when it is my turn to borrow it?</label>
         <div class="acc-body">
     	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / audiobooks. </p>
-      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you when it is your turn to borrow. To keep the reservation, simply respond to the notification within 10 days. By default, you will be alerted that your book is ready via a push notification (see screenshot below), but if you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email.</p>
-		<p><img src="images/Libby_holdready_notification.jpg" width="450" height="800"></p>
+      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. You will receive a notification in your phone when it is your turn to borrow. If you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email. To keep the reservation, simply respond to the notification within 10 days. </p>
 <p>Once notified, you have three options:</p>  
 <ul>
 <li>borrow now,</li>
@@ -112,17 +111,6 @@ Tap Renew Loan, then Renew. </p>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
 <p>If you fear you may have missed a notification, check your Shelf or Holds in the Libby app. To ensure that your notifications get through, do check your notification settings in Libby (<a href="https://help.libbyapp.com/6174.htm" target="_blank">click here to learn how to setup or manage notifications</a>). </p>
 </div></div>
-
-<div>
-		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">How do I know if my books have been downloaded to my device?</label>
-                <div class="acc-body">
-<p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
-<p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
-<p><img src="/images/Screenshot_Libby-download-icons.jpg"></p>
-<p>
-If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
-  </div></div>
   
   <div>
 		<input type="radio" name="acc" id="acc7i">
@@ -135,6 +123,17 @@ If you want to know why your titles are not downloading or how to adjust your au
 			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, Home & Decor and The Economist are always available. Click <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">here</a> to see the full list and borrow them.</p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
+  </div></div>
+
+<div>
+		<input type="radio" name="acc" id="acc7">
+        <label for="acc7">How do I know if my books have been downloaded to my device?</label>
+                <div class="acc-body">
+<p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
+<p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
+<p><img src="/images/Screenshot_Libby-download-icons.jpg"></p>
+<p>
+If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div></div>
 
 <h2><a name="mag">eMagazines on Libby</a></h2>
