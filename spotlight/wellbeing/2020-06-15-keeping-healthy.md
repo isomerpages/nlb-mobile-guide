@@ -48,7 +48,7 @@ This succinct course tells you how to recognize the signs of burnout and the ste
 
 <h5>3. <a href="https://www.healthfitnessrevolution.com/top-10-health-benefits-playing-instrument/">Top 10 Health Benefits of Playing an Instrument</a><br/>
 <i>Health Fitness Revolution.</i> Published on 23 December 2019.</h5>
-<p>Playing a musical instrument has various health benefits such as enhancing coordination and keeping the mind sharp. How about picking this skill now if you have always thought about it.</p>
+<p>Playing a musical instrument has various health benefits such as enhancing coordination and keeping the mind sharp. How about picking up this skill now if you have always thought about it.</p>
 
 <p class="end-note">Introducing music scores now available as eBooks on <a href="https://nlb.overdrive.com/collection/1089000">Overdrive</a>.</p>
 
