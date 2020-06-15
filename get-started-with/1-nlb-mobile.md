@@ -292,7 +292,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <div class="acc-body">
      	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / audiobooks. </p>
       <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you when it is your turn to borrow. To keep the reservation, simply respond to the notification within 10 days. By default, you will be alerted that your book is ready via a push notification (see screenshot below), but if you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email.</p>
-		<p><img src="/images/Libby_holdready_notification.jpeg" width="400"></p>
+		<p><img src="/images/Libby_holdready_notification.jpeg" width="450" height="800"></p>
 <p>Once notified, you have three options:</p>  
 <ul>
 <li>borrow now,</li>
@@ -316,8 +316,9 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
 			<p>To find books that are available right now, you can browse "Available" categories in Libby, such as <a href="https://libbyapp.com/library/nlb/spotlight-52/books/page-1">this list of popular but available books for adults</a>.</p>
 			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, Home & Decor and The Economist are always available. Click <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">here</a> to see the full list and borrow them.</p>
-			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (We're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
+			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
+			</div></div>
 
 <p><h2>Reading eMagazines/ eNewspapers</h2></p>
 <div>
