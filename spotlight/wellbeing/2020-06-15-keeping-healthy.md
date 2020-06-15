@@ -29,11 +29,11 @@ Source: <a href="https://www.youtube.com/watch?v=aQsOmGflf1o" target="_blank">Wh
 
 <p><strong>1. <a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg " target="_blank">Wellness and Health Journals</a></strong><br/>
 Starting a habit tracker in a journal or diary is a great way to keep track and be aware of what you eat (nutrition) and workouts (fitness). This can help you create good habits and even break bad ones.</p>
-<a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo1-team.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg"><img src="/images/PL-12-Lyndalibrary-health-journals.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg" target="_blank">Avoiding Burnout</a></strong><br/>
 This succinct course tells you how to recognize the signs of burnout and the steps you can take to avoid that happening in your work life.</p>
-<a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo2-routines.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg"><img src="/images/PL-12-Lyndalibrary-burnout.jpg" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
@@ -63,10 +63,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=446D21FD
 
 <h5>The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally</h5>
 <i>Jason Fung, Nina Teicholz</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= "><img src="/images/PL-12-The-diabetes-code.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=eac3bf05-1a53-4be1-b140-6522a5918cc0"><img src="/images/PL-12-The-diabetes-code.jpg" style="width:300px; text-align:left;"></a><br/>
 Greystone Books, 2018.<br/> 
 Type 2 diabetes is a chronic and progressive disease and Dr. Jason Fung wants readers to consider a treatment which involves a proper diet and intermittent fasting.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ ">online</a>&#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=eac3bf05-1a53-4be1-b140-6522a5918cc0">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3764215">online</a>&#128187;.<br/>
 
 <h5>The Last Diet: Discover the Secret to Losing Weight – for Good</h5>
 <i>Shahroo Izadi</i><br/>
