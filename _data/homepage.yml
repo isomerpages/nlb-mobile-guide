@@ -27,7 +27,7 @@ i-want-to:
   - title: Learners
     url: /toptips/learner/
   - title: Seniors
-    url: /toptips/seniors/
+    url: /toptips/seniors/2
     
 # Info Sections
 info-sections:
@@ -35,8 +35,8 @@ info-sections:
     section-subtitle: Download Now
     section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. 
     section-more-button: Install NLB Mobile
-    section-more-button-url: /get-started-with/nlb-mobile/
-    section-image-path: /images/home_download_210120.png
+    section-more-button-url: https://go.gov.sg/nlb-mobile
+    section-image-path: /images/QR_downloadapp.svg
     section-image-alt: NLB Mobile app screenshot
   - section-title: 
     section-subtitle: Read on the Go 
