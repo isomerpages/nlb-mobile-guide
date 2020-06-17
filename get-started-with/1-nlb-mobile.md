@@ -290,22 +290,34 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 		<input type="radio" name="acc" id="acc13">
         <label for="acc13">How do I reserve eBooks / Audiobooks? And can I cancel the reservation?</label>
 <div class="acc-body">
-  <p>If the title you wish to borrow is not available, you can reserve it free of charge. You can reserve up to 16 eBooks / Audiobooks. </p>
-      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. We will notify you via email or the Libby app when your reservation is ready. To keep the reservation, simply respond to the notification within 10 days.</p>     
-	<p>You will have three options:</p>
-	<ul>
-		<li>borrow now,</li>
-		<li>deliver later, which lets you stay next in line for up to 180 days, or</li>
-		<li>cancel the reservation.</li>
-	</ul>
-	<p>These actions have to be taken through:</p>
-	<ul>
-		<li>Libby app or <a href="https://libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
-		<li>OverDrive app or <a href="https://nlb.overdrive.com">nlb.overdrive.com</a></li>
-	</ul>
-	<p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
-	</div>
-</div>
+     	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / audiobooks. </p>
+      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. You will receive a notification in your phone when it is your turn to borrow. If you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email. To keep the reservation, simply respond to the notification within 10 days. </p>
+<p>Once notified, you have three options:</p>  
+<ul>
+<li>borrow now,</li>
+<li>deliver later, which lets you stay next in line for up to 180 days, or</li>
+<li>cancel the reservation.</li>
+</ul>
+<p>These actions have to be taken through:</p>  
+<ul>
+<li>Libby app or <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a></li>
+<li>OverDrive app or <a href="https://nlb.overdrive.com" target="_blank">nlb.overdrive.com</a></li>
+    </ul>
+<p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
+</div></div>
+
+  <div>
+		<input type="radio" name="acc" id="acc13a">
+        <label for="acc13a">Why do some of your eBooks have limited copies?</label>
+                <div class="acc-body">
+			<p>
+			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details</a> here from our eBooks vendor, OverDrive.</p>
+			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
+			<p>To find books that are available right now, you can browse "Available" categories in Libby, such as <a href="https://libbyapp.com/library/nlb/spotlight-52/books/page-1">this list of popular but available books for adults</a>.</p>
+			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, Home & Decor and The Economist are always available. Click <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">here</a> to see the full list and borrow them.</p>
+			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
+			</p>
+			</div></div>
 
 <p><h2>Reading eMagazines/ eNewspapers</h2></p>
 <div>
