@@ -8,8 +8,8 @@ image: /images/PL-4-Intro%20Image.jpg
 ---
 <img src="/images/PL-4-Intro%20Image.jpg">
 <p><h3>Video Courses on How to Maximise Productivity</h3></p>
-<p><span style='color: rgb(0, 0, 0); font-family: "Times New Roman"; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>You can&#39;t control how much work you get, but you can control how effectively you do it.&nbsp;</span>Here&#39;s our pick of courses from LyndaLibrary that teach you how to get the most out of every work day.</p>
-<a href="https://www.lynda.com/Business-Software-tutorials/Positive-procrastination/440668/489441-4.html?org=nlb.gov.sg"><img src="/images/pl-4-lynda-timemgt.png"></a>
+<p>You can&#39;t control how much work you get, but you can control how effectively you do it.&nbsp; Here&#39;s our pick of courses from LyndaLibrary that teach you how to get the most out of every work day.</p>
+<a href="https://www.lynda.com/Business-Software-tutorials/Positive-procrastination/440668/489441-4.html?org=nlb.gov.sg"><img src="/images/pl-4-lynda-timemgt.png" style="width:400px;"></a>
 <h4><a href="https://www.lynda.com/Business-Software-tutorials/Positive-procrastination/440668/489441-4.html?org=nlb.gov.sg">Time Management</a></h4>
 <p>Is there a way to turn procrastination into a good thing? What&#39;s the best thing to do when you are feeling overwhelmed? Get quick time management tips that you can apply immediately <a href="https://www.lynda.com/Business-Software-tutorials/Positive-procrastination/440668/489441-4.html?org=nlb.gov.sg">here</a>.</p>
 <h4><a href="https://www.lynda.com/Business-Skills-tutorials/Getting-Things-Done/170776-2.html?org=nlb.gov.sg">Productivity Method: Getting Things Done</a></h4>
