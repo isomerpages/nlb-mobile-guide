@@ -26,13 +26,13 @@ Source: <a href="https://www.youtube.com/watch?v=DOisAG9yoNk" target="_blank">7 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">What is Social Media Marketing?</a></strong><br/>
-Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further? Learn the basics in this course all about social media marketing.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-11-Lyndalibrary-what-is.jpg" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Finance-Accounting-tutorials/Wrap-up/368914/386237-4.html?org=nlb.gov.sg" target="_blank">5 Personal Finance Tips</a></strong><br/>
+Learn classic, time-tested tips to manage your spending, such as by saving money and spending less than you earn.</p>
+<a href="https://www.lynda.com/Finance-Accounting-tutorials/Wrap-up/368914/386237-4.html?org=nlb.gov.sg"><img src="/images/PL-11-Lyndalibrary-what-is.jpg" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg" target="_blank">Make Social Media More Effective for Your Business</a></strong><br/>
-These series of videos from digital communication strategist, Martin Waxman, teaches viewers how to analyse what’s working and what’s not with their current social media marketing strategy and also reviews the latest developments on various platforms for viewers to better understand how to position their brand correctly.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg"><img src="/images/PL-11-LyndaLibrary-effective.jpg" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Understanding-your-relationship-money/373523/2330670-4.html?org=nlb.gov.sg" target="_blank">Financial Wellness: Managing Personal Cash Flow</a></strong><br/>
+Financial therapist Amanda Clayman shares the different ways you can plan your financial habits and manage your cash flow.</p>
+<a href="https://www.lynda.com/Business-tutorials/Understanding-your-relationship-money/373523/2330670-4.html?org=nlb.gov.sg"><img src="/images/PL-11-LyndaLibrary-effective.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
