@@ -4,9 +4,9 @@ title:  Learning Package 13 - Saving Money
 date:   2020-06-22
 permalink: /spotlight/wellbeing/2020-06-22-Saving-Money
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
-image: /images/PL-11-Intro-image.jpg
+image: /images/PL-13-Intro-Image-Charts.jpg
 ---
-<img src="/images/PL-11-Intro-image.jpg">
+<img src="/images/PL-13-Intro-Image-Charts.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/background-board-chart-data-590041/" target="_blank">http://pexels.com/photo/background-board-chart-data-590041/</a></p>
 
 <p><q>Beware of little expenses. A small leak will sink a great ship.</q> - Benjamin Franklin.</p>
