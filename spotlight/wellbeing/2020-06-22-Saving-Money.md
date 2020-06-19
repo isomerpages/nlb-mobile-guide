@@ -36,13 +36,13 @@ Financial therapist Amanda Clayman shares the different ways you can plan your f
 
 <h4>Stories on the Internet</h4>
 
-<h5>1. <a href="https://www.oom.com.sg/4-best-social-media-marketing-platforms-in-singapore/amp/">4 Best Social Media Marketing Platforms In Singapore</a><br/>
-<i>Carlo Angelo Sunga.</i> Published on shapingonlinefuture.com, on February 2020.</h5>
-<p>This article takes a close look at the most dominant social media platforms in Singapore.</p>
+<h5>1. <a href="https://blog.seedly.sg/seedlys-guide-why-getting-out-of-debt-should-be-your-priority/">Seedly’s Guide: Why Getting Out of Debt Should Be Your Priority</a><br/>
+<i>Ming Feng.</i> Published on blog.seedly.sg, on 16 May 2017.</h5>
+<p>Unpaid debt can hold your future back. Being debt-free requires a lot of discipline and motivation. If you’re looking for motivation, let this article highlight the importance of being debt-free and the benefits that you can receive.</p>
 
-<h5>2. <a href="https://www.falcon.io/insights-hub/topics/social-media-strategy/21-tips-increase-instagram-engagement/amp/?amp_js_v=0.1&usqp=mq331AQFKAGwASA%3D#1">23 Ways to Easily Increase Instagram Engagement in 2020</a><br/>
-<i>Adam Phillips.</i> Published on falcon.io, on February 2020.</h5>
-<p>Instagram is a very popular social media platform. Learn useful ways to increase engagement such as posting consistently and having a visually consistent feed to attract followers to your page.</p>
+<h5>2. <a href="https://www.todayonline.com/singapore/resist-urge-spend-more-50-20-30-guide">Resist the Urge to Spend More With the 50-20-30 Guide</a><br/>
+<i>Richard Hartung.</i> Published on todayonline.com, on 16 February 2019.</h5>
+<p>How much should you budget for your daily essentials? How about saving for retirement? How do you prevent yourself from overspending every month? Follow the 50-20-30 guide and get started on a financially responsible future.</p>
 
 <h4>eBooks</h4>
 <h5>Influencer Marketing for Brands: What YouTube and Instagram Can Teach You About the Future of Digital Advertising</h5>
