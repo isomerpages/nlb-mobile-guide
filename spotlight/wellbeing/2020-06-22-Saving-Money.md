@@ -98,7 +98,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E764F90
 <i>Carl Richards</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BD3FFA9A-3BBF-4677-A51A-83A444A4A3B8"><img src="/images/PL-13-The-one-page-financial-plan.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Publishing Group, 2015.<br/>
-The writer believes that the best financial plan can be prepared in just one page by examining what is most important to you. Learn the steps needed to understand the ways to manage money in objective and unemotional ways.<br/>
+The writer believes that the best financial plan can be prepared in one page by examining what is most important to you. Learn the steps needed to understand the ways to manage money in objective and unemotional ways.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BD3FFA9A-3BBF-4677-A51A-83A444A4A3B8">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/BD3FFA9A-3BBF-4677-A51A-83A444A4A3B8">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
