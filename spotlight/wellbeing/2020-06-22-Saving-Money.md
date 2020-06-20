@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Package 13 - Saving Money
 date:   2020-06-22
-permalink: /spotlight/wellbeing/2020-06-22-Saving-Money
+permalink: /spotlight/wellbeing/2020-06-22-living-on-a-budget
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
 image: /images/PL-13-Intro-Image-Charts.jpg
 ---
