@@ -47,7 +47,7 @@ Financial therapist Amanda Clayman shares the different ways you can plan your f
 <h4>eBooks</h4>
 <h5>Living the Savvy Life: The Savvy Woman's Guide to Smart Spending and Rich Living</h5>
 <i>Melissa Tosetti, Kevin Gibbons</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=44ADA998-B65D-4811-A2A2-DD2139320628"><img src="/images/ PL-13-Living-the-savvy-life.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=44ADA998-B65D-4811-A2A2-DD2139320628"><img src="/images/PL-13-Living-the-savvy-life.jpg" style="width:300px; text-align:left;"></a><br/>
 Morgan James Publishing, 2019.<br/>
 Living the Savvy Life is about having security and peace of mind by spending less than you make. Learn more tips about smart spending.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=44ADA998-B65D-4811-A2A2-DD2139320628">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/44ADA998-B65D-4811-A2A2-DD2139320628">online</a>&#128187;.<br/>
