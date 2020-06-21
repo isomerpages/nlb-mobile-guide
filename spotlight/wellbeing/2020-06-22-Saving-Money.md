@@ -16,12 +16,12 @@ image: /images/PL-13-Intro-Image-Charts.jpg
 <h5>1. 6 Ways to Improve Your Relationship With Money</h5>
 Do you have a complicated relationship with money? Here are 6 tips to manage your expenses.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/s0H1jxF5TWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=s0H1jxF5TWQ" target="_blank"> 6 Ways to Improve Your Relationship With Money </a> (2020, January). TED.
+Source: <a href="https://www.youtube.com/watch?v=s0H1jxF5TWQ" target="_blank"> 6 Ways to Improve Your Relationship With Money </a> (2020, February 10). TED.
 
 <h5>2. 3 Psychological Tricks to Help You Save Money</h5>
 How can you trick your brain into saving more and spending less? Behavioural scientist Wendy De La Rosa offers three psychological ways to do so.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/DOisAG9yoNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=DOisAG9yoNk" target="_blank">3 Psychological Tricks to Help Your Save Money </a> (2019, January). TED.
+Source: <a href="https://www.youtube.com/watch?v=DOisAG9yoNk" target="_blank">3 Psychological Tricks to Help Your Save Money </a> (2019, February 9). TED.
 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
