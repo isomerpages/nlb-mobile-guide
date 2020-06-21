@@ -73,7 +73,7 @@ Adams 101, 2018.<br/>
 Learn how to create a budget and keep track of your finances with useful and practical tips.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AFDA92E0-1E11-4962-99CC-D8344C010121">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ AFDA92E0-1E11-4962-99CC-D8344C010121">online</a>&#128187;.<br/>
 
-<h5>Mastering Money</h5>
+<h5>Mastering Money: How to Beat Debt, Build Wealth, and Be Prepared for Any Financial </h5>
 <i>Norm Champ</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D92A11D7-2ADC-4C54-9C89-D019E23EA1CE"><img src="/images/PL-13-Mastering-money.jpeg" style="width:300px; text-align:left;"></a><br/>
 McGraw-Hill Education, 2019.<br/>
