@@ -10,7 +10,7 @@ image: /images/PL-13-Intro-Image-Charts.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/background-board-chart-data-590041/" target="_blank">http://pexels.com/photo/background-board-chart-data-590041/</a></p>
 
 <p><q>Beware of little expenses. A small leak will sink a great ship.</q> - Benjamin Franklin.</p>
-<p>Little expenses can really build up. A snack here, an extra bubble tea there can really emaciate your wallet, especially if you’re not keeping track of your expenditure. Luckily, library resources are free! Whip your finances into shape with the help of the books, articles and videos below.</p>
+<p>Little expenses can really build up. A snack here, an extra bubble tea there can really lighten your wallet, especially if you’re not keeping track of your expenditure. Luckily, library resources are free! Whip your finances into shape with the help of the books, articles and videos below.</p>
 
 <h4>Videos</h4>
 <h5>1. 6 Ways to Improve Your Relationship With Money</h5>
