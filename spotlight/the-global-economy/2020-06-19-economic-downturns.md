@@ -22,7 +22,7 @@ To learn more about economic downturns and their impact as well as how Singapore
 
 [^2]: Halton, C. (2020, January 29). Global Recession Definition. *Investopedia.* Retrieved 2020, May 30 from <https://www.investopedia.com/terms/g/global-recession.asp>
 
-[^3]: Coronavirus: Global economy in 2020 on track for sharpest downturn since 1930s Great Depression: IMF. (2020, April 14). Straits Times. Retrieved 2020, June 19 from https://www.straitstimes.com/business/economy/coronavirus-great-lockdown-to-shrink-global-economy-by-3-in-2020-imf
+[^3]: Coronavirus: Global economy in 2020 on track for sharpest downturn since 1930s Great Depression: IMF. (2020, April 14). Straits Times. Retrieved 2020, June 19 from <https://www.straitstimes.com/business/economy/coronavirus-great-lockdown-to-shrink-global-economy-by-3-in-2020-imf>
 
 [^4]: Singapore heads for worst recession since independence; economy to shrink by 7% to 4% on Covid-19 impact. (2020, May 26). *Straits Times.* Retrieved 2020, May 30 from <https://www.straitstimes.com/business/economy/spore-to-sink-into-deeper-recession-than-expected-2020-growth-forecast-cut-to>
 
