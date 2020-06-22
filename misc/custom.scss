@@ -14,6 +14,8 @@ $media-color-two: #0071BC;
 $media-color-three: #e21216;
 $media-color-four: #912b87;
 $media-color-five: #00838f;
+$media-color-six: #007722;
+
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -69,6 +71,12 @@ $desktop: 960px + (2 * $gap) !default;
   		background-color: $media-color-five;
   		&:hover {
   			background-color: darken($media-color-five, 10%);
+		}
+  	}
+  	&-6 {
+  		background-color: $media-color-six;
+  		&:hover {
+  			background-color: darken($media-color-six, 10%);
 		}
   	}
   }
@@ -279,7 +287,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Post-content
 .content {
-	h1, h2, h3, h4, h5 {
+	h1, h2, h3, h4, h5, h6 {
 		color: $secondary;
 		strong {
 			color: $secondary;

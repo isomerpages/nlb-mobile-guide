@@ -32,5 +32,13 @@ title: Top Tips for Avid Readers
 			<p>Short stories are also a great way to squeeze in some reading. To find them, go to Library -> Explore -> Subjects -> Short Stories. Some of these are also available as eAudiobooks!</p>
 		</div>
 	</div>
+	<div>
+		<input type="radio" name="acc" id="acc3" checked>
+		<label for="acc1"><i></i>How can I share a book I enjoyed with my friends?</label>
+		<div class="acc-body">
+			<p><b>Option 1: Share from NLB Mobile app.</b> Search for the title you that you want, tap on the "share" button on the top right corner of the app to share the book with your friend via Facebook, Twitter or Whatsapp.</p>
+			<p><b>Option 2: Use our website.</b> Go to <a href="https://eresources.nlb.gov.sg/ereads">eresources.nlb.gov.sg/ereads</a>. Search for the title that you want, tap on "borrow now" for the selected title. You will be brought to a webpage that has book's details. Feel free to share this webpage's URL (beginning with "nlb.overdrive.com"). This method is useful if you wish to share on platforms other than Facebook, Twitter or Whatsapp.</p> 
+		</div>
+	</div>
 </div>
 
