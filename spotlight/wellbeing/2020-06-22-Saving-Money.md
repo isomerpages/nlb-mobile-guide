@@ -26,13 +26,13 @@ Source: <a href="https://www.youtube.com/watch?v=DOisAG9yoNk" target="_blank">3 
 <h4>eLearning Videos From Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Finance-Accounting-tutorials/Wrap-up/368914/386237-4.html?org=nlb.gov.sg" target="_blank">5 Personal Finance Tips</a></strong><br/>
-Learn classic, time-tested tips to manage your spending, such as by saving money and spending less than you earn.</p>
-<a href="https://www.lynda.com/Finance-Accounting-tutorials/Wrap-up/368914/386237-4.html?org=nlb.gov.sg"><img src="/images/PL-11-Lyndalibrary-what-is.jpg" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Finance-Accounting-tutorials/5-Personal-Finance-Tips/368914-2.html?org=nlb.gov.sg" target="_blank">5 Personal Finance Tips</a></strong><br/>
+Learn classic, time-tested tips to manage your spending, such as how to create good budgets and pick up telltale signs of bad investments.</p>
+<a href="https://www.lynda.com/Finance-Accounting-tutorials/5-Personal-Finance-Tips/368914-2.html?org=nlb.gov.sg"><img src="/images/PL-13-Lyndalibrary-tips.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Understanding-your-relationship-money/373523/2330670-4.html?org=nlb.gov.sg" target="_blank">Financial Wellness: Managing Personal Cash Flow</a></strong><br/>
 Financial therapist Amanda Clayman shares the different ways you can plan your financial habits and manage your cash flow.</p>
-<a href="https://www.lynda.com/Business-tutorials/Understanding-your-relationship-money/373523/2330670-4.html?org=nlb.gov.sg"><img src="/images/PL-11-LyndaLibrary-effective.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Understanding-your-relationship-money/373523/2330670-4.html?org=nlb.gov.sg"><img src="/images/PL-13-Lyndalibrary-rs.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
@@ -77,7 +77,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AFDA92E0
 <i>Norm Champ</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D92A11D7-2ADC-4C54-9C89-D019E23EA1CE"><img src="/images/PL-13-Mastering-money.jpeg" style="width:300px; text-align:left;"></a><br/>
 McGraw-Hill Education, 2019.<br/>
-Designed for the non-finance reader, this book shows you how to start building your wealth to be prepared for any financial crisis.<br/>
+Written for the layman, this book shows you how to start building your wealth to be prepared for any financial crisis.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D92A11D7-2ADC-4C54-9C89-D019E23EA1CE">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/D92A11D7-2ADC-4C54-9C89-D019E23EA1CE">online</a>&#128187;.<br/>
 
 <h5>A Zero Waste Life in Thirty Days</h5>
@@ -91,7 +91,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B7FCE991
 <i>Megean Weldon</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E764F90-B350-4AA0-BB70-BFE75A602D6E"><img src="/images/PL-13-An-almost-zero-waste-life.jpg" style="width:300px; text-align:left;"></a><br/>
 Rock Point, 2020.<br/>
-The writer shares how it is possible to reduce waste in daily live. Practical ideas such as meal planning and making your own cleaning products are just two of the ways to begin this way of life.<br/>
+The writer shares how it is possible to reduce waste in daily life. Practical ideas such as meal planning and making your own cleaning products are just two of the ways to begin this way of life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E764F90-B350-4AA0-BB70-BFE75A602D6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3E764F90-B350-4AA0-BB70-BFE75A602D6E">online</a>&#128187;.<br/>
 
 <h5>The One-Page Financial Plan: A Simple Way to Be Smart About Your Money</h5>
