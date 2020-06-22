@@ -8,13 +8,13 @@ image: /images/NL-b1-overview.jpg
 ---
 <img src="/images/NL-b1-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-virus-index-indices-4917912/" target="_blank">pixabay.com/illustrations/corona-virus-index-indices-4917912/</a></p>
-An economic downturn or recession is “a significant decline in economic activity spread across the economy, lasting more than a few months.[^1]” Economies can slow down within a nation, a specific region or on a global scale. Reasons for recessions can include, but are not limited to, a wide range of internal and external factors such as loss of confidence in investment and the economy, high interest rates, post-war slowdown, wage-price controls, stock market crash, falling housing prices and sale or poor management. 
+An economic downturn or recession is “a significant decline in economic activity spread across the economy, lasting more than a few months.[^1]” Economies can slow down within a nation, a specific region or on a global scale. Reasons for recessions can include, but are not limited to, a wide range of internal and external factors such as loss of confidence in investment and the economy, high interest rates, post-war slowdown, wage-price controls, stock market crash, falling housing prices and falling housing prices. 
 
-Economic downturns in the 20th century include the Great Depression in the 1930s followed by the Oil Crisis of 1973, the recession of 1982, the 1997 Asian financial crisis and the 2008 global financial crisis. They have each sent shockwaves throughout the world’s economy.[^2]
+Economic downturns in the 20th century include the Great Depression in the 1930s, the Oil Crisis of 1973, the recession of 1982, the 1997 Asian financial crisis and the 2008 global financial crisis. They have each sent shockwaves throughout the world’s economy.[^2]
 
-The COVID-19 pandemic has severely affected and disrupted businesses and economies throughout the world. In Singapore, the Ministry of Trade and Industry (MTI) has projected that the “(Singapore) economy will shrink by 7 to 4 per cent” thereby making this “Singapore’s worst-ever recession since independence in 1965.[^3]”
+The COVID-19 pandemic has severely affected and disrupted businesses and economies throughout the world. The International Monetary Fund (IMF) has predicted a 3 per cent fall in the global economy, the steepest downturn since the Great Depression.[^3] In Singapore, the Ministry of Trade and Industry (MTI) has projected that the “(Singapore) economy will shrink by 7 to 4 per cent” thereby making this “Singapore’s worst-ever recession since independence in 1965.[^4]”
 
-With one of the most open economies in the world, Singapore is especially susceptible to the fallout from recessions in larger economies.[^4] From the first post-independence recession in 1985 that saw its overall growth rate shrink to -3.5% and unemployment rise to 4.1%,[^5] to the financial crisis in 2008, the Singapore government had adopted pragmatic macroeconomic policies to help tide the country over tough economic patches.[^6]
+With one of the most open economies in the world, Singapore is especially susceptible to the fallout from recessions in larger economies.[^5] From the first post-independence recession in 1985 that saw its overall growth rate shrink to -3.5% and unemployment rise to 4.1%,[^6] to the financial crisis in 2008, Singapore’s macroeconomic policies and economic governance, driven by two key policy concepts, strategic pragmatism and the developmental state model helped counter or manage the effects of these economic downturns.[^7]
 
 To learn more about economic downturns and their impact as well as how Singapore has dealt with economic downturns, check out the resources listed below.
 
@@ -22,13 +22,15 @@ To learn more about economic downturns and their impact as well as how Singapore
 
 [^2]: Halton, C. (2020, January 29). Global Recession Definition. *Investopedia.* Retrieved 2020, May 30 from <https://www.investopedia.com/terms/g/global-recession.asp>
 
-[^3]: Singapore heads for worst recession since independence; economy to shrink by 7% to 4% on Covid-19 impact. (2020, May 26). *Straits Times.* Retrieved 2020, May 30 from <https://www.straitstimes.com/business/economy/spore-to-sink-into-deeper-recession-than-expected-2020-growth-forecast-cut-to>
+[^3]: Coronavirus: Global economy in 2020 on track for sharpest downturn since 1930s Great Depression: IMF. (2020, April 14). Straits Times. Retrieved 2020, June 19 from https://www.straitstimes.com/business/economy/coronavirus-great-lockdown-to-shrink-global-economy-by-3-in-2020-imf
 
-[^4]: Rolf, J. (2009). Singapore in Its Worst Recession for Years. The Effects of the Current Economic Crisis on the City-States Economy. *Journal of Current Southeast Asian Affairs* 28, No. 4 (2009): 95–110. Retrieved 2020, May 30 from <https://doi.org/10.1177/186810340902800405>
+[^4]: Singapore heads for worst recession since independence; economy to shrink by 7% to 4% on Covid-19 impact. (2020, May 26). *Straits Times.* Retrieved 2020, May 30 from <https://www.straitstimes.com/business/economy/spore-to-sink-into-deeper-recession-than-expected-2020-growth-forecast-cut-to>
 
-[^5]: Asian Financial Crisis Erupts. *HistorySG, National Library.* Retrieved 2020, May 30 from <http://eresources.nlb.gov.sg/history/events/87709dd7-72ae-47e2-876c-60544bb25e00>
+[^5]: Rolf, J. (2009). Singapore in Its Worst Recession for Years. The Effects of the Current Economic Crisis on the City-States Economy. *Journal of Current Southeast Asian Affairs* 28, No. 4 (2009): 95–110. Retrieved 2020, May 30 from <https://doi.org/10.1177/186810340902800405>
 
-[^6]: Woo, J. J. (2018). Singapore's Approach to Handling Economic Crisis. *Lee Kuan Yew School of Public Policy*, 1–20. Retrieved 2020, May 30 from <https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0>
+[^6]: Asian Financial Crisis Erupts. *HistorySG, National Library.* Retrieved 2020, May 30 from <http://eresources.nlb.gov.sg/history/events/87709dd7-72ae-47e2-876c-60544bb25e00>
+
+[^7]: Woo, J. J. (2018). Singapore's Approach to Handling Economic Crisis. *Lee Kuan Yew School of Public Policy*, 1–20. Retrieved 2020, May 30 from <https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores_approach_to_managing_economic_crises_22052018_lowres.pdf?sfvrsn=7387660a_0>
 
 <h4>Websites</h4>
 <h5>1. <a href="https://www.cnbc.com/id/20510977" target="_blank">A history of recessions</a></h5>
