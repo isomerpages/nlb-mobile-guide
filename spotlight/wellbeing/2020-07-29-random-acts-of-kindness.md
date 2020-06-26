@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Package 14 - Random Acts of Kindness
 date:   2020-07-29
-permalink: /spotlight/wellbeing/2020-07-29-random-acts-of-kindness
+permalink: /spotlight/wellbeing/2020-06-29-random-acts-of-kindness
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
 image: /images/PL-2-intro.jpg
 ---
