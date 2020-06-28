@@ -4,7 +4,7 @@ title:  Learning Package 14 - Random Acts of Kindness
 date:   2020-06-29
 permalink: /spotlight/wellbeing/2020-06-29-random-acts-of-kindness
 description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
-image: /images/PL-2-intro.jpg
+image: /images/PL14-Intro Image.jpg
 ---
 <img src="/images/PL-2-intro.jpg">
 <p><q>No act of kindness, no matter how small, is ever wasted.</q> - Aesop</p>
