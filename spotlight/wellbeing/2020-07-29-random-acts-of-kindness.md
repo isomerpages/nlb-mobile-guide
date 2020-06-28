@@ -79,7 +79,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=0B68DB12
 <i>Karla McLaren</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E86A6135-0E22-4334-9188-682AE7C9C0C6"><img src="/images/PL14-The-art-of-empathy.jpg" style="width:300px; text-align:left;"></a><br/>
 Sounds True, 2013.<br/> 
-Having empathy enables one to be able to understand better the perspective of others leading to a more connected and authentic relationship with others. <br/>
+Having empathy enables one to be able to better understand the perspective of others leading to a more connected and authentic relationship with others. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E86A6135-0E22-4334-9188-682AE7C9C0C6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E86A6135-0E22-4334-9188-682AE7C9C0C6">online</a>&#128187;.<br/>
 
 <h5>Empathy: Why It Matters, and How to Get It</h5>
@@ -93,7 +93,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7F5308C1
 <i>Christopher L. Kukk</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A-5E0D-4B9C-80C8-06C79F1362B3"><img src="/images/PL14-The-compassionate-achiever.jpg" style="width:300px; text-align:left;"></a><br/>
 HarperCollins, 2017.<br/> 
-The Compassionate Achiever explains how compassionate actions tend to result in more constructive relationships, improved intelligence and resiliency. The skills required are listening, understanding, connecting and acting and he also gives examples and strategies to acquire these.<br/>
+The Compassionate Achiever explains how compassionate actions tend to result in more constructive relationships, improved intelligence and resiliency. The skills required are listening, understanding, connecting and acting and the writer also gives examples and strategies to acquire these.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A-5E0D-4B9C-80C8-06C79F1362B3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/54B8767A-5E0D-4B9C-80C8-06C79F1362B3">online</a>&#128187;.<br/>
 
 <h5>Doing Good Better: How Effective Altruism Can Help You Make a Difference</h5>
