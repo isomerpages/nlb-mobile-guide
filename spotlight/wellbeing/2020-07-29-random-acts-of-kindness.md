@@ -45,62 +45,63 @@ Using kind words in an amiable tone of voice is a skill that can result in incre
 
 <h4>eBooks</h4>
 
-<h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
-<i>Sonja Lyubomirsky</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/PL-2-thehowofhap.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 LYU. New York: Penguin Books, 2008.<br/> 
-Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BEA298ACE-B4A4-4177-97FE-71D9924A07F6%7D">online</a>&#128187;.<br/> 
+<h5>The Kindness Challenge: Thirty Days to Improve Any Relationship</h5>
+<i>Shaunti Feldhahn</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2F301CC6-10D7-47C2-AA01-2C1258CEA681"><img src="/images/ PL14-The-kindness-challenge.jpg" style="width:300px; text-align:left;"></a><br/>
+The Crown Publishing Group, 2016.<br/> 
+Learn ways of acting, such as giving praise, performing small actions and speaking which can make a difference in your life..<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2F301CC6-10D7-47C2-AA01-2C1258CEA681">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/2F301CC6-10D7-47C2-AA01-2C1258CEA681">online</a>&#128187;.<br/>
+
+<h5>The Power of Kindness: Why Empathy is Essential in Everyday Life</h5>
+<i>Brian Goldman</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FA2B6B33-FFB0-4AF4-9A30-AE8006BE1220"><img src="/images/PL14-The-power-of-kindness.jpg" style="width:300px; text-align:left;"></a><br/>
+HarperCollins Canada, 2018.<br/> 
+The writer explores what kindness in people with amazing compassion for others looks like and investigates why this trait is important in our lives.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FA2B6B33-FFB0-4AF4-9A30-AE8006BE1220">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/FA2B6B33-FFB0-4AF4-9A30-AE8006BE1220">online</a>&#128187;.<br/>
+
+<h5>Kindness: Change Your Life and Make the World a Kinder Place</h5>
+<i>Gill Hasson</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1CEB73D9-9E41-4C6C-835F-EC9F318738BF"><img src="/images/PL14-Kindness.jpg" style="width:300px; text-align:left;"></a><br/>
+ Wiley, 2018.<br/> 
+Learn how to express kindness and sustain the warm feelings that come with such actions. Take opportunities that present themselves everyday to discover the joy of being helpful.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1CEB73D9-9E41-4C6C-835F-EC9F318738BF">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1CEB73D9-9E41-4C6C-835F-EC9F318738BF">online</a>&#128187;.<br/>
+
+<h5>Dare to Be Kind: How Extraordinary Compassion Can Transform Our World</h5>
+<i>Lizzie Velasquez, Catherine Avril Morris</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=0B68DB12-4D50-4B19-8313-582313711814"><img src="/images/PL14-Dare-to-be-kind.jpg" style="width:300px; text-align:left;"></a><br/>
+Hachette Books, 2017.<br/> 
+The writer, Lizzie Velasquez, was born with a rare genetic condition and her differences forced her to encounter difficulties including anxiety and depression. She shares the ways to overcome these difficulties and for everyone to live in a world of positivity and self-confidence.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=0B68DB12-4D50-4B19-8313-582313711814">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/0B68DB12-4D50-4B19-8313-582313711814">online</a>&#128187;.<br/>
+
+<h5>The Art of Empathy: A Complete Guide to Life's Most Essential Skill</h5>
+<i>Karla McLaren</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E86A6135-0E22-4334-9188-682AE7C9C0C6"><img src="/images/PL14-The-art-of-empathy.jpg" style="width:300px; text-align:left;"></a><br/>
+Sounds True, 2013.<br/> 
+Having empathy enables one to be able to understand better the perspective of others leading to a more connected and authentic relationship with others. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E86A6135-0E22-4334-9188-682AE7C9C0C6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E86A6135-0E22-4334-9188-682AE7C9C0C6">online</a>&#128187;.<br/>
 
 
-<h5>Nudge: Improving Decisions About Health, Wealth, and Happiness</h5>
-<i>Richard H. Thaler & Cass R. Sunstein</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5-E00E-40F6-B084-37D6AA4E6C19"><img src="/images/PL-2-nudge.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 330.019 THA -[BIZ]. New York: Penguin Books, 2009.<br/>
-People do not choose freely, even when they think they do. Circumstances, context and biases affect our decisions. <i>Nudge</i> teaches us how to steer away from bad decisions towards engineering better choices for ourselves and others.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30E812F5-E00E-40F6-B084-37D6AA4E6C19">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/30E812F5-E00E-40F6-B084-37D6AA4E6C19">online</a> &#128187;.<br/>
+<h5>Empathy: Why It Matters, and How to Get It</h5>
+<i>Roman Krznaric</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7F5308C1-D57F-4B38-9DD8-D5361CFBE9C3"><img src="/images/PL14-Empathy.jpg" style="width:300px; text-align:left;"></a><br/>
+Penguin Publishing Group, 2014.<br/> 
+The writer explains how we are social beings and that being outward looking will result in a happier, more equal and creative society.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7F5308C1-D57F-4B38-9DD8-D5361CFBE9C3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/7F5308C1-D57F-4B38-9DD8-D5361CFBE9C3">online</a>&#128187;.<br/>
 
-<h5>The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom</h5>
-<i>Jonathan Haidt</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=61788AD8-9790-48BC-B25B-21396A645187"><img src="/images/PL-2-the-happiness-hypothesis.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 170 HAI. New York: Basic Books, 2006.<br/>
-Old is gold. <i>The Happiness Hypothesis</i> examines the world’s philosophical wisdom through the lens of psychological science, and shows how they are still relevant in our lives today.  <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=61788AD8-9790-48BC-B25B-21396A645187">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/%7B61788AD8-9790-48BC-B25B-21396A645187%7D">online</a> &#128187;.<br/>
+<h5>The Compassionate Achiever: How Helping Others Fuels Success</h5>
+<i>Christopher L. Kukk</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A-5E0D-4B9C-80C8-06C79F1362B3"><img src="/images/PL14-The-compassionate-achiever.jpg" style="width:300px; text-align:left;"></a><br/>
+HarperCollins, 2017.<br/> 
+The Compassionate Achiever explains how compassionate actions tend to result in more constructive relationships, improved intelligence and resiliency. The skills required are listening, understanding, connecting and acting and he also gives examples and strategies to acquire these.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A-5E0D-4B9C-80C8-06C79F1362B3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/54B8767A-5E0D-4B9C-80C8-06C79F1362B3">online</a>&#128187;.<br/>
 
-<h5>Man's Search for Meaning</h5>
-<i>Viktor E. Frankl</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
-We’re currently living through trying times but this is not the first time the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
+<h5>Doing Good Better: How Effective Altruism Can Help You Make a Difference</h5>
+<i>William MacAskill</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC"><img src="/images/PL14-Doing-good-better.jpg" style="width:300px; text-align:left;"></a><br/>
+Penguin Publishing Group, 2015.<br/> 
+The writer shares how doing good should be thought of differently by using evidence and reasoning and not be based on emotions. This would improve the amount of benefits our actions will result in.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">online</a>&#128187;.<br/>
 
-<h5>The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life is Worth More Than Anything You Can Buy in a Store</h5>
-<i>Cait Flanders</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34"><img src="/images/PL-2-the-year-less.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 153.8 FLA. California: Hay House Inc, 2018.<br/>
-Can less truly be more? According to the author, yes. Follow Cait Flanders on her 1-year journey to get more life out of fewer things.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B931D9CC-2C36-4657-ABB8-CFA288F03A34">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B931D9CC-2C36-4657-ABB8-CFA288F03A34">online</a> &#128187;.<br/>
-
-<h5>Five True Things: A Little Guide to Embracing Life's Big Challenges</h5>
-<i>David Richo</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F"><img src="/images/PL-2-five-true-things.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: 152.41 RIC. Colorado: Shambhala, 2019.<br/>
-Find peace in the midst of life’s challenges by learning and accepting five key facts of life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E1CDAA62-3968-4F6D-A427-3614FB9AF55F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E1CDAA62-3968-4F6D-A427-3614FB9AF55F">online</a> &#128187;.<br/>
-
-<h5>The Healthy Mind Toolkit: Simple Strategies to Get Out of Your Own Way and Enjoy Your Life</h5>
-<i>Alice Boyes</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E"><img src="/images/PL-2-health-mind-toolkit.jpg" style="width:300px; text-align:left;"></a><br/>
-Call number: 616.891425 BOY – [HEA]. New York: TarcherPerigee, 2018.<br/>
-Sometimes, we are our own worst enemy. Learn simple steps to achieve success and defeat the man in the mirror.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/BCEDBB49-7BB6-40E5-B674-8D89DFD16B7E">online</a> &#128187;.<br/>
-
-<h5>First, We Make the Beast Beautiful: A New Journey Through Anxiety</h5>
-<i>Sarah Wilson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13"><img src="/images/PL-2-first-beast-beatful.jpg" style="width:300px; text-align:left;"></a><br/>
-HarperCollins, 2018.<br/>
-This practical and funny book encourages those with anxiety to embrace themselves for who they are, and to explore the opportunities presented by anxiety to live a fuller life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F7E27631-5FFC-414F-86B3-DBEF4B8F1B13">online</a> &#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
