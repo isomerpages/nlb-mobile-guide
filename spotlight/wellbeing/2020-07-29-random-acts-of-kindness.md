@@ -32,7 +32,6 @@ Being kind yet successful need not be a yin and yang dichotomy. This leadership 
 Using kind words in an amiable tone of voice is a skill that can result in increased productivity. Learn more about how such actions may have a positive effect on those around you.</p>
 <a href="https://www.lynda.com/Business-tutorials/How-being-kind-improves-productivity/2815117/3518002-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
 
-
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://edition.cnn.com/2020/02/17/health/kindness-health-benefits-wellness/index.html">The Health Benefits of a Random Act of Kindness</a><br/>
@@ -80,7 +79,6 @@ Sounds True, 2013.<br/>
 Having empathy enables one to be able to understand better the perspective of others leading to a more connected and authentic relationship with others. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E86A6135-0E22-4334-9188-682AE7C9C0C6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E86A6135-0E22-4334-9188-682AE7C9C0C6">online</a>&#128187;.<br/>
 
-
 <h5>Empathy: Why It Matters, and How to Get It</h5>
 <i>Roman Krznaric</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7F5308C1-D57F-4B38-9DD8-D5361CFBE9C3"><img src="/images/PL14-Empathy.jpg" style="width:300px; text-align:left;"></a><br/>
@@ -101,7 +99,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A
 Penguin Publishing Group, 2015.<br/> 
 The writer shares how doing good should be thought of differently by using evidence and reasoning and not be based on emotions. This would improve the amount of benefits our actions will result in.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">online</a>&#128187;.<br/>
-
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
