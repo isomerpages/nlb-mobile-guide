@@ -93,14 +93,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7F5308C1
 <i>Christopher L. Kukk</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A-5E0D-4B9C-80C8-06C79F1362B3"><img src="/images/PL14-The-compassionate-achiever.jpg" style="width:300px; text-align:left;"></a><br/>
 HarperCollins, 2017.<br/> 
-The Compassionate Achiever explains how compassionate actions tend to result in more constructive relationships, improved intelligence and resiliency. The skills required are listening, understanding, connecting and acting and the writer also gives examples and strategies to acquire these.<br/>
+The Compassionate Achiever explains how compassionate actions tend to result in more constructive relationships, improved intelligence and resiliency. The skills required are listening, understanding, connecting and acting and the author also gives examples and strategies to acquire these.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A-5E0D-4B9C-80C8-06C79F1362B3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/54B8767A-5E0D-4B9C-80C8-06C79F1362B3">online</a>&#128187;.<br/>
 
 <h5>Doing Good Better: How Effective Altruism Can Help You Make a Difference</h5>
 <i>William MacAskill</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC"><img src="/images/PL14-Doing-good-better.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Publishing Group, 2015.<br/> 
-The writer shares how doing good should be thought of differently by using evidence and reasoning and not be based on emotions. This would improve the amount of benefits our actions will result in.<br/>
+The writer shares how doing good should be thought of differently by using evidence and reasoning and not be based on emotions.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
