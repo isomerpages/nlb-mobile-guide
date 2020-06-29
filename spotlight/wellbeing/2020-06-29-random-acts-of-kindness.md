@@ -29,11 +29,11 @@ Source: <a href="https://www.youtube.com/watch?v=O9UByLyOjBM" target="_blank">Th
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Leading-Kindness-Strength/2814066-2.html?org=nlb.gov.sg" target="_blank">Leading with Kindness and Strength</a></strong><br/>
 Being kind yet successful need not be a yin and yang dichotomy. This leadership course explains how to practice empathy, build confidence and network effectively to achieve career success. </p>
-<a href="https://www.lynda.com/Business-tutorials/Leading-Kindness-Strength/2814066-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Leading-Kindness-Strength/2814066-2.html?org=nlb.gov.sg"><img src="/images/PL14-Lynda-leading-kindness.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/How-being-kind-improves-productivity/2815117/3518002-4.html?org=nlb.gov.sg" target="_blank">How Being Kind Improves Productivity</a></strong><br/>
 Using kind words in an amiable tone of voice is a skill that can result in increased productivity. Learn more about how such actions may have a positive effect on those around you.</p>
-<a href="https://www.lynda.com/Business-tutorials/How-being-kind-improves-productivity/2815117/3518002-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/How-being-kind-improves-productivity/2815117/3518002-4.html?org=nlb.gov.sg"><img src="/images/PL14-Lynda-kindness-productivity.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
@@ -100,7 +100,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A
 <i>William MacAskill</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC"><img src="/images/PL14-Doing-good-better.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Publishing Group, 2015.<br/> 
-The writer shares how doing good should be thought of differently by using evidence and reasoning and not be based on emotions. Learn more about the data driven model the author and his colleagues derived to measure altruistic decisions.<br/>
+The writer shares how doing good should be thought of differently, using evidence and reasoning instead of emotions. Learn more about the data-driven model the author and his colleagues derived to measure altruistic decisions.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
