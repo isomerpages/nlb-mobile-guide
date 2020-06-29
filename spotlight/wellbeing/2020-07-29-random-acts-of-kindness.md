@@ -100,7 +100,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=54B8767A
 <i>William MacAskill</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC"><img src="/images/PL14-Doing-good-better.jpg" style="width:300px; text-align:left;"></a><br/>
 Penguin Publishing Group, 2015.<br/> 
-The writer shares how doing good should be thought of differently by using evidence and reasoning and not be based on emotions.<br/>
+The writer shares how doing good should be thought of differently by using evidence and reasoning and not be based on emotions. Learn more about the data driven model the author and his colleagues derived to measure altruistic decisions.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F67C0618-AE4E-4367-BC0D-E1ED25DA83DC">online</a>&#128187;.<br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
