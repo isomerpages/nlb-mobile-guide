@@ -51,7 +51,7 @@ Using kind words in an amiable tone of voice is a skill that can result in incre
 <i>Shaunti Feldhahn</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2F301CC6-10D7-47C2-AA01-2C1258CEA681"><img src="/images/PL14-The-kindness-challenge.jpg" style="width:300px; text-align:left;"></a><br/>
 The Crown Publishing Group, 2016.<br/> 
-Learn ways of acting, such as giving praise, performing small actions and speaking which can make a difference in your life..<br/>
+Learn ways of acting, such as giving praise, performing small actions and speaking which can make a difference in your life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2F301CC6-10D7-47C2-AA01-2C1258CEA681">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/2F301CC6-10D7-47C2-AA01-2C1258CEA681">online</a>&#128187;.<br/>
 
 <h5>The Power of Kindness: Why Empathy is Essential in Everyday Life</h5>
