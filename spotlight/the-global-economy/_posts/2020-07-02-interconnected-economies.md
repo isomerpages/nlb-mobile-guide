@@ -56,9 +56,9 @@ Source: <a href="https://www.youtube.com/embed/vMcMRHwPtEE" target="_blank">The 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/kBo8AFMLXu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/kBo8AFMLXu4" target="_blank">China, coronavirus and the interconnected world – Arthur Kroeber.</a> (2020, April 20). Network 20/20. Retrieved 2020, June 18.
 
-
-<h4>Websites & Journal articles</h4>
+<h4>Websites and Journal articles</h4>
 <h5>1. <a href="https://www.lawfareblog.com/travails-interconnected-world-pandemics-digital-economy" target="_blank">Travails of an interconnected world: From pandemics to the digital economy</a></h5>
+
 Levite, A. & Lyu, J. (2020, April 30). Travails of an interconnected world: From pandemics to the digital. <i>Lawfare Blog</i>. Retrieved 2020, June 18.
 
 <h5>2. <a href="https://www.edb.gov.sg/en/news-and-events/insights/headquarters/covid-19-could-redefine-singapore-s-place-in-the-global-economy.html" target="_blank">Covid-19 could redefine Singapore’s place in the global economy</a></h5>
