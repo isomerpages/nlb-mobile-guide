@@ -71,7 +71,7 @@ Djiwandono, J.S. & Nesadurai, H.E.S. (2009). <i>Southeast Asia in the global eco
 <a href="https://nlb.overdrive.com/media/B814C593-9093-4EC8-82E0-90CFC00CE4D9" target="_blank"><img src="/images/NL-b2-SEA-in-global-economy.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h5>4. From global to local: The making of things and the end of globalization</h5>
-Livesey, F., (2017). <i>From global to local: The making of things and the end of globalization</i>. Knopf Doubleday Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+Livesey, F. (2017). <i>From global to local: The making of things and the end of globalization</i>. Knopf Doubleday Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
 <a href="https://nlb.overdrive.com/media/D7BA3F89-9601-408B-9351-7BA5931FAC6D" target="_blank"><img src="/images/NL-b2-from-global-to-local.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h4>Chinese, Malay and Tamil Resources</h4>
