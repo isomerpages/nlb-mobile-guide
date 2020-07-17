@@ -3,18 +3,14 @@ layout: post
 title:  SkillsFuture Month 1-Looking to Upgrade
 date:   2020-07-22
 permalink: /spotlight/skillsfuturemonth/looking-to-upgrade
-description: SkillsFuture Month 2020: In support of SkillsFuture Month, NLB has curated learning packages with books, 
-articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. 
-Get a head start on your learning journey with NLB! Happy reading.
-image: /images/PL-2-intro.jpg
+description: SkillsFuture Month 2020
+In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading.
+image: /images/FS-futureskillsmonth2020.jpeg
 ---
 <img src="/images/PL-2-intro.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
-<p><q>The happiness of your life depends upon the quality of your thoughts.</q> - Marcus Aurelius, <i>Meditations</i>.</p>
-<p>How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
-
 <p>This is the introduction for each package. E.g. How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
 
 <h4>eBooks</h4>
