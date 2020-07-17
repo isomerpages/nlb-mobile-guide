@@ -76,7 +76,7 @@ Yakovleva, N. & Frei, R. (2019). *Sustainable development goals and sustainable 
 
 <h5>4. The Global Supply Chain and Risk Management</h5>
 Rosenberg, S. (2018). *The Global Supply Chain and Risk Management*. LaVergne: Business Expert Press. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
-<a href="https://nlb.overdrive.com/media/4760643" target="_blank"><img src="/images/NL-b3-The-Global-Supply-Chain.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
+<a href="https://nlb.overdrive.com/media/3942490" target="_blank"><img src="/images/NL-b3-The-Global-Supply-Chain.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 <h4>Journal Articles & Chinese and Malay resources</h4>
 <h5>1. Is it time to rethink globalized supply chains?</h5>
