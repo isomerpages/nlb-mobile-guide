@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Learning Package 4 - The happiness of your life depends upon the quality of your thoughts
-date:   2020-04-03
-permalink: /spotlight/wellbeing/your-new-filename-here
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
-image: /images/PL-2-intro.jpg
+title:  SkillsFuture Month 1-Looking to Upgrade
+date:   2020-07-22
+permalink: /spotlight/skillsfuturemonth/looking-to-upgrade
+description: SkillsFuture Month 2020
+In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading.
+image: /images/FS-futureskillsmonth2020.jpeg
 ---
 <img src="/images/PL-2-intro.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
