@@ -17,7 +17,7 @@ image: /images/FS-futureskillsmonth2020.jpeg
 <h5>Storytelling with Data</h5>
 <i>Cole Nussbaumer Knaflic</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 001.4226 KNA. Hoboken, New Jersey: John Wiley & Sons, Inc. 2015<br/> 
+Call Number: English 001.4226 KNA. Hoboken, New Jersey : John Wiley & Sons, Inc. 2015<br/> 
 It is always important to tell a story with the data you gather. A simple excel chart might not be sufficient. Who is the targeted audience? What is the message you are driving across? How do you create an engaging story? Get the answers in this book.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202390529">find the book at the libraries</a>. 
 
@@ -68,9 +68,26 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=663098">
 <h5>Fundamentals of Data Visualization</h5>
 <i>Claus O. Wilke</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65533086-34DE-47AC-BC55-B91E96E123F6"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 LYU. Penguin Books, 2008.<br/> 
+O'Reilly Media, 2019.<br/> 
 In this book, the concept of data visualization with the usage of tools and diagrams is explained. Readers can also pick up tips on how to turn a large chunk of data into something easier to understand. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65533086-34DE-47AC-BC55-B91E96E123F6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/65533086-34DE-47AC-BC55-B91E96E123F6">online</a>&#128187;. 
+
+<h5>Fearless at Work</h5>
+<i>Molly Fletcher</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4E56ADFD-0C85-4DC5-866B-B8E5B3329008"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 650.1 FLE -[BIZ]. New York : McGraw-Hill, 2017.<br/> 
+Fear is an obstacle to success. There are times when we are held back not by our talent or skill, but by our mindset. Follow Molly Fletcher as she explains the techniques to getting rid of toxic thinking and developing a fearless attitude in life.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4E56ADFD-0C85-4DC5-866B-B8E5B3329008">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4E56ADFD-0C85-4DC5-866B-B8E5B3329008">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202964318">find the book at the libraries</a>.
+
+<h5>Resilience:Hard-Won Wisdom for Living a Better Life</h5>
+<i>Eric Greitens</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0-555E-41D2-A6C0-E31A40B76725"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 155.24 GRE. New York : Houghton Mifflin Harcourt, 2015.<br/> 
+Trouble, hardship and pain is very much part and parcel of life. Is it possible to be more resilient in turbulent times? 
+In this book by Naval SEAL and humanitarian Eric Greitens, he shares his challenges and how he finds compassion in troubled times. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0-555E-41D2-A6C0-E31A40B76725">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/497627C0-555E-41D2-A6C0-E31A40B76725">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201233834">find the book at the libraries</a>.
+
+
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
