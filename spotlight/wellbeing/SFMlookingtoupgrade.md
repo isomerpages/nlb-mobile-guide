@@ -100,11 +100,11 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0
 <h4>Articles</h4>
 
 <h5>1. <a href="https://www.forbes.com/sites/forbestechcouncil/2019/10/07/how-nike-is-using-analytics-to-personalize-their-customer-experience/#2df48b561611">How Nike Is Using Analytics To Personalize Their Customer Experience</a><br/>
-<i>Alex Barseghian.</i> Published on Forbes on October 7 2019.</h5>
+<i>Alex Barseghian.</i> Published on Forbes on 7 October 019.</h5>
 <p>Nike Direct, the company's direct-to-consumer initiative, had contributed 10 billion in sales to Nike in 2018. It is an initiative that is based on data analytics to provide a better customer experience to the customers. How do they do it? Why is it so successful? And what can we learn from Nike? </p>
 
 <h5>2. <a href="https://www.williamrchase.com/post/constructing-a-career-in-dataviz-getting-started/">TConstructing a Career in Dataviz: Getting Started</a><br/>
-<i>Will Chase.</i> Published on April 28 2020.</h5>
+<i>Will Chase.</i> Published on 28 April 2020.</h5>
 <p>Will Chase shares how one can pursue a career in data visualization. He also shares the basic concept of data visualization and the tools that help in designing the visualization.</p>
 
 <h4>eLearning videos from Lynda Library</h4>
@@ -119,12 +119,13 @@ Instagram marketing is one of the most commonly seen digital marketing tool in S
 <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
-<h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
-Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, comes and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
+<h5>1. What REALLY is Data Science? Told by a Data Scientist by Joma</h5>
+What is Data Science? Is it all about AI? 
+In this video, Data Scientist Joma explains the common misconception about data science and how there is a dichotomy of media representation and the actual role of a Data Scientist.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/xC-c7E5PK0Y " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=xC-c7E5PK0Y " target="_blank">What REALLY is Data Science? Told by a Data Scientist</a> (2018, June 22). Joma Tech. 
 
-<h5>2. The Surprising Science of Happiness by Dan Gilbert</h5>
-Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, comes and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED.
+<h5>2. Making Data Mean More Through Storytelling by Ben Wellington</h5>
+Computer scientist, Ben Wellington shares the usefulness of telling stories with data. He explores the correlations between parking tickets, taxis, bikers, and how these can be brought to life through data analysis and storytelling that shed insights into life in New York City.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/6xsvGYIxJok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=6xsvGYIxJok" target="_blank">Making Data mean more through storytelling</a> (2015, April 20). TEDx Talks
