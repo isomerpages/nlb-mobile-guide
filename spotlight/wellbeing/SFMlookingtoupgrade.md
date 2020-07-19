@@ -10,16 +10,16 @@ image: /images/FS-futureskillsmonth2020.jpeg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 
-<p>This is the introduction for each package. E.g. How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
+<p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market.Here is a list of books, articles and videos that can help you understand what data analytics is all about.</p>
 
 <h4>eBooks</h4>
 
-<h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
-<i>Sonja Lyubomirsky</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 LYU. Penguin Books, 2008.<br/> 
-Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ ea298ace-b4a4-4177-97fe-71d9924a07f6">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202729947">find the book at the libraries</a>. 
+<h5>Storytelling with Data</h5>
+<i>Cole Nussbaumer Knaflic</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 001.4226 KNA. Hoboken, New Jersey: John Wiley & Sons, Inc. 2015<br/> 
+It is always important to tell a story with the data you gather. A simple excel chart might not be sufficient. Who is the targeted audience? What is the message you are driving across? How do you create an engaging story? Get the answers in this book.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202390529">find the book at the libraries</a>. 
 
 <h5>Nudge: Improving Decisions About Health, Wealth, and Happiness</h5>
 <i>Richard H. Thaler & Cass R. Sunstein</i><br/>
