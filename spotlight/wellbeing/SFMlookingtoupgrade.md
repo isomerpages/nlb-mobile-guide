@@ -57,19 +57,20 @@ Call Number: 658.872 SHA -[BIZ]. Hoboken, New Jersey : John Wiley & Sons, Inc., 
 How do we create meaningful relationships with our customers? How do we engage them effectively? Jamie Shanks explains the techniques to targeting prospective customers and building relationships that translate to revenues.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=02151533-874F-48CF-977C-3EC337D9D702">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/02151533-874F-48CF-977C-3EC337D9D702">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202689600">find the book at the libraries</a>. 
 
-<h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
-<i>Sonja Lyubomirsky</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 158 LYU. Penguin Books, 2008.<br/> 
-Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ ea298ace-b4a4-4177-97fe-71d9924a07f6">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202729947">find the book at the libraries</a>. 
+<h5>The Back of the Napkin</h5>
+<i>Dan Roam</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=663098"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 658.403 ROA -[BIZ]. New York : Portfolio, 2008.<br/> 
+All we need to tell a story is a napkin and a pen. 
+Author Dan Roam shares how we can communicate an idea with pictures, as we humans are inherently visual creatures. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=663098">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/663098">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=20215502F">find the book at the libraries</a>. 
 
-<h5>The How of Happiness: A New Approach to Getting the Life You Want</h5>
-<i>Sonja Lyubomirsky</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
+<h5>Fundamentals of Data Visualization</h5>
+<i>Claus O. Wilke</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65533086-34DE-47AC-BC55-B91E96E123F6"><img src="/images/FS-2-the-how-of-happiness.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158 LYU. Penguin Books, 2008.<br/> 
-Hack your way into a happier life using these scientifically-grounded strategies based on years of research. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ ea298ace-b4a4-4177-97fe-71d9924a07f6">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202729947">find the book at the libraries</a>. 
+In this book, the concept of data visualization with the usage of tools and diagrams is explained. Readers can also pick up tips on how to turn a large chunk of data into something easier to understand. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65533086-34DE-47AC-BC55-B91E96E123F6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/65533086-34DE-47AC-BC55-B91E96E123F6">online</a>&#128187;. 
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
