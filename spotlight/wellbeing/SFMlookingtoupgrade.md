@@ -99,24 +99,24 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0
 
 <h4>Articles</h4>
 
-<h5>1. <a href="https://bbc.com/news/uk-51936286">Coronavirus: How Families Can Cope with Self-Isolating Together</a><br/>
-<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020.</h5>
-<p>How do you cope with your children or other members of your family as you spend more and more time cooped up together at home? Learn how experts and different families are spending their time together in this article. </p>
+<h5>1. <a href="https://www.forbes.com/sites/forbestechcouncil/2019/10/07/how-nike-is-using-analytics-to-personalize-their-customer-experience/#2df48b561611">How Nike Is Using Analytics To Personalize Their Customer Experience</a><br/>
+<i>Alex Barseghian.</i> Published on Forbes on October 7 2019.</h5>
+<p>Nike Direct, the company's direct-to-consumer initiative, had contributed 10 billion in sales to Nike in 2018. It is an initiative that is based on data analytics to provide a better customer experience to the customers. How do they do it? Why is it so successful? And what can we learn from Nike? </p>
 
-<h5>2. <a href="https://www.nylon.com.sg/2020/04/trendy-easy-to-make-recipes-to-try-at-home-including-d-i-y-bubble-tea">Trendy & Easy-To-Make Recipes to Try At Home, Including D-I-Y Bubble Tea</a><br/>
-<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020.</h5>
-<p>Everyone now has the time to aspire to be a home chef and experiment with different recipes. Here are 6 that may just suit your tastebuds’ fancy should you have the ingredients at home already.</p>
+<h5>2. <a href="https://www.williamrchase.com/post/constructing-a-career-in-dataviz-getting-started/">TConstructing a Career in Dataviz: Getting Started</a><br/>
+<i>Will Chase.</i> Published on April 28 2020.</h5>
+<p>Will Chase shares how one can pursue a career in data visualization. He also shares the basic concept of data visualization and the tools that help in designing the visualization.</p>
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg" target="_blank">Happiness Tips</a></strong><br/>
-From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg" target="_blank">Data visualization</a></strong><br/>
+Amy Balliett shares some of the commonly seen mistakes in data visualization and how you can rectify them in minutes.</p>
+<a href="https://www.lynda.comGraphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg" target="_blank">Happiness Tips</a></strong><br/>
-From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg" target="_blank">Instagram Marketing Opportunities</a></strong><br/>
+Instagram marketing is one of the most commonly seen digital marketing tool in Singapore. Why is it popular? Is it effective? This short video will explain Instagram marketing’s impact and its functionality.</p>
+<a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
