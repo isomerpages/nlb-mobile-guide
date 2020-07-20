@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  Learning Package 3 - Supply Chains in a Globalised World
-date:   2020-07-17
+date:   2020-07-20
 permalink: /spotlight/the-global-economy/supply-chains
 description: The COVID-19 pandemic has drastically changed the global economy, creating uncertainties in demand and disruptions in global supply chains. These have in turn not only restricted movements of people and materials but also caused delivery delays and shortages of goods and materials.
 image: /images/NL-b3-overview.jpg
 ---
 <img src="/images/NL-b3-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/logistics-truck-container-plane-3382013/" target="_blank">pixabay.com/photos/logistics-truck-container-plane-3382013/</a></p>
-The COVID-19 pandemic has drastically changed the global economy, creating uncertainties in demand and disruptions in global supply chains. These have in turn not only restricted movements of people and materials but also caused delivery delays and shortages of goods and materials. It has been a challenge to keep global supply chains of essential goods open. A stark reminder of this situation came from the World Health Organization (WHO) who warned that disruptions to the supply of personal protective equipment was putting lives at risk.[^1]
+The COVID-19 pandemic has drastically changed the global economy, creating uncertainties in demand and disruptions in global supply chains. These have in turn not only restricted movements of people and materials but also caused delivery delays and shortages of goods and materials. It has been a challenge to keep global supply chains of essential goods open. A stark reminder of this situation came from the World Health Organization (WHO) who warned that disruptions to the supply of personal protective equipment were putting lives at risk.[^1]
 
-Uncertainties and sudden disruptions in the early months of the pandemic have also emphasised the importance of supply chain resilience and risk management.[^2] Countries, including Singapore, have started to develop and strengthen regional supply chains to diversify supply options. These changes could also present opportunities for countries such as Singapore to tap on particularly with its status as a financial and logistical hub.[^3]
+Uncertainties and sudden disruptions in the early months of the pandemic have also emphasised the importance of supply chain resilience and risk management.[^2] Countries, including Singapore, have started to develop and strengthen regional supply chains to diversify supply options. Developing and strengthening regional supply chains present opportunities for countries such as Singapore, with its status as a financial and logistical hub, to tap on.[^3]
 
 While optimising supply chains used to focus largely on cost efficiency and commercial outcomes, the COVID-19 pandemic has exposed weaknesses in this approach and forced a relook into not just supply but demand patterns as well. Companies that have adopted digital technologies, wider global supply-chain networks and multiple distribution channels appear to be more resilient and better responsive to supply-chain disruptions. As a result, there is now a concerted effort for resilience and adaptability as well as developments in technology and sustainability to be factored into global supply chain management.[^4]
 
@@ -21,7 +21,7 @@ Check out the resources below to find out more about supply chains in a globalis
 
 [^2]: Hedwall, M. (2020, June 22). “The Ongoing Impact Of COVID-19 On Global Supply Chains.” *World Economic Forum*. Retrieved 2020, June 25 from  <https://www.weforum.org/agenda/2020/06/ongoing-impact-covid-19-global-supply-chains/>
 
-[^3]:Koh, F. (2020, May 26). Parliament: Supply Chain Shifts Due to Covid-19 Will Impact Economy But Also Present Opportunities, Says Chan Chun Sing. *The Straits Times*. Retrieved 2020, June 25.
+[^3]:Koh, F. (2020, May 26). Parliament: Supply Chain Shifts Due to Covid-19 Will Impact Economy But Also Present Opportunities, Says Chan Chun Sing. *The Straits Times*. Retrieved 2020, June 25 from <https://www.straitstimes.com/singapore/supply-chains-shifts-due-to-covid-19-will-impact-economy-but-also-present-opportunities>
 
 [^4]: Hedwall, M. (2020, June 22). “The Ongoing Impact Of COVID-19 On Global Supply Chains.” *World Economic Forum*. Retrieved 2020, June 25 from  <https://www.weforum.org/agenda/2020/06/ongoing-impact-covid-19-global-supply-chains/>
 
@@ -41,7 +41,6 @@ What Covid-19 toilet paper shortages tell us about supply chains. (2020, June 8)
 Episode 2: Shock proofing supply chains. (2020). *Baker McKenzie*. Retrieved 2020, June 25.
 
 <h4>Websites</h4>
-
 <h5>1. <a href="https://www.weforum.org/agenda/2020/05/this-is-what-global-supply-chains-will-look-like-after-covid-19/" target="_blank">Here's how global supply chains will change after COVID-19</a></h5>
 Lin, J. & Lanng, C. (2020, May 6). Here's how global supply chains will change after COVID-19. *World Economic Forum*. Retrieved 2020, June 25.
 
