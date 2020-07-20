@@ -2,7 +2,7 @@
 layout: post
 title:  SkillsFuture Month 1-Looking to Upgrade
 date:   2020-07-22
-permalink: /spotlight/skillsfuturemonth/looking-to-upgrade
+permalink: /spotlight/skillsfuturemonth/looking-to-recruit
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)
 image: /images/FS-futureskillsmonth2020.jpeg
 ---
