@@ -328,12 +328,12 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p><strong>Kobo</strong>: Yes, you can access NLB's eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
 <ul>
   <li>Kobo Nia,&nbsp;</li>
-  <li>Libra H2O,&nbsp;</li>
-  <li>Forma,&nbsp;</li>
-  <li>Aura ONE,&nbsp;</li>
-  <li>Aura Edition 2,</li>
-  <li>Aura H2O Edition 2, or&nbsp;</li>
-  <li>Clara HD devices.</li>
+  <li>Kobo Libra H2O,&nbsp;</li>
+  <li>Kobo Forma,&nbsp;</li>
+  <li>Kobo Aura ONE,&nbsp;</li>
+  <li>Kobo Aura Edition 2,</li>
+  <li>Kobo Aura H2O Edition 2, or&nbsp;</li>
+  <li>Kobo Clara HD devices.</li>
 </ul>
 <p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive* on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
   <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank">Read this article</a> for a step-by-step guide on how to borrow ebooks on your Kobo device.
