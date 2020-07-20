@@ -18,7 +18,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324"><img src="/images/FS-1-the2hourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.14 DAL –[BIZ]. Potter/Ten Speed/Harmony/Rodale, 2020.<br/> 
 Maximise the use of the latest technologies technology to select, prioritizeprioritise, and make contact with potential employers, and secure that first interview, regardless of your experience, education, or network!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5043324">online</a>&#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid= 14411815”>find the book at the libraries</a>.<br/> 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5043324">online</a>&#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=14411815”>find the book at the libraries</a>.<br/> 
 
 
 <h5>Manage Your Job Search</h5>
@@ -33,7 +33,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3884793"
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3309188"><img src="/images/FS-1-50waystogetajob.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.14 AUJ –[BIZ]. Penguin Publishing Group, 2018.<br/>
 Stay on track and motivated until you land your dream career! Learn how to ask the right questions from advice from professionals across vastly different industries, and start doing the work that actually matters, through the quick-step exercises which help you avoid the common pitfals of navigating though a modern career.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3309188">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3309188">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid= 203130536”>find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3309188">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3309188">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=203130536”>find the book at the libraries</a>.<br/>
 
 <h5>What Color Is Your Parachute? 2019</h5>
 <i> Richard N. Bolles</i><br/>
