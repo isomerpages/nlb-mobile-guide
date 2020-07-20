@@ -16,7 +16,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <h5>The 2-Hour Job Search</h5>
 <i>Steve Dalton</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324"><img src="/images/FS-1-the2hourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 650.14 DAL –[BIZ]. Potter/Ten Speed/Harmony/Rodale, 2020.<br/> 
+Call Number: English 650.14 DAL -[BIZ]. Potter/Ten Speed/Harmony/Rodale, 2020.<br/> 
 Maximise the use of the latest technologies technology to select, prioritizeprioritise, and make contact with potential employers, and secure that first interview, regardless of your experience, education, or network!<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5043324">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14411815">find the book at the libraries</a>.<br/> 
 
@@ -31,7 +31,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3884793"
 <h5>50 Ways to Get a Job</h5>
 <i> Dev Aujla, Lodro Rinzler</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3309188"><img src="/images/FS-1-50waystogetajob.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 650.14 AUJ –[BIZ]. Penguin Publishing Group, 2018.<br/>
+Call Number: English 650.14 AUJ -[BIZ]. Penguin Publishing Group, 2018.<br/>
 Stay on track and motivated until you land your dream career! Learn how to ask the right questions from advice from professionals across vastly different industries, and start doing the work that actually matters, through the quick-step exercises which help you avoid the common pitfals of navigating though a modern career.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3309188">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3309188">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203130536">find the book at the libraries</a>.<br/>
 
@@ -45,7 +45,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453"
 <h5>Career Courage</h5>
 <i>Katie C. Kelley</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041"><img src="/images/FS-1-careercourage.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 650.1 KEL –[BIZ]. AMACOM Books, 2016.<br/>
+Call Number: English 650.1 KEL -[BIZ]. AMACOM Books, 2016.<br/>
 Rediscover the courage and guidance to break free from your fears, shed misguided ideas, and find fulfillment in your career regardless of which point of your life career you may be at. This invaluable guide book poses tough questions about motivation, confidence, risk tolerance and more, and your answers will power your journey towards prioritising a fulfilling life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2564041">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113313">find the book at the libraries</a>.<br/>
 
