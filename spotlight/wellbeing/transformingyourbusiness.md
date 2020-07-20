@@ -4,7 +4,7 @@ title:  SkillsFuture Month 4-Looking to Transform Your Business
 date:   2020-07-22
 permalink: /spotlight/skillsfuturemonth/looking-to-transform-your-business
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)
-image: /images/FS-futureskillsmonth2020.jpg
+image: /images/FS-futureskillsmonth2020.jpeg
 ---
 <img src="/images/FS-futureskillsmonth2020.jpeg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
