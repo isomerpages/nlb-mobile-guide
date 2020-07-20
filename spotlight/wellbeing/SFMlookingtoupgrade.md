@@ -99,14 +99,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3605283"
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3581065"><img src="/images/FS-2-resilient.png" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158.1 HAN. Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
 Dr. Rick Hanson uses his research experience, in the science of positive neuroplasticity, to explain how to overcome our brain’s negativity bias, and release painful thoughts and feelings. In exchange, these can be replaced by self-compassion, self-worth, joy and inner peace.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3581065">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3581065">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390078”>find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3581065">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3581065">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390078">find the book at the libraries</a>.<br/>
 
 <h5>Bouncing Back</h5>
 <i>Linda Graham</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=1250130"><img src="/images/FS-2-bouncingback.png" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158.1 GRA. New World Library, 2013.<br/>
 While resilience is innate in our brains, we learn and reinforce unhelpful patterns in our neural circuitry over time. Linda Graham demonstrates to readers that what previously seems hardwired can be rewired, and provides guidance in rebuilding our well-being and disaster-proofing our brains.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1250130">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1250130">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=200128831”>find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1250130">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1250130">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200128831">find the book at the libraries</a>.<br/>
 
 <h5>21 Days to Resilience</h5>
 <i>Dr. Zelana Montminy</i><br/>
@@ -141,7 +141,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3999059"
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886"><img src="/images/FS-2-writeyourbusinessplan.png" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.4012 WRI -[BIZ]. Entrepreneur Press, 2015.<br/>
 A spiritual sequel to their bestseller <i>Start Your Own Business</i>, the staff at Entrepreneur Media share new insights on fundamental start-up know-how, giving readers an in-depth understanding of what’s essential to any business plan, what’s appropriate for their industry, and what they can do to ensure success.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1898886">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=202419801”>find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1898886">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202419801">find the book at the libraries</a>.<br/>
 
 
 
