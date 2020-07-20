@@ -162,7 +162,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886"
 <p> Resilience is built by attitudes, behaviours and social support systems that can be adopted by anyone, and this is backed by more than five decades of research. This article shares tips on how we can develop resilience and stay motivated in the face of chronic negative stress, which is based on neuroscience, behavioural and organisational research.</p>
 
 <h5>4. <a href="https://www.forbes.com/sites/ninaangelovska/2018/10/10/the-8-ps-of-entrepreneurship/#115fa88414f5">The 8 P’s Of Entrepreneurship</a><br/>
-<i>Nina Angelovska.</i> Published on Forbes, on 10 October 2018.</h5>
+<i>Nina Angelovska.</i> Published on Forbes on 10 October 2018.</h5>
 <p>Developed from her encounters with fellow entrepreneurs from all around the world, entrepreneur Nina Angelovska shares the eight ‘P’ traits which she believes are what set successful entrepreneurs apart from others.</p>
 
 
@@ -208,8 +208,8 @@ Source: <a href="https://www.youtube.com/watch?v=xy3uAzwM1M8" target="_blank">Pa
 
 <h5>4. The Power of an Entrepreneurial Mindset by Bill Roche</h5>
 Bill Roche shares real-life stories of how his students created their own business ventures, showcasing abilities to take charge of their learning (with the freedom to make mistakes), and developing entrepreneurial skills. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lhs4VFZWwn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=lhs4VFZWwn4" target="_blank">The Power of an Entrepreneurial Mindset </a> (2018, March 21). TEDx Talks. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ihs4VFZWwn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=Ihs4VFZWwn4" target="_blank">The Power of an Entrepreneurial Mindset </a> (2018, March 21). TEDx Talks. 
 
 <h5>5. The Part of Entrepreneurship You Need to Know by Gary Vaynerchuk</h5>
 Serial entrepreneur Gary Vaynerchuk talks about a side of entrepreneurship which nobody talks about: the thousands of “no”s entrepreneurs have to hear, the lonely days, and the sleepless nights it takes to make it. 
