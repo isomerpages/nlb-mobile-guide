@@ -101,7 +101,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3605283"
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3581065"><img src="/images/FS-2-resilient.png" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 158.1 HAN. Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
 Dr. Rick Hanson uses his research experience, in the science of positive neuroplasticity, to explain how to overcome our brain’s negativity bias, and release painful thoughts and feelings. In exchange, these can be replaced by self-compassion, self-worth, joy and inner peace.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3581065">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3581065">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390078">find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3581065">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3581065">online</a> &#128187;.<br/>
 
 <h5>Bouncing Back</h5>
 <i>Linda Graham</i><br/>
