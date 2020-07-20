@@ -316,7 +316,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 </div>
 <p>
-  <h2>Compatibility with eReaders / apps</h2>
+	<a name="ereader"><h2>Compatibility with eReaders / apps</h2></a>
 
 <div>
 		<input type="radio" name="acc" id="acc19">
