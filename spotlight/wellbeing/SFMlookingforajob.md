@@ -70,21 +70,19 @@ E-Book only. McGraw-Hill, getAbstract, 2017.<br/>
 This workbook details 101 exercises designed and consolidated by J. Thomas Buck, Williams R. Matthews, and Robert N. Leech, seasoned career consultants who have pooled their considerable experience to cover the entire landscape of job hunting. These authors ask thought-provoking questions through concise and conversational writing, to take readers through the job search process.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3178875">online</a> &#128187;.<br/>	
 
-<h4>Videos</h4>
-<h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
-According to top career coach Kerri Twigg, the traditional way of writing resumes and landing work from it is broken. She explains a new way to guide people on job seeking, switching up on how they build their resumes and manage their careers.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/YA400nwQhLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=YA400nwQhLE" target="_blank"> Burn Your Old Resume, the Future of Work Is Here</a> (2019, October 1). TEDx Talks. 
+<h4>Stories on the Internet</h4>
 
-<h5>2. Looking for a job? Highlight your ability, not your experience by Jason Shen</h5>
-TED Resident Jason Shen shares novel thinking on how job seekers can make themselves more attractive, and why employers should look at the abilities of candidates instead of just credentials. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/guXxy8LH2QM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=guXxy8LH2QM" target="_blank"> Looking for a job? Highlight your ability, not your experience</a> (2018, March 13). TED Talks. 
+<h5>1. <a href="https://themuse.com/advice/6-job-search-tips-that-are-so-basic-people-forget-them">6 Job Search Tips That are So Basic People Forget Them </a><br/>
+<i>Jenny Floss.</i> Published on themuse.com on 17 March 2020.</h5>
+<p>Job search advice is often ironic: It it comes almost instantly when you do a an online search online, but it is also incredibly easy to be overwhelmed by the countless recommendations out there. This article by Jenny Floss helps to bring the focus back to the most basic and important, yet often overlooked tips in job searching for a lot of people.</p>
 
-<h5>3. How to stay motivated while job hunting by Aimee Bateman</h5>
-Careers consultant and speaker, Aimee Bateman, shares her six best tips on how to remain motivated during your job search, a period which can be a very stressful and discouraging period for many people. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=CcNQUbVOYbU" target="_blank"> How to stay motivated while job hunting</a> (2014, December 5). Careercake.
+<h5>2. <a href="https://hbr.org/2020/06/how-to-nail-a-job-interview-remotely">How to Nail a Job Interview – Remotely</a><br/>
+<i>Amy Gallo.</i> Published on Harvard Business Review on 20 June 2020.</h5>
+<p>Art Markman, a psychology professor at University of Texas at Austin, and Claudio Fernández-Aráoz, an executive fellow at Harvard Business School, give their advice on approaching the difficult challenge of a job searching in times of pandemic crises such as the Covid-19 situation now.</p>
+
+<h5>3. <a href="https://careersidekick.com/best-ways-find-jobs">The 3 Best Ways to Find Jobs Online and Offline in 2020</a><br/>
+<i>Biron Clark.</i> Published on Career Sidekick on 20 June 2020.</h5>
+<p>Executive Recruiter Biron Clark guides readers on three best ways to finding jobs quickly and easily, and offers a few more additional tips to ease your job search process.</p>
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
@@ -101,20 +99,21 @@ A tool kit of practical tips, tricks, and insights from experts on how to equip 
 Discover strategies for creating a recovery plan, cultivating resilience, and improving job search and interview skills during difficult economic times.</p>
 <a href=" https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times?org=nlb.gov.sg"><img src="/images/ FS-1-lynda-jobduringchallengingeconomictimes.png" style="width:400px;"></a>
 
+<h4>Videos</h4>
+<h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
+According to top career coach Kerri Twigg, the traditional way of writing resumes and landing work from it is broken. She explains a new way to guide people on job seeking, switching up on how they build their resumes and manage their careers.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/YA400nwQhLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=YA400nwQhLE" target="_blank"> Burn Your Old Resume, the Future of Work Is Here</a> (2019, October 1). TEDx Talks. 
 
-<h4>Stories on the Internet</h4>
+<h5>2. Looking for a job? Highlight your ability, not your experience by Jason Shen</h5>
+TED Resident Jason Shen shares novel thinking on how job seekers can make themselves more attractive, and why employers should look at the abilities of candidates instead of just credentials. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/guXxy8LH2QM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=guXxy8LH2QM" target="_blank"> Looking for a job? Highlight your ability, not your experience</a> (2018, March 13). TED Talks. 
 
-<h5>1. <a href="https://themuse.com/advice/6-job-search-tips-that-are-so-basic-people-forget-them">6 Job Search Tips That are So Basic People Forget Them </a><br/>
-<i>Jenny Floss.</i> Published on themuse.com on 17 March 2020.</h5>
-<p>Job search advice is often ironic: It it comes almost instantly when you do a an online search online, but it is also incredibly easy to be overwhelmed by the countless recommendations out there. This article by Jenny Floss helps to bring the focus back to the most basic and important, yet often overlooked tips in job searching for a lot of people.</p>
-
-<h5>2. <a href="https://hbr.org/2020/06/how-to-nail-a-job-interview-remotely">How to Nail a Job Interview – Remotely</a><br/>
-<i>Amy Gallo.</i> Published on Harvard Business Review on 20 June 2020.</h5>
-<p>Art Markman, a psychology professor at University of Texas at Austin, and Claudio Fernández-Aráoz, an executive fellow at Harvard Business School, give their advice on approaching the difficult challenge of a job searching in times of pandemic crises such as the Covid-19 situation now.</p>
-
-<h5>3. <a href="https://careersidekick.com/best-ways-find-jobs">The 3 Best Ways to Find Jobs Online and Offline in 2020</a><br/>
-<i>Biron Clark.</i> Published on Career Sidekick on 20 June 2020.</h5>
-<p>Executive Recruiter Biron Clark guides readers on three best ways to finding jobs quickly and easily, and offers a few more additional tips to ease your job search process.</p>
+<h5>3. How to stay motivated while job hunting by Aimee Bateman</h5>
+Careers consultant and speaker, Aimee Bateman, shares her six best tips on how to remain motivated during your job search, a period which can be a very stressful and discouraging period for many people. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=CcNQUbVOYbU" target="_blank"> How to stay motivated while job hunting</a> (2014, December 5). Careercake.
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
