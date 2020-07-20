@@ -114,7 +114,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE
 
 <h5>Cybersecurity Program Development for Business: the essential planning guide</h5>
 <i>Christos J. P. Moschovitis</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= E76FBB28-6D58-47E7-AE86-C48EB9EFC688"><img src="/images/FS-4-the-CybersecurityProgramDevelopmentForBusiness.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= E76FBB28-6D58-47E7-AE86-C48EB9EFC688"><img src="/images/FS-4-CybersecurityProgramDevelopmentForBusiness.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.478 MOS -[BIZ]. Wiley, 2018.<br/> 
 This essential guide, with its many examples and case studies, breaks down every element of the development and management of a cybersecurity programme for executives.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28-6D58-47E7-AE86-C48EB9EFC688 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ E76FBB28-6D58-47E7-AE86-C48EB9EFC688 ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203209896">find the book at the libraries</a>. <br/>
@@ -128,7 +128,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695
 
 <h5>The Future is Faster than You Think: how converging technologies are transforming business, industries, and our lives</h5>
 <i>Peter H. Diamonds and Steven Kotler</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D "><img src="/images/FS-4-TheFutureisFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D "><img src="/images/FS-4-TheFutureIsFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 338.064 DIA. Simon & Schuster, 2020.<br/> 
 In this gripping and insightful roadmap to our near future, Diamandis and Kotler investigate how wave after wave of exponentially accelerating technologies will impact both our daily lives and society as a whole.h<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ A11BE1FA-069C-43B9-B01D-4CA021E6949D ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
