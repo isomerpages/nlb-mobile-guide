@@ -145,14 +145,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886"
 
 
 
-<table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-<p style="font-size:10pt;">Having trouble accessing the eBooks featured here? Read this <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide</a> or visit our <a href="/get-started-with/libby/">Help page.</a></p>
-    </td>
-  </tr>
-  </table>
-
 <h4>Articles</h4>
 
 <h5>1. <a href="https://www.forbes.com/sites/forbestechcouncil/2019/10/07/how-nike-is-using-analytics-to-personalize-their-customer-experience/#2df48b561611">How Nike Is Using Analytics To Personalize Their Customer Experience</a><br/>
@@ -183,6 +175,18 @@ Amy Balliett shares some of the commonly seen mistakes in data visualization and
 Instagram marketing is one of the most commonly seen digital marketing tool in Singapore. Why is it popular? Is it effective? This short video will explain Instagram marketing’s impact and its functionality.</p>
 <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
+<p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg" target="_blank">Mindfulness Practices</a></strong><br/>
+Explore mindfulness practices with executive coach Henna Inam, as she guides viewers on techniques for expanding emotional intelligence, growing self-confidence, dealing with difficult people, managing change, and confronting fears.</p>
+<a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg"><img src="/images/FS-2-mindfulnesspractices.png" style="width:400px;"></a>
+
+<p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg" target="_blank">Entrepreneurship Foundations</a></strong><br/>
+Build up the foundations of entrepreneurship with Kim Kaupe, as she provides a set of tools to assess a potential business opportunity, gives tips on how to start and maintain your own company, and identify the elements that will contribute to your company’s success.</p>
+<a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/FS-2-entrepreneurshipfoundations.png" style="width:400px;"></a>
+
+<p><strong>5. <a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg" target="_blank">Small Business Secrets</a></strong><br/>
+Learn the secrets of small business success with coach Dave Crenshaw, who will cover topics from determining your most valuable product or service, to managing processes and creating culture.</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg"><img src="/images/FS-2-smallbusinesssecrets.png" style="width:400px;"></a>
+
 <h4>Videos</h4>
 <h5>1. What REALLY is Data Science? Told by a Data Scientist by Joma</h5>
 What is Data Science? Is it all about AI? 
@@ -194,3 +198,27 @@ Source: <a href="https://www.youtube.com/watch?v=xC-c7E5PK0Y " target="_blank">W
 Computer scientist, Ben Wellington shares the usefulness of telling stories with data. He explores the correlations between parking tickets, taxis, bikers, and how these can be brought to life through data analysis and storytelling that shed insights into life in New York City.  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/6xsvGYIxJok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=6xsvGYIxJok" target="_blank">Making Data mean more through storytelling</a> (2015, April 20). TEDx Talks
+
+<h5>3. Pandit Dasa on Mindfulness and Resilience During the Coronavirus Pandemic by Pandit Dasa</h5>
+WSB speaker, mindful leadership expert and former monk Pandit Dasa shares his views on resilience and the power in our choices, during these uncertain times.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/xy3uAzwM1M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=xy3uAzwM1M8" target="_blank">Pandit Dasa on Mindfulness and Resilience During the Coronavirus Pandemic</a> (2020, April 3). Washington Speakers Bureau. 
+
+<h5>4. The Power of an Entrepreneurial Mindset by Bill Roche</h5>
+Bill Roche shares real-life stories of how his students created their own business ventures, showcasing abilities to take charge of their learning (with the freedom to make mistakes), and developing entrepreneurial skills. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/lhs4VFZWwn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=lhs4VFZWwn4" target="_blank">The Power of an Entrepreneurial Mindset </a> (2018, March 21). TEDx Talks. 
+
+<h5>5. The Part of Entrepreneurship You Need to Know by Gary Vaynerchuk</h5>
+Serial entrepreneur Gary Vaynerchuk talks about a side of entrepreneurship which nobody talks about: the thousands of “no”s entrepreneurs have to hear, the lonely days, and the sleepless nights it takes to make it. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZH0wzQbOOMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=ZH0wzQbOOMs" target="_blank">The Part of Entrepreneurship You Need to Know</a> (2019, August 17). GaryVee TV.
+
+
+<table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+<p style="font-size:10pt;">Having trouble accessing the eBooks featured here? Read this <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide</a> or visit our <a href="/get-started-with/libby/">Help page.</a></p>
+    </td>
+  </tr>
+  </table>
