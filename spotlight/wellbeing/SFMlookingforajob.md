@@ -33,7 +33,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3884793"
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3309188"><img src="/images/FS-1-50waystogetajob.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.14 AUJ –[BIZ]. Penguin Publishing Group, 2018.<br/>
 Stay on track and motivated until you land your dream career! Learn how to ask the right questions from advice from professionals across vastly different industries, and start doing the work that actually matters, through the quick-step exercises which help you avoid the common pitfals of navigating though a modern career.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3309188">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3309188">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=203130536”>find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3309188">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3309188">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203130536">find the book at the libraries</a>.<br/>
 
 <h5>What Color Is Your Parachute? 2019</h5>
 <i> Richard N. Bolles</i><br/>
@@ -47,7 +47,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453"
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041"><img src="/images/FS-1-careercourage.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.1 KEL –[BIZ]. AMACOM Books, 2016.<br/>
 Rediscover the courage and guidance to break free from your fears, shed misguided ideas, and find fulfillment in your career regardless of which point of your life career you may be at. This invaluable guide book poses tough questions about motivation, confidence, risk tolerance and more, and your answers will power your journey towards prioritising a fulfilling life.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2564041">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid= 203113313”>find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2564041">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113313">find the book at the libraries</a>.<br/>
 
 <h5>The Panic Free Job Search (Summary)</h5>
 <i> Paul Hill</i><br/>
