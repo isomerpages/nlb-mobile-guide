@@ -100,7 +100,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0
 <h4>Articles</h4>
 
 <h5>1. <a href="https://www.forbes.com/sites/forbestechcouncil/2019/10/07/how-nike-is-using-analytics-to-personalize-their-customer-experience/#2df48b561611">How Nike Is Using Analytics To Personalize Their Customer Experience</a><br/>
-<i>Alex Barseghian.</i> Published on Forbes on 7 October 019.</h5>
+<i>Alex Barseghian.</i> Published on Forbes on 7 October 2019.</h5>
 <p>Nike Direct, the company's direct-to-consumer initiative, had contributed 10 billion in sales to Nike in 2018. It is an initiative that is based on data analytics to provide a better customer experience to the customers. How do they do it? Why is it so successful? And what can we learn from Nike? </p>
 
 <h5>2. <a href="https://www.williamrchase.com/post/constructing-a-career-in-dataviz-getting-started/">TConstructing a Career in Dataviz: Getting Started</a><br/>
