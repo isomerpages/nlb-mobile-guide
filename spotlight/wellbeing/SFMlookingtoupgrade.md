@@ -10,7 +10,7 @@ image: /images/FS-futureskillsmonth2020.jpeg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 
-<p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market.Here is a list of books, articles and videos that can help you understand what data analytics is all about.</p>
+<p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market. Here is a list of books, articles and videos that can help you understand what data analytics is all about.</p>
 
 <h4>eBooks</h4>
 
