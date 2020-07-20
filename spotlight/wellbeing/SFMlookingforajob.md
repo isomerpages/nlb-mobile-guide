@@ -43,23 +43,23 @@ Career guru Richard N. Bolles demystifies the job search process for readers, an
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3845453">online</a> &#128187;.<br/>
 
 <h5>Career Courage</h5>
-<i>Katie Kelley</i><br/>
+<i>Katie C. Kelley</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041"><img src="/images/FS-1-careercourage.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.1 KEL –[BIZ]. AMACOM Books, 2016.<br/>
-Rediscover the courage and guidance to break free from your fears, shed misguided ideas, and find fulfillment in a career. No matter at which point of your life or career you may be, this invaluable guide book poses tough questions about motivation, confidence, risk tolerance and more, and your answers will power your journey towards prioritising a fulfilling life.<br/>
+Rediscover the courage and guidance to break free from your fears, shed misguided ideas, and find fulfillment in your career regardless of which point of your life career you may be at. This invaluable guide book poses tough questions about motivation, confidence, risk tolerance and more, and your answers will power your journey towards prioritising a fulfilling life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2564041">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid= 203113313”>find the book at the libraries</a>.<br/>
 
 <h5>The Panic Free Job Search (Summary)</h5>
 <i> Paul Hill</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3182780"><img src="/images/FS-1-getabstract-thepanicfreejobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 650.14 HIL –[BIZ]. Career Press, getAbstract, 2017.<br/>
+E-Book only. Career Press, getAbstract, 2017.<br/>
 Make the most out of your resume, your online activities, and your ability to network with recruiter Paul Hill, as he guides readers on how to create an effective and professional online presence for future employers.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3182780">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3182780">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid= 14321473”>find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3182780">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3182780">online</a> &#128187;.<br/>
 
 <h5>10 Insider Secrets to a Winning Job Search (Summary)</h5>
 <i>Todd Bermont</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3183427"><img src="/images/ FS-1-getabstract-10insidersecretstoawinningjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
-Career Press, getAbstract, 2017.<br/>
+E-book Only. Career Press, getAbstract, 2017.<br/>
 Todd Bermont shares an organised 10-step path to finding a new and better job. While the tips are not all brand new, Bermont has framed them in a different and more positive light for readers. Backing his book up with a website, and using conversational grammar, Bermont will boost your self-confidence and assurance that the perfect job is out there, if you search for it the right way.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3183427">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3183427">online</a> &#128187;.<br/>
 
@@ -72,7 +72,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875"
 
 <h4>Videos</h4>
 <h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
-To top career coach Kerri Twigg, the traditional way of writing resumes and landing work from it is broken. She explains a new way to guide people on job seeking, switching up on how they build their resumes and manage their careers.  
+According to top career coach Kerri Twigg, the traditional way of writing resumes and landing work from it is broken. She explains a new way to guide people on job seeking, switching up on how they build their resumes and manage their careers.  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/YA400nwQhLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=YA400nwQhLE" target="_blank"> Burn Your Old Resume, the Future of Work Is Here</a> (2019, October 1). TEDx Talks. 
 
