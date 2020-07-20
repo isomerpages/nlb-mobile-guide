@@ -6,7 +6,7 @@ permalink: /spotlight/skillsfuturemonth/job-searching
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading. 
 image: /images/FS-futureskillsmonth2020.jpg
 ---
-<img src="/images/FS-futureskillsmonth2020.jpeg">
+<img src="/images/FS-futureskillsmonth2020.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 <p> Job searching is always a daunting task, whether you are a fresh graduate on the lookout for your first job, or a seasoned worker in search of for a career change. The following is a list of books, articles and videos that we hope will serve as a compass for you, to guiding guide you through the immense sea of (often confusing) information with regards to job searching.</p>
