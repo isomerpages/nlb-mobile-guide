@@ -24,7 +24,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324"
 <h5>Manage Your Job Search</h5>
 <i>Johanna Rothman</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3884793"><img src="/images/FS-1-manageyourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
-Pragmatic Bookshelf, 2018.<br/>
+E-Book only. Pragmatic Bookshelf, 2018.<br/>
 Tackle your job search as an emergent project, by adopting a 6-part system developed by Johanna Rothman to achieve success. By setting personal kanban and utilising one-week timeboxes, this systems allows for serendipity and flexibility for any job seekers.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3884793">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3884793">online</a> &#128187;.<br/>
 
