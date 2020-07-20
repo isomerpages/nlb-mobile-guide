@@ -10,7 +10,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 
-<p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market. Here is a list of books, articles and videos that can help you understand what data analytics is all about.</p>
+<p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market. With all the hustle and bustle from work, it also pays to catch a break from time to time, to ignore any external stimuli and tending solely to your own mind and body. And who knows, great ideas may come during these periods of mindfulness! One such idea may be a (re)fueled ambition to embark on an entrepreneurship journey. Whether it is exploring mindfulness or entrepreneurship, we hope the following selection of resources can be starting points for you.</p>
 
 <h4>eBooks</h4>
 
@@ -87,8 +87,61 @@ Trouble, hardship and pain is very much part and parcel of life. Is it possible 
 In this book by Naval SEAL and humanitarian Eric Greitens, he shares his challenges and how he finds compassion in troubled times. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0-555E-41D2-A6C0-E31A40B76725">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/497627C0-555E-41D2-A6C0-E31A40B76725">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201233834">find the book at the libraries</a>.
 
+<h5>The Resilience Workbook</h5>
+<i>Glenn R. Schiraldi</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3605283"><img src="/images/FS-2-theresilienceworkbook.jpg" style="width:300px; text-align:left;"></a><br/>
+E-Book only. New Harbinger Publications, 2017.<br/> 
+Sharing proven skills to manage your stress and heal from setbacks,<i>The Resilience Workbook</i> guides readers on how to bounce back and thrive in any difficult situation.. It also includes exercises to help you cultivate resilience and stay calm under pressure, to face life’s challenges.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3605283">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3605283">online</a>&#128187;.<br/>
 
+<h5>Resilient</h5>
+<i>Rick Hanson, Forrest Hanson</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3581065"><img src="/images/FS-2-resilient.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 158.1 HAN. Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
+Dr. Rick Hanson uses his research experience, in the science of positive neuroplasticity, to explain how to overcome our brain’s negativity bias, and release painful thoughts and feelings. In exchange, these can be replaced by self-compassion, self-worth, joy and inner peace.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3581065">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3581065">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=204390078”>find the book at the libraries</a>.<br/>
 
+<h5>Bouncing Back</h5>
+<i>Linda Graham</i><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=1250130"><img src="/images/FS-2-bouncingback.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 158.1 GRA. New World Library, 2013.<br/>
+While resilience is innate in our brains, we learn and reinforce unhelpful patterns in our neural circuitry over time. Linda Graham demonstrates to readers that what previously seems hardwired can be rewired, and provides guidance in rebuilding our well-being and disaster-proofing our brains.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1250130">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1250130">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=200128831”>find the book at the libraries</a>.<br/>
+
+<h5>21 Days to Resilience</h5>
+<i>Dr. Zelana Montminy</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2349015"><img src="/images/FS-2-21daystoresilience.jpg" style="width:300px; text-align:left;"></a><br/>
+E-Book only. HarperCollins, 2016.<br/>
+Leading positive psychology expert, Dr. Zeldana Montminy, provides a science-based toolkit to build resilience. Through each day of her program, Dr. Montminy introduces a key trait, with accompanying tasks, which is necessary in improving resiliency and wellbeing, such as gratitude, self-respect, flexibility, and many others.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2349015">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2349015">online</a> &#128187;.<br/>
+
+<h5>Entrepreneurship</h5>
+<i>Brian Tracy</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4568823"><img src="/images/FS-2-entrepreneurship" style="width:300px; text-align:left;"></a><br/>
+E-Book only. G&D Media, 2019.<br/>
+Business consultant Brian Tracy shares insights about the science of entrepreneurship, covering topics such as the myths of entrepreneurship, shifting to an entrepreneurial mindset, and creating a realistic business plan.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4568823">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4568823">online</a> &#128187;.<br/>
+
+<h5>Entrepreneur</h5>
+<i>Lars Tvede, Mads Faurholt</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3942772"><img src="/images/FS-2-entrepreneur.jpg" style="width:300px; text-align:left;"></a><br/>
+E-Book only. Wiley, 2018.<br/>
+Lars Tvede and Mads Faurholt draw on their experience of founding more than 30 companies to illustrate a simple step-by-step process which can help translate ideas into effective business plans, raise the capital needed to start and grow your business, and build a winning team.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3942772">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3942772">online</a> &#128187;.<br/>
+
+<h5>The Startup Gold Mine</h5>
+<i>Neil Soni</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3999059"><img src="/images/FS-2-thestartupgoldmine.jpg" style="width:300px; text-align:left;"></a><br/>
+E-Book only. AMACOM Books, 2018.<br/>
+Neil Soni shares his experience as an entrepreneur to reveal the inner workings of large corporations, such as their motivations to seek out partnership with startups, and guides startup founders and employees to use this knowledge to close the biggest deals of their careers.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3999059">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3999059">online</a> &#128187;.<br/>
+
+<h5>Write Your Business Plan</h5>
+<i>The Staff of Entrepreneur Media</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886"><img src="/images/FS-2-writeyourbusinessplan.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 658.4012 WRI -[BIZ]. Entrepreneur Press, 2015.<br/>
+A spiritual sequel to their bestseller <i>Start Your Own Business</i>, the staff at Entrepreneur Media share new insights on fundamental start-up know-how, giving readers an in-depth understanding of what’s essential to any business plan, what’s appropriate for their industry, and what they can do to ensure success.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1898886">online</a> &#128187;, or <a href=”https://eservice.nlb.gov.sg/item_holding.aspx?bid=202419801”>find the book at the libraries</a>.<br/>
 
 
 
@@ -106,9 +159,18 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0
 <i>Alex Barseghian.</i> Published on Forbes on 7 October 2019.</h5>
 <p>Nike Direct, the company's direct-to-consumer initiative, had contributed 10 billion in sales to Nike in 2018. It is an initiative that is based on data analytics to provide a better customer experience to the customers. How do they do it? Why is it so successful? And what can we learn from Nike? </p>
 
-<h5>2. <a href="https://www.williamrchase.com/post/constructing-a-career-in-dataviz-getting-started/">TConstructing a Career in Dataviz: Getting Started</a><br/>
+<h5>2. <a href="https://www.williamrchase.com/post/constructing-a-career-in-dataviz-getting-started/">Constructing a Career in Dataviz: Getting Started</a><br/>
 <i>Will Chase.</i> Published on 28 April 2020.</h5>
 <p>Will Chase shares how one can pursue a career in data visualization. He also shares the basic concept of data visualization and the tools that help in designing the visualization.</p>
+
+<h5>3. <a href="https://hbr.org/2016/06/627-building-resilience-ic-5-ways-to-build-your-personal-resilience-at-work">5 Ways to Boost Your Resilience at Work</a><br/>
+<i> Rich Fernandez.</i> Published on Harvard Business Review on 27 June 2016.</h5>
+<p> Resilience is built by attitudes, behaviours and social support systems that can be adopted by anyone, and this is backed by more than five decades of research. This article shares tips on how we can develop resilience and stay motivated in the face of chronic negative stress, which is based on neuroscience, behavioural and organisational research.</p>
+
+<h5>4. <a href="https://www.forbes.com/sites/ninaangelovska/2018/10/10/the-8-ps-of-entrepreneurship/#115fa88414f5">The 8 P’s Of Entrepreneurship</a><br/>
+<i>Nina Angelovska.</i> Published on Forbes, on 10 October 2018.</h5>
+<p>Developed from her encounters with fellow entrepreneurs from all around the world, entrepreneur Nina Angelovska shares the eight ‘P’ traits which she believes are what set successful entrepreneurs apart from others.</p>
+
 
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
