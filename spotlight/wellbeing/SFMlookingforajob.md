@@ -38,7 +38,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3309188"
 <h5>What Color Is Your Parachute? 2019</h5>
 <i> Richard N. Bolles</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453"><img src="/images/FS-1-whatcolorisyourparachute2019.jpg" style="width:300px; text-align:left;"></a><br/>
-Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
+E-Book only. Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
 Career guru Richard N. Bolles demystifies the job search process for readers, and guides job-hunters on how to land their dream jobs with updated strategies on how to utilise utilising social media and search tactics.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3845453">online</a> &#128187;.<br/>
 
@@ -50,7 +50,7 @@ Rediscover the courage and guidance to break free from your fears, shed misguide
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2564041">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113313">find the book at the libraries</a>.<br/>
 
 <h5>The Panic Free Job Search (Summary)</h5>
-<i> Paul Hill</i><br/>
+<i>Paul Hill</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3182780"><img src="/images/FS-1-getabstract-thepanicfreejobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Career Press, getAbstract, 2017.<br/>
 Make the most out of your resume, your online activities, and your ability to network with recruiter Paul Hill, as he guides readers on how to create an effective and professional online presence for future employers.<br/>
@@ -66,7 +66,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3183427"
 <h5>101 Ways to Power Up Your Job Search (Summary)</h5>
 <i>J. Thomas Buck, William R. Matthews</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875"><img src="/images/FS-1-getabstract-101waystopowerupyourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
-McGraw-Hill, getAbstract, 2017.<br/>
+E-Book only. McGraw-Hill, getAbstract, 2017.<br/>
 This workbook details 101 exercises designed and consolidated by J. Thomas Buck, Williams R. Matthews, and Robert N. Leech, seasoned career consultants who have pooled their considerable experience to cover the entire landscape of job hunting. These authors ask thought-provoking questions through concise and conversational writing, to take readers through the job search process.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3178875">online</a> &#128187;.<br/>	
 
