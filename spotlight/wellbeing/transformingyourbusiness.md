@@ -4,7 +4,7 @@ title:  SkillsFuture Month 4-Looking to Transform Your Business
 date:   2020-07-22
 permalink: /spotlight/skillsfuturemonth/looking-to-transform-your-business
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)
-image: /images/FS-futureskillsmonth2020.jpeg
+image: /images/FS-futureskillsmonth2020.jpg
 ---
 <img src="/images/FS-futureskillsmonth2020.jpeg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
@@ -93,42 +93,42 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=31B201D8
 
 <h5>The Technology Fallacy</h5>
 <i>Gerald C. Kane</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id= D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B"><img src="/images/FS-2-TheTechnologyFallacy.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id= D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B"><img src="/images/FS-4-TheTechnologyFallacy.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.05 KAN –[BIZ]. MIT Press, 2019.<br/>
 This book offers managers and business leaders a guide for surviving digital disruptions - but it is not a book about technology - it is about the organisational changes required to harness the power of technology.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B ">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203880401">find the book at the libraries</a>. <br/>
 
 <h5>The Digital Transformation Playbook: rethink your business for the digital age</h5>
 <i>David L. Rogers</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57"><img src="/images/FS-2-TheDigitalTransformationPlaybook.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57"><img src="/images/FS-4-TheDigitalTransformationPlaybook.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.4062 ROG. Columbia University Press, 2016.<br/> 
 The Digital Transformation Playbook shares how legacy businesses can transform, to thrive in the digital age. It is an indispensable guide for executives looking to take their firms to the next stage of profitable growth. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202554285">find the book at the libraries</a>. <br/>
 
 <h5>Lights out: a cyberattack, a nation unprepared, surviving the aftermath</h5>
 <i>Ted Koppel</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A“>img src="/images/FS-2-LightsOut.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A“>img src="/images/FS-4-LightsOut.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 363.11 KOP. Crown, 2015.<br/> 
 Ted Koppel reveals that a major cyberattack on America's power grid is not only possible; it is very likely, and the consequences will be devastating. Lights Out examines a threat unique to our time and evaluates potential ways to prepare for a catastrophe <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202341054">find the book at the libraries</a>. <br/>
 
 <h5>Cybersecurity Program Development for Business: the essential planning guide</h5>
 <i>Christos J. P. Moschovitis</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= E76FBB28-6D58-47E7-AE86-C48EB9EFC688"><img src="/images/FS-2-the-CybersecurityProgramDevelopmentForBusiness.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= E76FBB28-6D58-47E7-AE86-C48EB9EFC688"><img src="/images/FS-4-the-CybersecurityProgramDevelopmentForBusiness.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.478 MOS -[BIZ]. Wiley, 2018.<br/> 
 This essential guide, with its many examples and case studies, breaks down every element of the development and management of a cybersecurity programme for executives.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28-6D58-47E7-AE86-C48EB9EFC688 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ E76FBB28-6D58-47E7-AE86-C48EB9EFC688 ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203209896">find the book at the libraries</a>. <br/>
 
 <h5>The Nature of Technology: what it is and how it evolves</h5>
 <i>W. Brian Arthur</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= %7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D"><img src="/images/FS-2-TheNatureofTechnology.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= %7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D"><img src="/images/FS-4-TheNatureofTechnology.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 600 ART. Penguin Books Ltd, 2009.<br/> 
 Leading scientific theorist W. Brian Arthur puts forth the first complete theory of the origins and evolution of technology, in a major work which argues that achievements in the invention of new technologies are comparable to what Darwin’s theory of evolution by natural selection has achieved. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13216311">find the book at the libraries</a>. <br/>
 
 <h5>The Future is Faster than You Think: how converging technologies are transforming business, industries, and our lives</h5>
 <i>Peter H. Diamonds and Steven Kotler</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D "><img src="/images/FS-2-TheFutureisFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D "><img src="/images/FS-4-TheFutureisFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 338.064 DIA. Simon & Schuster, 2020.<br/> 
 In this gripping and insightful roadmap to our near future, Diamandis and Kotler investigate how wave after wave of exponentially accelerating technologies will impact both our daily lives and society as a whole.h<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ A11BE1FA-069C-43B9-B01D-4CA021E6949D ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
