@@ -212,7 +212,7 @@ Bill Roche shares real-life stories of how his students created their own busine
 Source: <a href="https://www.youtube.com/watch?v=Ihs4VFZWwn4" target="_blank">The Power of an Entrepreneurial Mindset </a> (2018, March 21). TEDx Talks. 
 
 <h5>5. The Part of Entrepreneurship You Need to Know by Gary Vaynerchuk</h5>
-Serial entrepreneur Gary Vaynerchuk talks about a side of entrepreneurship which nobody talks about: the thousands of “no”s entrepreneurs have to hear, the lonely days, and the sleepless nights it takes to make it. 
+Serial entrepreneur Gary Vaynerchuk talks about a side of entrepreneurship which nobody talks about: the thousands of no's entrepreneurs have to hear, the lonely days, and the sleepless nights it takes to make it. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZH0wzQbOOMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=ZH0wzQbOOMs" target="_blank">The Part of Entrepreneurship You Need to Know</a> (2019, August 17). GaryVee TV.
 
