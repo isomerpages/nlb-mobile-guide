@@ -68,7 +68,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=663098">
 <h5>Fundamentals of Data Visualization</h5>
 <i>Claus O. Wilke</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65533086-34DE-47AC-BC55-B91E96E123F6"><img src="/images/FS-2-fundamentalsofdatavisualization.jpg" style="width:300px; text-align:left;"></a><br/>
-O'Reilly Media, 2019.<br/> 
+E-Book only. O'Reilly Media, 2019.<br/> 
 In this book, the concept of data visualization with the usage of tools and diagrams is explained. Readers can also pick up tips on how to turn a large chunk of data into something easier to understand. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65533086-34DE-47AC-BC55-B91E96E123F6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/65533086-34DE-47AC-BC55-B91E96E123F6">online</a>&#128187;. 
 
