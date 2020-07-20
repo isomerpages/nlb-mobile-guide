@@ -58,7 +58,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3182780"
 
 <h5>10 Insider Secrets to a Winning Job Search (Summary)</h5>
 <i>Todd Bermont</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3183427"><img src="/images/ FS-1-getabstract-10insidersecretstoawinningjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3183427"><img src="/images/FS-1-getabstract-10insidersecretstoawinningjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 E-book Only. Career Press, getAbstract, 2017.<br/>
 Todd Bermont shares an organised 10-step path to finding a new and better job. While the tips are not all brand new, Bermont has framed them in a different and more positive light for readers. Backing his book up with a website, and using conversational grammar, Bermont will boost your self-confidence and assurance that the perfect job is out there, if you search for it the right way.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3183427">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3183427">online</a> &#128187;.<br/>
@@ -78,12 +78,12 @@ Source: <a href="https://www.youtube.com/watch?v=YA400nwQhLE" target="_blank"> B
 
 <h5>2. Looking for a job? Highlight your ability, not your experience by Jason Shen</h5>
 TED Resident Jason Shen shares novel thinking on how job seekers can make themselves more attractive, and why employers should look at the abilities of candidates instead of just credentials. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ guXxy8LH2QM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/guXxy8LH2QM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=guXxy8LH2QM" target="_blank"> Looking for a job? Highlight your ability, not your experience</a> (2018, March 13). TED Talks. 
 
 <h5>3. How to stay motivated while job hunting by Aimee Bateman</h5>
 Careers consultant and speaker, Aimee Bateman, shares her six best tips on how to remain motivated during your job search, a period which can be a very stressful and discouraging period for many people. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ CcNQUbVOYbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=CcNQUbVOYbU" target="_blank"> How to stay motivated while job hunting</a> (2014, December 5). Careercake.
 
 <h4>eLearning videos from Lynda Library</h4>
