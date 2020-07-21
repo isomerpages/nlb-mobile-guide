@@ -142,7 +142,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3
 <p>Recruiting new talented staff requires the implementation of strong employment and recruitment processes. However there are two process which are closely related yet different: talent acquisition and recruitment. Read on to find out these subtle differences and find out how both are key to finding top talent and building out the most suitable team.</p>
 
 <h5>2. <a href="https://recruiterbox.com/blog/9-great-resources-for-human-resources-professionals">9 Great Resources for Human Resources Professionals</a><br/>
-<i>Kristi Hines</i> Published on Recruiterbox, on 1 Jan 2020.<h5>
+<i>Kristi Hines</i> Published on Recruiterbox, on 1 Jan 2020.</h5>
 <p>From this list of personnel management resources learn useful tips from other professionals in the field and get access to the latest news.</p>
 
 <h5>3. <a href="https://www.cmswire.com/digital-workplace/7-ways-artificial-intelligence-is-reinventing-human-resources/amp/">7 Ways Artificial Intelligence Is Reinventing Human Resources</a><br/>
