@@ -79,59 +79,59 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB
 
 <h5>Humble Leadership</h5>
 <i>Edgar H. Schein, Peter A. Schein</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4182547"><img src="/FS-4-humble-leadership.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B0202258-B11F-4248-B3A8-8A912C57BC87"><img src="/FS-4-humble-leadership.jpg" style="width:300px; text-align:left;"></a><br/>
 E-book only. Berrett-Koehler Publishers, 2018.<br/> 
 Company culture expert, Edgar Schein, explores the importance of a new form of leadership in relationship building, group work, diverse workforces and work cultures that encourage psychological safety. Termed “humble leadership”, he explains how it requires a shift in focus to group dynamics and collaborations, and how this is the key to achieving creativity and adaptability that organisations need to grow. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B0202258-B11F-4248-B3A8-8A912C57BC87 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4182547">online</a>&#128187;. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B0202258-B11F-4248-B3A8-8A912C57BC87">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4182547">online</a>&#128187;. <br/>
 
 <h5>The Content Trap</h5>
 <i>Bharat Narenda Anand</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 31B201D8-FFD5-4CD2-99AB-D365D9D305CA"><img src="/images/FS-4-TheContentTrap.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=31B201D8-FFD5-4CD2-99AB-D365D9D305CA"><img src="/images/FS-4-TheContentTrap.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 302.23 ANA. Random Publishing Group, 2016.<br/> 
 Bharat Anand, professor of Strategym in Harvard Business School, presents an incisive new approach to digital transformation that favours fostering connectivity over focusing exclusively on content. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=31B201D8-FFD5-4CD2-99AB-D365D9D305CA ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 31B201D8-FFD5-4CD2-99AB-D365D9D305CA ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202762836">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=31B201D8-FFD5-4CD2-99AB-D365D9D305CA">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/31B201D8-FFD5-4CD2-99AB-D365D9D305CA">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202762836">find the book at the libraries</a>. <br/>
 
 <h5>The Technology Fallacy</h5>
 <i>Gerald C. Kane</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id= D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B"><img src="/images/FS-4-TheTechnologyFallacy.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B"><img src="/images/FS-4-TheTechnologyFallacy.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.05 KAN –[BIZ]. MIT Press, 2019.<br/>
 This book offers managers and business leaders a guide for surviving digital disruptions - but it is not a book about technology - it is about the organisational changes required to harness the power of technology.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B ">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203880401">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203880401">find the book at the libraries</a>. <br/>
 
 <h5>The Digital Transformation Playbook</h5>
 <i>David L. Rogers</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57"><img src="/images/FS-4-TheDigitalTransformationPlaybook.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57"><img src="/images/FS-4-TheDigitalTransformationPlaybook.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.4062 ROG. Columbia University Press, 2016.<br/> 
 <i>The Digital Transformation Playbook</i> shares how legacy businesses can transform, to thrive in the digital age. It is an indispensable guide for executives looking to take their firms to the next stage of profitable growth.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202554285">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202554285">find the book at the libraries</a>. <br/>
 
 <h5>Lights out</h5>
 <i>Ted Koppel</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A"><img src="/images/FS-4-LightsOut.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A"><img src="/images/FS-4-LightsOut.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 363.11 KOP. Crown, 2015.<br/> 
 Ted Koppel reveals that a major cyberattack on America's power grid is not only possible; it is very likely, and the consequences will be devastating. <i>Lights Out</i> examines a threat unique to our time and evaluates potential ways to prepare for a catastrophe.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202341054">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202341054">find the book at the libraries</a>. <br/>
 
 <h5>Cybersecurity Program Development for Business: the essential planning guide</h5>
 <i>Christos J. P. Moschovitis</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= E76FBB28-6D58-47E7-AE86-C48EB9EFC688"><img src="/images/FS-4-CybersecurityProgramDevelopmentForBusiness.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28-6D58-47E7-AE86-C48EB9EFC688"><img src="/images/FS-4-CybersecurityProgramDevelopmentForBusiness.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.478 MOS -[BIZ]. Wiley, 2018.<br/> 
 This essential guide, with its many examples and case studies, breaks down every element of the development and management of a cybersecurity programme for executives.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28-6D58-47E7-AE86-C48EB9EFC688 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ E76FBB28-6D58-47E7-AE86-C48EB9EFC688 ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203209896">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28-6D58-47E7-AE86-C48EB9EFC688">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E76FBB28-6D58-47E7-AE86-C48EB9EFC688">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203209896">find the book at the libraries</a>. <br/>
 
 <h5>The Nature of Technology: what it is and how it evolves</h5>
 <i>W. Brian Arthur</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= %7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D"><img src="/images/FS-4-TheNatureofTechnology.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D"><img src="/images/FS-4-TheNatureofTechnology.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 600 ART. Penguin Books Ltd, 2009.<br/> 
 Leading scientific theorist W. Brian Arthur puts forth the first complete theory of the origins and evolution of technology, in a major work which argues that achievements in the invention of new technologies are comparable to what Darwin’s theory of evolution by natural selection has achieved. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13216311">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13216311">find the book at the libraries</a>. <br/>
 
 <h5>The Future is Faster than You Think: how converging technologies are transforming business, industries, and our lives</h5>
 <i>Peter H. Diamonds and Steven Kotler</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D "><img src="/images/FS-4-TheFutureIsFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D"><img src="/images/FS-4-TheFutureIsFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 338.064 DIA. Simon & Schuster, 2020.<br/> 
-In this gripping and insightful roadmap to our near future, Diamandis and Kotler investigate how wave after wave of exponentially accelerating technologies will impact both our daily lives and society as a whole.h<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ A11BE1FA-069C-43B9-B01D-4CA021E6949D ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
+In this gripping and insightful roadmap to our near future, Diamandis and Kotler investigate how wave after wave of exponentially accelerating technologies will impact both our daily lives and society as a whole. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA-069C-43B9-B01D-4CA021E6949D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ A11BE1FA-069C-43B9-B01D-4CA021E6949D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
