@@ -46,8 +46,8 @@ There is much more to ecommerce than simply building an online store, filling it
 <i>Porter Erisman</i><br/>
 <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/78760926/222553518,1"><img src="/FS-4-six-billion-shoppers.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 381.142091724 ERI –[BIZ]. St. Martin’s Press, 2017.<br/> 
-A practical guide on how to profit from the ecommerce boom in emerging markets, Six Billion Shoppers takes readers on a journey to the next ecommerce mega markets that are China, India, Southeast Asia and Latin America. Erisman explains how to seize opportunities created by consumers in these markets, and gives advice on riding the new business trend. <br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202985164">find the book at the libraries</a>. <br/>
+A practical guide on how to profit from the ecommerce boom in emerging markets, <i>Six Billion Shoppers</i> takes readers on a journey to the next ecommerce mega markets that are China, India, Southeast Asia and Latin America. Erisman explains how to seize opportunities created by consumers in these markets, and gives advice on riding the new business trend. <br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202985164">Find the book at the libraries</a>. <br/>
 
 <h5>Developing the Leader Within You 2.0</h5>
 <i> John C. Maxwell</i><br/>
