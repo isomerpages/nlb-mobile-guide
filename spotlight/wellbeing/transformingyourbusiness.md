@@ -23,17 +23,17 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9DD312A
 
 <h5>Get Fit for Digital Business</h5>
 <i>Rob Laurens</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4716621"><img src="/FS-4-get-fit.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=F333F8B1-79BB-4C02-8564-28E6C7C5BBCA"><img src="/FS-4-get-fit.jpg" style="width:300px; text-align:left;"></a><br/>
 E-book only. Taylor and Francis, 2019.<br/>
 Written with SMEs in mind, this book provides a six-step process that leaders can use to accelerate change, seize opportunities and counter threats that digital technology brings. Laurens, with two decades of business transformation experience, explains the difference between doing digital and being digital – two very different approaches to doing business digitally – while helping businesses transform at a whole-of-organisation level. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F333F8B1-79BB-4C02-8564-28E6C7C5BBCA">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4716621">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F333F8B1-79BB-4C02-8564-28E6C7C5BBCA">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F333F8B1-79BB-4C02-8564-28E6C7C5BBCA">online</a> &#128187;.<br/>
 
 <h5>Starting an Online Business: All-in-One for Dummies</h5>
 <i>Shannon Belew and Joel Elad</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=88C7781F-F0EB-4D70-894A-72AFDB0885CB"><img src="/FS-4-starting-an-online-business-all-in-one.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.872 BEL –[BIZ]. John Wiley & Sons, 2020.<br/> 
 A comprehensive guide for beginners, this all-in-one manual provides the tools for anyone looking to start an online business. Going beyond basics, it provides guidance from finding your market niche, to creating a business plan and deciding on a revenue model; to funding, marketing, and building customer relationships. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=88C7781F-F0EB-4D70-894A-72AFDB0885CB ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 88C7781F-F0EB-4D70-894A-72AFDB0885CB">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202805213">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=88C7781F-F0EB-4D70-894A-72AFDB0885CB ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/88C7781F-F0EB-4D70-894A-72AFDB0885CB">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202805213">find the book at the libraries</a>. <br/>
 
 <h5>Ecommerce Evolved</h5>
 <i>Tanner Larsson</i><br/>
@@ -44,38 +44,38 @@ There is much more to ecommerce than simply building an online store, filling it
 
 <h5>Six Billion Shoppers</h5>
 <i>Porter Erisman</i><br/>
-<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/78760926/222553518,1"><img src="/FS-4-six-billion-shoppers.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D121A89F-0F34-430B-934A-105C1AE4C7F6"><img src="/FS-4-six-billion-shoppers.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 381.142091724 ERI –[BIZ]. St. Martin’s Press, 2017.<br/> 
 A practical guide on how to profit from the ecommerce boom in emerging markets, <i>Six Billion Shoppers</i> takes readers on a journey to the next ecommerce mega markets that are China, India, Southeast Asia and Latin America. Erisman explains how to seize opportunities created by consumers in these markets, and gives advice on riding the new business trend. <br/>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202985164">Find the book at the libraries</a>. <br/>
 
 <h5>Developing the Leader Within You 2.0</h5>
 <i> John C. Maxwell</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315"><img src="/FS-4-developing-the leader-within-you.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=054A57C4-14E8-4EA1-81C6-8B3F53260B8F"><img src="/FS-4-developing-the leader-within-you.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.4092 MAX –[BIZ]. HarperCollins Leadership, 2018.<br/> 
 An update from the classic bestseller, <i>Developing the Leader Within You 2.0</i> is thoroughly revised with two new chapters and fresh examples while retaining the foundational principles of the original edition. Maxwell examines the differences between leadership styles and explains how one can inspire, motivate, and influence others from any type of leadership position, be it a business executive, teacher or parent. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B1AAF76C0-E179-4E60-86F8-8F0AE41AE28A%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/602315">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203085280">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=054A57C4-14E8-4EA1-81C6-8B3F53260B8F">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/054A57C4-14E8-4EA1-81C6-8B3F53260B8F">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203085280">find the book at the libraries</a>. <br/>
 
 <h5> Leaders Eat Last: Why Some Teams Pull Together and Others Don’t</h5>
 <i>Simon Sinek</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1527979"><img src="/FS-4-leaders-eat-last.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9C18883E-755B-4AF5-8BC5-AFE8C211C724"><img src="/FS-4-leaders-eat-last.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.4092 SIN –[BIZ]. Portfolio/Penguin, 2017.<br/> 
 Great leaders of many successful organisations create environments where people naturally work together to do remarkable things. In Sinek’s book, he observes a culture of deep trust and cooperation in the best workplaces, as their leaders build what he calls a “circle of safety,” that separates security inside the team from the challenges outside. He further illustrates his ideas with true stories ranging from the government to the military, to businesses. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E5ECA1D-EAC7-44CF-8424-003123DE4289 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1527979 ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200183690">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9C18883E-755B-4AF5-8BC5-AFE8C211C724">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9C18883E-755B-4AF5-8BC5-AFE8C211C724">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200183690">find the book at the libraries</a>. <br/>
 
 <h5>Good to Great</h5>
-<i> Jim Collins</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602598"><img src="/FS-4-good-to-great.jpg" style="width:300px; text-align:left;"></a><br/>
+<i>Jim Collins</i><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F2BFFE3-4FBA-45EE-A74A-C1506C36F331"><img src="/FS-4-good-to-great.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658 COL –[BIZ]. HarperCollins, 2011.<br/> 
 What makes a company go from good to great? In this book, Collins distils the findings from his study that determines the critical factors of organisational greatness – why some companies make the leap and others do not. These shed light on almost every area of management strategy and practice, including the type of leadership required to achieve greatness, transcending the curse of competence, and combining a culture of discipline with an ethic of entrepreneurship. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACB8FF95-CA18-47D0-B0ED-CB3445A0FF22">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/602598">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=10326759">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F2BFFE3-4FBA-45EE-A74A-C1506C36F331">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9F2BFFE3-4FBA-45EE-A74A-C1506C36F331">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=10326759">find the book at the libraries</a>. <br/>
 
 <h5>Drive: The Surprising Truth About What Motivates Us</h5>
 <i>Daniel H. Pink</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1138383"><img src="/FS-4-drive.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D"><img src="/FS-4-drive.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.1534 PIN. Penguin Publishing Group, 2012.<br/> 
 Most of us are familiar with the carrot-and-stick approach to motivation, where monetary rewards are deemed to be the best motivators. Pink, however, asserts that the secret to high performance and satisfaction is the human need to direct our own lives, and to learn and create new things. Based on scientific research on motivation, Pink examines the three elements that truly motivates – autonomy, mastery, purpose – and offers techniques to put these into action. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BA8C6080D-74C0-46A8-83FE-5EFA9E8BC792%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1138383">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
 
 <h5>Humble Leadership</h5>
 <i>Edgar H. Schein, Peter A. Schein</i><br/>
