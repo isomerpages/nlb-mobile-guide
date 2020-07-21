@@ -70,6 +70,14 @@ E-Book only. McGraw-Hill, getAbstract, 2017.<br/>
 This workbook details 101 exercises designed and consolidated by seasoned career consultants who have pooled their considerable experience to cover the entire landscape of job hunting. These authors ask thought-provoking questions through concise and conversational writing, to take readers through the job search process.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3178875">online</a> &#128187;.<br/>	
 
+<table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+<p style="font-size:10pt;">Having trouble accessing the eBooks featured here? Read this <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide</a> or visit our <a href="/get-started-with/libby/">Help page.</a></p>
+    </td>
+  </tr>
+  </table>
+
 <h4>Stories on the Internet</h4>
 
 <h5>1. <a href="https://themuse.com/advice/6-job-search-tips-that-are-so-basic-people-forget-them">6 Job Search Tips That are So Basic People Forget Them </a><br/>
