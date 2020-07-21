@@ -19,14 +19,14 @@ With all the hustle and bustle from work, it pays to catch a break from time to 
 <h5>Storytelling with Data</h5>
 <i>Cole Nussbaumer Knaflic</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8"><img src="/images/FS-2-storytellingwithdata.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 001.4226 KNA. Hoboken, New Jersey : John Wiley & Sons, Inc. 2015<br/> 
+Call Number: English 001.4226 KNA. John Wiley & Sons, Inc. 2015<br/> 
 It is always important to tell a story with the data you gather. A simple excel chart might not be sufficient. Who is the targeted audience? What is the message you are driving across? How do you create an engaging story? Get the answers in this book.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E2951FA4-31EB-4EFD-9BC5-5E5613B8AAF8">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202390529">find the book at the libraries</a>. 
 
 <h5>Confident Data Skills</h5>
 <i>Kirill Eremenko</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=A4B9D1FA-3C88-4A22-B2CF-CC4A3F05A02C"><img src="/images/FS-2-confidentdataskills.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 006.312 ERE -[COM]. London : Kogan Page, 2018.<br/>
+Call Number: English 006.312 ERE -[COM]. Kogan Page, 2018.<br/>
 What data analytics skills do you need for your career? In this book, Eremenko uncovers the fundamentals of acquiring skills like data mining, preparing, analysing, and communicating data, in addition to financial modelling and presenting data through film making and dynamic simulations.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A4B9D1FA-3C88-4A22-B2CF-CC4A3F05A02C">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/A4B9D1FA-3C88-4A22-B2CF-CC4A3F05A02C">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203094313">find the book at the libraries</a>. 
 
@@ -34,35 +34,35 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A4B9D1FA
 <h5>Good Charts</h5>
 <i>Scott Berinato</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6F642C47-E6B3-4BA2-968B-75EADD9D99D7"><img src="/images/FS-2-goodcharts.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: 658.452 BER -[BIZ]. Boston, Massachusetts : Harvard Business Review Press, 2016.<br/> 
+Call Number: 658.452 BER -[BIZ]. Harvard Business Review Press, 2016.<br/> 
 “Dataviz” Scott Berinato, shares some guiding principles of chart creation in this easy-to-follow book on data visualization. He also shares how visual perception and neuroscience influence our minds in determining whether a chart is insightful or meaningless. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6F642C47-E6B3-4BA2-968B-75EADD9D99D7">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6F642C47-E6B3-4BA2-968B-75EADD9D99D7">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202549485">find the book at the libraries</a>. 
 
 <h5>Dynamic Digital Marketing</h5>
 <i>Dawn McGruer</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=74324617-57BE-45FE-B501-C3D9520C57A0"><img src="/images/FS-2-dynamicdigitalmarketing.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 658.872 MAC -[BIZ]. Chicester, West Sussex : Wiley, 2020.<br/> 
+Call Number: English 658.872 MAC -[BIZ]. Wiley, 2020.<br/> 
 Looking for ways to increase online visibility and presence for your company? This book reveals some of the digital marketing fundamentals that you will need to know to grow your business effectively. Also included is a 30 day marketing plan to get you started. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=74324617-57BE-45FE-B501-C3D9520C57A0">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/74324617-57BE-45FE-B501-C3D9520C57A0">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204040910">find the book at the libraries</a>. 
 
 <h5>Social Media Marketing For Dummies</h5>
 <i>Shiv Singh, Stephanie Diamond</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2046155"><img src="/images/FS-2-socialmediamarketingfordummies.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 658.872 SIN -[BIZ]. Hoboken, New Jersey : John Wiley & Sons, Inc., 2020.<br/> 
+Call Number: English 658.872 SIN -[BIZ]. John Wiley & Sons, Inc., 2020.<br/> 
 This easy-to-read book covers the key components of social media marketing and the steps to launch a social media campaign. Find out more about the latest social media tools, trends and pitfalls that you may also encounter in your social media campaign.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2046155">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/2046155">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204305884">find the book at the libraries</a>. 
 
 <h5>Social Selling Mastery</h5>
 <i>Jamie Shanks</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=02151533-874F-48CF-977C-3EC337D9D702"><img src="/images/FS-2-socialsellingmastery.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: 658.872 SHA -[BIZ]. Hoboken, New Jersey : John Wiley & Sons, Inc., 2016.<br/> 
+Call Number: 658.872 SHA -[BIZ]. John Wiley & Sons, Inc., 2016.<br/> 
 How do we create meaningful relationships with our customers? How do we engage them effectively? Jamie Shanks explains the techniques to targeting prospective customers and building relationships that translate to revenues.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=02151533-874F-48CF-977C-3EC337D9D702">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/02151533-874F-48CF-977C-3EC337D9D702">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202689600">find the book at the libraries</a>. 
 
 <h5>The Back of the Napkin</h5>
 <i>Dan Roam</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=663098"><img src="/images/FS-2-thebackofthenapkin.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 658.403 ROA -[BIZ]. New York : Portfolio, 2008.<br/> 
+Call Number: English 658.403 ROA -[BIZ]. Portfolio, 2008.<br/> 
 All we need to tell a story is a napkin and a pen. 
 Author Dan Roam shares how we can communicate an idea with pictures, as we humans are inherently visual creatures. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=663098">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/663098">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=20215502F">find the book at the libraries</a>. 
@@ -77,14 +77,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=65533086
 <h5>Fearless at Work</h5>
 <i>Molly Fletcher</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4E56ADFD-0C85-4DC5-866B-B8E5B3329008"><img src="/images/FS-2-fearlessatwork.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 650.1 FLE -[BIZ]. New York : McGraw-Hill, 2017.<br/> 
+Call Number: English 650.1 FLE -[BIZ]. McGraw-Hill, 2017.<br/> 
 Fear is an obstacle to success. There are times when we are held back not by our talent or skill, but by our mindset. Follow Molly Fletcher as she explains the techniques to getting rid of toxic thinking and developing a fearless attitude in life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4E56ADFD-0C85-4DC5-866B-B8E5B3329008">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4E56ADFD-0C85-4DC5-866B-B8E5B3329008">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202964318">find the book at the libraries</a>.
 
 <h5>Resilience:Hard-Won Wisdom for Living a Better Life</h5>
 <i>Eric Greitens</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0-555E-41D2-A6C0-E31A40B76725"><img src="/images/FS-2-resilience.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 155.24 GRE. New York : Houghton Mifflin Harcourt, 2015.<br/> 
+Call Number: English 155.24 GRE. Houghton Mifflin Harcourt, 2015.<br/> 
 Trouble, hardship and pain is very much part and parcel of life. Is it possible to be more resilient in turbulent times? 
 In this book by Naval SEAL and humanitarian Eric Greitens, he shares his challenges and how he finds compassion in troubled times. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0-555E-41D2-A6C0-E31A40B76725">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/497627C0-555E-41D2-A6C0-E31A40B76725">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201233834">find the book at the libraries</a>.
@@ -99,7 +99,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3605283"
 <h5>Resilient</h5>
 <i>Rick Hanson, Forrest Hanson</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3581065"><img src="/images/FS-2-resilient.png" style="width:300px; text-align:left;"></a><br/>
-E-Book only. New York : Harmony Books, 2020.<br/>
+E-Book only. Harmony Books, 2020.<br/>
 Dr. Rick Hanson uses his research experience, in the science of positive neuroplasticity, to explain how to overcome our brain’s negativity bias, and release painful thoughts and feelings. In exchange, these can be replaced by self-compassion, self-worth, joy and inner peace.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3581065">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3581065">online</a> &#128187;.<br/>
 
