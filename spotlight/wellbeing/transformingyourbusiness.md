@@ -198,7 +198,7 @@ Learn the core concepts needed to secure your organisation’s network as an IT 
 <h5>1. Forget The Pecking Order At Work</h5>
 Contrary to “standard” organisational cultures where value is placed on star employees who outperform others, business leader Margaret Heffernan shares that this practice is not what drives the highest-achieving teams. In her inspiring talk, Margaret explains the importance of social cohesion in successful organisations, and shares ideas on how to make this happen for your organisation. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Vyn_xLrtZaY " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v= Vyn_xLrtZaY " target="_blank">Forget the Pecking Order at Work</a> (2015, June 16). TED. 
+Source: <a href="https://www.youtube.com/watch?v= Vyn_xLrtZaY" target="_blank">Forget the Pecking Order at Work</a> (2015, June 16). TED. 
 
 <h5>2. Is there a limit to technological progress? by Clément Vidal</h5>
 Many generations have felt they have reached the pinnacle of technological advancement. However, the technologies we take for granted today would seem like impossible magic to those who lived a 100 years back. In this video, Clément Vidal consults Kardashev’s scale to explore if there is a point where we will reach the actual limit of technological progress, and if we are near the limit at this moment in history.
