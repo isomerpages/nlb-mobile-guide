@@ -72,10 +72,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F2BFFE3
 
 <h5>Drive: The Surprising Truth About What Motivates Us</h5>
 <i>Daniel H. Pink</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1138383"><img src="/FS-4-drive.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D"><img src="/FS-4-drive.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.1534 PIN. Penguin Publishing Group, 2012.<br/> 
 Most of us are familiar with the carrot-and-stick approach to motivation, where monetary rewards are deemed to be the best motivators. Pink, however, asserts that the secret to high performance and satisfaction is the human need to direct our own lives, and to learn and create new things. Based on scientific research on motivation, Pink examines the three elements that truly motivates – autonomy, mastery, purpose – and offers techniques to put these into action. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1138383">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1138383">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1138383">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
 
 <h5>Humble Leadership</h5>
 <i>Edgar H. Schein, Peter A. Schein</i><br/>
