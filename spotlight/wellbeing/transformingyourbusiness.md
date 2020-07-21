@@ -51,7 +51,7 @@ A practical guide on how to profit from the ecommerce boom in emerging markets, 
 
 <h5>Developing the Leader Within You 2.0</h5>
 <i> John C. Maxwell</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315"><img src="/FS-4-developing-the-leader-within-you.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315"><img src="/FS-4-developing-the leader-within-you.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.4092 MAX –[BIZ]. HarperCollins Leadership, 2018.<br/> 
 An update from the classic bestseller, Developing the Leader Within You 2.0 is thoroughly revised with two new chapters and fresh examples while retaining the foundational principles of the original edition. Maxwell examines the differences between leadership styles and explains how one can inspire, motivate, and influence others from any type of leadership position, be it a business executive, teacher or parent. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/602315">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203085280">find the book at the libraries</a>. <br/>
