@@ -151,15 +151,15 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1F
 <i>Jeff Hyman.</i> Published on Forbes.com on 31 Oct 2018.</h5>
 <p>Humility may not be the first trait that comes to mind when you think about great business leaders like Steve Jobs and Elon Musk; the idea of a humble, self-effacing leader often does not resonate as well. Research, however, has shown that such leaders inspire great teamwork and do a better job of focusing everyone on organisational goals. Read on to find out what specific traits these leaders embody.</p>
 
-<h5>1. <a href="https://www.wired.com/story/cybersecurity-threats-that-can-sneak-up-on-you/">7 cybersecurity threats that can sneak up on you</a><br/>
+<h5>3. <a href="https://www.wired.com/story/cybersecurity-threats-that-can-sneak-up-on-you/">7 cybersecurity threats that can sneak up on you</a><br/>
 <i>David Nield</i> Published on Wired, on 10 June 2020.</h5>
-<p>While it is often massive data breaches or ransomwares that capture the greatest attention in the headlines, it is also important to keep your guard up against some of the lesser-known attacks out there. These threats can still do serious damage, especially when it concerns your personal data and privacy. This article shares the kind of threats to look out for.. </p>
+<p>While it is often massive data breaches or ransomwares that capture the greatest attention in the headlines, it is also important to keep your guard up against some of the lesser-known attacks out there. These threats can still do serious damage, especially when it concerns your personal data and privacy. This article shares the kind of threats to look out for.</p>
 
-<h5>2. <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/welcome-to-the-digital-factory-the-answer-to-how-to-scale-your-digital-transformation">Welcome to the Digital Factory: the answer to how to scale your digital transformation  </a><br/>
+<h5>4. <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/welcome-to-the-digital-factory-the-answer-to-how-to-scale-your-digital-transformation">Welcome to the Digital Factory: the answer to how to scale your digital transformation  </a><br/>
 <i>Somesh Khanna, Nadiya Konstantynova, Eric Lamarre, and Vik Sohoni.</i> Published on Mckinsey Digital on May 14 2020.</h5>
 <p>Changing the business while running it requires taking a new approach to digital transformation. Here are five essential strategies to successfully transform your business digitally.</p>
 
-<h5>2. <a href="https://www.forbes.com/sites/theyec/2020/07/10/why-now-is-the-perfect-time-for-a-digital-transformation/#6db77f619e60">Why now is the perfect time for a digital transformation </a><br/>
+<h5>5. <a href="https://www.forbes.com/sites/theyec/2020/07/10/why-now-is-the-perfect-time-for-a-digital-transformation/#6db77f619e60">Why now is the perfect time for a digital transformation </a><br/>
 <i>Shane Zilinskas.</i> Published on Forbes on July 10 2020.</h5>
 <p>Shane Zilinskas, Founder of ClearSummit, argues why the Covid-19 pandemic has created the perfect opportunity for companies to undergo a digital transformation.</p>
 
