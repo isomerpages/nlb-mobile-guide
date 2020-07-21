@@ -190,7 +190,7 @@ Given the constant barrage of malware, scams, cyber attacks, and the like, find 
 Learn how to best support digital transformation efforts of your business by getting practical tips on leveraging technology, and planning for success.</p>
 <a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg"><img src="/images/FS-4-Digital Transformation and your business.jpg" style="width:400px;"></a>
 
-<p><strong>7. <a href="https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg" target="_blank">Digital Transformation and Your Business</a></strong><br/>
+<p><strong>7. <a href="https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg" target="_blank">Become an IT Security Specialist</a></strong><br/>
 Learn the core concepts needed to secure your organisation’s network as an IT security specialist. This learning path covers practical skills from securing hardware and network data, to the basics of cryptography, and cybercrime investigation and response.</p>
 <a href=" https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg"><img src="/images/FS-4-Become an IT Security Specialist.jpg" style="width:400px;"></a>
 
@@ -202,7 +202,7 @@ Source: <a href="https://www.youtube.com/watch?v= Vyn_xLrtZaY " target="_blank">
 
 <h5>2. Is there a limit to technological progress? by Clément Vidal</h5>
 Many generations have felt they have reached the pinnacle of technological advancement. However, the technologies we take for granted today would seem like impossible magic to those who lived a 100 years back. In this video, Clément Vidal consults Kardashev’s scale to explore if there is a point where we will reach the actual limit of technological progress, and if we are near the limit at this moment in history.<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/zVsHzS70krg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v= zVsHzS70krg " target="_blank">Is there a limit to technological progress? by Clément Vidal a> (2016, December 20). TED. 
+Source: <a href="https://www.youtube.com/watch?v=zVsHzS70krg" target="_blank">Is there a limit to technological progress? by Clément Vidal </a> (2016, December 20). TED. 
 
 <h5>3. How can companies use digital initiatives to create value? by Tim Koller</h5>
 As the economy continues to face uncertainty in the near future, companies must create value in any way they can. Tim Koller, lead author of VALUATION, explains four ways companies can achieve this through digital initiatives. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qdPtk4Xs2us " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
