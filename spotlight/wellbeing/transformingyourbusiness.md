@@ -131,7 +131,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D"><img src="/images/FS-4-TheFutureIsFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 338.064 DIA. Simon & Schuster, 2020.<br/> 
 In this gripping and insightful roadmap to our near future, Diamandis and Kotler investigate how wave after wave of exponentially accelerating technologies will impact both our daily lives and society as a whole. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA-069C-43B9-B01D-4CA021E6949D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ A11BE1FA-069C-43B9-B01D-4CA021E6949D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA-069C-43B9-B01D-4CA021E6949D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A11BE1FA-069C-43B9-B01D-4CA021E6949D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
