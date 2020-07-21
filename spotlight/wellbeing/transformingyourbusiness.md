@@ -96,7 +96,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=31B201D8
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B"><img src="/images/FS-4-TheTechnologyFallacy.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.05 KAN –[BIZ]. MIT Press, 2019.<br/>
 This book offers managers and business leaders a guide for surviving digital disruptions - but it is not a book about technology - it is about the organisational changes required to harness the power of technology.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203880401">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B"> with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203880401">find the book at the libraries</a>. <br/>
 
 <h5>The Digital Transformation Playbook</h5>
 <i>David L. Rogers</i><br/>
