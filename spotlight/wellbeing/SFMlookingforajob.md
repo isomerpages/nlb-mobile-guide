@@ -17,7 +17,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <i>Steve Dalton</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324"><img src="/images/FS-1-the2hourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.14 DAL -[BIZ]. Potter/Ten Speed/Harmony/Rodale, 2020.<br/> 
-Maximise the use of the latest technologies technology to select, prioritizeprioritise, and make contact with potential employers, and secure that first interview, regardless of your experience, education, or network!<br/>
+Maximise the use of the latest technologies technology to select, prioritize, and make contact with potential employers, and secure that first interview, regardless of your experience, education, or network!<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5043324">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14411815">find the book at the libraries</a>.<br/> 
 
 
