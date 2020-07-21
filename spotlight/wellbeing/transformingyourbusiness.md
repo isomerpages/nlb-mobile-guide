@@ -84,7 +84,7 @@ E-book only. Berrett-Koehler Publishers, 2018.<br/>
 Company culture expert, Edgar Schein, explores the importance of a new form of leadership in relationship building, group work, diverse workforces and work cultures that encourage psychological safety. Termed “humble leadership”, he explains how it requires a shift in focus to group dynamics and collaborations, and how this is the key to achieving creativity and adaptability that organisations need to grow. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4182547">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4182547">online</a>&#128187;. <br/>
 
-<h5>The content trap: a strategist’s guide to digital change</h5>
+<h5>The Content Trap</h5>
 <i>Bharat Narenda Anand</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 31B201D8-FFD5-4CD2-99AB-D365D9D305CA"><img src="/images/FS-4-TheContentTrap.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 302.23 ANA. Random Publishing Group, 2016.<br/> 
@@ -98,11 +98,11 @@ Call Number: 658.05 KAN –[BIZ]. MIT Press, 2019.<br/>
 This book offers managers and business leaders a guide for surviving digital disruptions - but it is not a book about technology - it is about the organisational changes required to harness the power of technology.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ D9F1D23C-2221-4AF5-A10F-C4C0D3DB418B ">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203880401">find the book at the libraries</a>. <br/>
 
-<h5>The Digital Transformation Playbook: rethink your business for the digital age</h5>
+<h5>The Digital Transformation Playbook</h5>
 <i>David L. Rogers</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57"><img src="/images/FS-4-TheDigitalTransformationPlaybook.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 658.4062 ROG. Columbia University Press, 2016.<br/> 
-The Digital Transformation Playbook shares how legacy businesses can transform, to thrive in the digital age. It is an indispensable guide for executives looking to take their firms to the next stage of profitable growth. <br/>
+<i>The Digital Transformation Playbook</i> shares how legacy businesses can transform, to thrive in the digital age. It is an indispensable guide for executives looking to take their firms to the next stage of profitable growth. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202554285">find the book at the libraries</a>. <br/>
 
 <h5>Lights out: a cyberattack, a nation unprepared, surviving the aftermath</h5>
