@@ -102,7 +102,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8D40CBFC
 <h5>Evidence-Based Recruiting</h5>
 <i>Atta Tarki</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=25CD1306-9C6E-45FC-BE5A-B3FDA900ADAD"><img src="/images/FS-3-Evidence-based-recruiting.jpg" style="width:300px; text-align:left;"></a><br/>
-McGraw-Hill Education, 2020.<br/> 
+Physical copies coming soon. McGraw-Hill Education, 2020.<br/> 
 This guide provides a process to designing and implementing a data-driven hiring strategy that leads to better and more consistent hiring outcomes. He demonstrates ways to use both qualitative methods and quantitative evidence to obtain in-depth insights into potential candidates, to achieve the best results possible.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=25CD1306-9C6E-45FC-BE5A-B3FDA900ADAD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/25CD1306-9C6E-45FC-BE5A-B3FDA900ADAD">online</a>&#128187;. <br/>
 
