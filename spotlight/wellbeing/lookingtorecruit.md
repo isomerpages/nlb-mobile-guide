@@ -57,15 +57,14 @@ E-Book only. McGraw-Hill, 2017.<br/>
 Defining the job is the very first step to hiring the best person. Learn techniques such as defining the job, advertising and promotion, effective use of applications, interviews and testing to attract the best candidates.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9CAEB4D4-0C44-424E-A812-0D690C695FC4">online</a>&#128187;. <br/>
 
-<h5>The Professional Recruiter's Handbook: Delivering Excellence in Recruitment Practice</h5>
+<h5>The Professional Recruiter's Handbook</h5>
 <i>Jane Newell Brown, Ann Swain</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00"><img src="/images/FS-3-The-professional-recruiters-handbook.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.3111 BRO -[BIZ]. Kogan Page, 2012.<br/> 
 With practical advice related to finding and retaining new talent, and case studies and interviews to better explain tips and strategies, this complete hand book provides techniques that human resource personnel need for successful recruitment.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200138622">find the book at the libraries</a>. <br/>
 
-<h5>High Performers (Summary)
-Recruiting & Retaining Top Employees</h5>
+<h5>High Performers (Summary)</h5>
 <i>Alan J. Dubinsky, Steven J. Skinner</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7A97FA6-1E6A-44A5-9AE4-128147C201D9"><img src="/images/FS-3-High-performers.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Thomson South-Western, 2017.<br/> 
