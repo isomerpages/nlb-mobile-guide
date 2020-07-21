@@ -182,34 +182,34 @@ A course designed to help leaders create cultures of innovation, engagement and 
 Explore the ways that organisations can become a thought leader in their industries, and how it makes an impact beyond their bottom line. Discover the key attributes of thought-leading organisations and learn how to develop your organisation’s brand voice and expand its reach.</p>
 <a href="https://www.lynda.com/Business-tutorials/Organizational-Thought-Leadership/5028627-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-organisational-thought-leadership.jpg" style="width:400px;"></a>
 
-<p><strong>1. <a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg" target="_blank">The Importance of Cybersecurity</a></strong><br/>
-Given the constant barrage of malware, scams, cyber attacks, and the like, find out why cybersecurity knowledge and training is all the more relevant now, to protect yourself and your company. </p>
+<p><strong>5. <a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg" target="_blank">The Importance of Cybersecurity</a></strong><br/>
+Given the constant barrage of malware, scams, cyber attacks, and the like, find out why cybersecurity knowledge and training is all the more relevant now, to protect yourself and your company.</p>
 <a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg"><img src="/images/FS-4-The Importance of Cybersecurity.jpg" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg" target="_blank">Digital Transformation and Your Business</a></strong><br/>
-Learn how to best support digital transformation efforts of your business by getting practical tips on leveraging technology, and planning for success.p>
+<p><strong>6. <a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg" target="_blank">Digital Transformation and Your Business</a></strong><br/>
+Learn how to best support digital transformation efforts of your business by getting practical tips on leveraging technology, and planning for success.</p>
 <a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg"><img src="/images/FS-4-Digital Transformation and your business.jpg" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg" target="_blank">Digital Transformation and Your Business</a></strong><br/>
-Learn the core concepts needed to secure your organisation’s network as an IT security specialist. This learning path covers practical skills from securing hardware and network data, to the basics of cryptography, and cybercrime investigation and response.p>
+<p><strong>7. <a href="https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg" target="_blank">Digital Transformation and Your Business</a></strong><br/>
+Learn the core concepts needed to secure your organisation’s network as an IT security specialist. This learning path covers practical skills from securing hardware and network data, to the basics of cryptography, and cybercrime investigation and response.</p>
 <a href=" https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg"><img src="/images/FS-4-Become an IT Security Specialist.jpg" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. Forget The Pecking Order At Work</h5>
 Contrary to “standard” organisational cultures where value is placed on star employees who outperform others, business leader Margaret Heffernan shares that this practice is not what drives the highest-achieving teams. In her inspiring talk, Margaret explains the importance of social cohesion in successful organisations, and shares ideas on how to make this happen for your organisation. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ Vyn_xLrtZaY " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Vyn_xLrtZaY " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v= Vyn_xLrtZaY " target="_blank">Forget the Pecking Order at Work</a> (2015, June 16). TED. 
 
-<h5>1. Is there a limit to technological progress? by Clément Vidal</h5>
-Many generations have felt they have reached the pinnacle of technological advancement. However, the technologies we take for granted today would seem like impossible magic to those who lived a 100 years back. In this video, Clément Vidal consults Kardashev’s scale to explore if there is a point where we will reach the actual limit of technological progress, and if we are near the limit at this moment in history.<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ zVsHzS70krg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<h5>2. Is there a limit to technological progress? by Clément Vidal</h5>
+Many generations have felt they have reached the pinnacle of technological advancement. However, the technologies we take for granted today would seem like impossible magic to those who lived a 100 years back. In this video, Clément Vidal consults Kardashev’s scale to explore if there is a point where we will reach the actual limit of technological progress, and if we are near the limit at this moment in history.<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/zVsHzS70krg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v= zVsHzS70krg " target="_blank"> Is there a limit to technological progress? by Clément Vidal a> (2016, December 20). TED. 
 
-<h5>2. How can companies use digital initiatives to create value? by Tim Koller</h5>
-As the economy continues to face uncertainty in the near future, companies must create value in any way they can. Tim Koller, lead author of VALUATION, explains four ways companies can achieve this through digital initiatives. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ qdPtk4Xs2us " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<h5>3. How can companies use digital initiatives to create value? by Tim Koller</h5>
+As the economy continues to face uncertainty in the near future, companies must create value in any way they can. Tim Koller, lead author of VALUATION, explains four ways companies can achieve this through digital initiatives. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qdPtk4Xs2us " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v= qdPtk4Xs2us " target="_blank"> How can companies use digital initiatives to create value?</a> (2020, June 20). TED.
 
-<h5>3. Cybersecurity expert answers hacking questions from Twitter by Amanda Rousseau</h5>
-Facebook Offensive Security Engineer Amanda Rousseau aka "Malware Unicorn" answers questions raised by Twitter users about hacking, and advises aspirational engineers on how to start a career in cybersecurity. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ b52cfb6lweU " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<h5>4. Cybersecurity expert answers hacking questions from Twitter by Amanda Rousseau</h5>
+Facebook Offensive Security Engineer Amanda Rousseau aka "Malware Unicorn" answers questions raised by Twitter users about hacking, and advises aspirational engineers on how to start a career in cybersecurity. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/b52cfb6lweU " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v= b52cfb6lweU " target="_blank"> Cybersecurity expert answers hacking questions from Twitter by Amanda Rousseau </a> (2019, November 19). TED.
 
 
