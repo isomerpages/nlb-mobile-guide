@@ -61,7 +61,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315">
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1527979"><img src="/FS-4-leaders-eat-last.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.4092 SIN –[BIZ]. Portfolio/Penguin, 2017.<br/> 
 Great leaders of many successful organisations create environments where people naturally work together to do remarkable things. In Sinek’s book, he observes a culture of deep trust and cooperation in the best workplaces, as their leaders build what he calls a “circle of safety,” that separates security inside the team from the challenges outside. He further illustrates his ideas with true stories ranging from the government to the military, to businesses. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1527979">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 1527979">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200183690">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1527979 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 1527979 ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200183690">find the book at the libraries</a>. <br/>
 
 <h5>Good to Great</h5>
 <i> Jim Collins</i><br/>
