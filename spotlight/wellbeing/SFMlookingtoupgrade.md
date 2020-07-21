@@ -145,7 +145,13 @@ Call Number: English 658.4012 WRI -[BIZ]. Entrepreneur Press, 2015.<br/>
 A spiritual sequel to their bestseller <i>Start Your Own Business</i>, the staff at Entrepreneur Media share new insights on fundamental start-up know-how, giving readers an in-depth understanding of what’s essential to any business plan, what’s appropriate for their industry, and what they can do to ensure success.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1898886">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202419801">find the book at the libraries</a>.<br/>
 
-
+<table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+<p style="font-size:10pt;">Having trouble accessing the eBooks featured here? Read this <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide</a> or visit our <a href="/get-started-with/libby/">Help page.</a></p>
+    </td>
+  </tr>
+  </table>
 
 <h4>Articles</h4>
 
@@ -216,11 +222,3 @@ Serial entrepreneur Gary Vaynerchuk talks about a side of entrepreneurship which
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZH0wzQbOOMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=ZH0wzQbOOMs" target="_blank">The Part of Entrepreneurship You Need to Know</a> (2019, August 17). GaryVee TV.
 
-
-<table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-<p style="font-size:10pt;">Having trouble accessing the eBooks featured here? Read this <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide</a> or visit our <a href="/get-started-with/libby/">Help page.</a></p>
-    </td>
-  </tr>
-  </table>
