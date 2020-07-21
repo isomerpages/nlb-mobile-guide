@@ -61,7 +61,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315">
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1527979"><img src="/FS-4-leaders-eat-last.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.4092 SIN –[BIZ]. Portfolio/Penguin, 2017.<br/> 
 Great leaders of many successful organisations create environments where people naturally work together to do remarkable things. In Sinek’s book, he observes a culture of deep trust and cooperation in the best workplaces, as their leaders build what he calls a “circle of safety,” that separates security inside the team from the challenges outside. He further illustrates his ideas with true stories ranging from the government to the military, to businesses. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1527979 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 1527979 ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200183690">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E5ECA1D-EAC7-44CF-8424-003123DE4289 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1527979 ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200183690">find the book at the libraries</a>. <br/>
 
 <h5>Good to Great</h5>
 <i> Jim Collins</i><br/>
@@ -82,7 +82,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1138383"
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4182547"><img src="/FS-4-humble-leadership.jpg" style="width:300px; text-align:left;"></a><br/>
 E-book only. Berrett-Koehler Publishers, 2018.<br/> 
 Company culture expert, Edgar Schein, explores the importance of a new form of leadership in relationship building, group work, diverse workforces and work cultures that encourage psychological safety. Termed “humble leadership”, he explains how it requires a shift in focus to group dynamics and collaborations, and how this is the key to achieving creativity and adaptability that organisations need to grow. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4182547">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4182547">online</a>&#128187;. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4182547 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4182547">online</a>&#128187;. <br/>
 
 <h5>The Content Trap</h5>
 <i>Bharat Narenda Anand</i><br/>
