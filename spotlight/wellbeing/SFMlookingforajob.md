@@ -46,7 +46,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453"
 <i>Katie C. Kelley</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041"><img src="/images/FS-1-careercourage.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.1 KEL -[BIZ]. AMACOM Books, 2016.<br/>
-Rediscover the courage and guidance to break free from your fears, shed misguided ideas, and find fulfillment in your career. Regardless at which point of your life career you may be at, this invaluable guide book poses tough questions about motivation, confidence, risk tolerance and more, and your answers will power your journey towards prioritising a fulfilling life.<br/>
+Rediscover the courage and guidance to break free from your fears, shed misguided ideas, and find fulfillment in your career regardless which point of your life career you may be at. This invaluable guide book poses tough questions about motivation, confidence, risk tolerance and more, and your answers will power your journey towards prioritising a fulfilling life.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2564041">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113313">find the book at the libraries</a>.<br/>
 
 <h5>The Panic Free Job Search (Summary)</h5>
