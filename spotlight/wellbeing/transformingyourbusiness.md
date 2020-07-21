@@ -18,7 +18,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <i>Natalie Berg and Miya Knights</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4495135"><img src="/FS-4-amazon.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Kogan Page Limited, 2019.<br/> 
-Discover the secrets to Amazon’s success, and gain insights into the disruptive new strategies of one of the world’s most relentless retailers. Amazon explores how innovations like voice technology, checkout-free stores and its Prime ecosystem will fundamentally change the way consumers shop. <br/>
+Discover the secrets to Amazon’s success, and gain insights into the disruptive new strategies of one of the world’s most relentless retailers. <i>Amazon</i> explores how innovations like voice technology, checkout-free stores and its Prime ecosystem will fundamentally change the way consumers shop. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4495135">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 4495135">online</a>&#128187;.<br/>
 
 <h5>Get Fit for Digital Business</h5>
