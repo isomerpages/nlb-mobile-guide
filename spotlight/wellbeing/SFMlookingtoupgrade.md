@@ -153,7 +153,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1898886"
   </tr>
   </table>
 
-<h4>Stories on the Internet</h4>
+<h4>Articles</h4>
 
 <h5>1. <a href="https://www.forbes.com/sites/forbestechcouncil/2019/10/07/how-nike-is-using-analytics-to-personalize-their-customer-experience/#2df48b561611">How Nike Is Using Analytics To Personalize Their Customer Experience</a><br/>
 <i>Alex Barseghian.</i> Published on Forbes on 7 October 2019.</h5>
