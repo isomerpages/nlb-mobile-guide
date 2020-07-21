@@ -109,7 +109,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5
 <i>Ted Koppel</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= 8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A"><img src="/images/FS-4-LightsOut.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: 363.11 KOP. Crown, 2015.<br/> 
-Ted Koppel reveals that a major cyberattack on America's power grid is not only possible; it is very likely, and the consequences will be devastating. <i>Lights Out</i> examines a threat unique to our time and evaluates potential ways to prepare for a catastrophe <br/>
+Ted Koppel reveals that a major cyberattack on America's power grid is not only possible; it is very likely, and the consequences will be devastating. <i>Lights Out</i> examines a threat unique to our time and evaluates potential ways to prepare for a catastrophe.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A ">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202341054">find the book at the libraries</a>. <br/>
 
 <h5>Cybersecurity Program Development for Business: the essential planning guide</h5>
