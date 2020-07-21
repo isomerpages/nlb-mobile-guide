@@ -11,6 +11,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 
 <p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market.
+  
 With all the hustle and bustle from work, it pays to catch a break from time to time, to ignore any external stimuli and tending solely to your own mind and body. And who knows, great ideas may come during these periods of mindfulness! One such idea may be a (re)fueled ambition to embark on an entrepreneurship journey. Whether it is upgrading digital skills, exploring mindfulness or entrepreneurship, we hope the following selection of resources can be starting points for you.</p>
 
 <h4>eBooks</h4>
