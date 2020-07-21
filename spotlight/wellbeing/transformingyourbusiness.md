@@ -19,14 +19,14 @@ image: /images/FS-futureskillsmonth2020.jpg
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4495135"><img src="/FS-4-amazon.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Kogan Page Limited, 2019.<br/> 
 Discover the secrets to Amazon’s success, and gain insights into the disruptive new strategies of one of the world’s most relentless retailers. <i>Amazon</i> explores how innovations like voice technology, checkout-free stores and its Prime ecosystem will fundamentally change the way consumers shop. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4495135">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 4495135">online</a>&#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9DD312A-E65F-408F-A2A3-B937AAF2B056">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ 4495135">online</a>&#128187;.<br/>
 
 <h5>Get Fit for Digital Business</h5>
 <i>Rob Laurens</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=4716621"><img src="/FS-4-get-fit.jpg" style="width:300px; text-align:left;"></a><br/>
 E-book only. Taylor and Francis, 2019.<br/>
 Written with SMEs in mind, this book provides a six-step process that leaders can use to accelerate change, seize opportunities and counter threats that digital technology brings. Laurens, with two decades of business transformation experience, explains the difference between doing digital and being digital – two very different approaches to doing business digitally – while helping businesses transform at a whole-of-organisation level. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4716621">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4716621">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F333F8B1-79BB-4C02-8564-28E6C7C5BBCA">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/4716621">online</a> &#128187;.<br/>
 
 <h5>Starting an Online Business: All-in-One for Dummies</h5>
 <i>Shannon Belew and Joel Elad</i><br/>
@@ -54,7 +54,7 @@ A practical guide on how to profit from the ecommerce boom in emerging markets, 
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315"><img src="/FS-4-developing-the leader-within-you.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.4092 MAX –[BIZ]. HarperCollins Leadership, 2018.<br/> 
 An update from the classic bestseller, <i>Developing the Leader Within You 2.0</i> is thoroughly revised with two new chapters and fresh examples while retaining the foundational principles of the original edition. Maxwell examines the differences between leadership styles and explains how one can inspire, motivate, and influence others from any type of leadership position, be it a business executive, teacher or parent. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602315">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/602315">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203085280">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B1AAF76C0-E179-4E60-86F8-8F0AE41AE28A%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/602315">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203085280">find the book at the libraries</a>. <br/>
 
 <h5> Leaders Eat Last: Why Some Teams Pull Together and Others Don’t</h5>
 <i>Simon Sinek</i><br/>
@@ -68,21 +68,21 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3E5ECA1D
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602598"><img src="/FS-4-good-to-great.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658 COL –[BIZ]. HarperCollins, 2011.<br/> 
 What makes a company go from good to great? In this book, Collins distils the findings from his study that determines the critical factors of organisational greatness – why some companies make the leap and others do not. These shed light on almost every area of management strategy and practice, including the type of leadership required to achieve greatness, transcending the curse of competence, and combining a culture of discipline with an ethic of entrepreneurship. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=602598">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/602598">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=10326759">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACB8FF95-CA18-47D0-B0ED-CB3445A0FF22">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/602598">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=10326759">find the book at the libraries</a>. <br/>
 
 <h5>Drive: The Surprising Truth About What Motivates Us</h5>
 <i>Daniel H. Pink</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1138383"><img src="/FS-4-drive.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.1534 PIN. Penguin Publishing Group, 2012.<br/> 
 Most of us are familiar with the carrot-and-stick approach to motivation, where monetary rewards are deemed to be the best motivators. Pink, however, asserts that the secret to high performance and satisfaction is the human need to direct our own lives, and to learn and create new things. Based on scientific research on motivation, Pink examines the three elements that truly motivates – autonomy, mastery, purpose – and offers techniques to put these into action. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1138383">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1138383">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BA8C6080D-74C0-46A8-83FE-5EFA9E8BC792%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1138383">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
 
 <h5>Humble Leadership</h5>
 <i>Edgar H. Schein, Peter A. Schein</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4182547"><img src="/FS-4-humble-leadership.jpg" style="width:300px; text-align:left;"></a><br/>
 E-book only. Berrett-Koehler Publishers, 2018.<br/> 
 Company culture expert, Edgar Schein, explores the importance of a new form of leadership in relationship building, group work, diverse workforces and work cultures that encourage psychological safety. Termed “humble leadership”, he explains how it requires a shift in focus to group dynamics and collaborations, and how this is the key to achieving creativity and adaptability that organisations need to grow. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4182547 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4182547">online</a>&#128187;. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B0202258-B11F-4248-B3A8-8A912C57BC87 ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4182547">online</a>&#128187;. <br/>
 
 <h5>The Content Trap</h5>
 <i>Bharat Narenda Anand</i><br/>
