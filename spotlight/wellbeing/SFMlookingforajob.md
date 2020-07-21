@@ -78,7 +78,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875"
   </tr>
   </table>
 
-<h4>Stories on the Internet</h4>
+<h4>Articles</h4>
 
 <h5>1. <a href="https://themuse.com/advice/6-job-search-tips-that-are-so-basic-people-forget-them">6 Job Search Tips That are So Basic People Forget Them </a><br/>
 <i>Jenny Floss.</i> Published on themuse.com on 17 March 2020.</h5>
