@@ -39,7 +39,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3309188"
 <i> Richard N. Bolles</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453"><img src="/images/FS-1-whatcolorisyourparachute2019.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
-Career guru Richard N. Bolles demystifies the job search process for readers, and guides job-hunters on how to land their dream jobs with updated strategies on how to utilise utilising social media and search tactics.<br/>
+Career guru Richard N. Bolles demystifies the job search process for readers, and guides job-hunters on how to land their dream jobs with updated strategies on utilising social media and search tactics.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3845453">online</a> &#128187;.<br/>
 
 <h5>Career Courage</h5>
