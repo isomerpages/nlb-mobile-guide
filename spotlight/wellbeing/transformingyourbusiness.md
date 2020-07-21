@@ -202,15 +202,15 @@ Source: <a href="https://www.youtube.com/watch?v= Vyn_xLrtZaY " target="_blank">
 
 <h5>2. Is there a limit to technological progress? by Clément Vidal</h5>
 Many generations have felt they have reached the pinnacle of technological advancement. However, the technologies we take for granted today would seem like impossible magic to those who lived a 100 years back. In this video, Clément Vidal consults Kardashev’s scale to explore if there is a point where we will reach the actual limit of technological progress, and if we are near the limit at this moment in history.<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/zVsHzS70krg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v= zVsHzS70krg " target="_blank"> Is there a limit to technological progress? by Clément Vidal a> (2016, December 20). TED. 
+Source: <a href="https://www.youtube.com/watch?v= zVsHzS70krg " target="_blank">Is there a limit to technological progress? by Clément Vidal a> (2016, December 20). TED. 
 
 <h5>3. How can companies use digital initiatives to create value? by Tim Koller</h5>
 As the economy continues to face uncertainty in the near future, companies must create value in any way they can. Tim Koller, lead author of VALUATION, explains four ways companies can achieve this through digital initiatives. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qdPtk4Xs2us " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v= qdPtk4Xs2us " target="_blank"> How can companies use digital initiatives to create value?</a> (2020, June 20). TED.
+Source: <a href="https://www.youtube.com/watch?v= qdPtk4Xs2us " target="_blank">How can companies use digital initiatives to create value?</a> (2020, June 20). TED.
 
 <h5>4. Cybersecurity expert answers hacking questions from Twitter by Amanda Rousseau</h5>
 Facebook Offensive Security Engineer Amanda Rousseau aka "Malware Unicorn" answers questions raised by Twitter users about hacking, and advises aspirational engineers on how to start a career in cybersecurity. <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/b52cfb6lweU " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v= b52cfb6lweU " target="_blank"> Cybersecurity expert answers hacking questions from Twitter by Amanda Rousseau </a> (2019, November 19). TED.
+Source: <a href="https://www.youtube.com/watch?v= b52cfb6lweU " target="_blank">Cybersecurity expert answers hacking questions from Twitter by Amanda Rousseau </a> (2019, November 19). TED.
 
 
 
