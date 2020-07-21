@@ -123,7 +123,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B38285EA
 <h5>The New World of Human Resources and Employment</h5>
 <i>Tony Miller</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3-7762-4F0D-8163-8164DF6CB8AC "><img src="/images/FS-3-The-new-world-of-hr-&-employement.jpg" style="width:300px; text-align:left;"></a><br/>
-Ebook only. Business Expert Press, 2018.br/> 
+Ebook only. Business Expert Press, 2018.<br/> 
 In this book, Miller suggests available resources for readers to learn more about Human Resource (HR) processes that use Artificial intelligence (AI). Find out more about digital footprints and how they can be used to upgrade recruitment and succession planning, and the skills needed to manage this shift to AI-focused HR.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">online</a>&#128187;. <br/>
 
