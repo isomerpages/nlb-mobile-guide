@@ -123,11 +123,3 @@ Careers consultant and speaker, Aimee Bateman, shares her six best tips on how t
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=CcNQUbVOYbU" target="_blank"> How to stay motivated while job hunting</a> (2014, December 5). Careercake.
 
-<table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-<p style="font-size:10pt;">Having trouble accessing the eBooks featured here? Read this <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide</a> or visit our <a href="/get-started-with/libby/">Help page.</a></p>
-    </td>
-  </tr>
-  </table>
-
