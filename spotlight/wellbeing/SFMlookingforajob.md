@@ -74,11 +74,11 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875"
 
 <h5>1. <a href="https://themuse.com/advice/6-job-search-tips-that-are-so-basic-people-forget-them">6 Job Search Tips That are So Basic People Forget Them </a><br/>
 <i>Jenny Floss.</i> Published on themuse.com on 17 March 2020.</h5>
-<p>Job search advice is often ironic: It it comes almost instantly when you do a an online search online, but it is also incredibly easy to be overwhelmed by the countless recommendations out there. This article by Jenny Floss helps to bring the focus back to the most basic and important, yet often overlooked tips in job searching for a lot of people.</p>
+<p>Job search advice is often ironic: it comes almost instantly when you do an online search online, but it is also incredibly easy to be overwhelmed by the countless recommendations out there. This article by Jenny Floss helps to bring the focus back to the most basic and important, yet often overlooked tips in job searching.</p>
 
 <h5>2. <a href="https://hbr.org/2020/06/how-to-nail-a-job-interview-remotely">How to Nail a Job Interview – Remotely</a><br/>
 <i>Amy Gallo.</i> Published on Harvard Business Review on 20 June 2020.</h5>
-<p>Art Markman, a psychology professor at University of Texas at Austin, and Claudio Fernández-Aráoz, an executive fellow at Harvard Business School, give their advice on approaching the difficult challenge of a job searching in times of pandemic crises such as the Covid-19 situation now.</p>
+<p>Art Markman, a psychology professor at University of Texas at Austin, and Claudio Fernández-Aráoz, an executive fellow at Harvard Business School, give their advice on approaching the difficult challenge of job searching in times of crises such as the Covid-19 situation now.</p>
 
 <h5>3. <a href="https://careersidekick.com/best-ways-find-jobs">The 3 Best Ways to Find Jobs Online and Offline in 2020</a><br/>
 <i>Biron Clark.</i> Published on Career Sidekick on 20 June 2020.</h5>
