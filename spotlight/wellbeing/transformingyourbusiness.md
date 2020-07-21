@@ -143,7 +143,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA
 
 <h4>Articles</h4>
 
-<h5>1. <a href="https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/lmi-industry-news/6-southeast-asia-e-commerce-trends-in-2018.html">6 Southeast Asia Ecommerce Trends in 2018 </a><br/>
+<h5>1. <a href="https://mybusiness.singtel.com/techblog/6-southeast-asia-e-commerce-trends-2018">6 Southeast Asia Ecommerce Trends in 2018 </a><br/>
 <i>Singtel Business.</i> First published on Singtel MyBusiness Blog on 10 Oct 2019.</h5>
 <p>According to a joint report by Temasek Holdings and Google, Southeast Asia’s internet economy is on a “solid trajectory to exceed $200 billion by 2025”. Fuelled by major events such as Lazada’s Online Revolution Campaign, Amazon’s entry and Alibaba’s investment into the region, SEA is experiencing an ecommerce industry boom. This article lists the six trends that shape ecommerce development in the region.</p>
 
