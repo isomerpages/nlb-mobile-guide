@@ -164,7 +164,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA
 <p>Shane Zilinskas, Founder of ClearSummit, argues why the Covid-19 pandemic has created the perfect opportunity for companies to undergo a digital transformation.</p>
 
 <h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
+<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Developer-tutorials/How-choose-ecommerce-model/2823345/2293910-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aecommerce+fundamentals%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg" target="_blank">Ecommerce Fundamentals</a></strong><br/>
 A short course for beginners on the basics of transforming your business idea into an online store. Learn more about different business models, creating personas by defining your target audience, and bringing your product to market.</p>
