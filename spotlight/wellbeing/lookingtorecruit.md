@@ -10,7 +10,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
-<p>Recruitment is an important part of identifying and sourcing the best talents for your organisation. Together with the different technologies that make the art of recruitment more varied, it is important to understand how the different tools are beneficial when starting the hiring journey. Here are some resources which we hope are useful to Human Resource professionals.<p>
+<p>Recruitment is an important part of identifying and sourcing the best talents for your organisation. With different technologies that make the art of recruitment more varied, it is all the more crucial to understand how different tools can be applied to the hiring process. Here are some resources which we hope are useful to Human Resource professionals.<p>
 
 <h4>eBooks</h4>
 
@@ -18,7 +18,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <i>Roberta Chinsky Matuson</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2DF777F-FB5A-4CD6-9701-E27C1BD3FE75"><img src="/images/FS-3-Evergreen-talent.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Red Wheel Weiser, 2020.<br/> 
-Learn the ways of hiring employees for a sustainable workforce. From recruiting new driven employees to reinvigorating disenchanted staff, the writer examines ways to cultivate an environment where talent is nurtured and engaged.<br/>
+Learn the ways of hiring employees for a sustainable workforce. From recruiting new employees to reinvigorating disenchanted staff, the writer examines ways to cultivate an environment where talent is nurtured and engaged.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2DF777F-FB5A-4CD6-9701-E27C1BD3FE75">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C2DF777F-FB5A-4CD6-9701-E27C1BD3FE75">online</a>&#128187;. <br/>
  
 <h5>Hiring (Summary)</h5>
@@ -33,7 +33,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C6E9C02D
 <i>Mark Horstman</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=771B48B8-7EA6-4D3F-B4F0-D4510D6B4B95"><img src="/images/FS-3-The-effective-hiring-manager.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Wiley, 2019.<br/> 
-Learn about the principles of hiring and interviewing from Mark Horstman, co-founder of Manager Tools, a management consulting and training firm. Horstman delves into techniques on reviewing resumes, the best way to structure an interview, the ideal ways to capture the interview results, and other important criteria to find the best person for your organisation.<br/>
+Learn about the principles of hiring and interviewing from Mark Horstman, co-founder of Manager Tools, a management consulting and training firm. Horstman delves into techniques on reviewing resumes, the best way to structure an interview, ideal ways to capture interview results, and other important criteria to find the best person for the job.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=771B48B8-7EA6-4D3F-B4F0-D4510D6B4B95">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/771B48B8-7EA6-4D3F-B4F0-D4510D6B4B95">online</a>&#128187;. <br/>
  
 <h5>Motivation-based Interviewing: A Revolutionary Approach to Hiring the Best</h5>
@@ -54,21 +54,21 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AD4F8CF0
 <i>Kevin C. Klinvex</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4"><img src="/images/FS-3-Hiring-great-people.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. McGraw-Hill, 2017.<br/> 
-Defining the job is the very first step to hiring the best person. Learn techniques such as defining the job, advertising and promotion, effective use of applications, interviews and testing to attract the best candidates.<br/>
+Defining the job is the very first step to hiring the best person. Learn techniques on defining the job scope, advertising and promotion, effective use of applications, interviews, and testing, to attract the best candidates.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9CAEB4D4-0C44-424E-A812-0D690C695FC4">online</a>&#128187;. <br/>
 
 <h5>The Professional Recruiter's Handbook</h5>
 <i>Jane Newell Brown, Ann Swain</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00"><img src="/images/FS-3-The-professional-recruiters-handbook.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.3111 BRO -[BIZ]. Kogan Page, 2012.<br/> 
-With practical advice related to finding and retaining new talent, and case studies and interviews to better explain tips and strategies, this complete hand book provides techniques that human resource personnel need for successful recruitment.<br/>
+With practical advice related to finding and retaining new talent, and case studies and interviews to better explain tips and strategies, this complete handbook provides techniques that human resource personnel need for successful recruitment.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200138622">find the book at the libraries</a>. <br/>
 
 <h5>High Performers (Summary)</h5>
 <i>Alan J. Dubinsky, Steven J. Skinner</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7A97FA6-1E6A-44A5-9AE4-128147C201D9"><img src="/images/FS-3-High-performers.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Thomson South-Western, 2017.<br/> 
-The short book includes examples of what it takes to hire employees from different levels  and positions. Each chapter covers a point on what motivates people, with tips for managers to ensure that staff motivation and initiatives by managers are aligned.<br/>
+This short book includes examples of what it takes to hire employees from different levels and positions. Each chapter covers a point on what motivates people, with tips for managers to ensure that staff motivation and initiatives by managers are aligned.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7A97FA6-1E6A-44A5-9AE4-128147C201D9">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ A7A97FA6-1E6A-44A5-9AE4-128147C201D9">online</a>&#128187;. <br/>
 
 <h5>Tell Me About Yourself</h5>
@@ -82,21 +82,21 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393
 <i>Jeanne C. Meister, Kevin J. Mulcahy</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC"><img src="/images/FS-3-The-future-workplace-experience.jpg" style="width:300px; text-align:left;"></a><br/>
 E book only. McGraw-Hill, 2016.<br/>
-The workplace faces disruption constantly. For companies to succeed, the writers have devised 10 rules to optimise the workplace to becoming an enjoyable environment. These rules show how organisations respond to disruptions and shifting business goals, and the writer also envisions a future workplace experience to examine what we take for granted about work and explore the new emerging rules of work.<br/>
+The workplace faces disruption constantly. For companies to succeed, the writers have devised 10 rules to optimise the workplace to becoming an enjoyable environment. These rules show how organisations respond to disruptions and shifting business goals, and the writer also envisions a future workplace experience to examine what we take for granted about work, and explore the new emerging rules of work.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">online</a> &#128187;. <br/>
 
 <h5>Social Media Recruitment (Summary)</h5>
 <i>Andy Headworth</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B"><img src="/images/FS-3-Social-media-recruitment.jpg" style="width:300px; text-align:left;"></a><br/>
 E book only. Kogan Page, 2015.<br/> 
-In this summary of the book, the writer suggests practical tips to recruiters of small and midsize firms to use social media effectively as part of the recruitment practices. Steps include building an internal business case to planning a recruitment strategy and tailoring online activities to meet specific needs, as well as creating a social media toolbox to manage the various platforms.<br/>
+In this summary of the book, the writer suggests practical tips to recruiters of small and midsize firms to use social media effectively as part of recruitment practices. Steps include building an internal business case, planning a recruitment strategy and tailoring online activities to meet specific needs, as well as creating a social media toolbox to manage the various platforms.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">online</a>&#128187;. <br/>
 
 <h5>HR Analytics and Innovations in Workforce Planning</h5>
 <i>Tony Miller</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C"><img src="/images/FS-3-HR-analytics-and-innovations.jpg" style="width:300px; text-align:left;"></a><br/>
 Ebook only. Business Expert Press, 2016.<br/> 
-Manpower planning is required for a company to succeed and recruiting the best talent is often the first step. This book details a nine-step process to the writer’s New Workforce Planning approach to create value through human resource. For example, one of the first few steps of hiring always includes interviews, thus the writer includes ways of structuring prewritten questions that can be easily scored to improve its effectiveness. Learn his process with supporting examples.<br/>
+Manpower planning is required for a company to succeed and recruiting the best talent is often the first step. This book details a nine-step process to the writer’s New Workforce Planning approach to create value through human resource. For example, one of the first few steps of hiring always includes interviews, and the writer includes ways of structuring prewritten questions that can be easily scored to improve its effectiveness. Learn his process with supporting examples.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C">online</a>&#128187;. <br/>
 
 <h5>Evidence-Based Recruiting</h5>
@@ -139,11 +139,11 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3
 
 <h5>1. <a href="https://www.peoplestrategy.com/talent-acquisition-vs-recruitment">Understanding Talent Acquisition vs. Recruitment in 2020</a><br/>
 <i>Lesley Lyons.</i> Published on PeopleStrategy, 6 February 6 2020.</h5>
-<p>Recruiting new talented staff requires the implementation of strong employment and recruitment processes. However there are two processes which are closely related yet different: talent acquisition and recruitment. Read on to find out these subtle differences and find out how both are key to finding top talent and building out the most suitable team.</p>
+<p>Recruiting new talented staff requires the implementation of strong employment and recruitment processes. However there are two processes which are closely related yet different: talent acquisition and recruitment. Read on to learn more about these subtle differences and how both are key to finding top talent and building the most suitable team.</p>
 
 <h5>2. <a href="https://recruiterbox.com/blog/9-great-resources-for-human-resources-professionals">9 Great Resources for Human Resources Professionals</a><br/>
 <i>Kristi Hines</i> Published on Recruiterbox, on 1 Jan 2020.</h5>
-<p>From this list of personnel management resources learn useful tips from other professionals in the field and get access to the latest news.</p>
+<p>From this list of personnel management resources, learn useful tips from other professionals in the field and get access to the latest news.</p>
 
 <h5>3. <a href="https://www.cmswire.com/digital-workplace/7-ways-artificial-intelligence-is-reinventing-human-resources/amp/">7 Ways Artificial Intelligence Is Reinventing Human Resources</a><br/>
 <i>Dom Nicastro.</i> Published on CMSWire on 18 May 2020.</h5>
@@ -155,14 +155,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3
 
 
 <h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
+<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg" target="_blank">Strategic Human Resources</a></strong><br/>
-There are various ways to develop a strategic focus when it comes to HR planning. One way is by guiding leadership on how to build an effective structure and culture. These include linking HR activities into your organisation’s vision and mission, engaging employees and job analysis.</p>
+There are various ways to develop a strategic focus when it comes to HR planning. One way is by guiding leadership on how to build an effective structure and culture. These include linking HR activities into your organisation’s vision and mission, engaging employees, and job analysis.</p>
 <a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg" target="_blank"> Social Recruiting for Recruiters </a></strong><br/>
-Learn about the best ways to use social channels in the area of recruitment such as how to find and approach ideal candidates and collaborate with hiring managers. Learn important steps such as setting realistic expectations, having profiles that stand out, keeping promises and building strong networks to reach out to more candidates.</p>
+Learn the best ways to use social channels in the area of recruitment including how to find and approach ideal candidates and collaborating with hiring managers. A valuable resource to add to your toolkit with important steps on setting realistic expectations, having profiles that stand out, keeping promises and building strong networks to reach out to more candidates.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg" target="_blank">Talent Sourcing</a></strong><br/>
@@ -183,7 +183,7 @@ For further elaboration about the future of HR, you may refer to, https://home.k
 Source: <a href="https://www.youtube.com/watch?v=tMpTE3Cn2Zs" target="_blank">The Future of HR 2020</a> (2019, Nov 20). KPMG US.
 
 <h5>3.What is People Analytics? | AIHR Learning Bite by AIHR - Academy to Innovate HR</h5> 
-In this video, find out more about people analytics and its potential to benefit your company. The availability of HR data and analytical capabilities provided by new technologies have contributed to the rise in its popularity and there has also been evidence of a return on investment when using this.
+In this video, find out more about people analytics and its potential to benefit your company. The availability of HR data and analytical capabilities provided by new technologies have contributed to the rise in its popularity, and there has also been evidence of a return on investment when using this.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/B4EqhvSuv4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=B4EqhvSuv4o" target="_blank">What is People Analytics? | AIHR Learning Bite </a> (Sep 18, 2019). AIHR Learning Bite. 
 
