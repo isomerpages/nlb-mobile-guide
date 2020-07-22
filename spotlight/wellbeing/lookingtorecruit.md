@@ -139,7 +139,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3
 
 <h5>1. <a href="https://www.peoplestrategy.com/talent-acquisition-vs-recruitment">Understanding Talent Acquisition vs. Recruitment in 2020</a><br/>
 <i>Lesley Lyons.</i> Published on PeopleStrategy, 6 February 6 2020.</h5>
-<p>Recruiting new talented staff requires the implementation of strong employment and recruitment processes. However there are two process which are closely related yet different: talent acquisition and recruitment. Read on to find out these subtle differences and find out how both are key to finding top talent and building out the most suitable team.</p>
+<p>Recruiting new talented staff requires the implementation of strong employment and recruitment processes. However there are two processes which are closely related yet different: talent acquisition and recruitment. Read on to find out these subtle differences and find out how both are key to finding top talent and building out the most suitable team.</p>
 
 <h5>2. <a href="https://recruiterbox.com/blog/9-great-resources-for-human-resources-professionals">9 Great Resources for Human Resources Professionals</a><br/>
 <i>Kristi Hines</i> Published on Recruiterbox, on 1 Jan 2020.</h5>
