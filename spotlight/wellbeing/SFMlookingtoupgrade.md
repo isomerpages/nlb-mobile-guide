@@ -12,7 +12,9 @@ image: /images/FS-futureskillsmonth2020.jpg
 
 <p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market.
   
-With all the hustle and bustle from work, it pays to catch a break from time to time, to ignore any external stimuli and tending solely to your own mind and body. And who knows, great ideas may come during these periods of mindfulness! One such idea may be a (re)fueled ambition to embark on an entrepreneurship journey. Whether it is upgrading digital skills, exploring mindfulness or entrepreneurship, we hope the following selection of resources can be starting points for you.</p>
+With all the hustle and bustle from work, it pays to catch a break from time to time, to ignore any external stimuli and tend solely to your own mind and body - great ideas may come during these periods of mindfulness! One such idea may be a (re)fueled ambition to embark on an entrepreneurship journey! 
+
+Whether it is upgrading digital skills, exploring mindfulness or getting started on entrepreneurship, we hope the following selection of resources can be starting points for you.</p>
 
 <h4>eBooks</h4>
 
@@ -42,7 +44,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6F642C47
 <i>Dawn McGruer</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=74324617-57BE-45FE-B501-C3D9520C57A0"><img src="/images/FS-2-dynamicdigitalmarketing.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.872 MAC -[BIZ]. Wiley, 2020.<br/> 
-Looking for ways to increase online visibility and presence for your company? This book reveals some of the digital marketing fundamentals that you will need to know to grow your business effectively. Also included is a 30 day marketing plan to get you started. <br/>
+Looking for ways to increase online visibility and presence for your company? This book reveals some of the digital marketing fundamentals that you will need to know to grow your business effectively. Also included is a 30-day marketing plan to get you started. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=74324617-57BE-45FE-B501-C3D9520C57A0">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/74324617-57BE-45FE-B501-C3D9520C57A0">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204040910">find the book at the libraries</a>. 
 
 <h5>Social Media Marketing For Dummies</h5>
@@ -114,7 +116,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=152FF5D5
 <i>Dr. Zelana Montminy</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2349015"><img src="/images/FS-2-21daystoresilience.png" style="width:300px; text-align:left;"></a><br/>
 E-Book only. HarperCollins, 2016.<br/>
-Leading positive psychology expert, Dr. Zeldana Montminy, provides a science-based toolkit to build resilience. Through each day of her program, Dr. Montminy introduces a key trait, with accompanying tasks, which is necessary in improving resiliency and wellbeing, such as gratitude, self-respect, flexibility, and many others.<br/>
+Leading positive psychology expert, Dr. Zeldana Montminy, provides a science-based toolkit to build resilience. Through each day of her programme, Dr. Montminy introduces a key trait, with accompanying tasks - which is necessary to improve resiliency and wellbeing - such as gratitude, self-respect and flexibility.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7ECC627A-5EAC-4DCA-B0AD-2E40A783F89F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2349015">online</a> &#128187;.<br/>
 
 <h5>Entrepreneurship</h5>
@@ -173,14 +175,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACF0D001
 
 
 <h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
+<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg" target="_blank">Data visualization</a></strong><br/>
 Amy Balliett shares some of the commonly seen mistakes in data visualization and how you can rectify them in minutes.</p>
 <a href="https://www.lynda.comGraphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg" target="_blank">Instagram Marketing Opportunities</a></strong><br/>
-Instagram marketing is one of the most commonly seen digital marketing tool in Singapore. Why is it popular? Is it effective? This short video will explain Instagram marketing’s impact and its functionality.</p>
+Instagram marketing is one of the most commonly seen digital marketing tools in Singapore. Why is it popular? Is it effective? This short video will explain Instagram marketing’s impact and its functionality.</p>
 <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg" target="_blank">Mindfulness Practices</a></strong><br/>
@@ -188,7 +190,7 @@ Explore mindfulness practices with executive coach Henna Inam, as she guides vie
 <a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg"><img src="/images/FS-2-mindfulnesspractices.png" style="width:400px;"></a>
 
 <p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg" target="_blank">Entrepreneurship Foundations</a></strong><br/>
-Build up the foundations of entrepreneurship with Kim Kaupe, as she provides a set of tools to assess a potential business opportunity, gives tips on how to start and maintain your own company, and identify the elements that will contribute to your company’s success.</p>
+Build up the foundations of entrepreneurship with Kim Kaupe, as she provides a set of tools to assess potential business opportunities, gives tips on how to start and maintain your own company, and identify the elements that will contribute to your company’s success.</p>
 <a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/FS-2-entrepreneurshipfoundations.png" style="width:400px;"></a>
 
 <p><strong>5. <a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg" target="_blank">Small Business Secrets</a></strong><br/>
