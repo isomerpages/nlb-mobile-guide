@@ -172,7 +172,7 @@ This video provides viewers with a sound strategy on effective recruitment, whic
 
 <h4>Videos</h4>
 <h5>1. HR Basics: Recruitment by Gregg Learning</h5>
-HR professionals are aware of the need to attract candidates who best fit the brand of their company. To do this, first the company should be able to assess, define, communicate and evaluate their own unique brand. Next comes other important methods including recruitment process and recruitment methods. Learn the basics in this short video.
+HR professionals are aware of the need to attract candidates who best fit the brand of their company. To do this, first the company should be able to assess, define, communicate and evaluate their own unique brand. Next comes other important methods including recruitment processes and recruitment methods. Learn the basics in this short video.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/elc2sIiVICQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=elc2sIiVICQ" target="_blank">HR Basics: Recruitment</a> (2018, Dec 6). Gregg Learning. 
 
