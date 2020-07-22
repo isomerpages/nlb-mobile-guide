@@ -176,19 +176,19 @@ Get your search engine optimisation (SEO) strategy on point with this course tha
 
 <p><strong>3. <a href="https://www.lynda.com/Leadership-Management-tutorials/Being-powerful-transformation/777382/5025302-4.html?org=nlb.gov.sg" target="_blank">Transformational Leadership</a></strong><br/>
 A course designed to help leaders create cultures of innovation, engagement and growth, leadership expert Henna Inam shares specific practices that aspiring leaders can leverage to discover values, identify purpose, and define a vision.</p>
-<a href="https://www.lynda.com/Leadership-Management-tutorials/Being-powerful-transformation/777382/5025302-4.html?org=nlb.gov.sg"><img src="/images/ FS-4-Lynda-transformational-leadership.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Leadership-Management-tutorials/Being-powerful-transformation/777382/5025302-4.html?org=nlb.gov.sg"><img src="/images/ FS-4-Lynda-transformational-leadership.jpg"style="width:400px;"></a>
 
 <p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Organizational-Thought-Leadership/5028627-2.html?org=nlb.gov.sg" target="_blank">Organizational Thought Leadership</a></strong><br/>
 Explore the ways that organisations can become a thought leader in their industries, and how it makes an impact beyond their bottom line. Discover the key attributes of thought-leading organisations and learn how to develop your organisation’s brand voice and expand its reach.</p>
-<a href="https://www.lynda.com/Business-tutorials/Organizational-Thought-Leadership/5028627-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-organisational-thought-leadership.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Organizational-Thought-Leadership/5028627-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-organisational-thought-leadership.jpg"style="width:400px;"></a>
 
 <p><strong>5. <a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg" target="_blank">The Importance of Cybersecurity</a></strong><br/>
 Given the constant barrage of malware, scams, cyber attacks, and the like, find out why cybersecurity knowledge and training is all the more relevant now, to protect yourself and your company.</p>
-<a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg"><img src="/images/FS-4-The Importance of Cybersecurity.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg"><img src="/images/FS-4-The Importance of Cybersecurity.jpg"style="width:400px;"></a>
 
 <p><strong>6. <a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg" target="_blank">Digital Transformation and Your Business</a></strong><br/>
 Learn how to best support digital transformation efforts of your business by getting practical tips on leveraging technology, and planning for success.</p>
-<a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg"><img src="/images/FS-4-Digital Transformation and your business.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg"><img src="/images/FS-4-Digital Transformation and your business.jpg"style="width:400px;"></a>
 
 <p><strong>7. <a href="https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg" target="_blank">Become an IT Security Specialist</a></strong><br/>
 Learn the core concepts needed to secure your organisation’s network as an IT security specialist. This learning path covers practical skills from securing hardware and network data, to the basics of cryptography, and cybercrime investigation and response.</p>
