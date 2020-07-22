@@ -75,7 +75,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7A97FA6
 <i>Stavros Papakonstantinidis</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49"><img src="/images/FS-3-Tell-me-about-yourself.jpg" style="width:300px; text-align:left;"></a><br/>
 E book only. Red Wheel Weiser, 2020.<br/> 
-This book is ideal for human resource personnel to understand how social media recruitment works and the importance of personal branding to achieve professional career development. The writer outlines how social natives who are comfortable with technology search for jobs using blogs, podcasts, recommendations and endorsements to publicly demonstrate their capabilities. Learn how to capitalise on these platforms to source for the best talents.<br/>
+This book is ideal for human resource personnel to understand how social media recruitment works, and the importance of personal branding to achieve professional career development. The writer outlines how social natives who are comfortable with technology search for jobs using blogs, podcasts, recommendations and endorsements to publicly demonstrate their capabilities. Learn how to capitalise on these platforms to source for the best talents.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49">online</a>&#128187;. <br/>
 
 <h5>The Future Workplace Experience (Summary)</h5>
