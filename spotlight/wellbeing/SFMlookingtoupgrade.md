@@ -65,7 +65,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=02151533
 Call Number: English 658.403 ROA -[BIZ]. Portfolio, 2008.<br/> 
 All we need to tell a story is a napkin and a pen. 
 Author Dan Roam shares how we can communicate an idea with pictures, as we humans are inherently visual creatures. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B098593B1-15E5-473D-A938-9001CE940DC7%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/663098">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=20215502F">find the book at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=098593B1-15E5-473D-A938-9001CE940DC7">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/663098">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=20215502F">find the book at the libraries</a>. 
 
 <h5>Fundamentals of Data Visualization</h5>
 <i>Claus O. Wilke</i><br/>
