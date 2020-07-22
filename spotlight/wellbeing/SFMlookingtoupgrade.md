@@ -10,7 +10,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 
-<p>In an ever changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market.
+<p>In an ever-changing economy, digital skills such as data analytics and social media marketing are critical to staying competitive in a global market.
   
 With all the hustle and bustle from work, it pays to catch a break from time to time, to ignore any external stimuli and tend solely to your own mind and body - great ideas may come during these periods of mindfulness! One such idea may be a (re)fueled ambition to embark on an entrepreneurship journey! 
 
