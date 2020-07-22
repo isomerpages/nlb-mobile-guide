@@ -26,7 +26,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2DF777F
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=C6E9C02D-C276-4696-97A8-9D805A5CF0F9"><img src="/images/FS-3-Hiring.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Career Press, 2017.<br/>
 A useful book for hiring managers to learn about the best ways to screen, interview and hire potential colleagues. The writer even suggests maintaining good relationships with great employees who have left the company! This book is also a useful resource for job searchers to gain an understanding of the way recruiters think and work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C6E9C02D-C276-4696-97A8-9D805A5CF0F9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/C6E9C02D-C276-4696-97A8-9D805A5CF0F9">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid= 9260923">find the book at the libraries</a>. <br/> 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C6E9C02D-C276-4696-97A8-9D805A5CF0F9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/C6E9C02D-C276-4696-97A8-9D805A5CF0F9">online</a> &#128187;. <br/> 
 
 
 <h5>The Effective Hiring Manager</h5>
