@@ -172,7 +172,7 @@ A short course for beginners on the basics of transforming your business idea in
 
 <p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Improve-SEO-Your-Ecommerce-Site/2817189-2.html?org=nlb.gov.sg" target="_blank">Improve SEO for Your Ecommerce Site</a></strong><br/>
 Get your search engine optimisation (SEO) strategy on point with this course that shows you how to use page structuring, keyword-rich content, competitor analysis and image optimisation techniques to drive better results for your business.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/Improve-SEO-Your-Ecommerce-Site/2817189-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-improve-seo-for-your-ecommerce-site.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Marketing-tutorials/Improve-SEO-Your-Ecommerce-Site/2817189-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-improve-seo-for-your-ecommerce-site.jpg"style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Leadership-Management-tutorials/Being-powerful-transformation/777382/5025302-4.html?org=nlb.gov.sg" target="_blank">Transformational Leadership</a></strong><br/>
 A course designed to help leaders create cultures of innovation, engagement and growth, leadership expert Henna Inam shares specific practices that aspiring leaders can leverage to discover values, identify purpose, and define a vision.</p>
