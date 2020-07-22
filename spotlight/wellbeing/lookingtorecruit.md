@@ -89,7 +89,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7
 <i>Andy Headworth</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B"><img src="/images/FS-3-Social-media-recruitment.jpg" style="width:300px; text-align:left;"></a><br/>
 E book only. Kogan Page, 2015.<br/> 
-In this summary of the book, the writer suggests practical tips to recruiters of small and midsize firms to use social media effectively as part of the recruitment practices.. Steps include building an internal business case to planning a recruitment strategy and tailoring online activities to meet specific needs, as well as creating a social media toolbox to manage the various platforms.<br/>
+In this summary of the book, the writer suggests practical tips to recruiters of small and midsize firms to use social media effectively as part of the recruitment practices. Steps include building an internal business case to planning a recruitment strategy and tailoring online activities to meet specific needs, as well as creating a social media toolbox to manage the various platforms.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">online</a>&#128187;. <br/>
 
 <h5>HR Analytics and Innovations in Workforce Planning</h5>
