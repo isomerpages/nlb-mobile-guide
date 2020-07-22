@@ -161,7 +161,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3
 There are various ways to develop a strategic focus when it comes to HR planning. One way is by guiding leadership on how to build an effective structure and culture. This include linking HR activities into your organisation’s vision and mission, engaging employees and job analysis.</p>
 <a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg" target="_blank"> Social Recruiting for Recruiters </a></strong><br/>
+<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg" target="_blank"> Social Recruiting for Recruiters </a></strong><br/>
 Learn about the best ways to use social channels in the area of recruitment such as how to find and approach ideal candidates and collaborate with hiring managers. Learn important steps such as setting realistic expectations, having profiles that stand out, keeping promises and building strong networks to reach out to more candidates.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
