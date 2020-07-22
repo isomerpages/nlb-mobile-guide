@@ -32,7 +32,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CAF375A0
 <i> Dev Aujla, Lodro Rinzler</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3309188"><img src="/images/FS-1-50waystogetajob.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.14 AUJ -[BIZ]. Penguin Publishing Group, 2018.<br/>
-Stay on track and motivated until you land your dream career! Learn how to ask the right questions with advice from professionals across vastly different industries and start doing the work that actually matters - Aujla offers quick-step exercises which help you avoid the common pitfalls of navigating though a modern career.<br/>
+Stay on track and motivated until you land your dream career! Learn how to ask the right questions with advice from professionals across vastly different industries and start doing the work that actually matters - Aujla offers quick-step exercises which help you avoid the common pitfalls of navigating through a modern career.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CA3FFF7B-33EC-45A8-A440-0E5BD95549F1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3309188">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203130536">find the book at the libraries</a>.<br/>
 
 <h5>What Color Is Your Parachute? 2019</h5>
