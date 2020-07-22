@@ -178,7 +178,7 @@ Source: <a href="https://www.youtube.com/watch?v=elc2sIiVICQ" target="_blank">HR
 
 <h5>2. The Future of HR 2020 by KPMG US</h5>
 The role of HR in companies is evolving. Gain insights into the future of HR and the trends shaping tomorrow’s workforce. New trends include artificial intelligence, analytic capabilities, and the need for a consumer grade experience at work. 
-For further elaboration about the future of HR, you may refer to <a href="https://home.kpmg/xx/en/home/insights/2019/11/the-future-of-human-resources-2020.html">you may refer to this website</a>. <br/>
+For further elaboration about the future of HR, you may refer to this <a href="https://home.kpmg/xx/en/home/insights/2019/11/the-future-of-human-resources-2020.html">article</a>. <br/>
  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/tMpTE3Cn2Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=tMpTE3Cn2Zs" target="_blank">The Future of HR 2020</a> (2019, Nov 20). KPMG US.
