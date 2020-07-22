@@ -82,7 +82,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393
 <i>Jeanne C. Meister, Kevin J. Mulcahy</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC"><img src="/images/FS-3-The-future-workplace-experience.jpg" style="width:300px; text-align:left;"></a><br/>
 E book only. McGraw-Hill, 2016.<br/>
-The workplace faces disruption constantly. For companies to succeed, the writers have devised 10 rules to optimise the workplace to becoming an enjoyable environment. These rules show how organisations respond to disruptions and shifting business goals ,and the writer also envisions a future workplace experience to examine what we take for granted about work and explore the new emerging rules of work.<br/>
+The workplace faces disruption constantly. For companies to succeed, the writers have devised 10 rules to optimise the workplace to becoming an enjoyable environment. These rules show how organisations respond to disruptions and shifting business goals, and the writer also envisions a future workplace experience to examine what we take for granted about work and explore the new emerging rules of work.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">online</a> &#128187;. <br/>
 
 <h5>Social Media Recruitment (Summary)</h5>
