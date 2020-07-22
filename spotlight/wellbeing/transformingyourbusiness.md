@@ -33,7 +33,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F333F8B1
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=88C7781F-F0EB-4D70-894A-72AFDB0885CB"><img src="/FS-4-starting-an-online-business-all-in-one.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.872 BEL –[BIZ]. John Wiley & Sons, 2020.<br/> 
 A comprehensive guide for beginners, this all-in-one manual provides the tools for anyone looking to start an online business. Going beyond basics, it provides guidance from finding your market niche, to creating a business plan and deciding on a revenue model; to funding, marketing, and building customer relationships. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=88C7781F-F0EB-4D70-894A-72AFDB0885CB ">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/88C7781F-F0EB-4D70-894A-72AFDB0885CB">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202805213">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=88C7781F-F0EB-4D70-894A-72AFDB0885CB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/88C7781F-F0EB-4D70-894A-72AFDB0885CB">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202805213">find the book at the libraries</a>. <br/>
 
 <h5>Ecommerce Evolved</h5>
 <i>Tanner Larsson</i><br/>
@@ -75,7 +75,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F2BFFE3
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D"><img src="/FS-4-drive.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 153.1534 PIN. Penguin Publishing Group, 2012.<br/> 
 Most of us are familiar with the carrot-and-stick approach to motivation, where monetary rewards are deemed to be the best motivators. Pink, however, asserts that the secret to high performance and satisfaction is the human need to direct our own lives, and to learn and create new things. Based on scientific research on motivation, Pink examines the three elements that truly motivates – autonomy, mastery, purpose – and offers techniques to put these into action. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1138383">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BF3AB2A2-77EB-4537-8E6A-772271B3A012">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/1138383">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13351387">find the book at the libraries</a>. <br/>
 
 <h5>Humble Leadership</h5>
 <i>Edgar H. Schein, Peter A. Schein</i><br/>
@@ -124,7 +124,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D"><img src="/images/FS-4-TheNatureofTechnology.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 600 ART. Penguin Books Ltd, 2009.<br/> 
 Leading scientific theorist W. Brian Arthur puts forth the first complete theory of the origins and evolution of technology, in a major work which argues that achievements in the invention of new technologies are comparable to what Darwin’s theory of evolution by natural selection has achieved. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13216311">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=83695BFF-BA04-4CEE-9F33-124F3FE19CC5">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13216311">find the book at the libraries</a>. <br/>
 
 <h5>The Future is Faster than You Think: how converging technologies are transforming business, industries, and our lives</h5>
 <i>Peter H. Diamonds and Steven Kotler</i><br/>
