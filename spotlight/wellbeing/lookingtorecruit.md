@@ -166,7 +166,7 @@ Learn about the best ways to use social channels in the area of recruitment such
 <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg" target="_blank">Talent Sourcing</a></strong><br/>
-This video provides viewers with a sound strategy on effective recruitment, which requires proactive searching to identify and attract top talent even before there is a position open. It explains how technologies like big data, social media and tools like LinkedIn Recruiterhelp in recruitment to reap the best returns on investments.</p>
+This video provides viewers with a sound strategy on effective recruitment, which requires proactive searching to identify and attract top talent even before there is a position open. It explains how technologies like big data, social media and tools like LinkedIn Recruiter help in recruitment to reap the best returns on investments.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 
