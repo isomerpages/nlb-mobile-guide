@@ -19,7 +19,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9DD312A-E65F-408F-A2A3-B937AAF2B056"><img src="/images/FS-4-amazon.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Kogan Page Limited, 2019.<br/> 
 Discover the secrets to Amazon’s success, and gain insights into the disruptive new strategies of one of the world’s most relentless retailers. <i>Amazon</i> explores how innovations like voice technology, checkout-free stores and its Prime ecosystem will fundamentally change the way consumers shop. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9DD312A-E65F-408F-A2A3-B937AAF2B056">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4495135">online</a>&#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9DD312A-E65F-408F-A2A3-B937AAF2B056">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/D9DD312A-E65F-408F-A2A3-B937AAF2B056">online</a>&#128187;.<br/>
 
 <h5>Get Fit for Digital Business</h5>
 <i>Rob Laurens</i><br/>
@@ -44,10 +44,10 @@ There is much more to ecommerce than simply building an online store, filling it
 
 <h5>Six Billion Shoppers</h5>
 <i>Porter Erisman</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D121A89F-0F34-430B-934A-105C1AE4C7F6"><img src="/images/FS-4-six-billion-shoppers.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E8AD187E-F78C-4914-9308-9C15B0E2D7F0"><img src="/images/FS-4-six-billion-shoppers.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 381.142091724 ERI –[BIZ]. St. Martin’s Press, 2017.<br/> 
 A practical guide on how to profit from the ecommerce boom in emerging markets, <i>Six Billion Shoppers</i> takes readers on a journey to the next ecommerce mega markets that are China, India, Southeast Asia and Latin America. Erisman explains how to seize opportunities created by consumers in these markets, and gives advice on riding the new business trend. <br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202985164">Find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E8AD187E-F78C-4914-9308-9C15B0E2D7F0">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E8AD187E-F78C-4914-9308-9C15B0E2D7F0">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202985164">Find the book at the libraries</a>. <br/>
 
 <h5>Developing the Leader Within You 2.0</h5>
 <i> John C. Maxwell</i><br/>
