@@ -183,12 +183,12 @@ For further elaboration about the future of HR, you may refer to this <a href="h
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/tMpTE3Cn2Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=tMpTE3Cn2Zs" target="_blank">The Future of HR 2020</a> (2019, Nov 20). KPMG US.
 
-<h5>3.What is People Analytics? | AIHR Learning Bite by AIHR - Academy to Innovate HR</h5> 
+<h5>3. What is People Analytics? | AIHR Learning Bite by AIHR - Academy to Innovate HR</h5> 
 In this video, find out more about people analytics and its potential to benefit your company. The availability of HR data and analytical capabilities provided by new technologies have contributed to the rise in its popularity, and there has also been evidence of a return on investment when using this.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/B4EqhvSuv4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=B4EqhvSuv4o" target="_blank">What is People Analytics? | AIHR Learning Bite </a> (Sep 18, 2019). AIHR Learning Bite. 
 
-<h5>4.Awesome New Technologies for HR: ADP Next Gen HCM by Steve Boese</h5>
+<h5>4. Awesome New Technologies for HR: ADP Next Gen HCM by Steve Boese</h5>
 Find out how new technologies are helping HR practitioners to manage dynamic teams. The ideas shared in this video illustrate how technology can be used to manage teams of different sizes, and increase efficiency at work.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/e2iMASyAF6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=e2iMASyAF6k " target="_blank">Awesome New Technologies for HR: ADP Next Gen HCM </a> (2019, Nov 21). ADP Careers.
