@@ -105,7 +105,7 @@ A tool kit of practical tips, tricks, and insights from experts on how to equip 
 
 <p><strong>3. <a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times" target="_blank"> Finding a Job during Challenging Economic Times</a></strong><br/>
 Discover strategies for creating a recovery plan, cultivating resilience, and improving job search and interview skills during difficult economic times.</p>
-<i>To enjoy perpetual free access to LyndaLibrary courses, please sign in using your myLibrary ID instead of clicking on 'Start my Free Month'. Not sure how? Watch our video guide below.</i>
+<i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
 <p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </p>
