@@ -194,7 +194,7 @@ Learn how to best support digital transformation efforts of your business by get
 Learn the core concepts needed to secure your organisation’s network as an IT security specialist. This learning path covers practical skills from securing hardware and network data, to the basics of cryptography, and cybercrime investigation and response.</p>
 <i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
 <p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=35" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </p>
 <a href="https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist"><img src="/images/FS-4G-ITSpecialist.png" style="width:400px;"></a>
 
