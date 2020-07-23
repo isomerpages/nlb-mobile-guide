@@ -97,15 +97,15 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6CA9F41
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Job-Search-Strategies/97580-2.html?org=nlb.gov.sg" target="_blank">Job Search Strategies</a></strong><br/>
 A collection of latest job search techniques shared by a top career coach, for both online and offline platforms.</p>
-<a href=" https://www.lynda.com/Business-Skills-tutorials/Job-Search-Strategies/97580-2.html?org=nlb.gov.sg"><img src="/images/FS-1-lynda-jobsearchstrategies.png" style="width:400px;"></a>
+<a href=" https://www.lynda.com/Business-Skills-tutorials/Job-Search-Strategies/97580-2.html?org=nlb.gov.sg"><img src="/images/FS-1A-lynda-jobsearch.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Job-Searching-Interviewing-Negotiating-Salary/2804655-2.html?org=nlb.gov.sg" target="_blank"> Job Searching, Interviewing, and Negotiating Salary</a></strong><br/>
 A tool kit of practical tips, tricks, and insights from experts on how to equip yourself with strategies for boosting confidence, negotiation skills, and more.</p>
-<a href=" https://www.lynda.com/Business-tutorials/Job-Searching-Interviewing-Negotiating-Salary/2804655-2.html?org=nlb.gov.sg"><img src="/images/FS-1-lynda-jobserachinginterviewingnegotiatingsalary.png" style="width:400px;"></a>
+<a href=" https://www.lynda.com/Business-tutorials/Job-Searching-Interviewing-Negotiating-Salary/2804655-2.html?org=nlb.gov.sg"><img src="/images/FS-1B-lynda-salary.jpg" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times?org=nlb.gov.sg" target="_blank"> Finding a Job during Challenging Economic Times</a></strong><br/>
 Discover strategies for creating a recovery plan, cultivating resilience, and improving job search and interview skills during difficult economic times.</p>
-<a href=" https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times?org=nlb.gov.sg"><img src="/images/FS-1-lynda-jobduringchallengingeconomictimes.png" style="width:400px;"></a>
+<a href=" https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times?org=nlb.gov.sg"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
