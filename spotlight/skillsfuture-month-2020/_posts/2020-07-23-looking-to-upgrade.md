@@ -95,7 +95,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497627C0
 <i>Glenn R. Schiraldi</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=619CECF6-0F04-47D4-A958-AD999FB4E4D8"><img src="/images/FS-2-theresilienceworkbook.png" style="width:300px; text-align:left;"></a><br/>
 E-Book only. New Harbinger Publications, 2017.<br/> 
-Sharing proven skills to manage your stress and heal from setbacks,<i>The Resilience Workbook</i> guides readers on how to bounce back and thrive in any difficult situation.. It also includes exercises to help you cultivate resilience and stay calm under pressure, to face life’s challenges.<br/>
+Sharing proven skills to manage your stress and heal from setbacks,<i>The Resilience Workbook</i> guides readers on how to bounce back and thrive in any difficult situation. It also includes exercises to help you cultivate resilience and stay calm under pressure, to face life’s challenges.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=619CECF6-0F04-47D4-A958-AD999FB4E4D8">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/619CECF6-0F04-47D4-A958-AD999FB4E4D8">online</a>&#128187;.<br/>
 
 <h5>Resilient</h5>
