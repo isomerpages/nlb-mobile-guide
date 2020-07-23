@@ -105,11 +105,11 @@ A tool kit of practical tips, tricks, and insights from experts on how to equip 
 
 <p><strong>3. <a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times" target="_blank"> Finding a Job during Challenging Economic Times</a></strong><br/>
 Discover strategies for creating a recovery plan, cultivating resilience, and improving job search and interview skills during difficult economic times.</p>
-<i>To enjoy perpetual free access to LyndaLibrary courses, please sign in using your myLibrary ID instead of clicking on 'Start my Free Month'. Not sure how? Watch our video guide</a>.</i>
+<i>To enjoy perpetual free access to LyndaLibrary courses, please sign in using your myLibrary ID instead of clicking on 'Start my Free Month'. Not sure how? Watch our video guide below.</i>
 <p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </p>
-<a href=https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
