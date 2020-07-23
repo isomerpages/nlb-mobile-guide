@@ -65,10 +65,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9C18883E
 
 <h5>Good to Great</h5>
 <i>Jim Collins</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F2BFFE3-4FBA-45EE-A74A-C1506C36F331"><img src="/images/FS-4-good-to-great.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACB8FF95-CA18-47D0-B0ED-CB3445A0FF22"><img src="/images/FS-4-good-to-great.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658 COL –[BIZ]. HarperCollins, 2011.<br/> 
 What makes a company go from good to great? In this book, Collins distils the findings from his study that determines the critical factors of organisational greatness – why some companies make the leap and others do not. These shed light on almost every area of management strategy and practice, including the type of leadership required to achieve greatness, transcending the curse of competence, and combining a culture of discipline with an ethic of entrepreneurship. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9F2BFFE3-4FBA-45EE-A74A-C1506C36F331">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9F2BFFE3-4FBA-45EE-A74A-C1506C36F331">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=10326759">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACB8FF95-CA18-47D0-B0ED-CB3445A0FF22">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ACB8FF95-CA18-47D0-B0ED-CB3445A0FF22">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=10326759">find the book at the libraries</a>. <br/>
 
 <h5>Drive: The Surprising Truth About What Motivates Us</h5>
 <i>Daniel H. Pink</i><br/>
