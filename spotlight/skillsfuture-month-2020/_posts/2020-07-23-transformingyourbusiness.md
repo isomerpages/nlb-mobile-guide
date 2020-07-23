@@ -168,31 +168,31 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA
 
 <p><strong>1. <a href="https://www.lynda.com/Developer-tutorials/Ecommerce-Fundamentals/2823345-2.html?org=nlb.gov.sg" target="_blank">Ecommerce Fundamentals</a></strong><br/>
 A short course for beginners on the basics of transforming your business idea into an online store. Learn more about different business models, creating personas by defining your target audience, and bringing your product to market.</p>
-<a href="https://www.lynda.com/Developer-tutorials/Ecommerce-Fundamentals/2823345-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-ecommerce-fundamentals.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Developer-tutorials/Ecommerce-Fundamentals/2823345-2.html?org=nlb.gov.sg"><img src="/images/FS-4A-Lynda-eCommerce.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Improve-SEO-Your-Ecommerce-Site/2817189-2.html?org=nlb.gov.sg" target="_blank">Improve SEO for Your Ecommerce Site</a></strong><br/>
 Get your search engine optimisation (SEO) strategy on point with this course that shows you how to use page structuring, keyword-rich content, competitor analysis and image optimisation techniques to drive better results for your business.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/Improve-SEO-Your-Ecommerce-Site/2817189-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-improve-seo-for-your-ecommerce-site.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Marketing-tutorials/Improve-SEO-Your-Ecommerce-Site/2817189-2.html?org=nlb.gov.sg"><img src="/images/FS-4B-Lynda-improve-SEO.png" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Leadership-Management-tutorials/Being-powerful-transformation/777382/5025302-4.html?org=nlb.gov.sg" target="_blank">Transformational Leadership</a></strong><br/>
 A course designed to help leaders create cultures of innovation, engagement and growth, leadership expert Henna Inam shares specific practices that aspiring leaders can leverage to discover values, identify purpose, and define a vision.</p>
-<a href="https://www.lynda.com/Leadership-Management-tutorials/Being-powerful-transformation/777382/5025302-4.html?org=nlb.gov.sg"><img src="/images/ FS-4-Lynda-transformational-leadership.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Leadership-Management-tutorials/Being-powerful-transformation/777382/5025302-4.html?org=nlb.gov.sg"><img src="/images/FS-4C-Lynda-trans-leadership.png" style="width:400px;"></a>
 
 <p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Organizational-Thought-Leadership/5028627-2.html?org=nlb.gov.sg" target="_blank">Organizational Thought Leadership</a></strong><br/>
 Explore the ways that organisations can become a thought leader in their industries, and how it makes an impact beyond their bottom line. Discover the key attributes of thought-leading organisations and learn how to develop your organisation’s brand voice and expand its reach.</p>
-<a href="https://www.lynda.com/Business-tutorials/Organizational-Thought-Leadership/5028627-2.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-organisational-thought-leadership.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Organizational-Thought-Leadership/5028627-2.html?org=nlb.gov.sg"><img src="/images/FS-4D-Lynda-org-thought-leadership.png" style="width:400px;"></a>
 
 <p><strong>5. <a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg" target="_blank">The Importance of Cybersecurity</a></strong><br/>
 Given the constant barrage of malware, scams, cyber attacks, and the like, find out why cybersecurity knowledge and training is all the more relevant now, to protect yourself and your company.</p>
-<a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg"><img src="/images/FS-4-The Importance of Cybersecurity.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/IT-Infrastructure-tutorials/importance-cyber-security/651212/664285-4.html?org=nlb.gov.sg"><img src="/images/FS-4E-cybersecurity.png" style="width:400px;"></a>
 
 <p><strong>6. <a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg" target="_blank">Digital Transformation and Your Business</a></strong><br/>
 Learn how to best support digital transformation efforts of your business by getting practical tips on leveraging technology, and planning for success.</p>
-<a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg"><img src="/images/FS-4-Digital Transformation and your business.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/SharePoint-tutorials/Digital-transformation-your-business/2823487/2318945-4.html?org=nlb.gov.sg"><img src="/images/FS-4F-Digital-trans.png" style="width:400px;"></a>
 
-<p><strong>7. <a href="https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg" target="_blank">Become an IT Security Specialist</a></strong><br/>
+<p><strong>7. <a href="https://www.lynda.com/Windows-tutorials/IT-Security-Foundations-Core-Concepts/5022345-2.html?org=nlb.gov.sg" target="_blank">Become an IT Security Specialist</a></strong><br/>
 Learn the core concepts needed to secure your organisation’s network as an IT security specialist. This learning path covers practical skills from securing hardware and network data, to the basics of cryptography, and cybercrime investigation and response.</p>
-<a href=" https://www.lynda.com/learning-paths/IT/become-an-it-security-specialist?org=nlb.gov.sg"><img src="/images/FS-4-Become an IT Security Specialist.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Windows-tutorials/IT-Security-Foundations-Core-Concepts/5022345-2.html?org=nlb.gov.sg"><img src="/images/FS-4G-ITSpecialist.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. Forget The Pecking Order At Work</h5>
