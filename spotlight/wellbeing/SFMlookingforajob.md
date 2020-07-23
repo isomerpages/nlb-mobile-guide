@@ -15,60 +15,60 @@ image: /images/FS-futureskillsmonth2020.jpg
 
 <h5>The 2-Hour Job Search</h5>
 <i>Steve Dalton</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5043324"><img src="/images/FS-1-the2hourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8F35C564-5AB1-4220-88EA-F76096117251"><img src="/images/FS-1-the2hourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.14 DAL -[BIZ]. Potter/Ten Speed/Harmony/Rodale, 2020.<br/> 
 Maximise the use of the latest technologies to select, prioritise, make contact with potential employers, and secure that first interview, regardless of your experience, education, or network!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8F35C564-5AB1-4220-88EA-F76096117251">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5043324">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14411815">find the book at the libraries</a>.<br/> 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8F35C564-5AB1-4220-88EA-F76096117251">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8F35C564-5AB1-4220-88EA-F76096117251">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14411815">find the book at the libraries</a>.<br/> 
 
 
 <h5>Manage Your Job Search</h5>
 <i>Johanna Rothman</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3884793"><img src="/images/FS-1-manageyourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=CAF375A0-34DA-453B-90B4-1EECE060F5AA"><img src="/images/FS-1-manageyourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Pragmatic Bookshelf, 2018.<br/>
 Tackle your job search as an emergent project, by adopting a 6-part system developed by Johanna Rothman to achieve success. By setting personal kanban and utilising one-week timeboxes, this system allows for serendipity and flexibility for any job seeker.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CAF375A0-34DA-453B-90B4-1EECE060F5AA">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3884793">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CAF375A0-34DA-453B-90B4-1EECE060F5AA">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CAF375A0-34DA-453B-90B4-1EECE060F5AA">online</a> &#128187;.<br/>
 
 <h5>50 Ways to Get a Job</h5>
 <i> Dev Aujla, Lodro Rinzler</i><br/>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=3309188"><img src="/images/FS-1-50waystogetajob.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=CA3FFF7B-33EC-45A8-A440-0E5BD95549F1"><img src="/images/FS-1-50waystogetajob.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.14 AUJ -[BIZ]. Penguin Publishing Group, 2018.<br/>
 Stay on track and motivated until you land your dream career! Learn how to ask the right questions with advice from professionals across vastly different industries and start doing the work that actually matters - Aujla offers quick-step exercises which help you avoid the common pitfalls of navigating through a modern career.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CA3FFF7B-33EC-45A8-A440-0E5BD95549F1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3309188">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203130536">find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CA3FFF7B-33EC-45A8-A440-0E5BD95549F1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CA3FFF7B-33EC-45A8-A440-0E5BD95549F1">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203130536">find the book at the libraries</a>.<br/>
 
 <h5>What Color Is Your Parachute? 2019</h5>
 <i> Richard N. Bolles</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3845453"><img src="/images/FS-1-whatcolorisyourparachute2019.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F37D070C-357E-4DE5-86AD-403BE4B6CBAB"><img src="/images/FS-1-whatcolorisyourparachute2019.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Potter/Ten Speed/Harmony/Rodale, 2018.<br/>
 Career guru Richard N. Bolles demystifies the job search process for readers, and guides job-hunters on how to land their dream jobs with updated strategies on utilising social media and search tactics.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F37D070C-357E-4DE5-86AD-403BE4B6CBAB">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3845453">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F37D070C-357E-4DE5-86AD-403BE4B6CBAB">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F37D070C-357E-4DE5-86AD-403BE4B6CBAB">online</a> &#128187;.<br/>
 
 <h5>Career Courage</h5>
 <i>Katie C. Kelley</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2564041"><img src="/images/FS-1-careercourage.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AE72BDF5-3604-4EA3-9537-976CED5A0BDD"><img src="/images/FS-1-careercourage.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 650.1 KEL -[BIZ]. AMACOM Books, 2016.<br/>
 Rediscover the courage and guidance to break free from your fears, shed misguided ideas, and find fulfillment in your career, regardless which point of your career you may be at. This invaluable guide book poses tough questions about motivation, confidence, risk tolerance and more.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AE72BDF5-3604-4EA3-9537-976CED5A0BDD">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/2564041">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113313">find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AE72BDF5-3604-4EA3-9537-976CED5A0BDD">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/AE72BDF5-3604-4EA3-9537-976CED5A0BDD">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203113313">find the book at the libraries</a>.<br/>
 
 <h5>The Panic Free Job Search (Summary)</h5>
 <i>Paul Hill</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3182780"><img src="/images/FS-1-getabstract-thepanicfreejobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=98B436F3-809F-4E54-990B-C9F576D1ACA1"><img src="/images/FS-1-getabstract-thepanicfreejobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. Career Press, getAbstract, 2017.<br/>
 Make the most of your resume, your online activities, and your network with recruiter Paul Hill, as he guides readers on how to create an effective and professional online presence for future employers.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=98B436F3-809F-4E54-990B-C9F576D1ACA1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3182780">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=98B436F3-809F-4E54-990B-C9F576D1ACA1">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/98B436F3-809F-4E54-990B-C9F576D1ACA1">online</a> &#128187;.<br/>
 
 <h5>10 Insider Secrets to a Winning Job Search (Summary)</h5>
 <i>Todd Bermont</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3183427"><img src="/images/FS-1-getabstract-10insidersecretstoawinningjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=04A99C11-A6CA-48C6-AC2C-7B9FC8AE2C29"><img src="/images/FS-1-getabstract-10insidersecretstoawinningjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 E-book Only. Career Press, getAbstract, 2017.<br/>
 Todd Bermont shares an organised 10-step path to finding a new and better job. While the tips are not all brand new, Bermont has framed them in a different and more positive light for readers. Backing his book up with a website, and using a conversational tone, Bermont will boost your self-confidence and assurance that the perfect job is out there, if you search for it in the right way.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=04A99C11-A6CA-48C6-AC2C-7B9FC8AE2C29">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3183427">online</a> &#128187;.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=04A99C11-A6CA-48C6-AC2C-7B9FC8AE2C29">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/04A99C11-A6CA-48C6-AC2C-7B9FC8AE2C29">online</a> &#128187;.<br/>
 
 <h5>101 Ways to Power Up Your Job Search (Summary)</h5>
 <i>J. Thomas Buck, William R. Matthews</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3178875"><img src="/images/FS-1-getabstract-101waystopowerupyourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6CA9F41-74D9-40F1-B881-DFE14611BECE"><img src="/images/FS-1-getabstract-101waystopowerupyourjobsearch.jpg" style="width:300px; text-align:left;"></a><br/>
 E-Book only. McGraw-Hill, getAbstract, 2017.<br/>
 This workbook details 101 exercises designed and consolidated by seasoned career consultants who have pooled their considerable experience to cover the entire landscape of job hunting. These authors ask thought-provoking questions through concise and conversational writing, to take readers through the job search process.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6CA9F41-74D9-40F1-B881-DFE14611BECE">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/3178875">online</a> &#128187;.<br/>	
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6CA9F41-74D9-40F1-B881-DFE14611BECE">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B6CA9F41-74D9-40F1-B881-DFE14611BECE">online</a> &#128187;.<br/>	
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
