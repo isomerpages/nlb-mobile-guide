@@ -2,7 +2,7 @@
 layout: post
 title:  SkillsFuture Month 1-Searching for a Job
 date:   2020-07-23
-permalink: /spotlight/skillsfuturemonth/2020-07-23-job-searching
+permalink: /spotlight/skillsfuture-month-2020/2020-07-23-job-searching
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading. 
 image: /images/FS-futureskillsmonth2020.jpg
 ---
@@ -103,9 +103,13 @@ A collection of latest job search techniques shared by a top career coach, for b
 A tool kit of practical tips, tricks, and insights from experts on how to equip yourself with strategies for boosting confidence, negotiation skills, and more.</p>
 <a href=" https://www.lynda.com/Business-tutorials/Job-Searching-Interviewing-Negotiating-Salary/2804655-2.html?org=nlb.gov.sg"><img src="/images/FS-1B-lynda-salary.jpg" style="width:400px;"></a>
 
-<p><strong>3. <a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times?org=nlb.gov.sg" target="_blank"> Finding a Job during Challenging Economic Times</a></strong><br/>
+<p><strong>3. <a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times" target="_blank"> Finding a Job during Challenging Economic Times</a></strong><br/>
 Discover strategies for creating a recovery plan, cultivating resilience, and improving job search and interview skills during difficult economic times.</p>
-<a href="https://www.lynda.com/Business-tutorials/Bouncing-back-after-layoff/466177/2320735-4.html?org=nlb.gov.sg"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
+<i>To enjoy perpetual free access to LyndaLibrary courses, please sign in using your myLibrary ID instead of clicking on 'Start my Free Month'. Not sure how? Watch our video guide</a>.</i>
+<p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</p>
+<a href=https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
