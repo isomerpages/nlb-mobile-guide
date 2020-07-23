@@ -37,7 +37,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=88C7781F
 
 <h5>Ecommerce Evolved</h5>
 <i>Tanner Larsson</i><br/>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203859326"><img src="/images/FS-4-ecommerce-evolved.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203859326"><img src="/images/FS-4-ecommerce-evolved.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 658.054678 LAR –[BIZ]. Build-Grow-Scale, 2016.<br/> 
 There is much more to ecommerce than simply building an online store, filling it with products and driving traffic. In this playbook, Larsson explains what differentiates thriving ecommerce businesses from mediocre ones, and includes a blueprint on how to evolve your brand and business. <br/>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203859326">Find the book at the libraries</a>. <br/>
