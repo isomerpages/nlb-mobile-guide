@@ -81,21 +81,21 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393
 <h5>The Future Workplace Experience (Summary)</h5>
 <i>Jeanne C. Meister, Kevin J. Mulcahy</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC"><img src="/images/FS-3-The-future-workplace-experience.jpg" style="width:300px; text-align:left;"></a><br/>
-E book only. McGraw-Hill, 2016.<br/>
+eBook only. McGraw-Hill, 2016.<br/>
 The workplace faces disruption constantly. For companies to succeed, the writers have devised 10 rules to optimise the workplace to becoming an enjoyable environment. These rules show how organisations respond to disruptions and shifting business goals, and the writer also envisions a future workplace experience to examine what we take for granted about work, and explore the new emerging rules of work.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">online</a> &#128187;. <br/>
 
 <h5>Social Media Recruitment (Summary)</h5>
 <i>Andy Headworth</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B"><img src="/images/FS-3-Social-media-recruitment.jpg" style="width:300px; text-align:left;"></a><br/>
-E book only. Kogan Page, 2015.<br/> 
+eBook only. Kogan Page, 2015.<br/> 
 In this summary of the book, the writer suggests practical tips to recruiters of small and midsize firms to use social media effectively as part of recruitment practices. Steps include building an internal business case, planning a recruitment strategy and tailoring online activities to meet specific needs, as well as creating a social media toolbox to manage the various platforms.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">online</a>&#128187;. <br/>
 
 <h5>HR Analytics and Innovations in Workforce Planning</h5>
 <i>Tony Miller</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C"><img src="/images/FS-3-HR-analytics-and-innovations.jpg" style="width:300px; text-align:left;"></a><br/>
-Ebook only. Business Expert Press, 2016.<br/> 
+eBook only. Business Expert Press, 2016.<br/> 
 Manpower planning is required for a company to succeed and recruiting the best talent is often the first step. This book details a nine-step process to the writer’s New Workforce Planning approach to create value through human resource. For example, one of the first few steps of hiring always includes interviews, and the writer includes ways of structuring prewritten questions that can be easily scored to improve its effectiveness. Learn his process with supporting examples.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C">online</a>&#128187;. <br/>
 
@@ -159,15 +159,15 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3
 
 <p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg" target="_blank">Strategic Human Resources</a></strong><br/>
 There are various ways to develop a strategic focus when it comes to HR planning. One way is by guiding leadership on how to build an effective structure and culture. These include linking HR activities into your organisation’s vision and mission, engaging employees, and job analysis.</p>
-<a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg" target="_blank"> Social Recruiting for Recruiters </a></strong><br/>
 Learn the best ways to use social channels in the area of recruitment including how to find and approach ideal candidates and collaborating with hiring managers. A valuable resource to add to your toolkit with important steps on setting realistic expectations, having profiles that stand out, keeping promises and building strong networks to reach out to more candidates.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg"><img src="/images/FS-3B-Lynda-Social-recruiting.png" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg" target="_blank">Talent Sourcing</a></strong><br/>
 This video provides viewers with a sound strategy on effective recruitment, which requires proactive searching to identify and attract top talent even before there is a position open. It explains how technologies like big data, social media and tools like LinkedIn Recruiter help in recruitment to reap the best returns on investments.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
 
 
 <h4>Videos</h4>
