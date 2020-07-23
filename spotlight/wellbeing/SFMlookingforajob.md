@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SkillsFuture Month Learning Package 1 – Searching for A Job?
-date:   2020-07-22
+date:   2020-07-23
 permalink: /spotlight/skillsfuturemonth/job-searching
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading. 
 image: /images/FS-futureskillsmonth2020.jpg
