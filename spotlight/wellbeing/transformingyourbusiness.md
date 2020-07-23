@@ -166,9 +166,9 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Developer-tutorials/How-choose-ecommerce-model/2823345/2293910-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aecommerce+fundamentals%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg" target="_blank">Ecommerce Fundamentals</a></strong><br/>
+<p><strong>1. <a href="https://www.lynda.com/Developer-tutorials/How-choose-ecommerce-model/2823345/2293910-4.html?org=nlb.gov.sg" target="_blank">Ecommerce Fundamentals</a></strong><br/>
 A short course for beginners on the basics of transforming your business idea into an online store. Learn more about different business models, creating personas by defining your target audience, and bringing your product to market.</p>
-<a href="https://www.lynda.com/Developer-tutorials/How-choose-ecommerce-model/2823345/2293910-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aecommerce+fundamentals%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-ecommerce-fundamentals.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Developer-tutorials/How-choose-ecommerce-model/2823345/2293910-4.html?org=nlb.gov.sg"><img src="/images/FS-4-Lynda-ecommerce-fundamentals.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Improve-SEO-Your-Ecommerce-Site/2817189-2.html?org=nlb.gov.sg" target="_blank">Improve SEO for Your Ecommerce Site</a></strong><br/>
 Get your search engine optimisation (SEO) strategy on point with this course that shows you how to use page structuring, keyword-rich content, competitor analysis and image optimisation techniques to drive better results for your business.</p>
