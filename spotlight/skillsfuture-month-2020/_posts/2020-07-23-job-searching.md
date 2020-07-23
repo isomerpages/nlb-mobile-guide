@@ -105,7 +105,7 @@ A tool kit of practical tips, tricks, and insights from experts on how to equip 
 
 <p><strong>3. <a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times?org=nlb.gov.sg" target="_blank"> Finding a Job during Challenging Economic Times</a></strong><br/>
 Discover strategies for creating a recovery plan, cultivating resilience, and improving job search and interview skills during difficult economic times.</p>
-<a href=" https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times?org=nlb.gov.sg"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Bouncing-back-after-layoff/466177/2320735-4.html?org=nlb.gov.sg"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
