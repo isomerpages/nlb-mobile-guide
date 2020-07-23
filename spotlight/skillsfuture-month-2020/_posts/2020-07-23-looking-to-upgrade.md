@@ -179,23 +179,23 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACF0D001
 
 <p><strong>1. <a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg" target="_blank">Data visualization</a></strong><br/>
 Amy Balliett shares some of the commonly seen mistakes in data visualization and how you can rectify them in minutes.</p>
-<a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg"><img src="/images/FS-2A-lynda-data_visualization.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg" target="_blank">Instagram Marketing Opportunities</a></strong><br/>
 Instagram marketing is one of the most commonly seen digital marketing tools in Singapore. Why is it popular? Is it effective? This short video will explain Instagram marketing’s impact and its functionality.</p>
-<a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg"><img src="/images/FS-2B-lynda-Instagram.jpg" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg" target="_blank">Mindfulness Practices</a></strong><br/>
 Explore mindfulness practices with executive coach Henna Inam, as she guides viewers on techniques for expanding emotional intelligence, growing self-confidence, dealing with difficult people, managing change, and confronting fears.</p>
-<a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg"><img src="/images/FS-2-mindfulnesspractices.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg"><img src="/images/FS-2C-lynda-mindful.jpg" style="width:400px;"></a>
 
 <p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg" target="_blank">Entrepreneurship Foundations</a></strong><br/>
 Build up the foundations of entrepreneurship with Kim Kaupe, as she provides a set of tools to assess potential business opportunities, gives tips on how to start and maintain your own company, and identify the elements that will contribute to your company’s success.</p>
-<a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/FS-2-entrepreneurshipfoundations.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/FS-2D-lynda-entrepreneur.png" style="width:400px;"></a>
 
 <p><strong>5. <a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg" target="_blank">Small Business Secrets</a></strong><br/>
 Learn the secrets of small business success with coach Dave Crenshaw, who will cover topics from determining your most valuable product or service, to managing processes and creating culture.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg"><img src="/images/FS-2-smallbusinesssecrets.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg"><img src="/images/FS-2E-lynda-smallbiz.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. What REALLY is Data Science? Told by a Data Scientist by Joma</h5>
