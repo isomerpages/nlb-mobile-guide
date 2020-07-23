@@ -179,7 +179,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACF0D001
 
 <p><strong>1. <a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg" target="_blank">Data visualization</a></strong><br/>
 Amy Balliett shares some of the commonly seen mistakes in data visualization and how you can rectify them in minutes.</p>
-<a href="https://www.lynda.comGraphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg" target="_blank">Instagram Marketing Opportunities</a></strong><br/>
 Instagram marketing is one of the most commonly seen digital marketing tools in Singapore. Why is it popular? Is it effective? This short video will explain Instagram marketing’s impact and its functionality.</p>
