@@ -14,7 +14,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 
 <h4>eBooks</h4>
 
-<h5>Amazon: How the world’s most relentless retailer will continue to revolutionize commerce</h5>
+<h5>Amazon: How the World’s Most Relentless Retailer will Continue to Revolutionize Commerce</h5>
 <i>Natalie Berg and Miya Knights</i>
 <p>
   <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9DD312A-E65F-408F-A2A3-B937AAF2B056"><img src="/images/FS-4-amazon.jpg" style="width:300px; text-align:left;"></a>
@@ -140,7 +140,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5
 Ted Koppel reveals that a major cyberattack on America's power grid is not only possible; it is very likely, and the consequences will be devastating. <i>Lights Out</i> examines a threat unique to our time and evaluates potential ways to prepare for a catastrophe.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202341054">find the book at the libraries</a>. <br/>
 
-<h5>Cybersecurity Program Development for Business: the essential planning guide</h5>
+<h5>Cybersecurity Program Development for Business: The Essential Planning Guide</h5>
 <i>Christos J. P. Moschovitis</i>
 <p>
   <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28-6D58-47E7-AE86-C48EB9EFC688"><img src="/images/FS-4-CybersecurityProgramDevelopmentForBusiness.jpg" style="width:300px; text-align:left;"></a>
@@ -149,10 +149,10 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE
 This essential guide, with its many examples and case studies, breaks down every element of the development and management of a cybersecurity programme for executives.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28-6D58-47E7-AE86-C48EB9EFC688">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E76FBB28-6D58-47E7-AE86-C48EB9EFC688">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203209896">find the book at the libraries</a>. <br/>
 
-<h5>The Nature of Technology: what it is and how it evolves</h5>
+<h5>The Nature of Technology: What It Is and How It Evolves</h5>
 <i>W. Brian Arthur</i>
 <p>
-  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D"><img src="/images/FS-4-TheNatureofTechnology.jpg" style="width:300px; text-align:left;"></a>
+  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=83695BFF-BA04-4CEE-9F33-124F3FE19CC5"><img src="/images/FS-4-TheNatureofTechnology.jpg" style="width:300px; text-align:left;"></a>
   </p>
 <p class="end-note">Call Number: English 600 ART. Penguin Books Ltd, 2009.</p> 
 Leading scientific theorist W. Brian Arthur puts forth the first complete theory of the origins and evolution of technology, in a major work which argues that achievements in the invention of new technologies are comparable to what Darwin’s theory of evolution by natural selection has achieved. <br/>
