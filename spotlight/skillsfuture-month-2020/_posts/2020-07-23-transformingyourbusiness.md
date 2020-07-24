@@ -131,7 +131,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D9F1D23C
 <i>The Digital Transformation Playbook</i> shares how legacy businesses can transform, to thrive in the digital age. It is an indispensable guide for executives looking to take their firms to the next stage of profitable growth.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/631F71C5-8BDC-4FB5-B4B4-7CFA430AEE57">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202554285">find the book at the libraries</a>. <br/>
 
-<h5>Lights out</h5>
+<h5>Lights Out</h5>
 <i>Ted Koppel</i>
 <p>
   <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8A8CF2EE-9CBE-4F3F-9BB5-C9B233C1AB7A"><img src="/images/FS-4-LightsOut.jpg" style="width:300px; text-align:left;"></a>
