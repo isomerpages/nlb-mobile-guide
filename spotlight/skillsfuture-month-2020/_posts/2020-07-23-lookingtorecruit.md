@@ -2,7 +2,7 @@
 layout: post
 title:  SkillsFuture Month 3-Looking to Recruit
 date:   2020-07-23
-permalink: /spotlight/skillsfuturemonth/looking-to-recruit
+permalink: /spotlight/skillsfuture-month-2020/looking-to-recruit
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)
 image: /images/FS-futureskillsmonth2020.jpg
 ---
@@ -10,14 +10,14 @@ image: /images/FS-futureskillsmonth2020.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
-<p>Recruitment is an important part of identifying and sourcing the best talents for your organisation. With different technologies that make the art of recruitment more varied, it is all the more crucial to understand how different tools can be applied to the hiring process. Here are some resources which we hope are useful to Human Resource professionals.<p>
+<p>Recruitment is an important part of identifying and sourcing the best talents for your organisation. With different technologies that make the art of recruitment more varied, it is all the more crucial to understand how different tools can be applied to the hiring process. Here are some resources which we hope are useful to Human Resource professionals.</p>
 
 <h4>eBooks</h4>
 
 <h5>Evergreen Talent</h5>
 <i>Roberta Chinsky Matuson</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2DF777F-FB5A-4CD6-9701-E27C1BD3FE75"><img src="/images/FS-3-Evergreen-talent.jpg" style="width:300px; text-align:left;"></a><br/>
-E-Book only. Red Wheel Weiser, 2020.<br/> 
+<p style="end-note">E-Book only. Red Wheel Weiser, 2020.</p> 
 Learn the ways of hiring employees for a sustainable workforce. From recruiting new employees to reinvigorating disenchanted staff, the writer examines ways to cultivate an environment where talent is nurtured and engaged.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C2DF777F-FB5A-4CD6-9701-E27C1BD3FE75">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C2DF777F-FB5A-4CD6-9701-E27C1BD3FE75">online</a>&#128187;. <br/>
  
@@ -125,8 +125,8 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B38285EA
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3-7762-4F0D-8163-8164DF6CB8AC "><img src="/images/FS-3-The-new-world-of-hr-&-employement.jpg" style="width:300px; text-align:left;"></a><br/>
 Ebook only. Business Expert Press, 2018.<br/> 
 In this book, Miller suggests available resources for readers to learn more about Human Resource (HR) processes that use Artificial intelligence (AI). Find out more about digital footprints and how they can be used to upgrade recruitment and succession planning, and the skills needed to manage this shift to AI-focused HR.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">online</a>&#128187;. <br/>
-
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">online</a>&#128187;. 
+<p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
     <td>
@@ -172,7 +172,7 @@ This video provides viewers with a sound strategy on effective recruitment, whic
 
 <h4>Videos</h4>
 <h5>1. HR Basics: Recruitment by Gregg Learning</h5>
-HR professionals are aware of the need to attract candidates who best fit the brand of their company. To do this, first the company should be able to assess, define, communicate and evaluate their own unique brand. Next comes other important methods including recruitment processes and recruitment methods. Learn the basics in this short video.
+<p>HR professionals are aware of the need to attract candidates who best fit the brand of their company. To do this, first the company should be able to assess, define, communicate and evaluate their own unique brand. Next comes other important methods including recruitment processes and recruitment methods. Learn the basics in this short video.</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/elc2sIiVICQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=elc2sIiVICQ" target="_blank">HR Basics: Recruitment</a> (2018, Dec 6). Gregg Learning. 
 
