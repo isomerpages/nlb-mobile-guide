@@ -158,14 +158,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E76FBB28
 Leading scientific theorist W. Brian Arthur puts forth the first complete theory of the origins and evolution of technology, in a major work which argues that achievements in the invention of new technologies are comparable to what Darwin’s theory of evolution by natural selection has achieved. <br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=83695BFF-BA04-4CEE-9F33-124F3FE19CC5">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B83695BFF-BA04-4CEE-9F33-124F3FE19CC5%7D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13216311">find the book at the libraries</a>. <br/>
 
-<h5>The Future is Faster than You Think: how converging technologies are transforming business, industries, and our lives</h5>
+<h5>The Future is Faster than You Think: How Converging Technologies are Transforming Business, Industries, and our Lives</h5>
 <i>Peter H. Diamonds and Steven Kotler</i>
 <p>
-  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id= A11BE1FA-069C-43B9-B01D-4CA021E6949D"><img src="/images/FS-4-TheFutureIsFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a>
+  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=45B5D797-79C0-44C5-B8C0-465FDCAE87C6"><img src="/images/FS-4-TheFutureIsFasterThanYouThink.jpg" style="width:300px; text-align:left;"></a>
   </p>
 <p class="end-note">Call Number: English 338.064 DIA. Simon & Schuster, 2020.</p> 
 In this gripping and insightful roadmap to our near future, Diamandis and Kotler investigate how wave after wave of exponentially accelerating technologies will impact both our daily lives and society as a whole. <br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A11BE1FA-069C-43B9-B01D-4CA021E6949D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A11BE1FA-069C-43B9-B01D-4CA021E6949D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=45B5D797-79C0-44C5-B8C0-465FDCAE87C6">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A11BE1FA-069C-43B9-B01D-4CA021E6949D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204144425">find the book at the libraries</a>. <br/>
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
