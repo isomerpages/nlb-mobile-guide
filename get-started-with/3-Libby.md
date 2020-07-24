@@ -23,7 +23,7 @@ title: eBooks and Audiobooks
 <h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
 <li>Want to read even when offline? With the Libby app, you can download eBooks/Audiobooks into your device so that you don't need an internet connection to read/listen to them later.</li>
-	
+
 <p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank">Google Play</a> now.</p>
 
 <li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
@@ -111,7 +111,7 @@ Tap Renew Loan, then Renew. </p>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
 <p>If you fear you may have missed a notification, check your Shelf or Holds in the Libby app. To ensure that your notifications get through, do check your notification settings in Libby (<a href="https://help.libbyapp.com/6174.htm" target="_blank">click here to learn how to setup or manage notifications</a>). </p>
 </div></div>
-  
+
   <div>
 		<input type="radio" name="acc" id="acc7i">
         <label for="acc7i">Why do some of your eBooks have limited copies?</label>
@@ -323,16 +323,17 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc19">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
         <div class="acc-body">
 <p>Format availability for eBooks is subject to the negotiations between OverDrive* and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
-		
+
 <p><strong>Kindle</strong>: Currently, Kindle is not supported.</p>
 		<p><strong>Kobo</strong>: Yes, you can access NLB's eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
 <ul>
+  <li>Kobo Nia,&nbsp;</li>
   <li>Kobo Libra H2O,&nbsp;</li>
-  <li>Forma,&nbsp;</li>
-  <li>Aura ONE,&nbsp;</li>
-  <li>Aura Edition 2,</li>
-  <li>Aura H2O Edition 2, or&nbsp;</li>
-  <li>Clara HD devices.</li>
+  <li>Kobo Forma,&nbsp;</li>
+  <li>Kobo Aura ONE,&nbsp;</li>
+  <li>Kobo Aura Edition 2,</li>
+  <li>Kobo Aura H2O Edition 2, or&nbsp;</li>
+  <li>Kobo Clara HD devices.</li>
 </ul>
 <p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive* on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
   <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank">Read this article</a> for a step-by-step guide on how to borrow ebooks on your Kobo device.
@@ -424,6 +425,6 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc23b">Other than Readalongs, do you have other more interactive eBooks for children?</label>
         <div class="acc-body">
 		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
-	
+
 </div></div>
 
