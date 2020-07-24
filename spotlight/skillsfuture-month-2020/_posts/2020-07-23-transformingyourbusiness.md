@@ -89,7 +89,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACB8FF95
 <h5>Drive: The Surprising Truth About What Motivates Us</h5>
 <i>Daniel H. Pink</i>
 <p>
-  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7BBF3AB2A2-77EB-4537-8E6A-772271B3A012%7D"><img src="/images/FS-4-drive.jpg" style="width:300px; text-align:left;"></a>
+  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BF3AB2A2-77EB-4537-8E6A-772271B3A012"><img src="/images/FS-4-drive.jpg" style="width:300px; text-align:left;"></a>
   </p>
 <p class="end-note">Call Number: English 153.1534 PIN. Penguin Publishing Group, 2012.</p> 
 Most of us are familiar with the carrot-and-stick approach to motivation, where monetary rewards are deemed to be the best motivators. Pink, however, asserts that the secret to high performance and satisfaction is the human need to direct our own lives, and to learn and create new things. Based on scientific research on motivation, Pink examines the three elements that truly motivates – autonomy, mastery, purpose – and offers techniques to put these into action. <br/>
