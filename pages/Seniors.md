@@ -11,7 +11,10 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 <p>To start using any of NLB's digital services, you need a myLibrary ID. To find out if you need to create one, go to the <a href="https://account.nlb.gov.sg" target="_blank">myLibrary account page</a>. If you need to create one, <a href="/images/mylibrary_guide_TOYL.pdf" target="_blank"> this handy step-by-step PDF guide (1.2 MB)</a> has all the answers, in all 4 languages. For more questions on myLibrary ID, go to our <a href="/get-started-with/myLibrary/#mylibrary" target="_blank">myLibrary ID FAQ page</a>.</p>
 
 <h3>Read local newspapers from home</h3>
-<p>You can now read <b>newspapers published by Singapore Press Holdings (SPH) from home</b>. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page.</a> If you have any questions, read our guide at the <a href="/get-started-with/pressreader/#sph">eNewspapers and eMagazines FAQ page here</a>.</p>
+<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<p>You can now read newspapers published by Singapore Press Holdings (SPH) from home. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page.</a> If you have any questions, read our guide at the <a href="/get-started-with/pressreader/#sph">eNewspapers and eMagazines FAQ page here</a>.</p>
 <h3>International eNewspapers and eMagazines</h3>
 <p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. <!--For SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao, please visit any of our libraries. -->
 <p>Watch this video to learn how to read eNewspapers and eMagazines.</p>
