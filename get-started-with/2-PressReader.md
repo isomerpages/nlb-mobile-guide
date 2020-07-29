@@ -198,6 +198,9 @@ title: eMagazines and eNewspapers
 <p>
 <div class="FAQ-section" id="sph">
 <h2>Read SPH newspapers at home</h2>
+	<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 	<div>
         <input type="radio" name="acc" id="sph1">
         <label for="sph1">How can I read SPH newspapers from home?</label>
