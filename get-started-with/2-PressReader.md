@@ -197,13 +197,16 @@ title: eMagazines and eNewspapers
 
 <p>
 <div class="FAQ-section" id="sph">
-<h2>Read SPH newspapers at home during the library closure period</h2>
+<h2>Read SPH newspapers at home</h2>
+	<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 	<div>
         <input type="radio" name="acc" id="sph1">
-        <label for="sph1">How can I read SPH newspapers from home during the library closure period?</label>
+        <label for="sph1">How can I read SPH newspapers from home?</label>
 
  <div class="acc-body">
-  <p>Although our libraries are temporarily closed, our patrons can now read SPH newspapers online from home, as part of our arrangement with SPH during the library closure period. After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
+  <p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
 <p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
 </p>
 		<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
@@ -260,28 +263,21 @@ title: eMagazines and eNewspapers
 	<h5>When Reading from Mobile Phones / Tablets</h5>
 	<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
 	<p><b>Turning pages:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then swipe right or left.</p>
-	<p><b>Reading an issue from another date:</b> Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.</p>
+	<p><b>Reading an issue from another date:</b> Tap once near the middle of the screen. Tap on the calendar icon, then <b>scroll down</b> to see the issues available. Select the desired date.</p>
 	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 
-<p><h4>For Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h4></p>
+<p><h4>For Tamil Murasu and the Chinese SPH ePapers (Zaobao, Lianhe Wanbao, Shinmin Daily News)</h4></p>
 	<h5>When Reading from Desktop / Laptop Computers</h5>
-		<p><b>Zooming in and out:</b> Double click to zoom in. You can double click again (up to 4 times total) to zoom in further. Then, drag the page around to read the segment you want. </p>
-		<p><b>Turning pages:</b> Double-click until the page zooms out, then click on the left or right arrow.</p>
-		<p><b>Reading an issue from another date:</b> Click on the brightly coloured button on the top right, then select the desired date.</p> 
+		<p><b>Zooming in and out:</b> Click on the magnifying glass on the right, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want.</p>
+		<p><b>Turning pages:</b>Click on the left or right arrow. If you do not see any arrows, click on the magnifying glass on top first.</p>
+		<p><b>Reading an issue from another date:</b> Click on the calendar icon on the right side of the screen, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first. </p> 
 	<h5>When Reading from Mobile Phones / Tablets</h5>
 		<p><b>Zooming in and out:</b> Simply pinch the screen, as you would on a normal webpage.</p>
-		<p><b>Turning pages:</b> Swipe right or left.</p>
-		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then tap on the brightly coloured button on the top right. Pinch the screen to zoom in to see the dates more clearly. Select the desired date.</p>
+		<p><b>Turning pages:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen), then swipe right or left.</p>
+		<p><b>Reading an issue from another date:</b> Pinch the screen to zoom out completely (until you can see the whole page on your screen). Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.</p>
 	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
-
-<p><h4>For Tamil Murasu</h4></p>
-	<p class="end-note">SPH's ePaper for Tamil Murasu has the same interface for computers and mobile devices.</p>
-	<p><b>Zooming in and out:</b> To enlarge the text or images, use the magnifying glass with a '+' sign. To zoom out, use the magnifying glass with a '-' sign. The empty magnifying glass is for returning to the fully zoomed-out view of the page.</p>
-	<p><b>Turning pages:</b> Use the left or right arrow.</p>
-	<p><b>Reading an issue from another date:</b> Click on the calendar icon on the top right, then select the desired date.</p>
-
 
 <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
 
@@ -349,6 +345,7 @@ title: eMagazines and eNewspapers
   <p>Due to licensing and access control, there is a limit to the number of users who can read the newspapers at the same time. Sometimes, users may be logged out when the limit is reached. If this happens, please wait a while, then log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
+<p>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div>
 
 <!--
