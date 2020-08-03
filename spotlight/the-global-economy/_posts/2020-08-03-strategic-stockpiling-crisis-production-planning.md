@@ -128,8 +128,8 @@ Amrin Amin, Saktiandi Supaat beri jaminan stok bekalan stok bekalan negara mencu
 
 Two Members of Parliament, Amrin Amin and Saktiandi Supaat, assured citizens that Singapore has enough food supply in its stock amidst the movement control order in Malaysia which affected some food supply from Malaysia.
 
-<h5>6. <a href="https://www.tamilmurasu.com.sg/singapore/story20200612-45781.html" target="_blank">மூத்த அமைச்­சர் டியோ சீ ஹியன்: சேமிப்பும் மீள்திறனும் வலுவடைய வேண்டும்.</a></h5>
-மூத்த அமைச்­சர் டியோ சீ ஹியன்: சேமிப்பும் மீள்திறனும் வலுவடைய வேண்டும். (2020, June 3). <i>Tamil Murasu</i>. Retrieved 2020, June 3.
+<h5>6. <a href="https://www.tamilmurasu.com.sg/singapore/story20200612-45781.html" target="_blank">மூத்த அமைச்-சர் டியோ சீ ஹியன்: சேமிப்பும் மீள்திறனும் வலுவடைய வேண்டும்.</a></h5>
+மூத்த அமைச்-சர் டியோ சீ ஹியன்: சேமிப்பும் மீள்திறனும் வலுவடைய வேண்டும். (2020, June 3). <i>Tamil Murasu</i>. Retrieved 2020, June 3.
 
 பொருளியல் மீள்திறனைப் பற்றி விளக்கிய அவர், கிருமி காரணமாக வாழ்வாதாரம், பொருள்விநியோகச் சங்கிலி ஆகியன பாதிப்புக்கு உள்ளானது என்றாலும் நம்மிடம் அத்தியாவசியப் பொருட்கள் இருப்பு இருந்ததால் நிலைமையைச் சமாளிக்க முடிந்தது என்று கூறினார்.
 
