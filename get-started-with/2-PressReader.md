@@ -7,201 +7,15 @@ image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
 
-<div class="FAQ-section" id="AboutPressReader"> 
-	<p><h2>About PressReader</h2></p>
-	<p>An <b>international</b> digital newsstand on the go:</p>
-<ul>
-<li>Current issues from over 7,000 of the world’s leading publications</li>
-<li>From more than 100 countries</li>
-<li>International papers and magazines - <i>The Washington Post, The Guardian, Newsweek, 
-	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
-<li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
-	</ul>
-	<p><h2>How to Read eNewspapers and eMagazines</h2></p>
-<div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<!-- Hide New Features box
-<table style="border-color: blue;" border="1" cellpadding="10">
-<tbody>
-<tr>
-<td>
-	<h2 style="text-align: center;">*New!* Read local newspapers from home during the circuit breaker period</h2>
-	<p>
-		You can now use the ePaper service by Singapore Press Holdings (SPH) to read up on the news during the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. Read up on the news while staying safe at home.
-	</p>
-	<p><a href="/get-started-with/pressreader/#sph">Learn more</a></p>
-</td>
-</tr>
-</tbody>
-</table>
---end hide New Features box>
-
-<!--Hide SPH gif till libraries reopen
-<p> <h2>How to Read SPH eNewspapers</h2> </p>
-![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
--->
-
-<div class="FAQ-section" id="PressReaderStart"> 
-  <p><h2>Getting Started</h2></p> 
-  <div class="acc-kontainer"><!--div for each button-->
-<div>
-		<input type="radio" name="acc" id="acc1">
-		<label for="acc1">Where can I get the PressReader app?</label>
-<div class="acc-body">
- <p>You can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
-<p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
-      <p><table style="height: 170px; width: 170px;">
-<tbody><tr>
-<td style="height: 150px; width: 150px;"><img src="/images/PressReader_applogo.png" /></td>
-</tr>
-</tbody>
-</table>
-     </p>
-    </p>
-</div><!--close for acc body (answer)-->
-</div><!--close div for each button-->
-
-  <div>
-        <input type="radio" name="acc" id="acc2">
-        <label for="acc2">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</label>
-
- <div class="acc-body">
-  <p>‘Sponsored Access’ means that you have been granted complimentary access to PressReader. During this period, you can download PressReader content and continue to read the downloaded content until you decide to delete the files.</p> 
-<p>‘Sponsored Access’ is granted when you access PressReader via the NLB Mobile app, or when you connect your device to Wireless@SG/SGx at the libraries.
-</p></div>
-</div>
-
-<div>
-		<input type="radio" name="acc" id="acc3">
-        <label for="acc3">How do I get complimentary access (also known as ‘Sponsored Access’) to PressReader?</label>
-<div class="acc-body">
-    <p>There are many ways! If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
-<p>Here are the details of each access mode:</p>
-<ol>
-	<li><strong>NLB Mobile app</strong>
-<ol style="list-style-type: lower-alpha;">
-<li>Tap the &ldquo;eNewspapers &amp; eMagazines&rdquo; icon on your NLB Mobile app. You will be prompted to download the PressReader app if you don&rsquo;t have it. When you launch the PressReader app through NLB Mobile, you can get one hour of complimentary access to the publications. When the hour is up, you can re-launch PressReader from NLB Mobile to get complimentary access again.</li>
-</ol>
-</li>
-	<li><strong>Internet browser</strong>
-<ol style="list-style-type: lower-alpha;">
-<li>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications.</li>
-</ol>
-</li>
-	<li><strong>NLB libraries</strong>
-<ol style="list-style-type: lower-alpha;">
-	<li>Connect <strong>your device</strong> to the Wireless@SG/SGx network at our libraries. Open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
-	<li>Use the <strong>eNewspaper stations</strong> at our libraries.</li>
-</ol>
-</li>
-</ol>
-  </div>
-</div>
-
-<div>
-		<input type="radio" name="acc" id="acc3a">
-        <label for="acc3a">I prefer to access PressReader from my desktop/laptop computer. How can I do this?</label>
-	<div class="acc-body">
-  <p>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications. You can share this shortcut - <a href="https://go.gov.sg/nlb-pressreader" target="_blank">go.gov.sg/nlb-pressreader</a> with your friends.</p>
-		<img src="/images/How-to-use-PressReader.gif">
-	</div>
-</div>
-
-<div>
-		<input type="radio" name="acc" id="acc4">
-        <label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary content?</label>
-
-<div class="acc-body">
-  <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
-<table style="height: 170px; width: 170px;">
-<tbody><tr>
-<td style="height: 150px; width: 150px;"><img src="/images/Pressreader_cup.png" /></td>
-</tr>
-</tbody>
-</table>
-<p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
-  </div>
-</div> 
-
-<div>
-		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">Will I incur any costs when I download content from PressReader?</label>
-
-<div class="acc-body">
-	<p>No, you will not be charged for the content that NLB has subscribed to.</p> <p class="end-note">(Do note that downloading content using your mobile data plan may incur charges from your telco for the data used.)</p>
-  </div>
-</div> 
-
-<div>
-		<input type="radio" name="acc" id="acc6">
-        <label for="acc6">How many eNewspaper and eMagazine titles or issues can I download?</label>
-        <div class="acc-body">
-		<p>Good news, there's no limit! You can download as many titles and issues as you like.</p><p class="end-note">But make sure your device has enough space to store the downloaded content.</p>
-  </div>
-</div> 
-
-<div>
-		<input type="radio" name="acc" id="acc6a">
-	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
-        <div class="acc-body">
-		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another vendor - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to read <i>The Economist</i> on your browser or the Libby app.</p>
-		<p>The difference between PressReader and Libby is that Libby has a smaller collection of only magazines, but includes some that are not available in PressReader. These are:
-		<ol>
-			<li>Allure</li>
-			<li>Billboard</li>
-			<li>Bon Appetit</li>
-			<li>Conde Nast Traveler</li>
-			<li>Marie Claire</li>
-			<li>Rolling Stone</li>
-			<li>The Economist</li>
-			<li>The Hollywood Reporter</li>
-			<li>The New Yorker</li>
-			<li>Wired</li>
-		</ol>
-		</p>
-  
-
-</div>
-</div> 
-
-<div>
-		<input type="radio" name="acc" id="acc6b">
-	<label for="acc6b">What is the difference between Libby's eMagazines and PressReader's eNewspapers and eMagazines?</label>
-        <div class="acc-body">
-		<p>
-			    PressReader has a much larger collection that includes newspapers. Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:
-		</p>
-		<ol>
-			<li>Allure</li>
-			<li>Billboard</li>
-			<li>Bon Appetit</li>
-			<li>Conde Nast Traveler</li>
-			<li>Marie Claire</li>
-			<li>Rolling Stone</li>
-			<li>The Economist</li>
-			<li>The Hollywood Reporter</li>
-			<li>The New Yorker</li>
-			<li>Wired</li>
-		</ol>
-		<p>
-		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mag" target="_blank" rel="noopener">Click here</a> for the Libby guide.
-		    </p>
-		<p>
-		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, just borrow again if you still want them.
-		</p>
-
-</div>
-</div> 
-
 <p>
 <div class="FAQ-section" id="sph">
-<h2>Read SPH newspapers at home</h2>
+<h2>How to Read SPH eNewspapers From Home</h2>
 	<div class="vd">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-	<div>
+	
+<div class="acc-kontainer"><!--div for each button-->
+<div>
         <input type="radio" name="acc" id="sph1">
         <label for="sph1">How can I read SPH newspapers from home?</label>
 
@@ -217,7 +31,17 @@ title: eMagazines and eNewspapers
 
 <div>
         <input type="radio" name="acc" id="sph1a">
-        <label for="sph1a">Can I read the newspapers on tablets and smartphones? </label>
+        <label for="sph1a">How long does NLB intend to offer access to SPH newspapers from home?</label>
+
+ <div class="acc-body">
+  <p>NLB would like to continue offering SPH eNewspapers as a staple offering. Such subscriptions are dependent on our agreements and negotiations with vendors. 
+</p>
+</div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph1b">
+        <label for="sph1b">Can I read the newspapers on tablets and smartphones? </label>
 
  <div class="acc-body">
 	<p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above.</p> 	
@@ -377,6 +201,196 @@ title: eMagazines and eNewspapers
 </div> --><!--close div for acc7 (question)-->
 <!--</div>--> <!--close div for acc body (answer)-->
 
+
+
+<div class="FAQ-section" id="AboutPressReader"> 
+	<p><h1>Reading International eNewspapers and eMagazines with PressReader</h1></p>
+	<p><h2>About PressReader</h2></p>
+	<p>An <b>international</b> digital newsstand on the go:</p>
+<ul>
+<li>Current issues from over 7,000 of the world’s leading publications</li>
+<li>From more than 100 countries</li>
+<li>International papers and magazines - <i>The Washington Post, The Guardian, Newsweek, 
+	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
+<li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
+	</ul>
+	<p><h2>How to Read International eNewspapers and eMagazines</h2></p>
+<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!-- Hide New Features box
+<table style="border-color: blue;" border="1" cellpadding="10">
+<tbody>
+<tr>
+<td>
+	<h2 style="text-align: center;">*New!* Read local newspapers from home during the circuit breaker period</h2>
+	<p>
+		You can now use the ePaper service by Singapore Press Holdings (SPH) to read up on the news during the circuit breaker period. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page</a>. Read up on the news while staying safe at home.
+	</p>
+	<p><a href="/get-started-with/pressreader/#sph">Learn more</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+--end hide New Features box>
+
+<!--Hide SPH gif till libraries reopen
+<p> <h2>How to Read SPH eNewspapers</h2> </p>
+![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
+-->
+
+<div class="FAQ-section" id="PressReaderStart"> 
+  <p><h2>Getting Started with PressReader</h2></p> 
+  <div class="acc-kontainer"><!--div for each button-->
+<div>
+		<input type="radio" name="acc" id="acc1">
+		<label for="acc1">Where can I get the PressReader app?</label>
+<div class="acc-body">
+ <p>You can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
+<p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
+      <p><table style="height: 170px; width: 170px;">
+<tbody><tr>
+<td style="height: 150px; width: 150px;"><img src="/images/PressReader_applogo.png" /></td>
+</tr>
+</tbody>
+</table>
+     </p>
+    </p>
+</div><!--close for acc body (answer)-->
+</div><!--close div for each button-->
+
+  <div>
+        <input type="radio" name="acc" id="acc2">
+        <label for="acc2">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</label>
+
+ <div class="acc-body">
+  <p>‘Sponsored Access’ means that you have been granted complimentary access to PressReader. During this period, you can download PressReader content and continue to read the downloaded content until you decide to delete the files.</p> 
+<p>‘Sponsored Access’ is granted when you access PressReader via the NLB Mobile app, or when you connect your device to Wireless@SG/SGx at the libraries.
+</p></div>
+</div>
+
+<div>
+		<input type="radio" name="acc" id="acc3">
+        <label for="acc3">How do I get complimentary access (also known as ‘Sponsored Access’) to PressReader?</label>
+<div class="acc-body">
+    <p>There are many ways! If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
+<p>Here are the details of each access mode:</p>
+<ol>
+	<li><strong>NLB Mobile app</strong>
+<ol style="list-style-type: lower-alpha;">
+<li>Tap the &ldquo;eNewspapers &amp; eMagazines&rdquo; icon on your NLB Mobile app. You will be prompted to download the PressReader app if you don&rsquo;t have it. When you launch the PressReader app through NLB Mobile, you can get one hour of complimentary access to the publications. When the hour is up, you can re-launch PressReader from NLB Mobile to get complimentary access again.</li>
+</ol>
+</li>
+	<li><strong>Internet browser</strong>
+<ol style="list-style-type: lower-alpha;">
+<li>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications.</li>
+</ol>
+</li>
+	<li><strong>NLB libraries</strong>
+<ol style="list-style-type: lower-alpha;">
+	<li>Connect <strong>your device</strong> to the Wireless@SG/SGx network at our libraries. Open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
+	<li>Use the <strong>eNewspaper stations</strong> at our libraries.</li>
+</ol>
+</li>
+</ol>
+  </div>
+</div>
+
+<div>
+		<input type="radio" name="acc" id="acc3a">
+        <label for="acc3a">I prefer to access PressReader from my desktop/laptop computer. How can I do this?</label>
+	<div class="acc-body">
+  <p>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications. You can share this shortcut - <a href="https://go.gov.sg/nlb-pressreader" target="_blank">go.gov.sg/nlb-pressreader</a> with your friends.</p>
+		<img src="/images/How-to-use-PressReader.gif">
+	</div>
+</div>
+
+<div>
+		<input type="radio" name="acc" id="acc4">
+        <label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary content?</label>
+
+<div class="acc-body">
+  <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
+<table style="height: 170px; width: 170px;">
+<tbody><tr>
+<td style="height: 150px; width: 150px;"><img src="/images/Pressreader_cup.png" /></td>
+</tr>
+</tbody>
+</table>
+<p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
+  </div>
+</div> 
+
+<div>
+		<input type="radio" name="acc" id="acc5">
+        <label for="acc5">Will I incur any costs when I download content from PressReader?</label>
+
+<div class="acc-body">
+	<p>No, you will not be charged for the content that NLB has subscribed to.</p> <p class="end-note">(Do note that downloading content using your mobile data plan may incur charges from your telco for the data used.)</p>
+  </div>
+</div> 
+
+<div>
+		<input type="radio" name="acc" id="acc6">
+        <label for="acc6">How many eNewspaper and eMagazine titles or issues can I download?</label>
+        <div class="acc-body">
+		<p>Good news, there's no limit! You can download as many titles and issues as you like.</p><p class="end-note">But make sure your device has enough space to store the downloaded content.</p>
+  </div>
+</div> 
+
+<div>
+		<input type="radio" name="acc" id="acc6a">
+	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
+        <div class="acc-body">
+		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another vendor - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to read <i>The Economist</i> on your browser or the Libby app.</p>
+		<p>The difference between PressReader and Libby is that Libby has a smaller collection of only magazines, but includes some that are not available in PressReader. These are:
+		<ol>
+			<li>Allure</li>
+			<li>Billboard</li>
+			<li>Bon Appetit</li>
+			<li>Conde Nast Traveler</li>
+			<li>Marie Claire</li>
+			<li>Rolling Stone</li>
+			<li>The Economist</li>
+			<li>The Hollywood Reporter</li>
+			<li>The New Yorker</li>
+			<li>Wired</li>
+		</ol>
+		</p>
+  
+
+</div>
+</div> 
+
+<div>
+		<input type="radio" name="acc" id="acc6b">
+	<label for="acc6b">What is the difference between Libby's eMagazines and PressReader's eNewspapers and eMagazines?</label>
+        <div class="acc-body">
+		<p>
+			    PressReader has a much larger collection that includes newspapers. Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:
+		</p>
+		<ol>
+			<li>Allure</li>
+			<li>Billboard</li>
+			<li>Bon Appetit</li>
+			<li>Conde Nast Traveler</li>
+			<li>Marie Claire</li>
+			<li>Rolling Stone</li>
+			<li>The Economist</li>
+			<li>The Hollywood Reporter</li>
+			<li>The New Yorker</li>
+			<li>Wired</li>
+		</ol>
+		<p>
+		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mag" target="_blank" rel="noopener">Click here</a> for the Libby guide.
+		    </p>
+		<p>
+		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, just borrow again if you still want them.
+		</p>
+
+</div>
+</div> 
 
 <p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">

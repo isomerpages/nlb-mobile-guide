@@ -347,9 +347,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <li>Glo</li>
 </ul>
 <p>Here are the steps to do so:</p>
-<p>i. Connect your eReader to your computer</p>
-<p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer</p>
-<p>iii. Download an EPUB or PDF eBook to ADE from your library’s digital collection. Downloaded eBooks should open automatically in ADE.</p>
+<p>i. Connect your eReader to your computer.</p>
+<p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer.</p>
+<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary ID. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
   <a href="https://help.overdrive.com/en-us/0047.html" target="_blank">what to do if your eReader is not detected by ADE</a>.&nbsp;
@@ -364,6 +364,26 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <br>
 </p>
 </div></div>
+
+<div>
+		<input type="radio" name="acc" id="acc19a">
+        <label for="acc19a">I can't find some of the books I borrowed on OverDrive / Libby in my Kobo eReader.</label>
+        <div class="acc-body">
+<p>This happens for title(s) that are not in the Kobo Store. You can still transfer the book(s) to your Kobo eReader via the Adobe Digital Editions software on a computer. </p>
+
+<p>Here are the steps to do so:</p>
+<p>i. Connect your eReader to your computer.</p>
+<p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer.</p>
+<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary ID. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
+<p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
+<p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
+  <a href="https://help.overdrive.com/en-us/0047.html" target="_blank">what to do if your eReader is not detected by ADE</a>.&nbsp;
+</p>
+<p>For more details and screenshots, read this article on 
+  <a href="https://help.overdrive.com/en-us/0005.html" target="_blank">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
+</p>
+</div>
+</div>
 
 <p>
 <div class="FAQ-section" id="LibbyTroubleshoot">
