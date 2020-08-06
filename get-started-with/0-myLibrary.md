@@ -31,14 +31,16 @@ A user ID for library members that lets you:
 			<ul>
 				<li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
 				<li>If you are a foreigner who recently signed up to be a new PAssion card member, you are eligible for a waiver on the registration fee ($10.50). The annual membership fee ($42.80) will still be chargeable. To sign up and enjoy the waiver, please go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</li>
-				<li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:</li>
+				<li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:
 				<ul>
 					<li style="margin-left: 20px;">the one-time registration fee (for PRs)</li>
 					<li style="margin-left: 20px;">the annual fee (for foreigners)</li>
 					<p>To receive the waiver, sign up for library membership <strong>at the libraries</strong> instead of online.</p>
-				</ul>
-				</div>
-		</div>
+					  </ul>
+				</li>
+			</ul>
+	</div>
+</div>
 
  <div>
         <input type="radio" name="acc" id="acc2">
