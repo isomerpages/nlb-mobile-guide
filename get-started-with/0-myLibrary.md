@@ -29,15 +29,14 @@ A user ID for library members that lets you:
 <p>Do note that:</p>
 <ul>
   <li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
+	<li>If you are a foreigner who recently signed up to be a new PAssion card member, you are eligible for a waiver on the registration fee ($10.50). The annual membership fee ($42.80) will still be chargeable. To sign up and enjoy the waiver, please go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</li>
   <li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:
     <ul>
       <li style="margin-left: 20px;">the one-time registration fee (for PRs)</li>
       <li style="margin-left: 20px;">the annual fee (for foreigners)</li>
-    </ul>
-  </li>
-</ul>
 <p>To receive the waiver, sign up for library membership <strong>at the libraries</strong> instead of online.</p>
-		</div>
+  	
+</div>
 	</div>
 
  <div>
@@ -86,6 +85,15 @@ A user ID for library members that lets you:
           </div>
 
 <div>
+		<input type="radio" name="acc" id="acc5a">
+        <label for="acc5a">[For Foreigners Only] Can I renew my membership online?</label>
+        <div class="acc-body">
+        <p>Yes, you can renew <a href="https://account.nlb.gov.sg">online</a> if you have a SingPass ID and password. You will need a debit/credit card to pay for the registration fee ($10.50; payable again upon renewal, if membership has expired for more than 6 months) and the annual membership fee ($42.80).</p>
+        </div>
+        </div>
+
+
+<div>
 		<input type="radio" name="acc" id="acc6">
         <label for="acc6">Where can I sign up for library membership if I cannot use the online registration service? </label>
         <div class="acc-body">
@@ -99,10 +107,15 @@ A user ID for library members that lets you:
 
 <div>
 		<input type="radio" name="acc" id="acc8">
-        <label for="acc8">I am a Singaporean/PR and have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</label>
-          <div class="acc-body"><p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
+        <label for="acc8">I have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</label>
+	<div class="acc-body">
+		<h4>For Singaporeans/PRs</h4>
+		<p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
           <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your SingPass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). With this myLibrary ID, you can instantly check your account online, <a href="/get-started-with/nlb-mobile/">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
-          <p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
+	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
+	<h4>For Foreigners</h4>
+	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($42.80). The registration fee ($10.50) will be waived. To sign up, please go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
+	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
           </div>
           </div>
 
@@ -125,7 +138,7 @@ A user ID for library members that lets you:
            <li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
            <li>You can start using our digital collection immediately! Download the <a href="https://www.nlb.gov.sg/static/nlbmobileguide/">NLB Mobile app</a> to read eBooks, listen to audiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries </li></ul>
            <p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
-           <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
+           <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://go.nlb.gov.sg/nlbmobile">library services</a>.</p>
            </div>
            </div>
 
