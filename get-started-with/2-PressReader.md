@@ -9,7 +9,7 @@ title: eMagazines and eNewspapers
 
 <p>
 <div class="FAQ-section" id="sph">
-<h2>Read SPH newspapers at home</h2>
+<h2>How to Read SPH eNewspapers From Home</h2>
 	<div class="vd">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -31,7 +31,7 @@ title: eMagazines and eNewspapers
 
 <div>
         <input type="radio" name="acc" id="sph1a">
-        <label for="sph1a">How long does NLB intend to offer access to SPH eNewspapers from home?</label>
+        <label for="sph1a">How long does NLB intend to offer access to SPH newspapers from home?</label>
 
  <div class="acc-body">
   <p>NLB would like to continue offering SPH eNewspapers as a staple offering. Such subscriptions are dependent on our agreements and negotiations with vendors. 
@@ -204,7 +204,7 @@ title: eMagazines and eNewspapers
 
 
 <div class="FAQ-section" id="AboutPressReader"> 
-	<p><h1>Reading International eNewspapers and eMagazines with PressReader</h2></p>
+	<p><h1>Reading International eNewspapers and eMagazines with PressReader</h1></p>
 	<p><h2>About PressReader</h2></p>
 	<p>An <b>international</b> digital newsstand on the go:</p>
 <ul>
