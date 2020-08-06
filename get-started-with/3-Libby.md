@@ -379,10 +379,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
   <a href="https://help.overdrive.com/en-us/0047.html" target="_blank">what to do if your eReader is not detected by ADE</a>.&nbsp;
 </p>
-<p><strong>Nook</strong>: NLB currently does not purchase and support eBooks in the Nook format as it is not officially available to the Singapore market.&nbsp;</p>
-<p><strong>Apple Books</strong>: Currently, Apple Books is not supported.</p>
-<p><strong>Google Play Books</strong>: Currently, Google Play Books is not supported.</p>
-<p><strong>Adobe Digital Editions</strong>: Yes, you can. Read this article on 
+<p>For more details and screenshots, read this article on 
   <a href="https://help.overdrive.com/en-us/0005.html" target="_blank">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
 </p>
 </div>
