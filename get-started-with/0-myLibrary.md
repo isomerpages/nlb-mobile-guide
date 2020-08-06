@@ -35,6 +35,7 @@ A user ID for library members that lets you:
       <li style="margin-left: 20px;">the one-time registration fee (for PRs)</li>
       <li style="margin-left: 20px;">the annual fee (for foreigners)</li>
 <p>To receive the waiver, sign up for library membership <strong>at the libraries</strong> instead of online.</p>
+	  </ul>
   	
 </div>
 	</div>
