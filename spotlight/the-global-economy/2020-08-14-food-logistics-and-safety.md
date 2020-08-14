@@ -113,8 +113,8 @@ Kamath, R. (2018, June 12) Food traceability on blockchain: Walmart’s pork and
 
 
 <h4>Chinese, Malay and Tamil resources</h4>
-<h5>1. 我国食品来源多元化 主要供应源有12个</h5>
-我国食品来源多元化 主要供应源有12个。（2020年3月17日）。<a href="https://www.8world.com/news/singapore/article/covid19-food-sources-1074146" target="_blank">Is it time to rethink globalized supply chains?</a> *8视界。* Retrieved 2020, June 8.
+<h5>1. <a href="https://www.8world.com/news/singapore/article/covid19-food-sources-1074146" target="_blank">我国食品来源多元化 主要供应源有12个</a></h5>
+我国食品来源多元化 主要供应源有12个。（2020年3月17日）。Is it time to rethink globalized supply chains? *8视界。* Retrieved 2020, June 8.
 
 To ensure a constant and reliable food supply and minimise dependency, Singapore imports from varied sources. The Singapore Food Agency works with industry partners and foreign counterparts to ensure our food supply and safety. Other measures include funding for Singapore companies to set up food production companies overseas and educating the public on alternative food products.
 
