@@ -48,7 +48,7 @@ Cullen, M.T. (2020, March 29). COVID-19 and the risk to food supply chains: How 
 <h5>4. <a href="https://www.who.int/news-room/fact-sheets/detail/food-safety" target="_blank">Food safety</a></h5>
 Food safety. (2020, April 30). *World Health Organization.* Retrieved 2020, June 16.
 
-<h5>5. <a href="https://www2.deloitte.com/us/en/" target="_blank">Food safety supply chain risk management</a></h5>
+<h5>5. <a href="https://www2.deloitte.com/us/en/pages/risk/articles/food-safety-supply-chain-risk.html" target="_blank">Food safety supply chain risk management</a></h5>
 Chasen, R. & McGinnis, T. (2020). Food safety supply chain risk management. *Deloitte*. Retrieved 2020, June 16.
 
 <h5>6. <a href="https://www.foodprocessing.com/category/food_safety/" target="_blank">Food safety: Food processing</a></h5>
@@ -88,8 +88,8 @@ Shaw, I. C. (2018). *Food safety: The science of keeping food safe.* Wiley. Retr
 Shaw, H. J. & Shaw, J. J.A. (2019). *Corporate social responsibility, social justice and the global food supply chain.* Taylor & Francis. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
 <a href="https://nlb.overdrive.com/media/4193616" target="_blank"><img src="/images/NL-b5-corporate-social-responsibility.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
-<h5>5. Corporate social responsibility, social justice and the global food supply chain</h5>
-Shaw, H. J. & Shaw, J. J.A. (2019). *Corporate social responsibility, social justice and the global food supply chain.* Taylor & Francis. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
+<h5>5. Hot, hungry planet: The fight to stop a global food crisis in the face of climate change</h5>
+Palmer, L. (2017). *Hot, hungry planet: The fight to stop a global food crisis in the face of climate change.* St Martin’s Publishing Group. Retrieved from OverDrive. (<a href="https://account.nlb.gov.sg/" target="_blank">myLibrary ID</a> is required to access this ebook.)<br/> 
 <a href="https://nlb.overdrive.com/media/2968686" target="_blank"><img src="/images/NL-b5-hot-hungry-planet.jpg" style="width:200px; text-align:left; border:1px solid #999999;"></a>
 
 If you are interested to read up further on food logistics and safety, check out the following journal articles and further resources in Chinese, Malay and Tamil.
@@ -107,14 +107,9 @@ Lin, S.Y. (2017). An Asian way to safeguard food security: Transnational farmlan
 <h5>4. <a href="https://doi.org/10.31585/jbba-1-1-(10)2018" target="_blank">Food traceability on blockchain: Walmart’s pork and mango pilots with IBM</a></h5>
 Kamath, R. (2018, June 12) Food traceability on blockchain: Walmart’s pork and mango pilots with IBM. *The Journal of The British Blockchain Association, 1(1)*, 47−53. Retrieved 2020, June 17.
 
-
-
-
-
-
 <h4>Chinese, Malay and Tamil resources</h4>
 <h5>1. <a href="https://www.8world.com/news/singapore/article/covid19-food-sources-1074146" target="_blank">我国食品来源多元化 主要供应源有12个</a></h5>
-我国食品来源多元化 主要供应源有12个。（2020年3月17日）。Is it time to rethink globalized supply chains? *8视界。* Retrieved 2020, June 8.
+我国食品来源多元化 主要供应源有12个。（2020年3月17日）。*8视界。* Retrieved 2020, June 8.
 
 To ensure a constant and reliable food supply and minimise dependency, Singapore imports from varied sources. The Singapore Food Agency works with industry partners and foreign counterparts to ensure our food supply and safety. Other measures include funding for Singapore companies to set up food production companies overseas and educating the public on alternative food products.
 
