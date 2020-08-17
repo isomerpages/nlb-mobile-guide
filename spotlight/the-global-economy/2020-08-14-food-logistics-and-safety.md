@@ -21,7 +21,7 @@ To learn more about food logistics/supply and safety, check out the resources li
 
 [^1]: Liu, V. (2019, December 10). Singapore tops food security index for 2nd straight year. *The Straits Times.* Retrieved 2020, June 16 from <https://www.straitstimes.com/singapore/singapore-tops-food-security-index-for-2nd-straight-year>
 
-[^2]: AVA’s Food Security Roadmap for Singapore (2020, February 27). *Singapore Food Agency.* Retrieved 2020, June 16 from <https://www.sfa.gov.sg/food-for-thought/article/detail/ava’s-food-security-roadmp-for-singapore>
+[^2]: AVA’s Food Security Roadmap for Singapore (2020, February 27). *Singapore Food Agency.* Retrieved 2020, June 16 from <https://www.sfa.gov.sg/food-for-thought/article/detail/ava’s-food-security-roadmap-for-singapore>
 
 [^3]: Tan, H.Y. (2020, April 26). Coronavirus and our new relationship with food. *The Straits Times.* Retrieved 2020, June 16  from <https://www.straitstimes.com/lifestyle/food/coronavirus-and-our-new-relationship-with-food>
 
@@ -120,6 +120,8 @@ Every year, nearly one in ten people in the world (an estimated 600 million peop
 
 <h5>3. <a href="https://www.beritaharian.sg/setempat/moh-pusat-makan-restoran-hanya-dibuka-untuk-pembelian-secara-bungkus-atau-penghantaran" target="_blank">MOH: Pusat makan, restoran hanya dibuka untuk pembelian secara 'bungkus' atau penghantaran</a></h5>
 MOH: Pusat makan, restoran hanya dibuka untuk pembelian secara 'bungkus' atau penghantaran. (2020, April 3). *Berita Harian.* Retrieved 2020, June 16.
+
+The Ministry of Health announced that only takeaways and delivery services were allowed for food outlets and restaurants during the Circuit Breaker period. However, it advised that other operational matters such as food safety testing and logistics would continue.
 
 <h5>4. <a href="https://www.tamilmurasu.com.sg/singapore/story20200605-45384.html" target="_blank">உணவு விரயத்தை எதிர்கொள்ள புதிய செயலி</a></h5>
 உணவு விரயத்தை எதிர்கொள்ள புதிய செயலி. (5 Jun 2020). *Tamil Murasu.*  Retrieved 2020, June 3.
