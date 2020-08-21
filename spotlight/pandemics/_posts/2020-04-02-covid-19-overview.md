@@ -49,6 +49,9 @@ Coronavirus disease (COVID-19) pandemic. (2020). <i>World Health Organization</i
 <h5>5. <a href="https://theconversation.com/coronavirus-faqs-can-people-without-symptoms-spread-covid-19-how-long-does-it-live-on-surfaces-what-cleaning-products-kill-the-virus-134945" target="_blank">Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus?</a></h5>
 Janes, C. (2020, March 29). Coronavirus FAQs: Can people without symptoms spread COVID-19? How long does it live on surfaces? What cleaning products kill the virus? <i>The Conversation</i>. Retrieved March 30, 2020.
 
+<h5>6. <a href="https://www.futurelearn.com/courses/covid19-novel-coronavirus" target="_blank">COVID-19: Tackling the novel coronavirus</a></h5>
+London School of Hygiene & Tropical Medicine. (2020). COVID-19: Tackling the novel coronavirus. *FutureLearn*. Retrieved 2020, August 14.
+
 <img src="/images/NL-2-coronavirus.png" style="width:500px;">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4899173/" target="_blank">pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4899173/</a></p>
 <p><strong>If you are interested to read more about COVID-19, check out the following journal articles:</strong></p>
