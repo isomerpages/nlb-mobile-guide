@@ -7,21 +7,19 @@ image: /images/hyread_socmed.jpg
 title: Chinese eBooks and eMagazines
 ---
 <p><h2>About HyRead</h2></p>
-<p>
 	<ul>
 	<li>Chinese eBooks and eMagazines platform offering mainly titles published in Taiwan, and some publications from Hong Kong, China, Singapore and Malaysia</li>
 		<li>A wide variety of books, from fiction to business and comics</li>
-			<li>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp">its website</a> or the app from the<a href="https://goo.gl/kGEflg">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc" target="_blank">Google Play Store</a>.</li>
+			<li>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp">its website</a> or the app from the <a href="https://goo.gl/kGEflg">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc" target="_blank">Google Play Store</a>.</li>
 		</ul>
-		</p>
 	<p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。</p>
 	
 <p><h2>How to Read Chinese eBooks and eMagazines with HyRead</h2></p>
 <div class="vd">
-<iframe width="560" height="315" src="https://youtu.be/YlNEZW0QDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp">its website</a> or the app from the<a href="https://goo.gl/kGEflg">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc" target="_blank">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available.</p>
+<p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp" target="_blank" rel="noopener">its website</a> or the app from the <a href="https://goo.gl/kGEflg" target="_blank" rel="noopener">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available.</p>
 
 <h2>Getting Started</h2>
 <div class="acc-kontainer"><!--accordion-->          
@@ -29,8 +27,8 @@ title: Chinese eBooks and eMagazines
 		<input type="radio" name="acc" id="acc1"><!--question 1-->
         <label for="acc1">What can I do with the HyRead 3 app?</label>
         <div class="acc-body"><!--answer for question 1-->
-		<p>After signing in with your <a href="/get-started-with/myLibrary/">myLibrary ID</a>, you can browse, checkout, download and read Chinese eBooks and eMagazines from NLB’s HyRead collection.</p>
-		<p>You can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc" target="_blank">Google Play Store</a>.</p>
+		<p>After signing in with your <a href="/get-started-with/myLibrary/" target="_blank" rel="noopener">myLibrary ID</a>, you can browse, checkout, download and read Chinese eBooks and eMagazines from NLB’s HyRead collection.</p>
+		<p>You can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>.</p>
 </div><!--close div for acc-body-->
 </div><!--close div for qn-->
 
@@ -38,7 +36,7 @@ title: Chinese eBooks and eMagazines
 		<input type="radio" name="acc" id="acc2">
         <label for="acc2">What are the system requirements for the HyRead 3 app?</label>
         <div class="acc-body">
-  <p>For an optimal experience, HyRead recommends the minimum requirements listed below:</p>
+  <p>For best results, HyRead recommends the minimum requirements listed below:</p>
 <p>
 	<table>
 <tbody>
@@ -61,7 +59,7 @@ title: Chinese eBooks and eMagazines
 </tbody>
 </table>
 		</p>
-	<p>For more information, refer to the <a href="https://ebook.hyread.com.tw/Template/store/hyreadApp3/index.jsp">HyRead 3 mobile app webpage</a>.</p>
+	<p>For more information, please refer to the <a href="https://ebook.hyread.com.tw/Template/store/hyreadApp3/index.jsp" target="_blank" rel="noopener">HyRead 3 mobile app webpage</a>.</p>
 </div>
 </div>
 
@@ -84,7 +82,7 @@ title: Chinese eBooks and eMagazines
 
 <div>
         <input type="radio" name="acc" id="acc5">
-        <label for="acc5">The eBook / eMagazine I want does not have the option to "Borrow" - only "Read Now" and "Reserve".</label>
+        <label for="acc5">I don't see the option to "Borrow" the eBook / eMagazine I want. The only buttons I see are "Read Now" and "Reserve".</label>
         <div class="acc-body">
 		<p>You may choose to "Read Now" - which means you can only read the eBook / eMagazine when your device is connected to the internet. If you wish to read it even when there is no internet connection available, you may reserve the eBook / eMagazine and wait for it to become available for borrowing, so that you can download it for offline reading. Reservations are free of charge.</p>
 </div></div>
@@ -123,12 +121,12 @@ title: Chinese eBooks and eMagazines
         <input type="radio" name="acc" id="acc8">
         <label for="acc8">Are there any charges for reading, borrowing or reserving the eBooks and/or eMagazines in HyRead?</label>
         <div class="acc-body">
-    	  <p>No, it is free of charge as long as you have logged in with your <a href="/get-started-with/myLibrary/">myLibrary ID</a>. Tip: To avoid incurring charges from your telco for exceeding your data quota, download the HyRead 3 app, eBooks / eMagazines only when there is a WiFi connection available.</p>
+    	  <p>No, it is free of charge as long as you have logged in with your <a href="/get-started-with/myLibrary/" target="_blank" rel="noopener">myLibrary ID</a>. Tip: To avoid incurring charges from your telco for exceeding your data quota, download the HyRead 3 app, eBooks and eMagazines only when there is a WiFi connection available.</p>
 </div></div>
 
   <div>
 		<input type="radio" name="acc" id="acc9">
         <label for="acc9">I cannot use HyRead and I need help. What should I do?</label>
                 <div class="acc-body">
-			<p>We are sorry to hear that! You could try the instructions in our <a href="https://eresources.nlb.gov.sg/main/Help/HyRead">HyRead 3 app step-by-step guide</a>. If you still encounter problems after that, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered, along with screenshots related to the issue(s).</p>
+			<p>We are sorry to hear that! You could try the instructions in our <a href="https://eresources.nlb.gov.sg/main/Help/HyRead" target="_blank" rel="noopener">HyRead 3 app step-by-step guide</a>. If you still encounter problems after that, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered, along with screenshots related to the issue(s).</p>
   </div></div>
