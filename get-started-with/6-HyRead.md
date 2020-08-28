@@ -6,7 +6,7 @@ description: How to Read Chinese eBooks and eMagazines
 image: /images/hyread_socmed.jpg
 title: Chinese eBooks and eMagazines
 ---
-<p><h2>About HyRead</h2></p>
+<h2>About HyRead</h2>
 	<ul>
 	<li>Chinese eBooks and eMagazines platform offering mainly titles published in Taiwan, and some publications from Hong Kong, China, Singapore and Malaysia</li>
 		<li>A wide variety of books, from fiction to business and comics</li>
@@ -84,7 +84,7 @@ title: Chinese eBooks and eMagazines
         <input type="radio" name="acc" id="acc5">
         <label for="acc5">I don't see the option to "Borrow" the eBook / eMagazine I want. The only buttons I see are "Read Now" and "Reserve".</label>
         <div class="acc-body">
-		<p>You may choose to "Read Now" - which means you can only read the eBook / eMagazine when your device is connected to the internet. If you wish to read it even when there is no internet connection available, you may reserve the eBook / eMagazine and wait for it to become available for borrowing, so that you can download it for offline reading. Reservations are free of charge.</p>
+		<p>This means that all the copies of the eBook / eMagazine are currently loaned out. You can still choose to "Read Now" - which means you can read the eBook / eMagazine as long as your device is connected to the internet. If you wish to read it even when there is no internet connection available, you may reserve the eBook / eMagazine and wait for your turn to borrow it, so that you can download it for offline reading. Reservations are free of charge.</p>
 </div></div>
 <div>
 
