@@ -12,8 +12,6 @@ title: HyRead Chinese eBooks and eMagazines
 <li>Chinese eBooks and eMagazines platform offering mainly titles published in Taiwan, and some publications from Hong Kong, China, Singapore and Malaysia</li>
 <li>A wide variety of books, from fiction to business and comics</li>
 </ul>
-<p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp">its website</a> or the app from the <a href="https://goo.gl/kGEflg">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc" target="_blank">Google Play Store</a>.</p>
-
 <p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。</p>
 	
 <p><h2>How to Read Chinese eBooks and eMagazines with HyRead</h2></p>
