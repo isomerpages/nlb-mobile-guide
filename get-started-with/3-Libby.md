@@ -236,7 +236,9 @@ If you want to know why your titles are not downloading or how to adjust your au
 		<input type="radio" name="acc" id="acc11">
         <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and Audiobooks?  </label>
         <div class="acc-body">
-		<p>You can still use OverDrive to borrow eBooks and Audiobooks from NLB. Do note, however, that if your device was released in 2014 or earlier, it may not be able to access the OverDrive app or website after October 30, 2020. Please see the related question on this page for possible solutions and more information.</p>
+		<p>You can still use OverDrive to borrow eBooks and audiobooks from NLB.</o>
+	<p>Do note, however, that if your device was released in 2014 or earlier, it may not be able to access the OverDrive app or website after October 30, 2020. Please see the related question on this page for possible solutions and more information.</p>
+	<p>Here are the steps to download eBooks and audiobooks using the OverDrive app:</p>
     <p><ol><li>Launch OverDrive.</li>
     <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
     <li>Log in using your myLibrary ID.</li>
