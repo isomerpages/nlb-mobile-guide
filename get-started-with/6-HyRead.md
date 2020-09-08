@@ -12,7 +12,8 @@ title: HyRead Chinese eBooks and eMagazines
 <li>Chinese eBooks and eMagazines platform offering mainly titles published in Taiwan, and some publications from Hong Kong, China, Singapore and Malaysia</li>
 <li>A wide variety of books, from fiction to business and comics</li>
 </ul>
-<p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。</p>
+<p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。<a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">点击链接,观看视频学习如何使用Hyread!</a>
+</p>
 	
 <p><h2>How to Read Chinese eBooks and eMagazines with HyRead</h2></p>
 <div class="vd">

@@ -234,9 +234,10 @@ If you want to know why your titles are not downloading or how to adjust your au
 
 <div>
 		<input type="radio" name="acc" id="acc11">
-        <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and Audiobooks?  </label>
+        <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and audiobooks?</label>
         <div class="acc-body">
-		<p>You can still use OverDrive to borrow eBooks and Audiobooks from NLB.</p>
+		<p>You can still use OverDrive to borrow eBooks and audiobooks from NLB.</p>
+	<p>Here are the steps to download eBooks and audiobooks using the OverDrive app:</p>
     <p><ol><li>Launch OverDrive.</li>
     <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
     <li>Log in using your myLibrary ID.</li>
@@ -423,26 +424,45 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <div class="acc-body">
   <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
+  
+  <div>
+		<input type="radio" name="acc" id="acc24">
+        <label for="acc24">Why am I seeing a message on the OverDrive app / website saying that my device will no longer be able to access OverDrive?</label>
+        <div class="acc-body">
+    <p>After October 30 2020, the OverDrive app and OverDrive websites will no longer work on some devices that were released in 2014 or older, as they do not support the TLS 1.2 security protocol. TLS (Transport Layer Security) helps to ensure that your data stays protected.
+      </p>
+		<p>
+			To keep using the OverDrive app and OverDrive websites, you will need to do one of the following:
+		</p>
+		<ul>
+			<li>Update your device's <b>browser</b> to a version that supports TLS 1.2. This will allow you to use the <a href="http://nlb.overdrive.com/">OverDrive website</a> but not the OverDrive app. </li>
+			<li><b>If you are using an eReader</b>, use a PC/laptop that supports TLS 1.2 to transfer eBooks to your eReader. Read <a href="https://help.overdrive.com/en-us/0005.html">OverDrive's article</a> on how to do this.</li>
+			<li>If possible, update your device’s operating system to a version that supports TLS 1.2. Android users need to update to Android 5 (see <a href="https://support.google.com/android/answer/7680439?hl=en">Google's steps for updating your Android version</a>). Apple users need to update to iOS 5 (see <a href="https://support.apple.com/en-us/HT204204">Apple's steps for updating your iOS version</a>). If you are seeing this message on a Windows 7 computer, try installing Windows updates.</li>
+			<li>Switch to a device that supports TLS 1.2.</li>
+		</ul>
+		<p>For more information, please read <a href="https://help.overdrive.com/en-us/2271.htm">OverDrive's Help article on this topic</a>.</p>
+  </div>
+</div>
 
 <div class="FAQ-section" id="Others">
 	<p><h2>Can't Find the eBooks You Want?</h2></p>
 
    <div>
-        <input type="radio" name="acc" id="acc23a">
-        <label for="acc23a">Where can I find more eBooks written in the Mother Tongue Languages?</label>
+        <input type="radio" name="acc" id="acc25">
+        <label for="acc25">Where can I find more eBooks written in the Mother Tongue Languages?</label>
         <div class="acc-body">
 		<p>You can find more books in the following languages in Libby by clicking on the relevant link:</p>
 			<ul>
 				<li><a href="https://libbyapp.com/library/nlb/guide/chinese" target="_blank" rel="noopener">Chinese</a></li>
 					<li><a href="https://libbyapp.com/library/nlb/guide/malay" target="_blank" rel="noopener">Malay</a></li>
 					<li><a href="https://libbyapp.com/library/nlb/guide/tamil" target="_blank" rel="noopener">Tamil</a></li></ul>
-		<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="https://eresources.nlb.gov.sg/main/Pages/MobileDevices" target="_blank" rel="noopener">FAQ guide on HyRead</a> in our eResources site.</p>
+		<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="/get-started-with/hyread/" target="_blank" rel="noopener">FAQ page on HyRead</a>.</p>
 
 </div></div>
 	
    <div>
-        <input type="radio" name="acc" id="acc23b">
-        <label for="acc23b">Other than Readalongs, do you have other more interactive eBooks for children?</label>
+        <input type="radio" name="acc" id="acc26">
+        <label for="acc26">Other than Readalongs, do you have other more interactive eBooks for children?</label>
         <div class="acc-body">
 		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
 
