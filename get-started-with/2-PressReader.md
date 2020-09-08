@@ -161,14 +161,26 @@ title: eMagazines and eNewspapers
 </p></div><!--close acc-body-->
 </div><!--close div for qn -->
 
+
 <div>
         <input type="radio" name="acc" id="sph7">
         <label for="sph7">I was logged out while I was reading the newspaper online. What should I do? </label>
 
  <div class="acc-body">
   <p>Due to licensing and access control, there is a limit to the number of users who can read the newspapers at the same time. Sometimes, users may be logged out when the limit is reached. If this happens, please wait a while, then log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
-</p></div><!--close acc-body-->
+</p>
+</div><!--close acc-body-->
 </div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph8">
+        <label for="sph8">Does NLB's arrangement with SPH also allow me to read the articles on ST Online and other SPH websites?</label>
+
+ <div class="acc-body">
+  <p>No. NLB's license agreement with SPH is for the digital version of the print newspaper only.</p>
+</div><!--close acc-body-->
+</div><!--close div for qn -->
+
 <p>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div>
 
