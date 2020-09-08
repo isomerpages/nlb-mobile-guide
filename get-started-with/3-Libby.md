@@ -237,7 +237,6 @@ If you want to know why your titles are not downloading or how to adjust your au
         <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and audiobooks?</label>
         <div class="acc-body">
 		<p>You can still use OverDrive to borrow eBooks and audiobooks from NLB.</p>
-	<p>Do note, however, that if your device was released in 2014 or earlier, it may not be able to access the OverDrive app or website after October 30, 2020. Please see the related question on this page for possible solutions and more information.</p>
 	<p>Here are the steps to download eBooks and audiobooks using the OverDrive app:</p>
     <p><ol><li>Launch OverDrive.</li>
     <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
@@ -249,26 +248,6 @@ If you want to know why your titles are not downloading or how to adjust your au
       </p>
   </div>
 </div>
-
-<div>
-		<input type="radio" name="acc" id="acc11a">
-        <label for="acc11a">Why am I seeing a message on the OverDrive app / website saying that my device will no longer be able to access OverDrive?</label>
-        <div class="acc-body">
-    <p>After October 30 2020, the OverDrive app and OverDrive websites will no longer work on some devices that were released in 2014 or older, as they do not support the TLS 1.2 security protocol. TLS (Transport Layer Security) helps to ensure that your data stays protected.
-      </p>
-		<p>
-			To keep using the OverDrive app and OverDrive websites, you will need to do one of the following:
-		</p>
-		<ul>
-			<li>Update your device's <b>browser</b> to a version that supports TLS 1.2. This will allow you to use the <a href="http://nlb.overdrive.com/">OverDrive website</a> but not the OverDrive app. </li>
-			<li><b>If you are using an eReader</b>, use a PC/laptop that supports TLS 1.2 to transfer eBooks to your eReader. Read <a href="https://help.overdrive.com/en-us/0005.html">OverDrive's article</a> on how to do this.</li>
-			<li>If possible, update your device’s operating system to a version that supports TLS 1.2. Android users need to update to Android 5 (see <a href="https://support.google.com/android/answer/7680439?hl=en">Google's steps for updating your Android version</a>). Apple users need to update to iOS 5 (see <a href="https://support.apple.com/en-us/HT204204">Apple's steps for updating your iOS version</a>). If you are seeing this message on a Windows 7 computer, try installing Windows updates.</li>
-			<li>Switch to a device that supports TLS 1.2.</li>
-		</ul>
-		<p>For more information, please read <a href="https://help.overdrive.com/en-us/2271.htm">OverDrive's Help article on this topic</a>.</p>
-  </div>
-</div>
-
 
 <div>
 		<input type="radio" name="acc" id="acc12">
