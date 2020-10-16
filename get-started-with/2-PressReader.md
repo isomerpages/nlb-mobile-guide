@@ -146,8 +146,19 @@ title: eMagazines and eNewspapers
         <label for="sph5">Why can’t I download the newspapers?  </label>
 
  <div class="acc-body">
-  <p>The license agreement is for reading the newspaper online only.   
-</p></div><!--close acc-body-->
+	<p>The license agreement is for reading the newspaper <b>online</b> only, when users are not at library premises.   
+</p>
+  <p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries with your device, <u>only</u> while it is connected to NLB's Wireless@SGx networks. You can do so using either of the following:</p>
+<ul>
+<li>PressReader app</li>
+<li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
+</ul>
+</li>
+</ul>
+<p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
+<p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
+
+</div><!--close acc-body-->
 </div><!--close div for qn -->
 
 <div>
@@ -190,30 +201,20 @@ title: eMagazines and eNewspapers
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
-	
         <div class="acc-body">
-  <p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries via:</p>
+  <p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries with your device, <u>only</u> while it is connected to NLB's Wireless@SGx networks. You can do so using either of the following:</p>
 <ul>
-<li>The libraries&rsquo; computers
-<ul>
-<li>eNewspaper Stations</li>
-<li>Multimedia Stations</li>
-</ul>
-</li>
-<li>Your device, <u>only</u> while it is connected to NLB's Wireless@SGx networks
-<ul>
-<li>PressReader app (Android, iOS and Windows)</li>
+<li>PressReader app</li>
 <li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
 </ul>
 </li>
 </ul>
 <p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
--->
 <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
         <p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you can do so from anywhere, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
 	</p>
 </div>
-</div> --><!--close div for acc7 (question)-->
+</div><!--close div for acc7 (question)-->
 <!--</div>--> <!--close div for acc body (answer)-->
 
 
