@@ -16,7 +16,7 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 </div>
 <p>You can now read newspapers published by Singapore Press Holdings (SPH) from home. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page.</a> If you have any questions, read our guide at the <a href="/get-started-with/pressreader/#sph">eNewspapers and eMagazines FAQ page here</a>.</p>
 <h3>International eNewspapers and eMagazines</h3>
-<p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. <!--For SPH newspapers such as The Straits Times, Business Times and Lianhe Zaobao, please visit any of our libraries. -->
+<p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. </p>
 <p>Watch this video to learn how to read eNewspapers and eMagazines.</p>
 <div class="vd">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
