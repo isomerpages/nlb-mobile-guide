@@ -153,8 +153,6 @@ title: eMagazines and eNewspapers
 <li>PressReader app</li>
 <li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
 </ul>
-</li>
-</ul>
 <p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
 <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
 
@@ -206,8 +204,6 @@ title: eMagazines and eNewspapers
 <ul>
 <li>PressReader app</li>
 <li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
-</ul>
-</li>
 </ul>
 <p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
 <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
