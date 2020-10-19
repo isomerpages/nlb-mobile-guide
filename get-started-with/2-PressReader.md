@@ -211,7 +211,7 @@ title: eMagazines and eNewspapers
 	</p>
 </div>
 </div><!--close div for acc7 (question)-->
-<!--</div>--> <!--close div for acc body (answer)-->
+</div><!--close div for acc body (answer)-->
 
 
 
