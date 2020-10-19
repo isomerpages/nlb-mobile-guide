@@ -142,24 +142,6 @@ title: eMagazines and eNewspapers
 </div><!--close div for qn -->
 
 <div>
-        <input type="radio" name="acc" id="sph5">
-        <label for="sph5">Why can’t I download the newspapers?  </label>
-
- <div class="acc-body">
-	<p>The license agreement is for reading the newspaper <b>online</b> only, when users are not at library premises.   
-</p>
-  <p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries with your device, <u>only</u> while it is connected to NLB's Wireless@SGx networks. You can do so using either of the following:</p>
-<ul>
-<li>PressReader app</li>
-<li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
-</ul>
-<p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
-<p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
-
-</div><!--close acc-body-->
-</div><!--close div for qn -->
-
-<div>
         <input type="radio" name="acc" id="sph6">
         <label for="sph6">I see an SPH login screen. What should I do? </label>
  <div class="acc-body">
@@ -191,11 +173,12 @@ title: eMagazines and eNewspapers
 </div><!--close div for qn -->
 
 <p>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
-</div>
+</div><!--close div for section -->
 
 <p>
 <div class="FAQ-section" id="PressReaderLocalNews"> 
 <h2>Downloading Local Newspapers</h2>
+	  <div class="acc-kontainer"><!--div for each button-->
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
