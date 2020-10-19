@@ -22,23 +22,21 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 <iframe width="720" height="405" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p><h2>Top Tips for Seniors</h2></p>
-<a href="/images/Seniors.png"><img src="/images/Seniors_lowres.png" alt="An infographic featuring top tips for seniors on NLB's digital collection, such as accessing eNewspapers and eMagazines, stories for grandchildren, eLearning and so on."></a>
+<p><h2>Tips for Seniors</h2></p>
+<!--<a href="/images/Seniors.png"><img src="/images/Seniors_lowres.png" alt="An infographic featuring top tips for seniors on NLB's digital collection, such as accessing eNewspapers and eMagazines, stories for grandchildren, eLearning and so on."></a>
 <a href="/images/Seniors.png">Click to enlarge</a>
-
 <p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
 <p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
 <p>Find out more about <a href="/get-started-with/lynda/">eLearning</a>.</p>
-
-<p><h2>More Tips</h2></p>
+<p><h2>More Tips</h2></p>-->
 
 <p><h5>How to Spot Fake News</h5></p>
 <p>Find out how you can spot fake news using NLB’s <a href="https://sure.nlb.gov.sg/resources/audience/seniors/combating-fake-news" target="_blank" rel="noopener">S.U.R.E. resources</a>. Some of these resources are also available in <a href="https://sure.nlb.gov.sg/resources/audience/seniors/multilingual" target="_blank" rel="noopener">Chinese, Malay and Tamil</a>.</p>
 
 <p><h5>Be Savvy and Safe when you Go Digital</h5></p>
 
-<p>Check out the online guides from <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">IMDA's "Stay Healthy, Go Digital"</a> site. It includes content such as:</p>
+<p>Check out the online guides from <a href="https://imsilver.imda.gov.sg/" target="_blank" rel="noopener">IMDA's IMSilver</a> site. It includes content such as:</p>
 <ul>
 <li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Articles and tips on staying safe in the digital world</a></li>
 <li><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">Helpful guides on how to connect with family and friends</a> through email, Facebook, Instagram, WhatsApp and other digital tools. Feel free to use them while coaching your family members or friends.</li>
