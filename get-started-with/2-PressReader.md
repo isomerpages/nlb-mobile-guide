@@ -184,12 +184,14 @@ title: eMagazines and eNewspapers
         <label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
         <div class="acc-body">
                 <p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
-<p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries with your device, <u>only</u> while it is <b>connected to NLB's Wireless@SGx</b> networks. After connecting to the Wireless@SGx network in the library, you can download the local newspapers using either:</p>
-<ul>
-<li>the PressReader app, or</li>
-<li>the NLB Mobile app, via the eNewspapers &amp; eMagazines icon</li>
-</ul>
-<p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
+<p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries with your device,  while it is <b>connected to NLB's Wireless@SGx</b> networks. </p>
+		<p><b>Step 1:</b></p>
+		<p>Connect your device to the Wireless@SGx network in the library.</p>
+		<p><b>Step 2:</b></p>
+		<p>Launch the PressReader app directly (or go to the NLB Mobile app and tap on the "eNewspapers and eMagazines" icon).</p>
+		<p><b>Step 3:</b></p>
+		<p>Search for the newspaper you want. Tap on the downwards arrow next to the name of the newspaper, or tap on the green "Read" button to download it. To access past issues, tap on the cover of the newspaper, then the calendar icon.</p>
+<p>Anything you download in the PressReader app can be accessed using the "Downloaded" button at the bottom of the PressReader app. You can download as many SPH newspapers as you want <b>when you are at the libraries</b>, just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
         <p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
 	</p>
 
