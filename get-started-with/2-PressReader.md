@@ -142,15 +142,6 @@ title: eMagazines and eNewspapers
 </div><!--close div for qn -->
 
 <div>
-        <input type="radio" name="acc" id="sph5">
-        <label for="sph5">Why can’t I download the newspapers?  </label>
-
- <div class="acc-body">
-  <p>The license agreement is for reading the newspaper online only.   
-</p></div><!--close acc-body-->
-</div><!--close div for qn -->
-
-<div>
         <input type="radio" name="acc" id="sph6">
         <label for="sph6">I see an SPH login screen. What should I do? </label>
  <div class="acc-body">
@@ -182,36 +173,31 @@ title: eMagazines and eNewspapers
 </div><!--close div for qn -->
 
 <p>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
-</div>
+</div><!--close div for section -->
 
-<!--
 <p>
 <div class="FAQ-section" id="PressReaderLocalNews"> 
-<h2>Reading Local Newspapers</h2>
+<h2>Downloading Local Newspapers</h2>
+	  <div class="acc-kontainer"><!--div for each button-->
 <div>
 		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">Can I read local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> on PressReader?</label>
+        <label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
         <div class="acc-body">
-  <p>Yes, you can. Do note that you can read SPH newspapers only <u>onsite</u> at NLB&rsquo;s libraries via:</p>
-<ul>
-<li>The libraries&rsquo; computers
-<ul>
-<li>eNewspaper Stations</li>
-<li>Multimedia stations</li>
-</ul>
-</li>
-<li>Your device, <u>only</u> while it is connected to NLB's Wireless@SG/SGx networks
-<ul>
-<li>PressReader app (Android, iOS and Windows)</li>
-<li>NLB Mobile app via the eNewspapers &amp; eMagazines icon</li>
-</ul>
-</li>
-</ul>
-<p>SPH newspapers are not available <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
-        <p>You can download as many SPH newspapers as you want when you are at the libraries just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
+                <p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
+<p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries with your device,  while it is <b>connected to NLB's Wireless@SGx</b> networks. </p>
+		<p><b>Step 1:</b></p>
+		<p>Connect your device to the Wireless@SGx network in the library.</p>
+		<p><b>Step 2:</b></p>
+		<p>Launch the PressReader app directly (or go to the NLB Mobile app and tap on the "eNewspapers and eMagazines" icon).</p>
+		<p><b>Step 3:</b></p>
+		<p>Search for the newspaper you want. Tap on the downwards arrow next to the name of the newspaper, or tap on the green "Read" button to download it. To access past issues, tap on the cover of the newspaper, then the calendar icon.</p>
+<p>Anything you download in the PressReader app can be accessed using the "Downloaded" button at the bottom of the PressReader app. You can download as many SPH newspapers as you want <b>when you are at the libraries</b>, just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
+        <p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
+	</p>
+
 </div>
-</div> --><!--close div for acc7 (question)-->
-<!--</div>--> <!--close div for acc body (answer)-->
+</div><!--close div for acc7 (question)-->
+</div><!--close div for acc body (answer)-->
 
 
 
@@ -247,7 +233,7 @@ title: eMagazines and eNewspapers
 </table>
 --end hide New Features box>
 
-<!--Hide SPH gif till libraries reopen
+<!--Hide SPH gif 
 <p> <h2>How to Read SPH eNewspapers</h2> </p>
 ![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
 -->
@@ -278,7 +264,7 @@ title: eMagazines and eNewspapers
 
  <div class="acc-body">
   <p>‘Sponsored Access’ means that you have been granted complimentary access to PressReader. During this period, you can download PressReader content and continue to read the downloaded content until you decide to delete the files.</p> 
-<p>‘Sponsored Access’ is granted when you access PressReader via the NLB Mobile app, or when you connect your device to Wireless@SG/SGx at the libraries.
+<p>‘Sponsored Access’ is granted when you access PressReader via the NLB Mobile app, or when you connect your device to Wireless@SGx at the libraries.
 </p></div>
 </div>
 
@@ -301,7 +287,7 @@ title: eMagazines and eNewspapers
 </li>
 	<li><strong>NLB libraries</strong>
 <ol style="list-style-type: lower-alpha;">
-	<li>Connect <strong>your device</strong> to the Wireless@SG/SGx network at our libraries. Open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SG/SGx network at any library.</li>
+	<li>Connect <strong>your device</strong> to the Wireless@SGx network at our libraries. Open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SGx network at any library.</li>
 	<li>Use the <strong>eNewspaper stations</strong> at our libraries.</li>
 </ol>
 </li>
@@ -323,7 +309,7 @@ title: eMagazines and eNewspapers
         <label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary content?</label>
 
 <div class="acc-body">
-  <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SG/SGx network at NLB libraries, or via the NLB Mobile app.</p>
+  <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SGx network at NLB libraries, or via the NLB Mobile app.</p>
 <table style="height: 170px; width: 170px;">
 <tbody><tr>
 <td style="height: 150px; width: 150px;"><img src="/images/Pressreader_cup.png" /></td>
@@ -409,10 +395,12 @@ title: eMagazines and eNewspapers
 <h2>Troubleshooting PressReader</h2>
   <div><!--div for each button-->
 <input type="radio" name="acc" id="acc8">
-        <label for="acc8">I’m already at the library and connected to Wireless@SG/SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
+        <label for="acc8">I’m already at the library and connected to Wireless@SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
 
 <div class="acc-body">
     <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger at the centre of the screen and drag down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
+	<p>Alternatively, if you only wish to read SPH newspapers <b>online</b> instead of downloading them, you can use the SPH eNewspaper service instead of PressReader to access the newspapers. Just log in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
+	</p>
 
 </div><!--close div for acc7 (question)-->
     </div><!--close div for acc body (answer)-->

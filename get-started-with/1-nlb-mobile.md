@@ -205,23 +205,17 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <div class="acc-body">
 		<p>Just follow these simple steps:</p>
 		<ol>
-			<li>Visit any NLB website on your desktop computer / laptop and click "Login". Choose to log in using NLB Mobile app.</li>
+			<li>Visit any NLB website on a desktop computer / laptop and click "Login". Choose to log in using NLB Mobile app.</li>
 			<li>Click on the QR code on the computer screen.</li>
 			<li>Open NLB Mobile app on your mobile device. If you have added other profiles, make sure you are logged into the right profile. Tap the camera icon on the top left corner of the Home tab. (If the app requests access to the device camera, please allow it. You will need to do this only once.)</li>
-			<li>Use your phone to scan the QR code displayed on your computer screen.</li>
+			<li>Use your phone to scan the QR code displayed on the computer screen.</li>
 			<li>NLB Mobile will show you a confirmation screen that mentions the website you are trying to log into. Tap "Yes" to confirm.</li>
 			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
 		</ol>
 	<img src="/images/QRLogin.png">
     </div>
     </div>
-    <div>
-        <input type="radio" name="acc" id="acc102">
-        <label for="acc102">Can I use NLB QR Login at the computers in the libraries?</label>
-        <div class="acc-body">
-        <p>Currently, NLB QR Login is available only for NLB’s websites. We will be rolling out this feature to the computers in our libraries soon.</p>
-    </div>
-    </div>
+
 
 
 <p><h2>Borrowing physical items, eBooks and Audiobooks</h2></p>
@@ -327,7 +321,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <div class="acc-body">
   <p>NLB Mobile lets you read over 7,000 current eNewspapers and eMagazines from local and international publishers.</p>
 <p>First, sign in with a myLibrary ID. Next, tap the ‘eMagazines & eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the one hour is up, you can re-launch PressReader from NLB Mobile to get sponsored access again. </p>
-<p>In addition, local newspapers such as<em> The Straits Times, The Business Times</em> and <em>Lianhe Zaobao</em> can only be accessed when your device is connected to the Wireless@SG/SGx network at any library.</p>
+<p>In addition, local newspapers such as<em> The Straits Times, The Business Times</em> and <em>Lianhe Zaobao</em> can only be accessed when your device is connected to the Wireless@SGx network at any library.</p>
 <p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines</a>.</p>
 
 </div></div>
