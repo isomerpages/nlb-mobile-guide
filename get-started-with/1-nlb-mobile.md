@@ -319,7 +319,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <label for="acc14">How do I read eMagazines/ eNewspapers from NLB Mobile?  </label>
 
 <div class="acc-body">
-	<p><h5>Reading SPH Local eNewspapers</h5></p>
+	<h5>Reading SPH Local eNewspapers</h5>
 <p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the SPH icon. Choose the eNewspaper you would like to read.</p>
 <p>Find out more about how to access SPH Local eNewspapers (e.g. how to zoom in) from <a href="/get-started-with/PressReader/">our FAQ page</a>.</p>
         <p><h5>Reading International eNewspapers and eMagazines</h5></p>
