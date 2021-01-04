@@ -23,42 +23,43 @@ image: /images/FS-futureskillsmonth2020.jpg
 In transdisciplinarity, what are the elements which a transdiscplinary approach actually comprises of, and how can we understand the approach, given its complexity and multi-faceted use? This book aims to provide answers to the fundamental questions of leading practitioners in the fields of higher education and transdisciplinarity.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6E8F9C2A-A01D-4680-ACB5-6BA7303CE3F2">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6E8F9C2A-A01D-4680-ACB5-6BA7303CE3F2">online</a>&#128187;. <br/>
  
-<h5>Hiring (Summary)</h5>
-<i>Richard S. Deems</i>
+<h5>Thinking</h5>
+<i>John Brockman</i>
 <p>
- <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=C6E9C02D-C276-4696-97A8-9D805A5CF0F9"><img src="/images/FS-3-Hiring.jpg" style="width:300px; text-align:left;"></a>
+ <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=1223459"><img src="/images/FS-3-Hiring.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. Career Press, 2017.</p>
-A useful book for hiring managers to learn about the best ways to screen, interview and hire potential colleagues. The writer even suggests maintaining good relationships with great employees who have left the company! This book is also a useful resource for job searchers to gain an understanding of the way recruiters think and work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C6E9C02D-C276-4696-97A8-9D805A5CF0F9">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/C6E9C02D-C276-4696-97A8-9D805A5CF0F9">online</a> &#128187;. <br/> 
+<p class="end-note">eBook only. Harper Perennial, 2013.</p>
+Thinking is a consolidation of original ideas by today’s leading psychologists, neuroscientists, and philosophers on topics such as the architecture of the “normal” human mind, mental disorders, and the science of morality and ethics. Edited by John Brockman, editior of Edge.org, this book will expand readers’ understanding of human thought.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1223459">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1223459">online</a> &#128187;. <br/> 
 
 
-<h5>The Effective Hiring Manager</h5>
-<i>Mark Horstman</i>
+<h5>The Great Mental Models: Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power</h5>
+<i>Tommy Tedford</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=771B48B8-7EA6-4D3F-B4F0-D4510D6B4B95"><img src="/images/FS-3-The-effective-hiring-manager.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0-8A41-407C-BDD8-B9B87BABFC50"><img src="/images/FS-3-The-effective-hiring-manager.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. Wiley, 2019.</p> 
-Learn about the principles of hiring and interviewing from Mark Horstman, co-founder of Manager Tools, a management consulting and training firm. Horstman delves into techniques on reviewing resumes, the best way to structure an interview, ideal ways to capture interview results, and other important criteria to find the best person for the job.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=771B48B8-7EA6-4D3F-B4F0-D4510D6B4B95">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/771B48B8-7EA6-4D3F-B4F0-D4510D6B4B95">online</a>&#128187;. <br/>
+<p class="end-note">eBook only. Tommy Tedford, 2020.</p> 
+The Great Mental Models provides readers insights to the mental models of the world’s greatest problem-solvers, forecasters, and decision-makers. These great minds rely on frameworks and shortcuts to help them navigate out of complexity, and separate good ideas from bad ones. This book will help readers understand their own minds better, and develop successful mindsets of their own.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0-8A41-407C-BDD8-B9B87BABFC50">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/D4D2BFE0-8A41-407C-BDD8-B9B87BABFC50">online</a>&#128187;. <br/>
  
-<h5>Motivation-based Interviewing: A Revolutionary Approach to Hiring the Best</h5>
-<i>Carol Quinn</i>
+<h5>Fact Vs. Fiction: Teaching Critical Thinking Skills in the Age of Fake News</h5>
+<i>Jennifer LaGarde, Darren Hudgins</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5897FF8A-A956-4039-BB74-9E31A381D0D7"><img src="/images/FS-3-Motivation-based-interviewing.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9063F734-C1A1-4E54-A379-F9574A67ACAB"><img src="/images/FS-3-Motivation-based-interviewing.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. Society for Human Resource Management, 2018.</p> 
-Learn the art of interviewing through crafting the right questions, and effectively evaluating interviewee answers, so as to hire the best performer for your company. Passion and attitude are also two characteristics that will help to predict the future success of potential staff. Find out how this can be teased out through the interview process.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=5897FF8A-A956-4039-BB74-9E31A381D0D7">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/5897FF8A-A956-4039-BB74-9E31A381D0D7">online</a>&#128187;. <br/>
+<p class="end-note">eBook only. International Society for Technology in Education, 2018.</p> 
+Fact vs. Fiction is designed to help educators address the new realities of the “fake news” industry, where false stories are intentionally spread to go viral. Even so, the tools and resources in this book will help all readers to discern fact from fiction in the information that we access daily, at our workplaces and from the devices we carry in our pockets.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9063F734-C1A1-4E54-A379-F9574A67ACAB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9063F734-C1A1-4E54-A379-F9574A67ACAB">online</a>&#128187;. <br/>
  
-<h5>Smart Hiring at the Next Level (Summary)</h5>
-<i>Robert W. Wendover</i><br/>
+<h5>Conceptual Blockbusting</h5>
+<i>James L. Adams</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AD4F8CF0-9389-48D3-ADC1-5608DD40D362"><img src="/images/FS-3-Smart-hiring-at-the-next-level.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD"><img src="/images/FS-3-Smart-hiring-at-the-next-level.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. Sourcebooks, 2017.</p> 
-While an ideal first resource for new hiring managers, experienced human resource personnel will also find the suggestions provided in this guide valuable and vital in drawing out information from your prospective employee.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=AD4F8CF0-9389-48D3-ADC1-5608DD40D362">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/AD4F8CF0-9389-48D3-ADC1-5608DD40D362">online</a>&#128187;. <br/>
+<p class="end-note">Call Number: English 153.43 ADA. Basic Books, 2019.</p> 
+In Conceptual Blockbusting, James Adams identifies the key blocks – perceptual, emotional, cultural, environmental, intellectual, expressive – that are preventing us from realising the full potential of our minds. 
+Through the use of exercises and interactive elements, Adams demonstrates how organisations and individuals can overcome these blocks, embrace alternative ways of thinking through complex problems, and celebrate the joy of creativity.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203988748">find the book at the libraries</a>.<br/>
  
 <h5>Hiring Great People (Summary)</h5>
 <i>Kevin C. Klinvex</i><br/>
