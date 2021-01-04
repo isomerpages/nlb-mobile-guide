@@ -154,18 +154,25 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg" target="_blank">Strategic Human Resources</a></strong></p>
-<p>There are various ways to develop a strategic focus when it comes to HR planning. One way is by guiding leadership on how to build an effective structure and culture. These include linking HR activities into your organisation’s vision and mission, engaging employees, and job analysis.</p>
-<a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
+<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg" target="_blank">Problem Solving Techniques </a></strong></p>
+<pLearn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems , by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg" target="_blank"> Social Recruiting for Recruiters </a></strong></p>
-<p>Learn the best ways to use social channels in the area of recruitment including how to find and approach ideal candidates and collaborating with hiring managers. A valuable resource to add to your toolkit with important steps on setting realistic expectations, having profiles that stand out, keeping promises and building strong networks to reach out to more candidates.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg"><img src="/images/FS-3B-Lynda-Social-recruiting.png" style="width:400px;"></a>
+<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg" target="_blank">Executive Decision-Making </a></strong></p>
+<p>Executive coach Mike Figliuolo explains the difference between executive decision making and day-to-day decision making. Learn how to make decisions with positive impact using data and tools, communicate them effectively, and lead your organisation through change. Mike also addresses problems that can potentially arise from these executive decisions, e.g. cultural differences, quality of information, trust and accountability.</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg"><img src="/images/FS-3B-Lynda-Social-recruiting.png" style="width:400px;"></a>
 
-<p><strong>3. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg" target="_blank">Talent Sourcing</a></strong></p>
-<p>This video provides viewers with a sound strategy on effective recruitment, which requires proactive searching to identify and attract top talent even before there is a position open. It explains how technologies like big data, social media and tools like LinkedIn Recruiter help in recruitment to reap the best returns on investments.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
+<p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Decision-Making-High-Stress-Situations/2972405-2.html?org=nlb.gov.sg" target="_blank">Decision-Making in High-Stress Situations</a></strong></p>
+<p>Becki Saltzman shares how to use stress to your advantage – by getting the pressure to work for you instead of against you – when making decisions in the face of overwhelming pressure. Find out how to calculate costs, avoid the pitfalls of consensus-driven decisions, and make strong judgment calls.</p>
+<a href="https://www.lynda.com/Business-tutorials/Decision-Making-High-Stress-Situations/2972405-2.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
 
+<p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg" target="_blank">Take a More Creative Approach to Problem-Solving</a></strong></p>
+<p>A dangerous myth about creativity is that “you either have it or you don’t.” While some people may be more talented than others, the ability to think and solve problems creatively is inherently wired into the human brain. As creatures of habit however, it’s easy to get “locked in” to processes that no longer serve us. Building on insights from improv, design thinking, comedy writing, and startup incubation, this course offers concrete tools for creative thinking.</p>
+<a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
+
+<p><strong>5. <a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg" target="_blank">Develop Critical-Thinking, Decision-Making, and Problem-Solving Skills</a></strong></p>
+<p>Learn how to use logic and reasoning to identify the strengths and weaknesses of alternative solutions and approaches to problems. Discover how to question assumptions, apply sound reasoning, break down complex issues, and grasp the implications of information, through this curated set of videos on decision making and problem solving.</p>
+<a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. HR Basics: Recruitment by Gregg Learning</h5>
