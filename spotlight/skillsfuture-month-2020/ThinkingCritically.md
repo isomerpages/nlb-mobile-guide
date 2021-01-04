@@ -61,104 +61,64 @@ In Conceptual Blockbusting, James Adams identifies the key blocks – perceptual
 Through the use of exercises and interactive elements, Adams demonstrates how organisations and individuals can overcome these blocks, embrace alternative ways of thinking through complex problems, and celebrate the joy of creativity.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203988748">find the book at the libraries</a>.<br/>
  
-<h5>Hiring Great People (Summary)</h5>
-<i>Kevin C. Klinvex</i><br/>
+<h5>How Leaders Decide</h5>
+<i>Greg Bustin</i><br/>
 <p>
  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4"><img src="/images/FS-3-Hiring-great-people.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. McGraw-Hill, 2017.</p> 
-Defining the job is the very first step to hiring the best person. Learn techniques on defining the job scope, advertising and promotion, effective use of applications, interviews, and testing, to attract the best candidates.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9CAEB4D4-0C44-424E-A812-0D690C695FC4">online</a>&#128187;. <br/>
+<p class="end-note">Call Number: 303.3409 BUS. Sourcebooks, 2019.</p> 
+It's impossible to see into the future to predict how our decisions in the present may play out, but we can look to the momentous decisions of the past for insights on how profound choices are made.
+How Leaders Decide provides provocative ideas and leadership lessons that will propel leaders and their businesses forward, through 52 dramatic historical events and decisions that changed the course of our world.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2442B543-FF66-4259-9103-C7F1DC5414DE">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/2442B543-FF66-4259-9103-C7F1DC5414DE">online</a>&#128187;or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203966363">find the book at the libraries</a>.<br/>
 
-<h5>The Professional Recruiter's Handbook</h5>
-<i>Jane Newell Brown, Ann Swain</i><br/>
+<h5>Seeing What Others Don't: The Remarkable Ways We Gain Insights</h5>
+<i>Gary Klein</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00"><img src="/images/FS-3-The-professional-recruiters-handbook.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D"><img src="/images/FS-3-The-professional-recruiters-handbook.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">Call Number: English 658.3111 BRO -[BIZ]. Kogan Page, 2012.</p> 
-With practical advice related to finding and retaining new talent, and case studies and interviews to better explain tips and strategies, this complete handbook provides techniques that human resource personnel need for successful recruitment.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8ADA34E8-B40A-4B47-BC4D-1744ADDD7A00">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200138622">find the book at the libraries</a>. <br/>
+<p class="end-note">Call Number: English 153.4 KLE. Nicholas Brealey Publishing, 2017.</p> 
+How do we gain insights? Cognitive scientist Gary Klein investigated cases of insight large and small, and tried to find out what they had in common. He concluded that insight stemmed from connections, coincidences, curiosities, contradictions and creative desperation, and devised a "Triple Path" model for anyone to tap easily into their intuition.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834947">find the book at the libraries</a>. <br/>
 
-<h5>High Performers (Summary)</h5>
-<i>Alan J. Dubinsky, Steven J. Skinner</i><br/>
+<h5>The Eureka Factor: Aha Moments, Creative Insight, and the Brain</h5>
+<i>John Kounios, Mark Beeman</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7A97FA6-1E6A-44A5-9AE4-128147C201D9"><img src="/images/FS-3-High-performers.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8"><img src="/images/FS-3-High-performers.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. Thomson South-Western, 2017.</p> 
-This short book includes examples of what it takes to hire employees from different levels and positions. Each chapter covers a point on what motivates people, with tips for managers to ensure that staff motivation and initiatives by managers are aligned.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7A97FA6-1E6A-44A5-9AE4-128147C201D9">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ A7A97FA6-1E6A-44A5-9AE4-128147C201D9">online</a>&#128187;. <br/>
+<p class="end-note">612.82332 KOU -[HEA]. Random House, 2015.</p> 
+Learn how insights arise and what scientific research says about stimulating more of them. Written by cognitive neuroscientists in a lively, engaging style, this book goes beyond scientific principles to offer productive techniques for realising your creative potential at home and at work.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201354862">find the book at the libraries</a>. <br/>
 
-<h5>Tell Me About Yourself</h5>
-<i>Stavros Papakonstantinidis</i><br/>
+<h5>Future Trends</h5>
+<i>Lawrence R. Samuel</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49"><img src="/images/FS-3-Tell-me-about-yourself.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E-0528-47B1-AF0F-1F4C191ADBB1"><img src="/images/FS-3-Tell-me-about-yourself.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. Red Wheel Weiser, 2020.</p> 
-This book is ideal for human resource personnel to understand how social media recruitment works, and the importance of personal branding to achieve professional career development. The writer outlines how social natives who are comfortable with technology search for jobs using blogs, podcasts, recommendations and endorsements to publicly demonstrate their capabilities. Learn how to capitalise on these platforms to source for the best talents.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/EF784393-EB0A-4C34-BBE1-ECFE8FEF1B49">online</a>&#128187;. <br/>
+<p class="end-note">eBook only. Rowman & Littlefield Publishers, 2018.</p> 
+Future Trends: A Guide to Decision Making and Leadership in Business identifies sixty global, long-term trends and details how businesses can leverage them in the short- and long-term. It also links a decision-making and leadership platform to these trends pointing to the future.
+Future Trends takes a holistic view of tomorrow by examining the cultural, economic, political, and technological trends, and offers readers a fuller understanding of life on Earth over the few decades.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E-0528-47B1-AF0F-1F4C191ADBB1">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9126D91E-0528-47B1-AF0F-1F4C191ADBB1">online</a>&#128187;. <br/>
 
-<h5>The Future Workplace Experience (Summary)</h5>
-<i>Jeanne C. Meister, Kevin J. Mulcahy</i><br/>
+<h5>Putting Design Thinking to Work</h5>
+<i>Steven Ney, Christoph Meinel</i><br/>
 <p>
- <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC"><img src="/images/FS-3-The-future-workplace-experience.jpg" style="width:300px; text-align:left;"></a>
+ <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03"><img src="/images/FS-3-The-future-workplace-experience.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. McGraw-Hill, 2016.</p>
-The workplace faces disruption constantly. For companies to succeed, the writers have devised 10 rules to optimise the workplace to becoming an enjoyable environment. These rules show how organisations respond to disruptions and shifting business goals, and the writer also envisions a future workplace experience to examine what we take for granted about work, and explore the new emerging rules of work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E0AA45B7-A88F-49C2-9CAE-51E8AF0CA3AC">online</a> &#128187;. <br/>
+<p class="end-note">eBook only. Springer International Publishing, 2019.</p>
+Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book demonstrates how design thinking(and thinking outside the box) can help managers create organisational practices that facilitate breakthrough innovations.
+Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book will equip readers with tools and methods for harnessing creative tensions inherent in pluralist approaches, and offers practical guidance on initiating and managing cultural transformations necessary for effective innovations.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F9A1C3FA-3895-4902-B0DE-461135FDCE03">online</a> &#128187;. <br/>
 
-<h5>Social Media Recruitment (Summary)</h5>
-<i>Andy Headworth</i><br/>
+<h5>Farsighted</h5>
+<i>Steven Johnson</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B"><img src="/images/FS-3-Social-media-recruitment.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E-6ED8-4627-AADA-CF7916E7A747"><img src="/images/FS-3-Social-media-recruitment.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">eBook only. Kogan Page, 2015.</p> 
-In this summary of the book, the writer suggests practical tips to recruiters of small and midsize firms to use social media effectively as part of recruitment practices. Steps include building an internal business case, planning a recruitment strategy and tailoring online activities to meet specific needs, as well as creating a social media toolbox to manage the various platforms.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CE3414FD-C6AE-41D4-AEE7-1A750FA3CA7B">online</a>&#128187;. <br/>
+<p class="end-note">Call Number: English 153.83 JOH. Riverhead Books, 2018.</p> 
+Steven Johnson shares powerful tools to improve and refine the important skill of complex decision making. The deliberative tactics of expert decision-makers are explained in Farsighted, to guide and ease readers into making big, life-altering decisions, which matter the most but are also the most difficult.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E-6ED8-4627-AADA-CF7916E7A747">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F4E7230E-6ED8-4627-AADA-CF7916E7A747">online</a>&#128187;or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203198709">find the book at the libraries</a>. <br/>
 
-<h5>HR Analytics and Innovations in Workforce Planning</h5>
-<i>Tony Miller</i><br/>
-<p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C"><img src="/images/FS-3-HR-analytics-and-innovations.jpg" style="width:300px; text-align:left;"></a>
- </p>
-<p class="end-note">eBook only. Business Expert Press, 2016.</p> 
-Manpower planning is required for a company to succeed and recruiting the best talent is often the first step. This book details a nine-step process to the writer’s New Workforce Planning approach to create value through human resource. For example, one of the first few steps of hiring always includes interviews, and the writer includes ways of structuring prewritten questions that can be easily scored to improve its effectiveness. Learn his process with supporting examples.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/8D40CBFC-80FC-4EB4-B91F-75EB7FEDBA7C">online</a>&#128187;. <br/>
 
-<h5>Evidence-Based Recruiting</h5>
-<i>Atta Tarki</i><br/>
-<p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=25CD1306-9C6E-45FC-BE5A-B3FDA900ADAD"><img src="/images/FS-3-Evidence-based-recruiting.jpg" style="width:300px; text-align:left;"></a>
- </p>
-<p class="end-note">Physical copies coming soon. McGraw-Hill Education, 2020.</p> 
-This guide provides a process to designing and implementing a data-driven hiring strategy that leads to better and more consistent hiring outcomes. He demonstrates ways to use both qualitative methods and quantitative evidence to obtain in-depth insights into potential candidates, to achieve the best results possible.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=25CD1306-9C6E-45FC-BE5A-B3FDA900ADAD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/25CD1306-9C6E-45FC-BE5A-B3FDA900ADAD">online</a>&#128187;. <br/>
-
-<h5>Building a Magnetic Culture</h5>
-<i>Kevin Sheridan</i><br/>
-<p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3CEEA73E-E42B-4B61-B33A-661627C14C3B"><img src="/images/FS-3-Building-a-magnetic-culture.jpg" style="width:300px; text-align:left;"></a>
- </p>
-<p class="end-note">Call Number: English 658.3 SHE -[BIZ]. McGraw-Hill Education, 2011.</p> 
-Building a great company culture helps to engage employees in order for them to excel. Sheridan provides the strategies and tactics to reach this goal, while using benchmarking, best practices and interviews to support his points. He also discusses the importance of diversity, engagement drivers a company can adopt, and challenges such as appropriate compensation.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3CEEA73E-E42B-4B61-B33A-661627C14C3B">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/3CEEA73E-E42B-4B61-B33A-661627C14C3B">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200149550">find the book at the libraries</a>. <br/>
-
-<h5> Strategic Analytics</h5>
-<i>Alec Levenson</i>
-<p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B38285EA-A411-4D9A-ABC2-1825A2864C0A"><img src="/images/FS-3-Strategic-analytics.jpg" style="width:300px; text-align:left;"></a>
- </p>
-<p class="end-note">Call Number: English 658.4012 LEV -[BIZ]. Berrett-Koehler Publishers, 2015.</p> 
-In this book, Levenson explains an integrated approach that brings together people from both the business and Human Resources (HR) perspectives. This way when business analytics determines the operational priorities, HR analytics can prepare policies and process improvements, for maximum strategic impact. The writer also includes specific questions to ask, accompanied by examples of applying integrated analytics to address various organisational challenges.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B38285EA-A411-4D9A-ABC2-1825A2864C0A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/B38285EA-A411-4D9A-ABC2-1825A2864C0A">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202498393">find the book at the libraries</a>. <br/>
-
-<h5>The New World of Human Resources and Employment</h5>
-<i>Tony Miller</i><br/>
-<p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3-7762-4F0D-8163-8164DF6CB8AC "><img src="/images/FS-3-The-new-world-of-hr-&-employement.jpg" style="width:300px; text-align:left;"></a>
- </p>
-<p class="end-note">eBook only. Business Expert Press, 2018.</p> 
-In this book, Miller suggests available resources for readers to learn more about Human Resource (HR) processes that use Artificial intelligence (AI). Find out more about digital footprints and how they can be used to upgrade recruitment and succession planning, and the skills needed to manage this shift to AI-focused HR.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6C36A4D3-7762-4F0D-8163-8164DF6CB8AC">online</a>&#128187;. 
 <p>
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
