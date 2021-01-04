@@ -130,21 +130,25 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E
 
 <h4>Articles</h4>
 
-<h5>1. <a href="https://www.peoplestrategy.com/talent-acquisition-vs-recruitment">Understanding Talent Acquisition vs. Recruitment in 2020</a><br/>
-<i>Lesley Lyons.</i> Published on PeopleStrategy, 6 February 6 2020.</h5>
-<p>Recruiting new talented staff requires the implementation of strong employment and recruitment processes. However there are two processes which are closely related yet different: talent acquisition and recruitment. Read on to learn more about these subtle differences and how both are key to finding top talent and building the most suitable team.</p>
+<h5>1. <a href="https://jamesclear.com/decision-making">The Decision Making Guide: How to Make Smart Decisions and Avoid Bad Ones</a><br/>
+<i>James Clear.</i> Published on JamesClear.com.</h5>
+<p>James Clear, author of Atomic Habits, explains decision making, and provides possible reasons for why we sometimes make poor decisions. He as also compiled a collection of recommended resources pertaining to the subject of decision making, such as books written by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, as well as numerous past articles he has written. This article hopes to help readers develop their own mental concepts and look at problems through a different perspective.</p>
 
-<h5>2. <a href="https://recruiterbox.com/blog/9-great-resources-for-human-resources-professionals">9 Great Resources for Human Resources Professionals</a><br/>
-<i>Kristi Hines</i> Published on Recruiterbox, on 1 Jan 2020.</h5>
-<p>From this list of personnel management resources, learn useful tips from other professionals in the field and get access to the latest news.</p>
+<h5>2. <a href="https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making">The Art of Decision-Making</a><br/>
+<i>Joshua Rothman.</i> Published on Recruiterbox, on 21 Jan 2019.</h5>
+<p>Joshua Rothman presents various concepts in the philosophy of decision making, and explores the influences on how decisions are made, while using his personal experiences to illustrate these concepts.</p>
 
-<h5>3. <a href="https://www.cmswire.com/digital-workplace/7-ways-artificial-intelligence-is-reinventing-human-resources/amp/">7 Ways Artificial Intelligence Is Reinventing Human Resources</a><br/>
-<i>Dom Nicastro.</i> Published on CMSWire on 18 May 2020.</h5>
-<p>Did you know that Artificial Intelligence (AI) can be embedded into functions such as recruitment, training, onboarding and more? Not many companies have taken this up due to the high cost but it is worth considering as better decisions can be made by using such functions, thus resulting in cost savings.</p>
+<h5>3. <a href="https://www.psychologytoday.com/us/blog/ambigamy/202005/explaining-the-narcissistic-critical-thinkers-in-your-life">Explaining the Narcissistic “Critical Thinkers" in Your Life</a><br/>
+<i>Jeremy E. Sherman Ph.D., MPP.</i> Published on Psychology Today on 1 May 2020.</h5>
+<p>Jeremy E. Sherman, biophilosopher and social science researcher, points out the fallacies of self-proclaimed critical thinkers; people who are quick to single out people who seemingly “failed” at critical thinking, but will not tolerate any criticisms of their beliefs. He explains to readers on how such narcissitic critical thinkers often fall to the fallacies  they claim to have conquered, and provides recommendations on how to practise responsible critical thinking.</p>
 
-<h5>4. <a href="https://smallbusiness.chron.com/technology-impact-hr-practices-37912.html">How Does Technology Impact HR Practices?</a><br/>
-<i>Fraser Sherman</i> Published on Chron on January 29, 2019.</h5>
-<p>Technology is a useful enabler in managing various aspects of human resource functions like analysing employee performance and storing files. Using technology effectively will also result in greater efficiency and better use of time. Read on to find out more about how technology impacts HR practices.</p>
+<h5>4. <a href="https://www.thriveyard.com/19-ways-to-improve-your-problem-solving-skills-at-work/">19 Ways to Improve Your Problem Solving Skills at Work</a><br/>
+<i>Duncan Muguku.</i> Published on ThriveYard on 14 May 2020.</h5>
+<p>This article provides a step-by-step guide for problem solving process, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identifying potential pitfalls when solving the problem.</p>
+
+<h5>5. <a href="https://phys.org/news/2020-03-importance-creative-problem-solving-workplace.html">The importance of creative problem-solving in the workplace</a><br/>
+<i>University of Jyväskylä.</i> Published on Phys.org on 19 Mar 2020.</h5>
+<p>This article discusses the findings by the University of Jyväskylä, Department of Education on problem solving. It is found that creativity is a crucial element to effective problem solving, and its importance is highlighted through the article. For example, in software development, a problem can be solved by a newly written code, but if it can only be comprehended by experts, it is not a good solution. Writing an elegant code which is understandable by other people (clients, colleagues) other than the experts writing it will require creative thinking process.</p>
 
 
 <h4>eLearning videos from Lynda Library</h4>
