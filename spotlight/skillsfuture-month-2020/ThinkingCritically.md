@@ -170,7 +170,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E
 <p>A dangerous myth about creativity is that “you either have it or you don’t.” While some people may be more talented than others, the ability to think and solve problems creatively is inherently wired into the human brain. As creatures of habit however, it’s easy to get “locked in” to processes that no longer serve us. Building on insights from improv, design thinking, comedy writing, and startup incubation, this course offers concrete tools for creative thinking.</p>
 <a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
 
-<p><strong>5. <a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg" target="_blank">Develop Critical-Thinking, Decision-Making, and Problem-Solving Skills</a></strong></p>
+<p><strong>5. <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg" target="_blank">Develop Critical-Thinking, Decision-Making, and Problem-Solving Skills</a></strong></p>
 <p>Learn how to use logic and reasoning to identify the strengths and weaknesses of alternative solutions and approaches to problems. Discover how to question assumptions, apply sound reasoning, break down complex issues, and grasp the implications of information, through this curated set of videos on decision making and problem solving.</p>
 <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
 
@@ -183,7 +183,6 @@ Source: <a href="https://www.youtube.com/watch?v=elc2sIiVICQ" target="_blank">HR
 <h5>2. The Future of HR 2020 by KPMG US</h5>
 <p>The role of HR in companies is evolving. Gain insights into the future of HR and the trends shaping tomorrow’s workforce. New trends include artificial intelligence, analytic capabilities, and the need for a consumer grade experience at work. 
 For further elaboration about the future of HR, you may refer to this <a href="https://home.kpmg/xx/en/home/insights/2019/11/the-future-of-human-resources-2020.html">article</a>. </p>
- 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/tMpTE3Cn2Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=tMpTE3Cn2Zs" target="_blank">The Future of HR 2020</a> (2019, Nov 20). KPMG US.
 
