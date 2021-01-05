@@ -20,7 +20,7 @@ title: HyRead Chinese eBooks and eMagazines
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp" target="_blank" rel="noopener">its website</a> or the app from the <a href="https://goo.gl/kGEflg" target="_blank" rel="noopener">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available.</p>
+<p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp" target="_blank" rel="noopener">its website</a> or the app from the <a href="https://goo.gl/kGEflg" target="_blank" rel="noopener">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available. <a href="#acc2">Find out more.</a></p>
 
 <h2>Getting Started</h2>
 <div class="acc-kontainer"><!--accordion-->          
