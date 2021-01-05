@@ -17,7 +17,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <h5>Contemporary Thinking on Transdisciplinary Knowledge: What Those Who Know, Know</h5>
 <i>Paul Gibbs, Alison Beavis</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6E8F9C2A-A01D-4680-ACB5-6BA7303CE3F2"><img src="/images/FS-3-Evergreen-talent.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6E8F9C2A-A01D-4680-ACB5-6BA7303CE3F2"><img src="/images/CCS-1-ContemporaryThinkingonTransdisciplinaryKnowledge.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Springer International Publishing, 2020.</p> 
 In transdisciplinarity, what are the elements which a transdiscplinary approach actually comprises of, and how can we understand the approach, given its complexity and multi-faceted use? This book aims to provide answers to the fundamental questions of leading practitioners in the fields of higher education and transdisciplinarity.<br/>
@@ -26,7 +26,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6E8F9C2A
 <h5>Thinking</h5>
 <i>John Brockman</i>
 <p>
- <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=1223459"><img src="/images/FS-3-Hiring.jpg" style="width:300px; text-align:left;"></a>
+ <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=1223459"><img src="/images/CCS-1-Thinking.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Harper Perennial, 2013.</p>
 Thinking is a consolidation of original ideas by today’s leading psychologists, neuroscientists, and philosophers on topics such as the architecture of the “normal” human mind, mental disorders, and the science of morality and ethics. Edited by John Brockman, editior of Edge.org, this book will expand readers’ understanding of human thought.<br/>
@@ -36,7 +36,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1223459"
 <h5>The Great Mental Models: Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power</h5>
 <i>Tommy Tedford</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0-8A41-407C-BDD8-B9B87BABFC50"><img src="/images/FS-3-The-effective-hiring-manager.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0-8A41-407C-BDD8-B9B87BABFC50"><img src="/images/CCS-1-TheGreatMentalModels.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Tommy Tedford, 2020.</p> 
 The Great Mental Models provides readers insights to the mental models of the world’s greatest problem-solvers, forecasters, and decision-makers. These great minds rely on frameworks and shortcuts to help them navigate out of complexity, and separate good ideas from bad ones. This book will help readers understand their own minds better, and develop successful mindsets of their own.<br/>
@@ -45,7 +45,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0
 <h5>Fact Vs. Fiction: Teaching Critical Thinking Skills in the Age of Fake News</h5>
 <i>Jennifer LaGarde, Darren Hudgins</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9063F734-C1A1-4E54-A379-F9574A67ACAB"><img src="/images/FS-3-Motivation-based-interviewing.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9063F734-C1A1-4E54-A379-F9574A67ACAB"><img src="/images/CCS-1-Factvsfiction.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. International Society for Technology in Education, 2018.</p> 
 Fact vs. Fiction is designed to help educators address the new realities of the “fake news” industry, where false stories are intentionally spread to go viral. Even so, the tools and resources in this book will help all readers to discern fact from fiction in the information that we access daily, at our workplaces and from the devices we carry in our pockets.<br/>
@@ -54,7 +54,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9063F734
 <h5>Conceptual Blockbusting</h5>
 <i>James L. Adams</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD"><img src="/images/FS-3-Smart-hiring-at-the-next-level.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD"><img src="/images/CCS-1-Conceptualblockbusting.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 153.43 ADA. Basic Books, 2019.</p> 
 In Conceptual Blockbusting, James Adams identifies the key blocks – perceptual, emotional, cultural, environmental, intellectual, expressive – that are preventing us from realising the full potential of our minds. 
@@ -64,7 +64,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319
 <h5>How Leaders Decide</h5>
 <i>Greg Bustin</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4"><img src="/images/FS-3-Hiring-great-people.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4"><img src="/images/CCS-1-HowLeadersDecide.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: 303.3409 BUS. Sourcebooks, 2019.</p> 
 It's impossible to see into the future to predict how our decisions in the present may play out, but we can look to the momentous decisions of the past for insights on how profound choices are made.
@@ -74,7 +74,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2442B543
 <h5>Seeing What Others Don't: The Remarkable Ways We Gain Insights</h5>
 <i>Gary Klein</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D"><img src="/images/FS-3-The-professional-recruiters-handbook.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D"><img src="/images/CCS-1-SeeingWhatOthersDont.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 153.4 KLE. Nicholas Brealey Publishing, 2017.</p> 
 How do we gain insights? Cognitive scientist Gary Klein investigated cases of insight large and small, and tried to find out what they had in common. He concluded that insight stemmed from connections, coincidences, curiosities, contradictions and creative desperation, and devised a "Triple Path" model for anyone to tap easily into their intuition.<br/>
@@ -83,7 +83,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97
 <h5>The Eureka Factor: Aha Moments, Creative Insight, and the Brain</h5>
 <i>John Kounios, Mark Beeman</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8"><img src="/images/FS-3-High-performers.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8"><img src="/images/CCS-1-TheEurekaFactor.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">612.82332 KOU -[HEA]. Random House, 2015.</p> 
 Learn how insights arise and what scientific research says about stimulating more of them. Written by cognitive neuroscientists in a lively, engaging style, this book goes beyond scientific principles to offer productive techniques for realising your creative potential at home and at work.<br/>
@@ -92,7 +92,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9A81FB32
 <h5>Future Trends</h5>
 <i>Lawrence R. Samuel</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E-0528-47B1-AF0F-1F4C191ADBB1"><img src="/images/FS-3-Tell-me-about-yourself.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E-0528-47B1-AF0F-1F4C191ADBB1"><img src="/images/CCS-1-FutureTrends.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Rowman & Littlefield Publishers, 2018.</p> 
 Future Trends: A Guide to Decision Making and Leadership in Business identifies sixty global, long-term trends and details how businesses can leverage them in the short- and long-term. It also links a decision-making and leadership platform to these trends pointing to the future.
@@ -102,7 +102,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E
 <h5>Putting Design Thinking to Work</h5>
 <i>Steven Ney, Christoph Meinel</i><br/>
 <p>
- <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03"><img src="/images/FS-3-The-future-workplace-experience.jpg" style="width:300px; text-align:left;"></a>
+ <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03"><img src="/images/CCS-1-PuttingDesignThinkingtoWork.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Springer International Publishing, 2019.</p>
 Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book demonstrates how design thinking(and thinking outside the box) can help managers create organisational practices that facilitate breakthrough innovations.
@@ -112,7 +112,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA
 <h5>Farsighted</h5>
 <i>Steven Johnson</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E-6ED8-4627-AADA-CF7916E7A747"><img src="/images/FS-3-Social-media-recruitment.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E-6ED8-4627-AADA-CF7916E7A747"><img src="/images/CCS-1-Farsighted.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 153.83 JOH. Riverhead Books, 2018.</p> 
 Steven Johnson shares powerful tools to improve and refine the important skill of complex decision making. The deliberative tactics of expert decision-makers are explained in Farsighted, to guide and ease readers into making big, life-altering decisions, which matter the most but are also the most difficult.<br/>
