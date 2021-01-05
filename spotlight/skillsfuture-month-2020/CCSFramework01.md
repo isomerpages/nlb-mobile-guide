@@ -12,6 +12,71 @@ image: /images/FS-futureskillsmonth2020.jpg
 ---
 <p>Change is happening at a groundbreaking rate, especially the way businesses are being conducted now, and very often, new problems which arise now require out-of-the-box solutions. Take a page (or several pages) from the following recommended books and resources, and learn how leaders of leading companies decide and navigate their way through obstacles in their businesses.</p>
 
+
+<h4>Articles</h4>
+
+<h5>1. <a href="https://jamesclear.com/decision-making">The Decision Making Guide: How to Make Smart Decisions and Avoid Bad Ones</a><br/>
+<i>James Clear.</i> Published on JamesClear.com.</h5>
+<p>James Clear, author of Atomic Habits, explains decision making, and provides possible reasons for why we sometimes make poor decisions. He as also compiled a collection of recommended resources pertaining to the subject of decision making, such as books written by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, as well as numerous past articles he has written. This article hopes to help readers develop their own mental concepts and look at problems through a different perspective.</p>
+
+<h5>2. <a href="https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making">The Art of Decision-Making</a><br/>
+<i>Joshua Rothman.</i> Published on Recruiterbox on 21 Jan 2019.</h5>
+<p>Joshua Rothman presents various concepts in the philosophy of decision making, and explores the influences on how decisions are made, while using his personal experiences to illustrate these concepts.</p>
+
+<h5>3. <a href="https://www.psychologytoday.com/us/blog/ambigamy/202005/explaining-the-narcissistic-critical-thinkers-in-your-life">Explaining the Narcissistic “Critical Thinkers" in Your Life</a><br/>
+<i>Jeremy E. Sherman Ph.D., MPP.</i> Published on Psychology Today on 1 May 2020.</h5>
+<p>Jeremy E. Sherman, biophilosopher and social science researcher, points out the fallacies of self-proclaimed critical thinkers; people who are quick to single out people who seemingly “failed” at critical thinking, but will not tolerate any criticisms of their beliefs. He explains to readers on how such narcissitic critical thinkers often fall to the fallacies they claim to have conquered, and provides recommendations on how to practise responsible critical thinking.</p>
+
+<h5>4. <a href="https://www.thriveyard.com/19-ways-to-improve-your-problem-solving-skills-at-work/">19 Ways to Improve Your Problem Solving Skills at Work</a><br/>
+<i>Duncan Muguku.</i> Published on ThriveYard on 14 May 2020.</h5>
+<p>This article provides a step-by-step guide for problem solving process, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identifying potential pitfalls when solving the problem.</p>
+
+<h5>5. <a href="https://phys.org/news/2020-03-importance-creative-problem-solving-workplace.html">The importance of creative problem-solving in the workplace</a><br/>
+<i>University of Jyväskylä.</i> Published on Phys.org on 19 Mar 2020.</h5>
+<p>This article discusses the findings by the University of Jyväskylä, Department of Education on problem solving. It is found that creativity is a crucial element to effective problem solving, and its importance is highlighted through the article. For example, in software development, a problem can be solved by a newly written code, but if it can only be comprehended by experts, it is not a good solution. Writing an elegant code which is understandable by other people (clients, colleagues) other than the experts writing it will require creative thinking process.</p>
+
+
+<h4>Videos</h4>
+<h5>1. Before You Decide: 3 Steps To Better Decision Making by Matthew Confer</h5>
+<p>Matthew Confer, Vice President of Strategy at Abilitie, a leadership development company, shares a three-step method that anyone can use for decision making. This method was developed through Abilitie’s collaborations with innovative companies - using team-based simulations which mimic decisions that corporate leaders make in the real world - to better prepare them for challenges ahead.</p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/d7Jnmi2BkS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Before You Decide: 3 Steps To Better Decision Making</a> (2019, July 16). TEDxOakLawn. 
+
+<h5>2. Casually Explained: Critical Thinking by Casually Explained</h5> 
+<p>A casual and brutally honest explanation about the three stages of thinking, from not thinking at all to critical thinking. Simple examples help explain the points raised in the video, and it also includes an additional bonus level of thinking: overthinking.</p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qMrnVkDH2Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=qMrnVkDH2Ak" target="_blank">Casually Explained: Critical Thinking </a> (2018, March 1). Casually Explained. 
+
+<h5>3. 5 tips to improve your critical thinking by Samantha Agoos</h5> 
+<p>Samantha Agoos describes a 5-step critical thinking process that may help us make better decisions. While the perfect choice may not be possible every time, there are ways to improve our chances — and one particularly effective technique is critical thinking.</p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/dItUGF8GdTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 tips to improve your critical thinking – Samantha Agoos </a> (2016, March 15). TED-Ed. 
+
+
+<h4>eLearning videos from Lynda Library</h4>
+<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
+
+<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg" target="_blank">Problem Solving Techniques </a></strong></p>
+<pLearn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems , by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
+
+<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg" target="_blank">Executive Decision-Making </a></strong></p>
+<p>Executive coach Mike Figliuolo explains the difference between executive decision making and day-to-day decision making. Learn how to make decisions with positive impact using data and tools, communicate them effectively, and lead your organisation through change. Mike also addresses problems that can potentially arise from these executive decisions, e.g. cultural differences, quality of information, trust and accountability.</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg"><img src="/images/FS-3B-Lynda-Social-recruiting.png" style="width:400px;"></a>
+
+<p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Decision-Making-High-Stress-Situations/2972405-2.html?org=nlb.gov.sg" target="_blank">Decision-Making in High-Stress Situations</a></strong></p>
+<p>Becki Saltzman shares how to use stress to your advantage – by getting the pressure to work for you instead of against you – when making decisions in the face of overwhelming pressure. Find out how to calculate costs, avoid the pitfalls of consensus-driven decisions, and make strong judgment calls.</p>
+<a href="https://www.lynda.com/Business-tutorials/Decision-Making-High-Stress-Situations/2972405-2.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
+
+<p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg" target="_blank">Take a More Creative Approach to Problem-Solving</a></strong></p>
+<p>A dangerous myth about creativity is that “you either have it or you don’t.” While some people may be more talented than others, the ability to think and solve problems creatively is inherently wired into the human brain. As creatures of habit however, it’s easy to get “locked in” to processes that no longer serve us. Building on insights from improv, design thinking, comedy writing, and startup incubation, this course offers concrete tools for creative thinking.</p>
+<a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
+
+<p><strong>5. <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg" target="_blank">Develop Critical-Thinking, Decision-Making, and Problem-Solving Skills</a></strong></p>
+<p>Learn how to use logic and reasoning to identify the strengths and weaknesses of alternative solutions and approaches to problems. Discover how to question assumptions, apply sound reasoning, break down complex issues, and grasp the implications of information, through this curated set of videos on decision making and problem solving.</p>
+<a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
+
+
 <h4>eBooks</h4>
 
 <h5>Contemporary Thinking on Transdisciplinary Knowledge: What Those Who Know, Know</h5>
@@ -127,67 +192,3 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E
     </td>
   </tr>
   </table>
-
-<h4>Articles</h4>
-
-<h5>1. <a href="https://jamesclear.com/decision-making">The Decision Making Guide: How to Make Smart Decisions and Avoid Bad Ones</a><br/>
-<i>James Clear.</i> Published on JamesClear.com.</h5>
-<p>James Clear, author of Atomic Habits, explains decision making, and provides possible reasons for why we sometimes make poor decisions. He as also compiled a collection of recommended resources pertaining to the subject of decision making, such as books written by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, as well as numerous past articles he has written. This article hopes to help readers develop their own mental concepts and look at problems through a different perspective.</p>
-
-<h5>2. <a href="https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making">The Art of Decision-Making</a><br/>
-<i>Joshua Rothman.</i> Published on Recruiterbox on 21 Jan 2019.</h5>
-<p>Joshua Rothman presents various concepts in the philosophy of decision making, and explores the influences on how decisions are made, while using his personal experiences to illustrate these concepts.</p>
-
-<h5>3. <a href="https://www.psychologytoday.com/us/blog/ambigamy/202005/explaining-the-narcissistic-critical-thinkers-in-your-life">Explaining the Narcissistic “Critical Thinkers" in Your Life</a><br/>
-<i>Jeremy E. Sherman Ph.D., MPP.</i> Published on Psychology Today on 1 May 2020.</h5>
-<p>Jeremy E. Sherman, biophilosopher and social science researcher, points out the fallacies of self-proclaimed critical thinkers; people who are quick to single out people who seemingly “failed” at critical thinking, but will not tolerate any criticisms of their beliefs. He explains to readers on how such narcissitic critical thinkers often fall to the fallacies  they claim to have conquered, and provides recommendations on how to practise responsible critical thinking.</p>
-
-<h5>4. <a href="https://www.thriveyard.com/19-ways-to-improve-your-problem-solving-skills-at-work/">19 Ways to Improve Your Problem Solving Skills at Work</a><br/>
-<i>Duncan Muguku.</i> Published on ThriveYard on 14 May 2020.</h5>
-<p>This article provides a step-by-step guide for problem solving process, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identifying potential pitfalls when solving the problem.</p>
-
-<h5>5. <a href="https://phys.org/news/2020-03-importance-creative-problem-solving-workplace.html">The importance of creative problem-solving in the workplace</a><br/>
-<i>University of Jyväskylä.</i> Published on Phys.org on 19 Mar 2020.</h5>
-<p>This article discusses the findings by the University of Jyväskylä, Department of Education on problem solving. It is found that creativity is a crucial element to effective problem solving, and its importance is highlighted through the article. For example, in software development, a problem can be solved by a newly written code, but if it can only be comprehended by experts, it is not a good solution. Writing an elegant code which is understandable by other people (clients, colleagues) other than the experts writing it will require creative thinking process.</p>
-
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg" target="_blank">Problem Solving Techniques </a></strong></p>
-<pLearn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems , by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg" target="_blank">Executive Decision-Making </a></strong></p>
-<p>Executive coach Mike Figliuolo explains the difference between executive decision making and day-to-day decision making. Learn how to make decisions with positive impact using data and tools, communicate them effectively, and lead your organisation through change. Mike also addresses problems that can potentially arise from these executive decisions, e.g. cultural differences, quality of information, trust and accountability.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg"><img src="/images/FS-3B-Lynda-Social-recruiting.png" style="width:400px;"></a>
-
-<p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Decision-Making-High-Stress-Situations/2972405-2.html?org=nlb.gov.sg" target="_blank">Decision-Making in High-Stress Situations</a></strong></p>
-<p>Becki Saltzman shares how to use stress to your advantage – by getting the pressure to work for you instead of against you – when making decisions in the face of overwhelming pressure. Find out how to calculate costs, avoid the pitfalls of consensus-driven decisions, and make strong judgment calls.</p>
-<a href="https://www.lynda.com/Business-tutorials/Decision-Making-High-Stress-Situations/2972405-2.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
-
-<p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg" target="_blank">Take a More Creative Approach to Problem-Solving</a></strong></p>
-<p>A dangerous myth about creativity is that “you either have it or you don’t.” While some people may be more talented than others, the ability to think and solve problems creatively is inherently wired into the human brain. As creatures of habit however, it’s easy to get “locked in” to processes that no longer serve us. Building on insights from improv, design thinking, comedy writing, and startup incubation, this course offers concrete tools for creative thinking.</p>
-<a href="https://www.lynda.com/Business-tutorials/Take-More-Creative-Approach-Problem-Solving/2804654-2.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
-
-<p><strong>5. <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg" target="_blank">Develop Critical-Thinking, Decision-Making, and Problem-Solving Skills</a></strong></p>
-<p>Learn how to use logic and reasoning to identify the strengths and weaknesses of alternative solutions and approaches to problems. Discover how to question assumptions, apply sound reasoning, break down complex issues, and grasp the implications of information, through this curated set of videos on decision making and problem solving.</p>
-<a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
-
-<h4>Videos</h4>
-<h5>1. Before You Decide: 3 Steps To Better Decision Making by Matthew Confer</h5>
-<p>Matthew Confer, Vice President of Strategy at Abilitie, a leadership development company, shares a three-step method that anyone can use for decision making. This method was developed through Abilitie’s collaborations with innovative companies - using team-based simulations which mimic decisions that corporate leaders make in the real world - to better prepare them for challenges ahead.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/d7Jnmi2BkS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Before You Decide: 3 Steps To Better Decision Making</a> (2019, July 16). TEDxOakLawn. 
-
-<h5>2. Casually Explained: Critical Thinking by Casually Explained</h5> 
-<p>A casual and brutally honest explanation about the three stages of thinking, from not thinking at all to critical thinking. Simple examples help explain the points raised in the video, and it also includes an additional bonus level of thinking: overthinking.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qMrnVkDH2Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=qMrnVkDH2Ak" target="_blank">Casually Explained: Critical Thinking </a> (2018, March 1). Casually Explained. 
-
-<h5>3. 5 tips to improve your critical thinking by Samantha Agoos</h5> 
-<p>Samantha Agoos describes a 5-step critical thinking process that may help us make better decisions. While the perfect choice may not be possible every time, there are ways to improve our chances — and one particularly effective technique is critical thinking.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/dItUGF8GdTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 tips to improve your critical thinking – Samantha Agoos </a> (2016, March 15). TED-Ed. 
-
-
