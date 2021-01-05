@@ -135,7 +135,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E
 <p>James Clear, author of Atomic Habits, explains decision making, and provides possible reasons for why we sometimes make poor decisions. He as also compiled a collection of recommended resources pertaining to the subject of decision making, such as books written by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, as well as numerous past articles he has written. This article hopes to help readers develop their own mental concepts and look at problems through a different perspective.</p>
 
 <h5>2. <a href="https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making">The Art of Decision-Making</a><br/>
-<i>Joshua Rothman.</i> Published on Recruiterbox, on 21 Jan 2019.</h5>
+<i>Joshua Rothman.</i> Published on Recruiterbox on 21 Jan 2019.</h5>
 <p>Joshua Rothman presents various concepts in the philosophy of decision making, and explores the influences on how decisions are made, while using his personal experiences to illustrate these concepts.</p>
 
 <h5>3. <a href="https://www.psychologytoday.com/us/blog/ambigamy/202005/explaining-the-narcissistic-critical-thinkers-in-your-life">Explaining the Narcissistic “Critical Thinkers" in Your Life</a><br/>
