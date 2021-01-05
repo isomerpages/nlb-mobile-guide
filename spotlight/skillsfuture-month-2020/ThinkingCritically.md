@@ -175,24 +175,19 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E
 <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
-<h5>1. HR Basics: Recruitment by Gregg Learning</h5>
-<p>HR professionals are aware of the need to attract candidates who best fit the brand of their company. To do this, first the company should be able to assess, define, communicate and evaluate their own unique brand. Next comes other important methods including recruitment processes and recruitment methods. Learn the basics in this short video.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/elc2sIiVICQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=elc2sIiVICQ" target="_blank">HR Basics: Recruitment</a> (2018, Dec 6). Gregg Learning. 
+<h5>1. Before You Decide: 3 Steps To Better Decision Making by Matthew Confer</h5>
+<p>Matthew Confer, Vice President of Strategy at Abilitie, a leadership development company, shares a three-step method that anyone can use for decision making. This method was developed through Abilitie’s collaborations with innovative companies - using team-based simulations which mimic decisions that corporate leaders make in the real world - to better prepare them for challenges ahead.</p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/d7Jnmi2BkS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Before You Decide: 3 Steps To Better Decision Making</a> (2019, July 16). TEDxOakLawn. 
 
-<h5>2. The Future of HR 2020 by KPMG US</h5>
-<p>The role of HR in companies is evolving. Gain insights into the future of HR and the trends shaping tomorrow’s workforce. New trends include artificial intelligence, analytic capabilities, and the need for a consumer grade experience at work. 
-For further elaboration about the future of HR, you may refer to this <a href="https://home.kpmg/xx/en/home/insights/2019/11/the-future-of-human-resources-2020.html">article</a>. </p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/tMpTE3Cn2Zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=tMpTE3Cn2Zs" target="_blank">The Future of HR 2020</a> (2019, Nov 20). KPMG US.
+<h5>2. Casually Explained: Critical Thinking by Casually Explained</h5> 
+<p>A casual and brutally honest explanation about the three stages of thinking, from not thinking at all to critical thinking. Simple examples help explain the points raised in the video, and it also includes an additional bonus level of thinking: overthinking.</p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qMrnVkDH2Ak " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=qMrnVkDH2Ak" target="_blank">Casually Explained: Critical Thinking </a> (2018, March 1). Casually Explained. 
 
-<h5>3. What is People Analytics? | AIHR Learning Bite by AIHR - Academy to Innovate HR</h5> 
-<p>In this video, find out more about people analytics and its potential to benefit your company. The availability of HR data and analytical capabilities provided by new technologies have contributed to the rise in its popularity, and there has also been evidence of a return on investment when using this.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/B4EqhvSuv4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=B4EqhvSuv4o" target="_blank">What is People Analytics? | AIHR Learning Bite </a> (Sep 18, 2019). AIHR Learning Bite. 
+<h5>3. 5 tips to improve your critical thinking by Samantha Agoos</h5> 
+<p>Samantha Agoos describes a 5-step critical thinking process that may help us make better decisions. While the perfect choice may not be possible every time, there are ways to improve our chances — and one particularly effective technique is critical thinking.</p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/dItUGF8GdTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 tips to improve your critical thinking – Samantha Agoos </a> (2016, March 15). TED-Ed. 
 
-<h5>4. Awesome New Technologies for HR: ADP Next Gen HCM by Steve Boese</h5>
-<p>Find out how new technologies are helping HR practitioners to manage dynamic teams. The ideas shared in this video illustrate how technology can be used to manage teams of different sizes, and increase efficiency at work.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/e2iMASyAF6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=e2iMASyAF6k " target="_blank">Awesome New Technologies for HR: ADP Next Gen HCM </a> (2019, Nov 21). ADP Careers.
 
