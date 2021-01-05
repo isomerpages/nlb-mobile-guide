@@ -85,7 +85,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97
 <p>
  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8"><img src="/images/CCS-1-TheEurekaFactor.jpg" style="width:300px; text-align:left;"></a>
  </p>
-<p class="end-note">612.82332 KOU -[HEA]. Random House, 2015.</p> 
+<p class="end-note">Call Number: English 612.82332 KOU -[HEA]. Random House, 2015.</p> 
 Learn how insights arise and what scientific research says about stimulating more of them. Written by cognitive neuroscientists in a lively, engaging style, this book goes beyond scientific principles to offer productive techniques for realising your creative potential at home and at work.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9A81FB32-4F59-4A4C-87CA-1D5732A1A4F8">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201354862">find the book at the libraries</a>. <br/>
 
