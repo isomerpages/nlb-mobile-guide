@@ -182,7 +182,7 @@ Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Be
 
 <h5>2. Casually Explained: Critical Thinking by Casually Explained</h5> 
 <p>A casual and brutally honest explanation about the three stages of thinking, from not thinking at all to critical thinking. Simple examples help explain the points raised in the video, and it also includes an additional bonus level of thinking: overthinking.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qMrnVkDH2Ak " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qMrnVkDH2Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=qMrnVkDH2Ak" target="_blank">Casually Explained: Critical Thinking </a> (2018, March 1). Casually Explained. 
 
 <h5>3. 5 tips to improve your critical thinking by Samantha Agoos</h5> 
