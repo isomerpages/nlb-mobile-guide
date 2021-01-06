@@ -2,7 +2,7 @@
 layout: post
 title:  Thinking Critically
 date:   2021-01-04
-permalink: /spotlight/skillsfuture-month-2020/looking-to-recruit
+permalink: /spotlight/skillsfuture-month-2020/CCSFramework01
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)
 image: /images/FS-futureskillsmonth2020.jpg
 ---
