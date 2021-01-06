@@ -42,10 +42,10 @@ image: /images/FS-futureskillsmonth2020.jpg
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/d7Jnmi2BkS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Before You Decide: 3 Steps To Better Decision Making</a> (2019, July 16). TEDxOakLawn. 
 
-<h5>2. Casually Explained: Critical Thinking by Casually Explained</h5> 
-<p>A casual and brutally honest explanation about the three stages of thinking, from not thinking at all to critical thinking. Simple examples help explain the points raised in the video, and it also includes an additional bonus level of thinking: overthinking.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qMrnVkDH2Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=qMrnVkDH2Ak" target="_blank">Casually Explained: Critical Thinking </a> (2018, March 1). Casually Explained. 
+<h5>2. How Critical Thinking Can Change the Game by GCFLearnFree.org</h5> 
+<p>Richard Douglas Fosbury revolutionised high jumping, and set a new global standard in the 1968 Olympics by making use of critical thinking. While his solution was out of the norm at that time and thus was often ridiculed, his Fodsbury Flip method is now the default technique for almost all high jumpers today.</p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/5VX7sojco3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=5VX7sojco3s" target="_blank">Casually Explained: Critical Thinking </a> (2018, March 1). Casually Explained. 
 
 <h5>3. 5 tips to improve your critical thinking by Samantha Agoos</h5> 
 <p>Samantha Agoos describes a 5-step critical thinking process that may help us make better decisions. While the perfect choice may not be possible every time, there are ways to improve our chances — and one particularly effective technique is critical thinking.</p>
