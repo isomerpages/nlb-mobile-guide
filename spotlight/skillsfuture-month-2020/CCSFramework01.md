@@ -57,7 +57,7 @@ Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg" target="_blank">Problem Solving Techniques </a></strong></p>
-<pLearn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems , by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
+<p>Learn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems , by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg" target="_blank">Executive Decision-Making </a></strong></p>
