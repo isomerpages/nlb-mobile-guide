@@ -91,11 +91,11 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6E8F9C2A
 <h5>Thinking</h5>
 <i>John Brockman</i>
 <p>
- <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=1223459"><img src="/images/CCS-1-Thinking.jpg" style="width:300px; text-align:left;"></a>
+ <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=8BE117A2-7BB6-4097-97B2-A5364EFD181A"><img src="/images/CCS-1-Thinking.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Harper Perennial, 2013.</p>
 Thinking is a consolidation of original ideas by today’s leading psychologists, neuroscientists, and philosophers on topics such as the architecture of the “normal” human mind, mental disorders, and the science of morality and ethics. Edited by John Brockman, editior of Edge.org, this book will expand readers’ understanding of human thought.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=1223459">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/1223459">online</a> &#128187;. <br/> 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8BE117A2-7BB6-4097-97B2-A5364EFD181A">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/8BE117A2-7BB6-4097-97B2-A5364EFD181A">online</a> &#128187;. <br/> 
 
 
 <h5>The Great Mental Models: Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power</h5>
@@ -110,11 +110,11 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0
 <h5>Fact Vs. Fiction: Teaching Critical Thinking Skills in the Age of Fake News</h5>
 <i>Jennifer LaGarde, Darren Hudgins</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9063F734-C1A1-4E54-A379-F9574A67ACAB"><img src="/images/CCS-1-Factvsfiction.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=383895B5-5EE8-4FAF-9ECC-5E80AE2C7525"><img src="/images/CCS-1-Factvsfiction.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. International Society for Technology in Education, 2018.</p> 
 Fact vs. Fiction is designed to help educators address the new realities of the “fake news” industry, where false stories are intentionally spread to go viral. Even so, the tools and resources in this book will help all readers to discern fact from fiction in the information that we access daily, at our workplaces and from the devices we carry in our pockets.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9063F734-C1A1-4E54-A379-F9574A67ACAB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9063F734-C1A1-4E54-A379-F9574A67ACAB">online</a>&#128187;. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=383895B5-5EE8-4FAF-9ECC-5E80AE2C7525">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/383895B5-5EE8-4FAF-9ECC-5E80AE2C7525">online</a>&#128187;. <br/>
  
 <h5>Conceptual Blockbusting</h5>
 <i>James L. Adams</i><br/>
