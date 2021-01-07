@@ -29,7 +29,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 
 <h5>4. <a href="https://www.thriveyard.com/19-ways-to-improve-your-problem-solving-skills-at-work/">19 Ways to Improve Your Problem Solving Skills at Work</a><br/>
 <i>Duncan Muguku.</i> Published on ThriveYard on 14 May 2020.</h5>
-<p>This article provides a step-by-step guide for problem solving process, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identifying potential pitfalls when solving the problem.</p>
+<p>This article provides a step-by-step guide for the problem solving process, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identifying potential pitfalls when solving the problem.</p>
 
 <h5>5. <a href="https://phys.org/news/2020-03-importance-creative-problem-solving-workplace.html">The importance of creative problem-solving in the workplace</a><br/>
 <i>University of Jyväskylä.</i> Published on Phys.org on 19 Mar 2020.</h5>
