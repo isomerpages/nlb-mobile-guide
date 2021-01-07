@@ -17,7 +17,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 
 <h5>1. <a href="https://jamesclear.com/decision-making">The Decision Making Guide: How to Make Smart Decisions and Avoid Bad Ones</a><br/>
 <i>James Clear.</i> Published on JamesClear.com.</h5>
-<p>James Clear, author of Atomic Habits, explains decision making, and provides possible reasons for why we sometimes make poor decisions. He as also compiled a collection of recommended resources pertaining to the subject of decision making, such as books written by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, as well as numerous past articles he has written. This article hopes to help readers develop their own mental concepts and look at problems through a different perspective.</p>
+<p>James Clear, author of Atomic Habits, explains decision making, and provides possible reasons for why we sometimes make poor decisions. He has also compiled a collection of recommended resources pertaining to the subject of decision making, such as books written by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, as well as numerous past articles he has written. This article hopes to help readers develop their own mental concepts and look at problems through a different perspective.</p>
 
 <h5>2. <a href="https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making">The Art of Decision-Making</a><br/>
 <i>Joshua Rothman.</i> Published on Recruiterbox on 21 Jan 2019.</h5>
