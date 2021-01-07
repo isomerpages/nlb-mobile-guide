@@ -129,7 +129,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319
 <h5>How Leaders Decide</h5>
 <i>Greg Bustin</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9CAEB4D4-0C44-424E-A812-0D690C695FC4"><img src="/images/CCS-1-HowLeadersDecide.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2442B543-FF66-4259-9103-C7F1DC5414DE"><img src="/images/CCS-1-HowLeadersDecide.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: 303.3409 BUS. Sourcebooks, 2019.</p> 
 It's impossible to see into the future to predict how our decisions in the present may play out, but we can look to the momentous decisions of the past for insights on how profound choices are made.
