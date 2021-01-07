@@ -170,7 +170,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E
  <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03"><img src="/images/CCS-1-PuttingDesignThinkingtoWork.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Springer International Publishing, 2019.</p>
-Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book demonstrates how design thinking(and thinking outside the box) can help managers create organisational practices that facilitate breakthrough innovations.
+Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book demonstrates how design thinking (and thinking outside the box) can help managers create organisational practices that facilitate breakthrough innovations.
 Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book will equip readers with tools and methods for harnessing creative tensions inherent in pluralist approaches, and offers practical guidance on initiating and managing cultural transformations necessary for effective innovations.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F9A1C3FA-3895-4902-B0DE-461135FDCE03">online</a> &#128187;. <br/>
 
