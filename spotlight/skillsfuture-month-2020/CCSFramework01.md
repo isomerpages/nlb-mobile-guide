@@ -139,11 +139,11 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=2442B543
 <h5>Seeing What Others Don't: The Remarkable Ways We Gain Insights</h5>
 <i>Gary Klein</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D"><img src="/images/CCS-1-SeeingWhatOthersDont.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=24E97161-5200-43EB-A3EC-64F9474EEE6E"><img src="/images/CCS-1-SeeingWhatOthersDont.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 153.4 KLE. Nicholas Brealey Publishing, 2017.</p> 
 How do we gain insights? Cognitive scientist Gary Klein investigated cases of insight large and small, and tried to find out what they had in common. He concluded that insight stemmed from connections, coincidences, curiosities, contradictions and creative desperation, and devised a "Triple Path" model for anyone to tap easily into their intuition.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/%7B24E97161-5200-43EB-A3EC-64F9474EEE6E%7D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834947">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=24E97161-5200-43EB-A3EC-64F9474EEE6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/24E97161-5200-43EB-A3EC-64F9474EEE6E">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834947">find the book at the libraries</a>. <br/>
 
 <h5>The Eureka Factor: Aha Moments, Creative Insight, and the Brain</h5>
 <i>John Kounios, Mark Beeman</i><br/>
