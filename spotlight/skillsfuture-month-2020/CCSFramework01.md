@@ -31,7 +31,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <i>Duncan Muguku.</i> Published on ThriveYard on 14 May 2020.</h5>
 <p>This article provides a step-by-step guide for the problem solving process, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identifying potential pitfalls when solving the problem.</p>
 
-<h5>5. <a href="https://phys.org/news/2020-03-importance-creative-problem-solving-workplace.html">The importance of creative problem-solving in the workplace</a><br/>
+<h5>5. <a href="https://phys.org/news/2020-03-importance-creative-problem-solving-workplace.html">The Importance of Creative Problem-Solving in the Workplace</a><br/>
 <i>University of Jyväskylä.</i> Published on Phys.org on 19 Mar 2020.</h5>
 <p>This article discusses the findings by the University of Jyväskylä, Department of Education on problem solving. It is found that creativity is a crucial element to effective problem solving, and its importance is highlighted through the article. For example, in software development, a problem can be solved by a newly written code, but if it can only be comprehended by experts, it is not a good solution. Writing an elegant code which is understandable by other people (clients, colleagues) other than the experts writing it will require creative thinking process.</p>
 
@@ -47,7 +47,7 @@ Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Be
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/5VX7sojco3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=5VX7sojco3s" target="_blank">How Critical Thinking Can Change the Game </a> (2019, July 24). GCFLearnFree.org. 
 
-<h5>3. 5 tips to improve your critical thinking by Samantha Agoos</h5> 
+<h5>3. 5 Tips to Improve Your Critical Thinking by Samantha Agoos</h5> 
 <p>Samantha Agoos describes a 5-step critical thinking process that may help us make better decisions. While the perfect choice may not be possible every time, there are ways to improve our chances — and one particularly effective technique is critical thinking.</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/dItUGF8GdTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 tips to improve your critical thinking – Samantha Agoos </a> (2016, March 15). TED-Ed. 
@@ -57,7 +57,7 @@ Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg" target="_blank">Problem Solving Techniques </a></strong></p>
-<p>Learn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems , by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
+<p>Learn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems, by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg" target="_blank">Executive Decision-Making </a></strong></p>
