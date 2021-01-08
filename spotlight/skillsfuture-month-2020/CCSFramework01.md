@@ -74,9 +74,11 @@ Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 
 
 <p><strong>5. <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg" target="_blank">Develop Critical-Thinking, Decision-Making, and Problem-Solving Skills</a></strong></p>
 <p>Learn how to use logic and reasoning to identify the strengths and weaknesses of alternative solutions and approaches to problems. Discover how to question assumptions, apply sound reasoning, break down complex issues, and grasp the implications of information, through this curated set of videos on decision making and problem solving.</p>
+<i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
+<p>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</p>
 <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
-
-All NLB members can enjoy perpetual free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on ‘Try for Free’ or ‘Start my Free Month’. Watch our video below for a step-by-step guide on how to sign in.
 
 
 <h4>eBooks</h4>
