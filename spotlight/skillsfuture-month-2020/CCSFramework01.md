@@ -10,7 +10,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
-<p>Change is happening at a groundbreaking rate. Organisations have had to pivot to new ways of conducting businesses and critical thinking skills are often crucial to problem solving and decision making. Take a page (or several pages) from the following recommended books and resources, and learn how leaders navigate through challenges facing their businesses.</p>
+<p>Change is happening at a groundbreaking rate. Organisations have had to pivot to new ways of doing businesses and critical thinking skills are often crucial to problem solving and decision making. Take a page (or several pages) from the following recommended books and resources, and learn how leaders navigate through challenges facing their businesses.</p>
 
 
 <h4>Articles</h4>
@@ -43,7 +43,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Before You Decide: 3 Steps To Better Decision Making</a> (2019, July 16). TEDxOakLawn. 
 
 <h5>2. How Critical Thinking Can Change the Game by GCFLearnFree.org</h5> 
-<p>Richard Douglas Fosbury revolutionised high jumping – and set a new global standard in the 1968 Olympics – by making use of critical thinking. While his solution was out of the norm at that time and often ridiculed, his Fodsbury Flip method is now the default technique for almost all high jumpers today.</p>
+<p>Richard Douglas Fosbury revolutionised high jumping – and set a new global standard in the 1968 Olympics – by making use of critical thinking. While his solution was out of the norm at that time and often ridiculed, his Fosbury Flop method is now the default technique for almost all high jumpers today.</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/5VX7sojco3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=5VX7sojco3s" target="_blank">How Critical Thinking Can Change the Game </a> (2019, July 24). GCFLearnFree.org. 
 
