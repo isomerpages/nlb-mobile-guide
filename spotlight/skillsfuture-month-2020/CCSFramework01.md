@@ -10,30 +10,30 @@ image: /images/FS-futureskillsmonth2020.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
-<p>Change is happening at a groundbreaking rate, especially the way businesses are being conducted now, and very often, new problems which arise now require out-of-the-box solutions. Take a page (or several pages) from the following recommended books and resources, and learn how leaders of leading companies decide and navigate their way through obstacles in their businesses.</p>
+<p>Change is happening at a groundbreaking rate. Organisations have had to pivot to new ways of conducting businesses and critical thinking skills are often crucial to problem solving and decision making. Take a page (or several pages) from the following recommended books and resources, and learn how leaders navigate through challenges facing their businesses.</p>
 
 
 <h4>Articles</h4>
 
 <h5>1. <a href="https://jamesclear.com/decision-making">The Decision Making Guide: How to Make Smart Decisions and Avoid Bad Ones</a><br/>
 <i>James Clear.</i> Published on JamesClear.com.</h5>
-<p>James Clear, author of Atomic Habits, explains decision making, and provides possible reasons for why we sometimes make poor decisions. He has also compiled a collection of recommended resources pertaining to the subject of decision making, such as books written by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, as well as numerous past articles he has written. This article hopes to help readers develop their own mental concepts and look at problems through a different perspective.</p>
+<p>In this compilation of recommended resources on decision making, James Clear (author of Atomic Habits) explains decision making and provides possible reasons for why we sometimes make poor decisions. Included are books by authors such as Daniel Kahneman (Thinking, Fast and Slow), mental models from Elon Musk, and numerous past articles he has written. With these resources, readers are encouraged to develop their own mental concepts and look at problems through a different perspective.</p>
 
 <h5>2. <a href="https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making">The Art of Decision-Making</a><br/>
 <i>Joshua Rothman.</i> Published on Recruiterbox on 21 Jan 2019.</h5>
 <p>Joshua Rothman presents various concepts in the philosophy of decision making, and explores the influences on how decisions are made, while using his personal experiences to illustrate these concepts.</p>
 
-<h5>3. <a href="https://www.psychologytoday.com/us/blog/ambigamy/202005/explaining-the-narcissistic-critical-thinkers-in-your-life">Explaining the Narcissistic “Critical Thinkers" in Your Life</a><br/>
-<i>Jeremy E. Sherman Ph.D., MPP.</i> Published on Psychology Today on 1 May 2020.</h5>
-<p>Jeremy E. Sherman, biophilosopher and social science researcher, points out the fallacies of self-proclaimed critical thinkers; people who are quick to single out people who seemingly “failed” at critical thinking, but will not tolerate any criticisms of their beliefs. He explains to readers on how such narcissitic critical thinkers often fall to the fallacies they claim to have conquered, and provides recommendations on how to practise responsible critical thinking.</p>
+<h5>3. <a href="https://www.smashingmagazine.com/2019/02/human-decision-making/">How People Make Decisions</a><br/>
+<i>Susan Weinschenk.</i> Published on Smashing Magazine, on 7 Feb 2019.</h5>
+<p>Behavioural scientist Susan Weinschenk explains how decision making is closely affected by emotions, and how we can shape our customers’ decision making process by first understanding the impetus for their decisions. She also shares a tip on giving fewer choices to help with decision making.</p>
 
 <h5>4. <a href="https://www.thriveyard.com/19-ways-to-improve-your-problem-solving-skills-at-work/">19 Ways to Improve Your Problem Solving Skills at Work</a><br/>
 <i>Duncan Muguku.</i> Published on ThriveYard on 14 May 2020.</h5>
-<p>This article provides a step-by-step guide for the problem solving process, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identifying potential pitfalls when solving the problem.</p>
+<p>This article provides a step-by-step guide for problem solving, from finding the root cause(s) of the issue, to effective ways to enhance solutioning and identify potential pitfalls when solving the problem.</p>
 
 <h5>5. <a href="https://phys.org/news/2020-03-importance-creative-problem-solving-workplace.html">The Importance of Creative Problem-Solving in the Workplace</a><br/>
 <i>University of Jyväskylä.</i> Published on Phys.org on 19 Mar 2020.</h5>
-<p>This article discusses the findings by the University of Jyväskylä, Department of Education on problem solving. It is found that creativity is a crucial element to effective problem solving, and its importance is highlighted through the article. For example, in software development, a problem can be solved by a newly written code, but if it can only be comprehended by experts, it is not a good solution. Writing an elegant code which is understandable by other people (clients, colleagues) other than the experts writing it will require creative thinking process.</p>
+<p>This article discusses the findings by the University of Jyväskylä, Department of Education on problem solving. It is found that creativity is a crucial element to effective problem solving, and its importance is highlighted throughout the article. A given example is software development - if a problem can be solved by a newly written code that is only understood by experts, it is not a good solution. Writing an elegant code which other people can also understand, will require creative thinking.</p>
 
 
 <h4>Videos</h4>
@@ -43,7 +43,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 Source: <a href="https://www.youtube.com/watch?v=d7Jnmi2BkS8" target="_blank">Before You Decide: 3 Steps To Better Decision Making</a> (2019, July 16). TEDxOakLawn. 
 
 <h5>2. How Critical Thinking Can Change the Game by GCFLearnFree.org</h5> 
-<p>Richard Douglas Fosbury revolutionised high jumping, and set a new global standard in the 1968 Olympics by making use of critical thinking. While his solution was out of the norm at that time and thus was often ridiculed, his Fodsbury Flip method is now the default technique for almost all high jumpers today.</p>
+<p>Richard Douglas Fosbury revolutionised high jumping – and set a new global standard in the 1968 Olympics – by making use of critical thinking. While his solution was out of the norm at that time and often ridiculed, his Fodsbury Flip method is now the default technique for almost all high jumpers today.</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/5VX7sojco3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=5VX7sojco3s" target="_blank">How Critical Thinking Can Change the Game </a> (2019, July 24). GCFLearnFree.org. 
 
@@ -57,7 +57,7 @@ Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg" target="_blank">Problem Solving Techniques </a></strong></p>
-<p>Learn the techniques for successful problem solving process - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems, by first looking at the whole system generating potential solutions using mind maps and decision trees.</p>
+<p>Learn the techniques for successful problem solving - by identifying the root cause of the problem, generating options, and selecting the best solution. Project management trainer and consultant Chris Croft shares methods for tackling problems , by first looking at the whole system to generate potential solutions using mind maps and decision trees.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Problem-Solving-Techniques/553700-2.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Executive-Decision-Making/373992-2.html?org=nlb.gov.sg" target="_blank">Executive Decision-Making </a></strong></p>
@@ -98,7 +98,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6E8F9C2A
  <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=8BE117A2-7BB6-4097-97B2-A5364EFD181A"><img src="/images/CCS-1-Thinking.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Harper Perennial, 2013.</p>
-Thinking is a consolidation of original ideas by today’s leading psychologists, neuroscientists, and philosophers on topics such as the architecture of the “normal” human mind, mental disorders, and the science of morality and ethics. Edited by John Brockman, editior of Edge.org, this book will expand readers’ understanding of human thought.<br/>
+Thinking is a consolidation of original ideas by today’s leading psychologists, neuroscientists, and philosophers on topics like the architecture of the human mind, mental disorders, and the science of morality and ethics. Edited by John Brockman (editor of Edge.org), this book will expand your understanding of human thought.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8BE117A2-7BB6-4097-97B2-A5364EFD181A">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/8BE117A2-7BB6-4097-97B2-A5364EFD181A">online</a> &#128187;. <br/> 
 
 
@@ -155,7 +155,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=24E97161
  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C8D9A9C4-9B4B-4CE4-9F8B-68F4A2EE667A"><img src="/images/CCS-1-TheEurekaFactor.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 612.82332 KOU -[HEA]. Random House, 2015.</p> 
-Learn how insights arise and what scientific research says about stimulating more of them. Written by cognitive neuroscientists in a lively, engaging style, this book goes beyond scientific principles to offer productive techniques for realising your creative potential at home and at work.<br/>
+Learn how insights arise and what scientific research says about stimulating more of them. Written by cognitive neuroscientists in a lively, engaging style, this book goes beyond scientific principles to offer practical techniques for realising your creative potential at home and at work.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C8D9A9C4-9B4B-4CE4-9F8B-68F4A2EE667A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C8D9A9C4-9B4B-4CE4-9F8B-68F4A2EE667A">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201354862">find the book at the libraries</a>. <br/>
 
 <h5>Future Trends</h5>
@@ -164,8 +164,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C8D9A9C4
  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E-0528-47B1-AF0F-1F4C191ADBB1"><img src="/images/CCS-1-FutureTrends.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Rowman & Littlefield Publishers, 2018.</p> 
-Future Trends: A Guide to Decision Making and Leadership in Business identifies sixty global, long-term trends and details how businesses can leverage them in the short- and long-term. It also links a decision-making and leadership platform to these trends pointing to the future.
-Future Trends takes a holistic view of tomorrow by examining the cultural, economic, political, and technological trends, and offers readers a fuller understanding of life on Earth over the few decades.<br/>
+Future Trends: A Guide to Decision Making and Leadership in Business identifies sixty global trends and details how businesses can leverage them in the short- and long-term. Future Trends takes a holistic view of tomorrow by examining the cultural, economic, political, and technological trends, and offers readers a fuller understanding of life on Earth over the next few decades.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E-0528-47B1-AF0F-1F4C191ADBB1">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/9126D91E-0528-47B1-AF0F-1F4C191ADBB1">online</a>&#128187;. <br/>
 
 <h5>Putting Design Thinking to Work</h5>
@@ -174,8 +173,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=9126D91E
  <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03"><img src="/images/CCS-1-PuttingDesignThinkingtoWork.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Springer International Publishing, 2019.</p>
-Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book demonstrates how design thinking (and thinking outside the box) can help managers create organisational practices that facilitate breakthrough innovations.
-Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create groundbreaking innovations. This book will equip readers with tools and methods for harnessing creative tensions inherent in pluralist approaches, and offers practical guidance on initiating and managing cultural transformations necessary for effective innovations.<br/>
+Readers can learn the methods and mindsets of design thinking that large organisations have adopted to create ground-breaking innovations. This book will demonstrate how one can harness creative tensions, initiate, and manage cultural transformations necessary for effective innovations.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA-3895-4902-B0DE-461135FDCE03">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/F9A1C3FA-3895-4902-B0DE-461135FDCE03">online</a> &#128187;. <br/>
 
 <h5>Farsighted</h5>
