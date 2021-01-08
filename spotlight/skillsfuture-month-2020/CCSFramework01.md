@@ -3,7 +3,7 @@ layout: post
 title:  Thinking Critically
 date:   2021-01-08
 permalink: /spotlight/skillsfuture-month-2020/thinkingcritically01
-description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)
+description: SkillsFuture Singapore has identified Critical Core Skills to stay relevant in the workforce. NLB has curated learning packages with books, articles and videos, focused on Thinking Critically to start the year. Get a head start on your learning journey with NLB! Happy reading :)
 image: /images/FS-futureskillsmonth2020.jpg
 ---
 <img src="/images/FS-futureskillsmonth2020.jpg">
