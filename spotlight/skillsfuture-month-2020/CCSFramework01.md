@@ -76,6 +76,8 @@ Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 
 <p>Learn how to use logic and reasoning to identify the strengths and weaknesses of alternative solutions and approaches to problems. Discover how to question assumptions, apply sound reasoning, break down complex issues, and grasp the implications of information, through this curated set of videos on decision making and problem solving.</p>
 <a href="https://www.lynda.com/learning-paths/Business/develop-critical-thinking-decision-making-and-problem-solving-skills?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
 
+All NLB members can enjoy perpetual free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on ‘Try for Free’ or ‘Start my Free Month’. Watch our video below for a step-by-step guide on how to sign in.
+
 
 <h4>eBooks</h4>
 
