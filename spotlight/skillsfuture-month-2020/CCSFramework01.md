@@ -3,9 +3,7 @@ layout: post
 title:  Thinking Critically
 date:   2021-01-08
 permalink: /spotlight/skillsfuture-month-2020/thinkingcritically01
-description: The Singapore economy and business environment are rapidly transforming. SkillsFuture Singapore (SSG) has identified 16 generic competencies that will help workers keep up with the future economy. These are Critical Core Skills deemed essential to the workplace that enable individuals to be employable, facilitate their career mobility, and enable the acquisition of technical skills and competencies for specific roles in the sectors. 
-Click <a href="https://www.skillsfuture.gov.sg/skills-framework/criticalcoreskills">here</a>.<br/> for more info on the Critical Core Skills. 
-These Critical Core Skills are grouped into three skill clusters: Thinking Critically, Interacting with Others, and Staying Relevant. The following learning packages comprise books, articles and videos, to get you started on building these critical skills. Our first set focuses on Thinking Critically.
+description: The Singapore economy and business environment are rapidly transforming. SkillsFuture Singapore (SSG) has identified 16 generic competencies that will help workers keep up with the future economy. These are Critical Core Skills deemed essential to the workplace that enable individuals to be employable, facilitate their career mobility, and enable the acquisition of technical skills and competencies for specific roles in the sectors. Click <a href="https://www.skillsfuture.gov.sg/skills-framework/criticalcoreskills">here</a>.<br/> for more info on the Critical Core Skills. These Critical Core Skills are grouped into three skill clusters - Thinking Critically, Interacting with Others, and Staying Relevant. The following learning packages comprise books, articles and videos, to get you started on building these critical skills. Our first set focuses on Thinking Critically.
 image: /images/FS-futureskillsmonth2020.jpg
 ---
 <img src="/images/FS-futureskillsmonth2020.jpg">
