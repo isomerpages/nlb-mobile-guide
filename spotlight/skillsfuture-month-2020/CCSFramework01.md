@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Thinking Critically
-date:   2021-01-08
-permalink: /spotlight/skillsfuture-month-2020/thinkingcritically01
+date:   2021-01-12
+permalink: /spotlight/career-in-focus/thinkingcritically01
 description: The Singapore economy and business environment are rapidly transforming. SkillsFuture Singapore (SSG) has identified 16 generic competencies that will help workers keep up with the future economy. These are Critical Core Skills deemed essential to the workplace that enable individuals to be employable, facilitate their career mobility, and enable the acquisition of technical skills and competencies for specific roles in the sectors. Click <a href="https://www.skillsfuture.gov.sg/skills-framework/criticalcoreskills">here</a>.<br/> for more info on the Critical Core Skills. These Critical Core Skills are grouped into three skill clusters - Thinking Critically, Interacting with Others, and Staying Relevant. The following learning packages comprise books, articles and videos, to get you started on building these critical skills. Our first set focuses on Thinking Critically.
 image: /images/FS-futureskillsmonth2020.jpg
 ---
@@ -92,7 +92,7 @@ Source: <a href="https://www.youtube.com/watch?v=dItUGF8GdTw" target="_blank">5 
 <p class="end-note">eBook only. Springer International Publishing, 2020.</p> 
 In transdisciplinarity, what are the elements which a transdiscplinary approach actually comprises of, and how can we understand the approach, given its complexity and multi-faceted use? This book aims to provide answers to the fundamental questions of leading practitioners in the fields of higher education and transdisciplinarity.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6E8F9C2A-A01D-4680-ACB5-6BA7303CE3F2">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/6E8F9C2A-A01D-4680-ACB5-6BA7303CE3F2">online</a>&#128187;. <br/>
- 
+
 <h5>Thinking</h5>
 <i>John Brockman</i>
 <p>
@@ -111,7 +111,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=8BE117A2
 <p class="end-note">eBook only. Tommy Tedford, 2020.</p> 
 The Great Mental Models provides readers insights to the mental models of the world’s greatest problem-solvers, forecasters, and decision-makers. These great minds rely on frameworks and shortcuts to help them navigate out of complexity, and separate good ideas from bad ones. This book will help readers understand their own minds better, and develop successful mindsets of their own.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0-8A41-407C-BDD8-B9B87BABFC50">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/D4D2BFE0-8A41-407C-BDD8-B9B87BABFC50">online</a>&#128187;. <br/>
- 
+
 <h5>Fact Vs. Fiction: Teaching Critical Thinking Skills in the Age of Fake News</h5>
 <i>Jennifer LaGarde, Darren Hudgins</i>
 <p>
@@ -120,7 +120,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=D4D2BFE0
 <p class="end-note">eBook only. International Society for Technology in Education, 2018.</p> 
 Fact vs. Fiction is designed to help educators address the new realities of the “fake news” industry, where false stories are intentionally spread to go viral. Even so, the tools and resources in this book will help all readers to discern fact from fiction in the information that we access daily, at our workplaces and from the devices we carry in our pockets.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=383895B5-5EE8-4FAF-9ECC-5E80AE2C7525">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/383895B5-5EE8-4FAF-9ECC-5E80AE2C7525">online</a>&#128187;. <br/>
- 
+
 <h5>Conceptual Blockbusting</h5>
 <i>James L. Adams</i><br/>
 <p>
@@ -130,7 +130,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=383895B5
 In Conceptual Blockbusting, James Adams identifies the key blocks – perceptual, emotional, cultural, environmental, intellectual, expressive – that are preventing us from realising the full potential of our minds. 
 Through the use of exercises and interactive elements, Adams demonstrates how organisations and individuals can overcome these blocks, embrace alternative ways of thinking through complex problems, and celebrate the joy of creativity.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203988748">find the book at the libraries</a>.<br/> -->
- 
+
 <h5>How Leaders Decide</h5>
 <i>Greg Bustin</i><br/>
 <p>
@@ -195,3 +195,4 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E
     </td>
   </tr>
   </table>
+
