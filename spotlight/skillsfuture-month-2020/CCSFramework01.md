@@ -128,7 +128,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=383895B5
 <p class="end-note">Call Number: English 153.43 ADA. Basic Books, 2019.</p> 
 In Conceptual Blockbusting, James Adams identifies the key blocks – perceptual, emotional, cultural, environmental, intellectual, expressive – that are preventing us from realising the full potential of our minds. 
 Through the use of exercises and interactive elements, Adams demonstrates how organisations and individuals can overcome these blocks, embrace alternative ways of thinking through complex problems, and celebrate the joy of creativity.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203988748">find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/A7F61319-7ADF-45AC-817E-5E58C6DC6CAD">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203988748">find the book at the libraries</a>.<br/> -->
  
 <h5>How Leaders Decide</h5>
 <i>Greg Bustin</i><br/>
@@ -138,7 +138,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=A7F61319
 <p class="end-note">Call Number: 303.3409 BUS. Sourcebooks, 2019.</p> 
 It's impossible to see into the future to predict how our decisions in the present may play out, but we can look to the momentous decisions of the past for insights on how profound choices are made.
 How Leaders Decide provides provocative ideas and leadership lessons that will propel leaders and their businesses forward, through 52 dramatic historical events and decisions that changed the course of our world.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E19F6750-8788-4DBF-9F1E-819CBC1A06A5">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E19F6750-8788-4DBF-9F1E-819CBC1A06A5">online</a>&#128187;or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203966363">find the book at the libraries</a>.<br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E19F6750-8788-4DBF-9F1E-819CBC1A06A5">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/E19F6750-8788-4DBF-9F1E-819CBC1A06A5">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203966363">find the book at the libraries</a>.<br/> -->
 
 <h5>Seeing What Others Don't: The Remarkable Ways We Gain Insights</h5>
 <i>Gary Klein</i><br/>
@@ -147,7 +147,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E19F6750
  </p>
 <p class="end-note">Call Number: English 153.4 KLE. Nicholas Brealey Publishing, 2017.</p> 
 How do we gain insights? Cognitive scientist Gary Klein investigated cases of insight large and small, and tried to find out what they had in common. He concluded that insight stemmed from connections, coincidences, curiosities, contradictions and creative desperation, and devised a "Triple Path" model for anyone to tap easily into their intuition.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=24E97161-5200-43EB-A3EC-64F9474EEE6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/24E97161-5200-43EB-A3EC-64F9474EEE6E">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834947">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=24E97161-5200-43EB-A3EC-64F9474EEE6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/24E97161-5200-43EB-A3EC-64F9474EEE6E">online</a>&#128187;. <!--, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834947">find the book at the libraries</a>. <br/> -->
 
 <h5>The Eureka Factor: Aha Moments, Creative Insight, and the Brain</h5>
 <i>John Kounios, Mark Beeman</i><br/>
@@ -156,7 +156,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=24E97161
  </p>
 <p class="end-note">Call Number: English 612.82332 KOU -[HEA]. Random House, 2015.</p> 
 Learn how insights arise and what scientific research says about stimulating more of them. Written by cognitive neuroscientists in a lively, engaging style, this book goes beyond scientific principles to offer practical techniques for realising your creative potential at home and at work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C8D9A9C4-9B4B-4CE4-9F8B-68F4A2EE667A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C8D9A9C4-9B4B-4CE4-9F8B-68F4A2EE667A">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201354862">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C8D9A9C4-9B4B-4CE4-9F8B-68F4A2EE667A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C8D9A9C4-9B4B-4CE4-9F8B-68F4A2EE667A">online</a>&#128187;. <!--, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201354862">find the book at the libraries</a>. <br/> -->
 
 <h5>Future Trends</h5>
 <i>Lawrence R. Samuel</i><br/>
@@ -183,7 +183,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F9A1C3FA
  </p>
 <p class="end-note">Call Number: English 153.83 JOH. Riverhead Books, 2018.</p> 
 Steven Johnson shares powerful tools to improve and refine the important skill of complex decision making. The deliberative tactics of expert decision-makers are explained in Farsighted, to guide and ease readers into making big, life-altering decisions, which matter the most but are also the most difficult.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E-6ED8-4627-AADA-CF7916E7A747">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F4E7230E-6ED8-4627-AADA-CF7916E7A747">online</a>&#128187;or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203198709">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F4E7230E-6ED8-4627-AADA-CF7916E7A747">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/F4E7230E-6ED8-4627-AADA-CF7916E7A747">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203198709">find the book at the libraries</a>. <br/> -->
 
 
 <p>
