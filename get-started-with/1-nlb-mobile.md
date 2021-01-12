@@ -319,9 +319,12 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <label for="acc14">How do I read eMagazines/ eNewspapers from NLB Mobile?  </label>
 
 <div class="acc-body">
-  <p>NLB Mobile lets you read over 7,000 current eNewspapers and eMagazines from local and international publishers.</p>
-<p>First, sign in with a myLibrary ID. Next, tap the ‘eMagazines & eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the one hour is up, you can re-launch PressReader from NLB Mobile to get sponsored access again. </p>
-<p>In addition, local newspapers such as<em> The Straits Times, The Business Times</em> and <em>Lianhe Zaobao</em> can only be accessed when your device is connected to the Wireless@SGx network at any library.</p>
+	<h5>Reading SPH Local eNewspapers</h5>
+<p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the SPH icon. Choose the eNewspaper you would like to read.</p>
+<p>Find out more about how to access SPH Local eNewspapers (e.g. how to zoom in) from <a href="/get-started-with/PressReader/">our FAQ page</a>.</p>
+        <p><h5>Reading International eNewspapers and eMagazines</h5></p>
+<p>NLB Mobile lets you read over 7,000 current eNewspapers and eMagazines from local and international publishers.</p>
+<p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the ‘eMagazines & eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the one hour is up, you can re-launch PressReader from NLB Mobile to get sponsored access again. </p>
 <p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines</a>.</p>
 
 </div></div>

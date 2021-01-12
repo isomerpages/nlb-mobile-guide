@@ -5,8 +5,11 @@ breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary ID
 ---
 <h2>About myLibrary ID</h2>
+<p> A user ID for library members to borrow ebooks, access our digital resources, check library accounts and more! </p>
+<p>Forgot your ID or password? <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
+<p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 
-A user ID for library members that lets you:
+<!--A user ID for library members that lets you:
 <ul>
 <li>Borrow eBooks and audiobooks</li>
 <li>Read eMagazines and eNewspapers</li>
@@ -14,10 +17,13 @@ A user ID for library members that lets you:
 <li>Borrow physical items using your mobile device</li>
 <li>Check the accounts of you and your family</li>
 </ul>
-<br>...and much more!
+<br>...and much more! 
 
+-->
+<!--
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p> 
+-->
 <p>
 	<a name="membership"><h2>Sign Up for Library Membership Online</h2></a>
 <p></p>
@@ -287,20 +293,15 @@ A user ID for library members that lets you:
 		<input type="radio" name="acc" id="acc16">
         <label for="acc16">What should I do if I forget my User ID or password? </label>
         <div class="acc-body">
-        <p><strong>Online</strong></p>
         <ul>
-        <li>You can <a href="https://account.nlb.gov.sg">retrieve your User ID and reset your password</a>.
+        <li>You can <a href="https://account.nlb.gov.sg">retrieve your User ID and reset your password online</a>.
         <ul>
         <li>Sign in with your SingPass. The system will display your User ID and ask if you wish to reset your password.</li>
         <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
         </ul>
         </li>
         </ul>
-        <p><strong>At libraries</strong></p>
-        <ul>
-        <li>You can also retrieve your User ID and reset your password at any of the borrowing stations in the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID and ask if you wish to reset your password.</li>
-        </ul>
-        </div>
+       </div>
         </div>
   </div><!--close accordion style-->
 

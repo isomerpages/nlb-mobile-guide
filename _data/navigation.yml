@@ -38,9 +38,11 @@
   sub-links:
   - title: All
     url: /spotlight/
+  - title: Career in Focus
+    url: /spotlight/career-in-focus/
   - title: The Global Economy
     url: /spotlight/the-global-economy/
-  - title: SkillsFuture Month 2020
+  - title: SkillsFuture
     url: /spotlight/skillsfuture-month-2020/
   - title: A New Normal
     url: /spotlight/a-new-normal/

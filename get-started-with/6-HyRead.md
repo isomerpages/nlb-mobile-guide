@@ -22,7 +22,7 @@ title: HyRead Chinese eBooks and eMagazines
 
 <p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp" target="_blank" rel="noopener">its website</a> or the app from the <a href="https://goo.gl/kGEflg" target="_blank" rel="noopener">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available.</p>
 
-<h2>Getting Started</h2>
+<h2>Setting up the HyRead 3 app</h2>
 <div class="acc-kontainer"><!--accordion-->          
 <div>
 		<input type="radio" name="acc" id="acc1"><!--question 1-->
@@ -64,11 +64,15 @@ title: HyRead Chinese eBooks and eMagazines
 </div>
 </div>
 
+</div><!--close accordion-->
+
+<h2>Borrowing and Reading</h2>
+<div class="acc-kontainer"><!--accordion-->       
 <div>
 		<input type="radio" name="acc" id="acc3">
 		<label for="acc3">How many eBooks and eMagazines can I borrow?</label>
 <div class="acc-body">
-  <p>You can borrow a total of 16 eBooks and 16 eMagazines. Your HyRead loan quotas are <b>independent</b> of all other loan quotas (e.g. physical items at the libraries, Libby or OverDrive eBooks, Apabi and iRead - formerly known as Airitibooks).</p>
+  <p>You can borrow a total of 16 eBooks and 16 eMagazines. Your HyRead loan quotas are <b>independent</b> of all other loan quotas (e.g. physical items at the libraries, Libby or OverDrive eBooks.</p>
 </div>
 </div>
 
@@ -124,7 +128,10 @@ title: HyRead Chinese eBooks and eMagazines
         <div class="acc-body">
     	  <p>No, it is free of charge as long as you have logged in with your <a href="/get-started-with/myLibrary/" target="_blank" rel="noopener">myLibrary ID</a>. Tip: To avoid incurring charges from your telco for exceeding your data quota, download the HyRead 3 app, eBooks and eMagazines only when there is a WiFi connection available.</p>
 </div></div>
+</div><!--close accordion-->
 
+<h2>Getting more help</h2>
+<div class="acc-kontainer"><!--accordion-->       
   <div>
 		<input type="radio" name="acc" id="acc9">
         <label for="acc9">I cannot use HyRead and I need help. What should I do?</label>
@@ -138,3 +145,5 @@ title: HyRead Chinese eBooks and eMagazines
                 <div class="acc-body">
 			<p>You can also find Chinese eBooks in the <a href="/get-started-with/libby/">Libby</a> app. The collection is mostly in simplified Chinese, and includes eBooks for both adults and children.</p>
   </div></div>
+
+</div><!--close accordion-->
