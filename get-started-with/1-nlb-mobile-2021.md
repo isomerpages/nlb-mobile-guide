@@ -21,15 +21,15 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 	</tr>
 	</table>
 -->	
-<table style="width: 290px;">
+<table style="width: auto;">
 <tbody>
-<tr style="height: 1088.33px;">
-<td style="width: 274.333px; height: 1088.33px;"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it." width="505" height="930" /></td>
-<td style="width: 505px; height: 1088.33px;"><img src="/images/Tutorial-screen-AddProfile-smartmockup_small.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)." width="505" height="930" /></td>
+<tr style="height: auto;">
+<td style="width: auto; height: auto;"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+<td style="width: auto; height: auto;"><img src="/images/Tutorial-screen-AddProfile-smartmockup_small.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
 </tr>
-<tr style="height: 1088.33px;">
-<td style="width: 274.333px; height: 1088.33px;"><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks." width="505" height="930" /></td>
-<td style="width: 500px; height: 1088.33px;"><img src="/images/QR_downloadapp.svg" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store." width="500" height="544" /></td>
+<tr style="height: auto;">
+<td style="width: auto; height: auto;"><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
+<td style="width: auto; height: auto;"><img src="/images/QR_downloadapp.svg" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
 </tr>
 </tbody>
 </table>
