@@ -1,11 +1,23 @@
 ---
 layout: simple-page
-permalink: /get-started-with/nlb-mobile/
+permalink: /get-started-with/nlb-mobile-2021/
 breadcrumb: NLB Mobile app
 description: NLB Mobile app FAQ
-image: /images/NLB-Mobile-logo-square.png
+image: /images/NEW_NLB_mobile-app-icon_dark orange_final.png
 title: NLB Mobile app
 ---
+<h1>Quick Start Guide</h1>
+The NLB Mobile app is your personal library, anywhere, anytime. Scan the QR code below with your mobile device to install it. Or, if you are using a mobile device to view this page, tap <a href="http://go.nlb.gov.sg/nlbmobile">here</a> to install it. 
+If you have already installed the app, update it now to enjoy the latest features. To check if your app has been updated, go to the AppStore or Google Play store. Tap on the Update button if you see one. If you don't see any Update button, you are already using the latest version. Here are a few quick tips to get you started. 
+<table>
+	<tr>
+		<td><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+		<td><img src="/images/Tutorial-screen-AddProfile-smartmockup_small.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
+		<td><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
+		<td><img src="/images/QR_downloadapp.svg" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
+	</tr>
+	</table>
+	
 <h2>About the NLB Mobile app</h2>
 <p>
 	<div class="vd">
