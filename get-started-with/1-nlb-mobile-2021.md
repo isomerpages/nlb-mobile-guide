@@ -24,12 +24,12 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 <table style="width: 290px;">
 <tbody>
 <tr style="height: 1088.33px;">
-<td style="width: 274.333px; height: 1088.33px;"><img src="https://d33wubrfki0l68.cloudfront.net/e7c5b057556e319298d542222c08f5ffaf83b6f5/5c3e6/images/tutorial-screen-welcome-smartmockup.png" alt="" width="505" height="930" /></td>
-<td style="width: 10px; height: 1088.33px;"><img src="https://d33wubrfki0l68.cloudfront.net/aa6cf732596b421e466b2689b8c69a7f7b1c0d9f/02a52/images/tutorial-screen-addprofile-smartmockup_small.png" alt="" width="505" height="930" /></td>
+<td style="width: 274.333px; height: 1088.33px;"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it." width="505" height="930" /></td>
+<td style="width: 10px; height: 1088.33px;"><img src="/images/Tutorial-screen-AddProfile-smartmockup_small.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)." width="505" height="930" /></td>
 </tr>
 <tr style="height: 1088.33px;">
-<td style="width: 274.333px; height: 1088.33px;"><img src="https://d33wubrfki0l68.cloudfront.net/4dced5891c4d441c2d9a856d9ab93eae7d0a87ed/775ee/images/tutorial-screen-bookshelf-smartmockup_small.png" alt="" width="505" height="930" /></td>
-<td style="width: 10px; height: 1088.33px;"><img src="https://d33wubrfki0l68.cloudfront.net/bfe01ce832a34f510ecda0bf7a07a60ea4dc6ec3/a2aca/images/qr_downloadapp.svg" alt="" width="500" height="544" /></td>
+<td style="width: 274.333px; height: 1088.33px;"><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks." width="505" height="930" /></td>
+<td style="width: 10px; height: 1088.33px;"><img src="QR_downloadapp.svg" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store." width="500" height="544" /></td>
 </tr>
 </tbody>
 </table>
