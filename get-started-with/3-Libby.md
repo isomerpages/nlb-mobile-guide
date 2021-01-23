@@ -6,23 +6,23 @@ description: How to Read NLB's eBooks and Audiobooks
 image: /images/libby_socmed.png
 title: eBooks and Audiobooks
 ---
-//<table style="border-color: blue;" border="1" cellpadding="10">
-//<tbody>
-//<tr>
-//<td>
-//	<h3 style="text-align: center;">New Features on Libby</h3>
-//	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, <i>Reader's Digest</i> and <i>Newsweek</i>? <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to see the full list on your browser or the Libby app.</p>
-//	<p>
-//		<a href="/get-started-with/libby/#mag">Learn more</a>
-//	</p>
-//</td>
-//</tr>
-//</tbody>
-//</table>
+<table style="border-color: blue;" border="1" cellpadding="10">
+<tbody>
+<tr>
+<td>
+	<h2 style="text-align: center;">New Features on Libby</h2>
+	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, <i>Reader's Digest</i> and <i>Newsweek</i>? <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">See the full list</a> on your browser or the Libby app.</p>
+	<p>
+		<a href="/get-started-with/libby/#mag">Learn more</a>
+	</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
-	<li><b>Want to read even when offline?</b> With the Libby app, you can download eBooks/Audiobooks into your device so that you don't need an internet connection to read/listen to them later. Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank"><b>App Store</b></a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank"><b>Google Play</b></a> now.</li>
+	<li><b>Want to read even when offline?</b> With the Libby app, you can download eBooks/Audiobooks into your device so that you don't need an internet connection to read/listen to them later. Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank" rel="noopener"><b>App Store</b></a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank" rel="noopener"><b>Google Play</b></a> now.</li>
 
 <li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
 </ul>
@@ -58,7 +58,7 @@ title: eBooks and Audiobooks
 		<input type="radio" name="acc" id="acc3">
 		<label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
 <div class="acc-body">
-  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
+  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank" rel="noopener">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
 </div>
 </div>
 
@@ -103,11 +103,11 @@ Tap Renew Loan, then Renew. </p>
 </ul>
 <p>These actions have to be taken through:</p>  
 <ul>
-<li>Libby app or <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a></li>
-<li>OverDrive app or <a href="https://nlb.overdrive.com" target="_blank">nlb.overdrive.com</a></li>
+<li>Libby app or <a href="https://libbyapp.com/library/nlb" target="_blank" rel="noopener">libbyapp.com/library/nlb</a></li>
+<li>OverDrive app or <a href="https://nlb.overdrive.com" target="_blank" rel="noopener">nlb.overdrive.com</a></li>
     </ul>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
-<p>If you fear you may have missed a notification, check your Shelf or Holds in the Libby app. To ensure that your notifications get through, do check your notification settings in Libby (<a href="https://help.libbyapp.com/6174.htm" target="_blank">click here to learn how to setup or manage notifications</a>). </p>
+<p>If you fear you may have missed a notification, check your Shelf or Holds in the Libby app. To ensure that your notifications get through, do check your notification settings in Libby (<a href="https://help.libbyapp.com/6174.htm" target="_blank" rel="noopener">click here to learn how to setup or manage notifications</a>). </p>
 </div></div>
 
   <div>
@@ -118,7 +118,7 @@ Tap Renew Loan, then Renew. </p>
 			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details</a> here from our eBooks vendor, OverDrive.</p>
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
 			<p>To find books that are available right now, you can browse "Available" categories in Libby, such as <a href="https://libbyapp.com/library/nlb/spotlight-52/books/page-1">this list of popular but available books for adults</a>. In any category in Libby, you can also filter out unavailable books by tapping on Refine > Available Now. We also have this special category called Skip the Line, where you can immediately borrow popular books which otherwise have very long waiting lists. You can borrow such special copies for 7 days. The list is ever-changing and exciting, and you can <a href="https://libbyapp.com/library/nlb/curated-1029173/page-1">check it out here</a>.</p>
-			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, Home & Decor and The Economist are always available. Click <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">here</a> to see the full list and borrow them.</p>
+			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, Home & Decor and The Economist are always available. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">See the full list</a> and borrow them.</p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
   </div></div>
@@ -146,7 +146,7 @@ If you want to know why your titles are not downloading or how to adjust your au
 			<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 			<p>
-				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a> to see the full list of magazines available in Libby.
+				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">see the full list</a> of magazines available in Libby.
 			</p>
 			<p>If you can't find the magazines you want in Libby, try <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">PressReader (click here for the guide)</a>.
 			</p>
@@ -185,7 +185,7 @@ If you want to know why your titles are not downloading or how to adjust your au
 			<li>Wired</li>
 		    </ol>
 		    <p>
-		    If the above titles aren't what you are looking for, try PressReader for a wider selection that includes newspapers too. <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Click here</a> for the PressReader guide.
+		    If the above titles aren't what you are looking for, try PressReader for a wider selection that includes newspapers too. <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Learn more about PressReader.</a>
 		    </p>
 		<p>
 		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, feel free to borrow again if you still want them.
@@ -335,7 +335,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <li>Kobo Clara HD devices.</li>
 </ul>
 <p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive* on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
-  <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank">Read this article</a> for a step-by-step guide on how to borrow ebooks on your Kobo device.
+  <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank" rel="noopener">Read this article</a> for a step-by-step guide on how to borrow ebooks on your Kobo device.
 </p>
 <p class="end-note">*The Libby app interface is not currently available on Kobo - only the OverDrive app interface is supported. However, the selection of eBooks available and what you have borrowed from OverDrive/Libby/NLB Mobile apps would be the same.</p>
 
@@ -351,13 +351,13 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary ID. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
-  <a href="https://help.overdrive.com/en-us/0047.html" target="_blank">what to do if your eReader is not detected by ADE</a>.&nbsp;
+  <a href="https://help.overdrive.com/en-us/0047.html" target="_blank" rel="noopener">what to do if your eReader is not detected by ADE</a>.&nbsp;
 </p>
 <p><strong>Nook</strong>: NLB currently does not purchase and support eBooks in the Nook format as it is not officially available to the Singapore market.&nbsp;</p>
 <p><strong>Apple Books</strong>: Currently, Apple Books is not supported.</p>
 <p><strong>Google Play Books</strong>: Currently, Google Play Books is not supported.</p>
 <p><strong>Adobe Digital Editions</strong>: Yes, you can. Read this article on 
-  <a href="https://help.overdrive.com/en-us/0005.html" target="_blank">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
+  <a href="https://help.overdrive.com/en-us/0005.html" target="_blank" rel="noopener">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
 </p>
 <p>
   <br>
@@ -376,10 +376,10 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary ID. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
-  <a href="https://help.overdrive.com/en-us/0047.html" target="_blank">what to do if your eReader is not detected by ADE</a>.&nbsp;
+  <a href="https://help.overdrive.com/en-us/0047.html" target="_blank" rel="noopener">what to do if your eReader is not detected by ADE</a>.&nbsp;
 </p>
 <p>For more details and screenshots, read this article on 
-  <a href="https://help.overdrive.com/en-us/0005.html" target="_blank">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
+  <a href="https://help.overdrive.com/en-us/0005.html" target="_blank" rel="noopener">how to transfer eBooks to an eReader using Adobe Digital Editions</a>.
 </p>
 </div>
 </div>
@@ -393,7 +393,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc20">I can't sign in to Libby.</label>
         <div class="acc-body">
   <p>If you still can't sign in after following the steps in the video near the top of this page, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and provide details of the issue you face. A good practice is to include a screenshot of the issue encountered so that we may assist you better.</p>
-<p>Help topics are also available on the <a href="https://help.libbyapp.com/" target="_blank">Libby support site</a>.</p>
+<p>Help topics are also available on the <a href="https://help.libbyapp.com/" target="_blank" rel="noopener">Libby support site</a>.</p>
 </div>
 </div>
 
