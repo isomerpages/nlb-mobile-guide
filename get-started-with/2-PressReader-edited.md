@@ -11,7 +11,7 @@ title: eMagazines and eNewspapers
 <div class="FAQ-section" id="sph">
 <h2>How to Read SPH eNewspapers From Home</h2>
 	<div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	
 <div class="acc-kontainer"><!--div for each button-->
@@ -214,7 +214,7 @@ title: eMagazines and eNewspapers
 	</ul>
 	<p><h2>How to Read International eNewspapers and eMagazines</h2></p>
 <div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="how to use PressReader" width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <!-- Hide New Features box
@@ -249,7 +249,7 @@ title: eMagazines and eNewspapers
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
       <p><table style="height: 170px; width: 170px;">
 <tbody><tr>
-<td style="height: 150px; width: 150px;"><img src="/images/PressReader_applogo.png" /></td>
+<td style="height: 150px; width: 150px;"><img src="/images/PressReader_applogo.png" alt="pressreader logo" /></td>
 </tr>
 </tbody>
 </table>
@@ -300,7 +300,7 @@ title: eMagazines and eNewspapers
         <label for="acc3a">I prefer to access PressReader from my desktop/laptop computer. How can I do this?</label>
 	<div class="acc-body">
   <p>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications. You can share this shortcut - <a href="https://go.gov.sg/nlb-pressreader" target="_blank">go.gov.sg/nlb-pressreader</a> with your friends.</p>
-		<img src="/images/How-to-use-PressReader.gif">
+		<img src="/images/How-to-use-PressReader.gif" alt="how to use pressreader">
 	</div>
 </div>
 
@@ -312,7 +312,7 @@ title: eMagazines and eNewspapers
   <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SGx network at NLB libraries, or via the NLB Mobile app.</p>
 <table style="height: 170px; width: 170px;">
 <tbody><tr>
-<td style="height: 150px; width: 150px;"><img src="/images/Pressreader_cup.png" /></td>
+<td style="height: 150px; width: 150px;"><img src="/images/Pressreader_cup.png" alt="pressreader logo" /></td>
 </tr>
 </tbody>
 </table>
@@ -341,7 +341,7 @@ title: eMagazines and eNewspapers
 		<input type="radio" name="acc" id="acc6a">
 	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
         <div class="acc-body">
-		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another vendor - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to read <i>The Economist</i> on your browser or the Libby app.</p>
+		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another vendor - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here to read</a> <i>The Economist</i> on your browser or the Libby app.</p>
 		<p>The difference between PressReader and Libby is that Libby has a smaller collection of only magazines, but includes some that are not available in PressReader. These are:
 		<ol>
 			<li>Allure</li>
@@ -381,7 +381,7 @@ title: eMagazines and eNewspapers
 			<li>Wired</li>
 		</ol>
 		<p>
-		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mag" target="_blank" rel="noopener">Click here</a> for the Libby guide.
+		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mag" target="_blank" rel="noopener">Click here for the Libby guide.</a>
 		    </p>
 		<p>
 		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, just borrow again if you still want them.
