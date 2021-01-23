@@ -6,25 +6,23 @@ description: How to Read NLB's eBooks and Audiobooks
 image: /images/libby_socmed.png
 title: eBooks and Audiobooks
 ---
-<table style="border-color: blue;" border="1" cellpadding="10">
-<tbody>
-<tr>
-<td>
-	<h3 style="text-align: center;">New Features on Libby</h3>
-	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, <i>Reader's Digest</i> and <i>Newsweek</i>? <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to see the full list on your browser or the Libby app.</p>
-	<p>
-		<a href="/get-started-with/libby/#mag">Learn more</a>
-	</p>
-</td>
-</tr>
-</tbody>
-</table>
+//<table style="border-color: blue;" border="1" cellpadding="10">
+//<tbody>
+//<tr>
+//<td>
+//	<h3 style="text-align: center;">New Features on Libby</h3>
+//	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, <i>Reader's Digest</i> and <i>Newsweek</i>? <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here</a> to see the full list on your browser or the Libby app.</p>
+//	<p>
+//		<a href="/get-started-with/libby/#mag">Learn more</a>
+//	</p>
+//</td>
+//</tr>
+//</tbody>
+//</table>
 
 <h2>Two Ways to Read Anytime, Anywhere</h2>
 <ul>
-<li>Want to read even when offline? With the Libby app, you can download eBooks/Audiobooks into your device so that you don't need an internet connection to read/listen to them later.</li>
-
-<p>Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank">Google Play</a> now.</p>
+	<li><b>Want to read even when offline?</b> With the Libby app, you can download eBooks/Audiobooks into your device so that you don't need an internet connection to read/listen to them later. Download Libby from the <a href="https://apps.apple.com/sg/app/libby-by-overdrive/id1076402606" target="_blank"><b>App Store</b></a> or <a href="https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby" target="_blank"><b>Google Play</b></a> now.</li>
 
 <li>Always connected? Read online with the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a></li>
 </ul>
@@ -41,7 +39,7 @@ title: eBooks and Audiobooks
 
 	<p><h2>What is Libby, and How to Download eBooks and Audiobooks with Libby</h2></p>
 <div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
   <h2>Libby versus NLB Mobile</h2>
@@ -58,7 +56,7 @@ title: eBooks and Audiobooks
 
 <div>
 		<input type="radio" name="acc" id="acc3">
-		<label for="acc3">I like Libby but it doesn't have an app for the OS that I'm using.</label>
+		<label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
 <div class="acc-body">
   <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
 </div>
@@ -131,7 +129,7 @@ Tap Renew Loan, then Renew. </p>
                 <div class="acc-body">
 <p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
 <p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
-<p><img src="/images/Screenshot_Libby-download-icons.jpg"></p>
+<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby"></p>
 <p>
 If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div></div>
@@ -145,7 +143,7 @@ If you want to know why your titles are not downloading or how to adjust your au
 		Just follow the steps in the video below. You can skip to 0:24 if you are already familiar with what Libby is. If you've borrowed eBooks from Libby before, the steps are the same. 
 		</p>
 		<div class="vd">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 			<p>
 				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">click here</a> to see the full list of magazines available in Libby.
@@ -404,9 +402,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc21">My eBook/eAudiobook isn't downloading.</label>
         <div class="acc-body">
   <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
-  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg"></p>
+  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg" alt="screenshot of Libby"></p>
     <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
-    <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg"></p>
+    <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg" alt="screenshot of Libby"></p>
   </div></div>
 
 <div>
