@@ -11,9 +11,8 @@ title: eBooks and Audiobooks
 <tr>
 <td>
 	<h2 style="text-align: center;">New Features on Libby</h2>
-	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, <i>Reader's Digest</i> and <i>Newsweek</i>? <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">See the full list</a> on your browser or the Libby app.</p>
-	<p>
-		<a href="/get-started-with/libby/#mag">Learn more</a>
+	<p>Want to read eMagazines like <i>The Economist</i>, <i>Wired</i>, <i>Reader's Digest</i> and <i>Newsweek</i>? <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">See the full list</a> on your browser or the Libby app. 
+		<a href="/get-started-with/libby/#mag">Learn more about reading magazines in Libby.</a>
 	</p>
 </td>
 </tr>
