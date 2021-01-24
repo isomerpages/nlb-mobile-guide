@@ -19,7 +19,12 @@ title: eBooks and Audiobooks
 <div class="vd">
 <iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+	<ul>
+	<li><a href="#learnthefeatures">Learn the Features</a></li>
+	<li>Troubleshooting</li>
+	<li>NLB's eBooks - Compatibility with eReaders / apps</li>
+	<li>Find more eBooks</li>
+	</ul>
 <h3>Libby versus NLB Mobile</h3>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
@@ -33,7 +38,7 @@ title: eBooks and Audiobooks
 </div>
 	</div><!--close accordion-->
 
-<h2>Learn the Features</h2>
+<h2><a name="learnthefeatures">Learn the Features</a></h2>
 <p> <a name="reservation"><h3>Borrow, renew and reserve</h3></a></p>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
@@ -263,7 +268,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div></div>
 
 </div><!--close accordion-->
-	<a name="ereader"><h2>NLB's eBooks' Compatibility with eReaders / apps</h2></a>
+	<a name="ereader"><h2>NLB's eBooks - Compatibility with eReaders / apps</h2></a>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc19">
@@ -391,7 +396,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div>
 </div><!--close accordion11>
 <div class="FAQ-section" id="Others">
-	<p><h2>Find more eBooks</h2></p>
+	<h2>Find more eBooks</h2>
 <div class="acc-kontainer"><!--accordion--> 
 	 <div>
         <input type="radio" name="acc" id="acc25">
