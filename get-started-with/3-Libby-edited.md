@@ -419,7 +419,6 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc26">Other than Readalongs, do you have other more interactive eBooks for children?</label>
         <div class="acc-body">
 		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
-
 </div></div>
 </div><!--close accordion-->
 <h3>Reading eBooks featured in Spotlight</h3>
@@ -431,8 +430,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please read the "How to Download eBooks and Audiobooks with Libby" section on this page. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
 </div><!--close div for acc-body-->
 	</div><!--accordion--> 
-  
-
+  <p>
 <div class="FAQ-section" id="LibbyVsOverDrive">  
   <h3>Libby versus OverDrive</h3>
 
