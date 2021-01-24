@@ -14,7 +14,7 @@ title: eBooks and Audiobooks
  </li>
 </ul>
 
-<h2>Get Started</h2>
+<h3>Get Started</h3>
 <p>Using Libby is easy. Watch this video to find out how to sign in and borrow eBooks and audiobooks:</p> 
 <div class="vd">
 <iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ title: eBooks and Audiobooks
 	<li><a href="#findmoreebooks">Find more eBooks</a></li>
 </ul>
 	
-<h3>Libby versus NLB Mobile</h3>
+<h4>Libby versus NLB Mobile</h4>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc2">
@@ -48,7 +48,7 @@ title: eBooks and Audiobooks
 </div>
 	</div><!--close accordion-->
 
-<h2><a name="reservation">Learn the Features</a></h2>
+<h3><a name="reservation">Learn the Features</a></h3>
 Learn about borrowing, renewing and reserving.
 <div class="acc-kontainer"><!--accordion--> 
 <div>
@@ -107,7 +107,7 @@ Tap Renew Loan, then Renew. </p>
   </div></div>
 </div><!--close accordion-->
 
-<h3><a name="mag">eMagazines on Libby</a></h3>
+<h4><a name="mag">eMagazines on Libby</a></h4>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 	<input type="radio" name="acc" id="acc7a" checked>
@@ -164,7 +164,7 @@ Tap Renew Loan, then Renew. </p>
 </div><!--close div for qn-->
 </div><!--close accordion-->
 
-  <h3>Skip the Line</h3>
+  <h4>Skip the Line</h4>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc13">
@@ -225,7 +225,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div><!--close accordion-->
 
 
-<h3>Add Library Cards</h3>
+<h4>Add Library Cards</h4>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc4">
@@ -243,7 +243,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
 </div><!--close accordion-->
-<h3>Using Libby on different devices</h3> 
+
+<h4>Using Libby on different devices</h4> 
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc3">
@@ -278,7 +279,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 
 </div><!--close accordion-->
 <p>
-<h2><a name="ereader">NLB's eBooks - Compatibility with eReaders / apps</a></h2>
+<h3><a name="ereader">NLB's eBooks - Compatibility with eReaders / apps</a></h3>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc19">
@@ -349,7 +350,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div><!--close accordion-->
 <p>
 <div class="FAQ-section" id="LibbyTroubleshoot">
-	<h2><a name="troubleshooting">Troubleshooting</a></h2>
+	<h3><a name="troubleshooting">Troubleshooting</a></h3>
 <div class="acc-kontainer"><!--accordion--> 
    <div>
         <input type="radio" name="acc" id="acc20">
@@ -407,7 +408,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div><!--close accordion-->
 <p>
 <div class="FAQ-section" id="Others">
-<h2><a name="findmoreebooks">Find more eBooks</a></h2>
+<h3><a name="findmoreebooks">Find more eBooks</a></h3>
 <div class="acc-kontainer"><!--accordion--> 
 	 <div>
         <input type="radio" name="acc" id="acc25">
@@ -429,7 +430,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
 </div></div>
 </div><!--close accordion-->
-<h3>Reading eBooks featured in Spotlight</h3>
+<h4>Reading eBooks featured in Spotlight</h4>
 <div class="acc-kontainer"><!--accordion-->          
 <div>
 		<input type="radio" name="acc" id="acc1"><!--question 1-->
@@ -440,7 +441,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 	</div><!--accordion--> 
   <p>
 <div class="FAQ-section" id="LibbyVsOverDrive">  
-  <h3>Libby versus OverDrive</h3>
+  <h4>Libby versus OverDrive</h4>
 
 
 
