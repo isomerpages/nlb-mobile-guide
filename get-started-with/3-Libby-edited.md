@@ -39,7 +39,7 @@ title: eBooks and Audiobooks
                 <div class="acc-body">
 <p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
 <p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
-<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby"></p>
+<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby" width="300px"></p>
 <p>
 If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div></div>
@@ -126,125 +126,26 @@ Tap Renew Loan, then Renew. </p>
         <label for="acc7c">What's the difference between Libby and PressReader?</label>
 	<div class="acc-body">
 		    <p>
-		    The difference between PressReader and Libby is that Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:</p>
+		    PressReader offers both digital newspapers and magazines. Libby has <b>magazines</b>, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in Libby and not PressReader:</p>
 		    <ol>
-			<li>Allure</li>
-			<li>Billboard</li>
-			<li>Bon Appetit</li>
-			<li>Conde Nast Traveler</li>
-			<li>Marie Claire</li>
-			<li>Rolling Stone</li>
 			<li>The Economist</li>
 			<li>The Hollywood Reporter</li>
 			<li>The New Yorker</li>
+			    <li>Bon Appetit</li>
 			<li>Wired</li>
+			<li>New Scientist</li>
+			    <li>National Geographic</li>
+			    <li>Gramophone</li>
 		    </ol>
 		    <p>
-		    If the above titles aren't what you are looking for, try PressReader for a wider selection that includes newspapers too. <a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Learn more about PressReader.</a>
+		    <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">See the full list</a> of magazines available in Libby. If Libby doesn't have the title you're looking for, try PressReader.<a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Learn more about PressReader.</a>
 		    </p>
-		<p>
-		    The other key difference is that once downloaded, you get to keep PressReader magazines in your device for as long as you want. Libby Magazines are automatically returned after 21 days. After that, feel free to borrow again if you still want them.
-		</p>
-	</div>
+
+	
 </div>
-
-
-
-
 </div><!--close div for qn-->
-<h3>Add Library Cards</h3
-<div>
-		<input type="radio" name="acc" id="acc4">
-		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
-<div class="acc-body">
-  <p>Your 'user ID' refers to your NLB myLibrary ID. </p>
-</div>
-</div>
 
-<div>
-        <input type="radio" name="acc" id="acc5">
-        <label for="acc5">Can I use more than one library card or cards from different libraries in Libby?</label>
-        <div class="acc-body">
-		<p>Yes, you can! </p>
-		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
-</div></div>
-
-<h3>Using Libby on different devices<h3> 
-
-<div>
-		<input type="radio" name="acc" id="acc3">
-		<label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
-<div class="acc-body">
-  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank" rel="noopener">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
-</div>
-</div>
-
-<div>
-		<input type="radio" name="acc" id="acc8">
-        <label for="acc8">Is there a device limit for Libby?</label>
-        <div class="acc-body">
-  <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
-</div></div>
-
-<div>
-		<input type="radio" name="acc" id="acc9">
-        <label for="acc9">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</label>
-        <div class="acc-body">
-      <p>If you are using Libby across multiple devices:</p>
-<ul>
-<li>Yes, Libby automatically syncs your loans, holds and book progress between devices. Just ensure that your library cards are on each device, and you are connected to the Internet. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
-</ul>
-<p>If you are using NLB Mobile and Libby across multiple devices:</p>
-<ul>
-<li>Only the loans and holds will be synced across these apps.</li>
-<li>Bookmarks from NLB Mobile will not be seen in Libby and vice versa. In NLB Mobile, 'bookmarks' mark your favorite books and eBooks in NLB so that you can search them more easily. In Libby, 'bookmarks' mark pages within your eBook to help you find your way around the eBook.</li>
-</ul>
-
-</div></div>
-
-
-
-
-<p>
-<div class="FAQ-section" id="LibbyVsOverDrive">  
-  <h2>Libby versus OverDrive</h2>
-
-<div>
-		<input type="radio" name="acc" id="acc10">
-        <label for="acc10">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
-        <div class="acc-body">
-  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / Audiobooks online, but does not have a built-in reader for downloaded eBooks / Audiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
-        </p>
-    </div>
-</div>
-
-<div>
-		<input type="radio" name="acc" id="acc11">
-        <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and audiobooks?</label>
-        <div class="acc-body">
-		<p>You can still use OverDrive to borrow eBooks and audiobooks from NLB.</p>
-	<p>Here are the steps to download eBooks and audiobooks using the OverDrive app:</p>
-    <p><ol><li>Launch OverDrive.</li>
-    <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
-    <li>Log in using your myLibrary ID.</li>
-    <li>(Skip this step if you have already borrowed all the titles you wish to download.) Borrow the titles you want.</li>
-    <li>Tap on Shelf.</li>
-    <li>Tap on the "Download" button underneath each of the items you want to download. </li>
-    <li>Go to the <b>OverDrive app menu</b> and select "Bookshelf". Tap on the book you want to read. That's it!</li></ol>
-      </p>
-  </div>
-</div>
-
-<div>
-		<input type="radio" name="acc" id="acc12">
-        <label for="acc12">Is Libby replacing the OverDrive app?</label>
-        <div class="acc-body">
-    <p>Libby will not be replacing the OverDrive app. OverDrive has no plans to remove the OverDrive app. We will keep users updated on the latest developments from OverDrive, if any.
-      </p>
-  </div>
-</div>
-<p>
-  <h2>Skip the Line</h2>
+  <h3>Skip the Line</h3>
 
 <div>
 		<input type="radio" name="acc" id="acc13">
@@ -303,7 +204,34 @@ eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 </div>
 <p>
-	<h3>Using Libby on Different Devices</h3>
+
+<h3>Add Library Cards</h3
+<div>
+		<input type="radio" name="acc" id="acc4">
+		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
+<div class="acc-body">
+  <p>Your 'user ID' refers to your NLB myLibrary ID. </p>
+</div>
+</div>
+
+<div>
+        <input type="radio" name="acc" id="acc5">
+        <label for="acc5">Can I use more than one library card or cards from different libraries in Libby?</label>
+        <div class="acc-body">
+		<p>Yes, you can! </p>
+		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
+</div></div>
+
+<h3>Using Libby on different devices</h3> 
+
+<div>
+		<input type="radio" name="acc" id="acc3">
+		<label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
+<div class="acc-body">
+  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank" rel="noopener">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
+</div>
+</div>
+
 <div>
 		<input type="radio" name="acc" id="acc8">
         <label for="acc8">Is there a device limit for Libby?</label>
@@ -326,8 +254,17 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </ul>
 
 </div></div>
+
+
+
+
 <p>
-	<a name="ereader"><h2>Compatibility with eReaders / apps</h2></a>
+
+
+<p>
+
+<p>
+	<a name="ereader"><h2>NLB's eBooks' Compatibility with eReaders / apps</h2></a>
 
 <div>
 		<input type="radio" name="acc" id="acc19">
@@ -455,9 +392,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div>
 
 <div class="FAQ-section" id="Others">
-	<p><h2>Can't Find the eBooks You Want?</h2></p>
-
-   <div>
+	<p><h2>Find more eBooks</h2></p>
+	 <div>
         <input type="radio" name="acc" id="acc25">
         <label for="acc25">Where can I find more eBooks written in the Mother Tongue Languages?</label>
         <div class="acc-body">
@@ -477,12 +413,55 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
 
 </div></div>
-
 <h3>Reading eBooks featured in Spotlight</h3>
 <div class="acc-kontainer"><!--accordion-->          
 <div>
 		<input type="radio" name="acc" id="acc1"><!--question 1-->
-        <label for="acc1">How do I read the eBooks featured in the Spotlight section of this site?</label>
+        <label for="acc1">How do I read the eBooks featured in the <a href="https://mobileapp.nlb.gov.sg/spotlight/">Spotlight section</a> of this website?</label>
         <div class="acc-body"><!--answer for question 1-->
 		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please read the "How to Download eBooks and Audiobooks with Libby" section on this page. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
 </div><!--close div for acc-body-->
+	</div><!--accordion--> 
+  
+
+<div class="FAQ-section" id="LibbyVsOverDrive">  
+  <h3>Libby versus OverDrive</h3>
+
+<div>
+		<input type="radio" name="acc" id="acc10">
+        <label for="acc10">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
+        <div class="acc-body">
+  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / Audiobooks online, but does not have a built-in reader for downloaded eBooks / Audiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
+        </p>
+    </div>
+</div>
+
+<div>
+		<input type="radio" name="acc" id="acc11">
+        <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and audiobooks?</label>
+        <div class="acc-body">
+		<p>You can still use OverDrive to borrow eBooks and audiobooks from NLB.</p>
+	<p>Here are the steps to download eBooks and audiobooks using the OverDrive app:</p>
+    <p><ol><li>Launch OverDrive.</li>
+    <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
+    <li>Log in using your myLibrary ID.</li>
+    <li>(Skip this step if you have already borrowed all the titles you wish to download.) Borrow the titles you want.</li>
+    <li>Tap on Shelf.</li>
+    <li>Tap on the "Download" button underneath each of the items you want to download. </li>
+    <li>Go to the <b>OverDrive app menu</b> and select "Bookshelf". Tap on the book you want to read. That's it!</li></ol>
+      </p>
+  </div>
+</div>
+
+<div>
+		<input type="radio" name="acc" id="acc12">
+        <label for="acc12">Is Libby replacing the OverDrive app?</label>
+        <div class="acc-body">
+    <p>Libby will not be replacing the OverDrive app. OverDrive has no plans to remove the OverDrive app. We will keep users updated on the latest developments from OverDrive, if any.
+      </p>
+  </div>
+</div>
+</div><!--div class="FAQ-section" id="LibbyVsOverDrive-->
+<p>
+
+
