@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /get-started-with/Libby-new/
+permalink: /get-started-with/Libby-edited/
 breadcrumb: eBooks and Audiobooks
 description: How to Read NLB's eBooks and Audiobooks
 image: /images/libby_socmed.png
@@ -14,57 +14,35 @@ title: eBooks and Audiobooks
  </li>
 </ul>
 
-<h2>Reading eBooks featured in Spotlight</h2>
-<div class="acc-kontainer"><!--accordion-->          
-<div>
-		<input type="radio" name="acc" id="acc1"><!--question 1-->
-        <label for="acc1">How do I read the eBooks featured in the Spotlight section of this site?</label>
-        <div class="acc-body"><!--answer for question 1-->
-		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please read the "How to Download eBooks and Audiobooks with Libby" section on this page. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
-</div><!--close div for acc-body-->
-</div><!--close div for qn-->
-
-	<p><h2>What is Libby, and How to Download eBooks and Audiobooks with Libby</h2></p>
+<h2>Get Started</h2>
+<p>Using Libby is easy. Watch this video to find out how to sign in and borrow eBooks and audiobooks:</p> 
 <div class="vd">
 <iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-  <h2>Libby versus NLB Mobile</h2>
-
+<h3>Libby versus NLB Mobile</h3>
 <div>
 		<input type="radio" name="acc" id="acc2">
         <label for="acc2">What is the difference between Libby and NLB Mobile?</label>
         <div class="acc-body">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
 <p><strong>NLB Mobile</strong> lets you easily check your account and access our resources. You can borrow eBooks / Audiobooks, access eNewspapers / eMagazines and online courses. </p><p>While NLB Mobile lets you read or listen to eBooks / Audiobooks while you are connected to the Internet, it does not have an in-built reader for you to read downloaded eBooks.</p>
-<p><strong>Libby </strong>is a third-party app by OverDrive. You can borrow and download NLB's eBooks / Audiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
+<p><strong>Libby </strong>is a third-party app by OverDrive, a global distributor of content for libraries and schools. You can borrow and download NLB's eBooks / Audiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
 </div>
 </div>
 
+<h2>Learn the Features</h2>
+<p> <a name="reservation"><h3>Borrow, renew and reserve</h3></a></p>
 <div>
-		<input type="radio" name="acc" id="acc3">
-		<label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
-<div class="acc-body">
-  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank" rel="noopener">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
-</div>
-</div>
-
-<p> <a name="reservation"><h2>Getting Started with Libby</h2></a></p>
-<div>
-		<input type="radio" name="acc" id="acc4">
-		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
-<div class="acc-body">
-  <p>Your 'user ID' refers to your NLB myLibrary ID. </p>
-</div>
-</div>
-
-<div>
-        <input type="radio" name="acc" id="acc5">
-        <label for="acc5">Can I use more than one library card or cards from different libraries in Libby?</label>
-        <div class="acc-body">
-		<p>Yes, you can! </p>
-		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
-</div></div>
+		<input type="radio" name="acc" id="acc7">
+        <label for="acc7">I've borrowed an eBook. How do I know if my eBooks have been downloaded to my device?</label>
+                <div class="acc-body">
+<p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
+<p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
+<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby"></p>
+<p>
+If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
+  </div></div>
 <div>
 		<input type="radio" name="acc" id="acc6a">
 		<label for="acc6a">How can I renew the eBooks / audiobooks? </label>
@@ -110,18 +88,8 @@ Tap Renew Loan, then Renew. </p>
 			</p>
   </div></div>
 
-<div>
-		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">How do I know if my books have been downloaded to my device?</label>
-                <div class="acc-body">
-<p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
-<p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
-<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby"></p>
-<p>
-If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
-  </div></div>
 
-<h2><a name="mag">eMagazines on Libby</a></h2>
+<h3><a name="mag">eMagazines on Libby</a></h3>
 <div>
 	<input type="radio" name="acc" id="acc7a" checked>
         <label for="acc7a">How can I borrow eMagazines in Libby?</label>
@@ -180,7 +148,37 @@ If you want to know why your titles are not downloading or how to adjust your au
 	</div>
 </div>
 
-<h2>Different Devices</h2>
+
+
+
+</div><!--close div for qn-->
+<h3>Add Library Cards</h3
+<div>
+		<input type="radio" name="acc" id="acc4">
+		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
+<div class="acc-body">
+  <p>Your 'user ID' refers to your NLB myLibrary ID. </p>
+</div>
+</div>
+
+<div>
+        <input type="radio" name="acc" id="acc5">
+        <label for="acc5">Can I use more than one library card or cards from different libraries in Libby?</label>
+        <div class="acc-body">
+		<p>Yes, you can! </p>
+		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
+</div></div>
+
+<h3>Using Libby on different devices<h3> 
+
+<div>
+		<input type="radio" name="acc" id="acc3">
+		<label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
+<div class="acc-body">
+  <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank" rel="noopener">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
+</div>
+</div>
+
 <div>
 		<input type="radio" name="acc" id="acc8">
         <label for="acc8">Is there a device limit for Libby?</label>
@@ -203,6 +201,9 @@ If you want to know why your titles are not downloading or how to adjust your au
 </ul>
 
 </div></div>
+
+
+
 
 <p>
 <div class="FAQ-section" id="LibbyVsOverDrive">  
@@ -301,6 +302,30 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <p>No. Currently, you can only browse or borrow “Skip the Line” titles using the Libby app.</p>
   </div>
 </div>
+<p>
+	<h3>Using Libby on Different Devices</h3>
+<div>
+		<input type="radio" name="acc" id="acc8">
+        <label for="acc8">Is there a device limit for Libby?</label>
+        <div class="acc-body">
+  <p>No. There is no limit to the number of devices that you can use to sign in to Libby.</p>
+</div></div>
+
+<div>
+		<input type="radio" name="acc" id="acc9">
+        <label for="acc9">Will my loans, holds and book progress (e.g. bookmarks) be synced across multiple devices and apps?</label>
+        <div class="acc-body">
+      <p>If you are using Libby across multiple devices:</p>
+<ul>
+<li>Yes, Libby automatically syncs your loans, holds and book progress between devices. Just ensure that your library cards are on each device, and you are connected to the Internet. To manually sync your Shelf, go to Shelf &gt; Actions. Select 'Synchronise Shelf'.</li>
+</ul>
+<p>If you are using NLB Mobile and Libby across multiple devices:</p>
+<ul>
+<li>Only the loans and holds will be synced across these apps.</li>
+<li>Bookmarks from NLB Mobile will not be seen in Libby and vice versa. In NLB Mobile, 'bookmarks' mark your favorite books and eBooks in NLB so that you can search them more easily. In Libby, 'bookmarks' mark pages within your eBook to help you find your way around the eBook.</li>
+</ul>
+
+</div></div>
 <p>
 	<a name="ereader"><h2>Compatibility with eReaders / apps</h2></a>
 
@@ -453,3 +478,11 @@ eBooks / eAudiobooks you currently have on loan.</p>
 
 </div></div>
 
+<h3>Reading eBooks featured in Spotlight</h3>
+<div class="acc-kontainer"><!--accordion-->          
+<div>
+		<input type="radio" name="acc" id="acc1"><!--question 1-->
+        <label for="acc1">How do I read the eBooks featured in the Spotlight section of this site?</label>
+        <div class="acc-body"><!--answer for question 1-->
+		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please read the "How to Download eBooks and Audiobooks with Libby" section on this page. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
+</div><!--close div for acc-body-->
