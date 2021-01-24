@@ -22,8 +22,8 @@ title: eBooks and Audiobooks
 
 <ul>
 	<li><a href="#reservation">Learn the Features</a></li>
-	<li><a href="#troubleshooting">Troubleshooting</a></li>
 	<li><a href="#ereader">NLB's eBooks - Compatibility with eReaders / apps</a></li>
+	<li><a href="#troubleshooting">Troubleshooting</a></li>
 	<li><a href="#findmoreebooks">Find more eBooks</a></li>
 </ul>
 	
