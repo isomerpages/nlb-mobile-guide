@@ -22,9 +22,10 @@ title: eBooks and Audiobooks
 	<ul>
 	<li><a href="#learnthefeatures">Learn the Features</a></li>
 	<li><a href="#troubleshooting">Troubleshooting</a></li>
-	<li>NLB's eBooks - Compatibility with eReaders / apps</li>
-	<li>Find more eBooks</li>
+	<li><a href="#ereader">NLB's eBooks - Compatibility with eReaders / apps</a></li>
+	<li><a href="#findmoreebooks">Find more eBooks</a></li>
 	</ul>
+	
 <h3>Libby versus NLB Mobile</h3>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
@@ -395,7 +396,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div>
 </div><!--close accordion11>
 <div class="FAQ-section" id="Others">
-	<h2>Find more eBooks</h2>
+<h2><a name="findmoreebooks">Find more eBooks</a></h2>
 <div class="acc-kontainer"><!--accordion--> 
 	 <div>
         <input type="radio" name="acc" id="acc25">
