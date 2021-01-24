@@ -21,7 +21,7 @@ title: eBooks and Audiobooks
 </div>
 	<ul>
 	<li><a href="#learnthefeatures">Learn the Features</a></li>
-	<li>Troubleshooting</li>
+	<li><a href="#troubleshooting">Troubleshooting</a></li>
 	<li>NLB's eBooks - Compatibility with eReaders / apps</li>
 	<li>Find more eBooks</li>
 	</ul>
@@ -39,7 +39,7 @@ title: eBooks and Audiobooks
 	</div><!--close accordion-->
 
 <h2><a name="learnthefeatures">Learn the Features</a></h2>
-<p> <a name="reservation"><h3>Borrow, renew and reserve</h3></a></p>
+<h3><a name="reservation">Borrow, renew and reserve</a></h3>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc7">
@@ -150,7 +150,6 @@ Tap Renew Loan, then Renew. </p>
 		    <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">See the full list</a> of magazines available in Libby. If Libby doesn't have the title you're looking for, try PressReader.<a href="/get-started-with/pressreader/" target="_blank" rel="noopener">Learn more about PressReader.</a>
 		    </p>
 
-	
 </div>
 </div><!--close div for qn-->
 </div><!--close accordion-->
@@ -339,7 +338,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div><!--close accordion-->
 <p>
 <div class="FAQ-section" id="LibbyTroubleshoot">
-  <h2>Troubleshooting</h2>
+	<h2><a name="troubleshooting">Troubleshooting</a></h2>
 <div class="acc-kontainer"><!--accordion--> 
    <div>
         <input type="radio" name="acc" id="acc20">
