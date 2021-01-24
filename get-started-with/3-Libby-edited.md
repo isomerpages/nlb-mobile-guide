@@ -21,7 +21,7 @@ title: eBooks and Audiobooks
 </div>
 
 <ul>
-	<li><a href="#learnthefeatures">Learn the Features</a></li>
+	<li><a href="#reservation">Learn the Features</a></li>
 	<li><a href="#troubleshooting">Troubleshooting</a></li>
 	<li><a href="#ereader">NLB's eBooks - Compatibility with eReaders / apps</a></li>
 	<li><a href="#findmoreebooks">Find more eBooks</a></li>
@@ -40,8 +40,8 @@ title: eBooks and Audiobooks
 </div>
 	</div><!--close accordion-->
 
-<h2><a name="learnthefeatures">Learn the Features</a></h2>
-<h3><a name="reservation">Borrow, renew and reserve</a></h3>
+<h2><a name="reservation">Learn the Features</a></h2>
+Learn about borrowing, renewing and reserving.
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc7">
@@ -269,7 +269,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div></div>
 
 </div><!--close accordion-->
-	<a name="ereader"><h2>NLB's eBooks - Compatibility with eReaders / apps</h2></a>
+<p>
+<h2><a name="ereader">NLB's eBooks - Compatibility with eReaders / apps</a></h2>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc19">
@@ -396,6 +397,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 </div>
 </div><!--close accordion-->
+<p>
 <div class="FAQ-section" id="Others">
 <h2><a name="findmoreebooks">Find more eBooks</a></h2>
 <div class="acc-kontainer"><!--accordion--> 
