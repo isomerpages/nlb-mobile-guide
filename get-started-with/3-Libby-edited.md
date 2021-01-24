@@ -21,6 +21,7 @@ title: eBooks and Audiobooks
 </div>
 
 <h3>Libby versus NLB Mobile</h3>
+<div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc2">
         <label for="acc2">What is the difference between Libby and NLB Mobile?</label>
@@ -30,9 +31,11 @@ title: eBooks and Audiobooks
 <p><strong>Libby </strong>is a third-party app by OverDrive, a global distributor of content for libraries and schools. You can borrow and download NLB's eBooks / Audiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
 </div>
 </div>
+	</div><!--close accordion-->
 
 <h2>Learn the Features</h2>
 <p> <a name="reservation"><h3>Borrow, renew and reserve</h3></a></p>
+<div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">I've borrowed an eBook. How do I know if my eBooks have been downloaded to my device?</label>
@@ -87,9 +90,10 @@ Tap Renew Loan, then Renew. </p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
   </div></div>
-
+</div><!--close accordion>
 
 <h3><a name="mag">eMagazines on Libby</a></h3>
+<div class="acc-kontainer"><!--accordion--> 
 <div>
 	<input type="radio" name="acc" id="acc7a" checked>
         <label for="acc7a">How can I borrow eMagazines in Libby?</label>
@@ -144,9 +148,10 @@ Tap Renew Loan, then Renew. </p>
 	
 </div>
 </div><!--close div for qn-->
+</div><!--close accordion-->
 
   <h3>Skip the Line</h3>
-
+<div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc13">
         <label for="acc13">I saw a category called “Skip the Line” in Libby. What is it?</label>
@@ -203,9 +208,11 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <p>No. Currently, you can only browse or borrow “Skip the Line” titles using the Libby app.</p>
   </div>
 </div>
-<p>
+</div><!--close accordion-->
 
-<h3>Add Library Cards</h3
+
+<h3>Add Library Cards</h3>
+<div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc4">
 		<label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
@@ -221,9 +228,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>Yes, you can! </p>
 		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div></div>
-
+</div><!--close accordion-->
 <h3>Using Libby on different devices</h3> 
-
+<div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc3">
 		<label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
@@ -255,17 +262,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
 
 </div></div>
 
-
-
-
-<p>
-
-
-<p>
-
-<p>
+</div><!--close accordion-->
 	<a name="ereader"><h2>NLB's eBooks' Compatibility with eReaders / apps</h2></a>
-
+<div class="acc-kontainer"><!--accordion--> 
 <div>
 		<input type="radio" name="acc" id="acc19">
         <label for="acc19">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
@@ -332,11 +331,11 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </p>
 </div>
 </div>
-
+</div><!--close accordion-->
 <p>
 <div class="FAQ-section" id="LibbyTroubleshoot">
   <h2>Troubleshooting</h2>
-
+<div class="acc-kontainer"><!--accordion--> 
    <div>
         <input type="radio" name="acc" id="acc20">
         <label for="acc20">I can't sign in to Libby.</label>
@@ -390,9 +389,10 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>For more information, please read <a href="https://help.overdrive.com/en-us/2271.htm">OverDrive's Help article on this topic</a>.</p>
   </div>
 </div>
-
+</div><!--close accordion11>
 <div class="FAQ-section" id="Others">
 	<p><h2>Find more eBooks</h2></p>
+<div class="acc-kontainer"><!--accordion--> 
 	 <div>
         <input type="radio" name="acc" id="acc25">
         <label for="acc25">Where can I find more eBooks written in the Mother Tongue Languages?</label>
@@ -413,6 +413,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
 
 </div></div>
+</div><!--close accordion-->
 <h3>Reading eBooks featured in Spotlight</h3>
 <div class="acc-kontainer"><!--accordion-->          
 <div>
