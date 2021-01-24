@@ -19,12 +19,13 @@ title: eBooks and Audiobooks
 <div class="vd">
 <iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-	<ul>
+
+<ul>
 	<li><a href="#learnthefeatures">Learn the Features</a></li>
 	<li><a href="#troubleshooting">Troubleshooting</a></li>
 	<li><a href="#ereader">NLB's eBooks - Compatibility with eReaders / apps</a></li>
 	<li><a href="#findmoreebooks">Find more eBooks</a></li>
-	</ul>
+</ul>
 	
 <h3>Libby versus NLB Mobile</h3>
 <div class="acc-kontainer"><!--accordion--> 
@@ -96,7 +97,7 @@ Tap Renew Loan, then Renew. </p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
   </div></div>
-</div><!--close accordion>
+</div><!--close accordion-->
 
 <h3><a name="mag">eMagazines on Libby</a></h3>
 <div class="acc-kontainer"><!--accordion--> 
@@ -394,7 +395,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>For more information, please read <a href="https://help.overdrive.com/en-us/2271.htm">OverDrive's Help article on this topic</a>.</p>
   </div>
 </div>
-</div><!--close accordion11>
+</div><!--close accordion-->
 <div class="FAQ-section" id="Others">
 <h2><a name="findmoreebooks">Find more eBooks</a></h2>
 <div class="acc-kontainer"><!--accordion--> 
