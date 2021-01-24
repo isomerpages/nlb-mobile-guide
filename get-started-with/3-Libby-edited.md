@@ -38,6 +38,14 @@ title: eBooks and Audiobooks
 <p><strong>Libby </strong>is a third-party app by OverDrive, a global distributor of content for libraries and schools. You can borrow and download NLB's eBooks / Audiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
 </div>
 </div>
+	<div>
+		<input type="radio" name="acc" id="acc10">
+        <label for="acc10">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
+        <div class="acc-body">
+  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / Audiobooks online, but does not have a built-in reader for downloaded eBooks / Audiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
+        </p>
+    </div>
+</div>
 	</div><!--close accordion-->
 
 <h2><a name="reservation">Learn the Features</a></h2>
@@ -434,14 +442,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <div class="FAQ-section" id="LibbyVsOverDrive">  
   <h3>Libby versus OverDrive</h3>
 
-<div>
-		<input type="radio" name="acc" id="acc10">
-        <label for="acc10">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
-        <div class="acc-body">
-  <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / Audiobooks online, but does not have a built-in reader for downloaded eBooks / Audiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
-        </p>
-    </div>
-</div>
+
 
 <div>
 		<input type="radio" name="acc" id="acc11">
