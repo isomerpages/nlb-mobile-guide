@@ -351,9 +351,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc21">My eBook/eAudiobook isn't downloading.</label>
         <div class="acc-body">
   <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
-  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg" alt="screenshot of Libby"></p>
+  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg" alt="screenshot of Libby" width="300px"></p>
     <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
-    <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg" alt="screenshot of Libby"></p>
+    <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg" alt="screenshot of Libby" width="300px"></p>
   </div></div>
 
 <div>
