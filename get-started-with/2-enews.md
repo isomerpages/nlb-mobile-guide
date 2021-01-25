@@ -1,19 +1,22 @@
 ---
 layout: simple-page
-permalink: /get-started-with/PressReader/
+permalink: /get-started-with/enews/
 breadcrumb: eMagazines and eNewspapers
 description: How to Read eMagazines and eNewspapers using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
+<h2>Catch up with local and international news and magazines</h2>
+<p>Launch your library subscription to daily <a href="#sph">SPH newspapers</a> as well as international newspapers and magazines from the NLB Mobile app.</p>
 
-<p>
+
 <div class="FAQ-section" id="sph">
-<h2>How to Read SPH eNewspapers From Home</h2>
+<h3>How to Read SPH eNewspapers From Home</h3>
 	<div class="vd">
 <iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-	
+
+<h4>Get started</h4>
 <div class="acc-kontainer"><!--div for each button-->
 <div>
         <input type="radio" name="acc" id="sph1">
@@ -30,16 +33,6 @@ title: eMagazines and eNewspapers
 </div><!--close div for qn -->
 
 <div>
-        <input type="radio" name="acc" id="sph1a">
-        <label for="sph1a">How long does NLB intend to offer access to SPH newspapers from home?</label>
-
- <div class="acc-body">
-  <p>NLB would like to continue offering SPH eNewspapers as a staple offering. Such subscriptions are dependent on our agreements and negotiations with vendors. 
-</p>
-</div><!--close acc-body-->
-</div><!--close div for qn -->
-
-<div>
         <input type="radio" name="acc" id="sph1b">
         <label for="sph1b">Can I read the newspapers on tablets and smartphones? </label>
 
@@ -52,6 +45,18 @@ title: eMagazines and eNewspapers
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
+<div>
+        <input type="radio" name="acc" id="sph4">
+        <label for="sph4">Can I access SPH newspapers from the NLB Mobile app? </label>
+
+ <div class="acc-body">
+	<p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
+	<p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>
+	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
+	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
+
+</div><!--close acc-body-->
+</div><!--close div for qn -->
 
 <div>
         <input type="radio" name="acc" id="sph2">
@@ -72,6 +77,11 @@ title: eMagazines and eNewspapers
 <p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
 </div><!--close acc-body-->
 </div><!--close div for qn -->
+
+</div><!--close acc-kontainer-->
+
+<h4>Troubleshooting</h4>
+<div class="acc-kontainer"><!--div for each button-->
 
 <div>
         <input type="radio" name="acc" id="sph2a">
@@ -120,28 +130,6 @@ title: eMagazines and eNewspapers
 </div><!--close div for qn -->
 
 <div>
-        <input type="radio" name="acc" id="sph3">
-        <label for="sph3">What time will the newspapers be published?</label>
-
- <div class="acc-body">
-  <p>This depends on SPH’s publication times. You can read the newspaper on the same day as it is published.  
-</p></div><!--close acc-body-->
-</div><!--close div for qn -->
-
-<div>
-        <input type="radio" name="acc" id="sph4">
-        <label for="sph4">Can I access SPH newspapers from the NLB Mobile app? </label>
-
- <div class="acc-body">
-	<p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
-	<p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>
-	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
-	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
-
-</div><!--close acc-body-->
-</div><!--close div for qn -->
-
-<div>
         <input type="radio" name="acc" id="sph6">
         <label for="sph6">I see an SPH login screen. What should I do? </label>
  <div class="acc-body">
@@ -163,6 +151,29 @@ title: eMagazines and eNewspapers
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
+</div><!--close acc-kontainer-->
+
+<h4>More about the service</h4>
+<div class="acc-kontainer"><!--div for each button-->
+<div>
+        <input type="radio" name="acc" id="sph1a">
+        <label for="sph1a">I hear that this service started during the Circuit Breaker. How long does NLB intend to offer access to SPH newspapers from home?</label>
+
+ <div class="acc-body">
+  <p>NLB would like to continue offering SPH eNewspapers as a staple offering. Such subscriptions are dependent on our agreements and negotiations with vendors. 
+</p>
+</div><!--close acc-body-->
+</div><!--close div for qn -->
+
+<div>
+        <input type="radio" name="acc" id="sph3">
+        <label for="sph3">What time will the newspapers be published?</label>
+
+ <div class="acc-body">
+  <p>This depends on SPH’s publication times. You can read the newspaper on the same day as it is published.  
+</p></div><!--close acc-body-->
+</div><!--close div for qn -->
+
 <div>
         <input type="radio" name="acc" id="sph8">
         <label for="sph8">Does NLB's arrangement with SPH also allow me to read the articles on ST Online and other SPH websites?</label>
@@ -172,12 +183,14 @@ title: eMagazines and eNewspapers
 </div><!--close acc-body-->
 </div><!--close div for qn -->
 
+</div><!--close acc-kontainer-->
+
 <p>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div><!--close div for section -->
 
 <p>
 <div class="FAQ-section" id="PressReaderLocalNews"> 
-<h2>Downloading Local Newspapers</h2>
+<h4>Downloading Local Newspapers</h4>
 	  <div class="acc-kontainer"><!--div for each button-->
 <div>
 		<input type="radio" name="acc" id="acc7">
@@ -195,9 +208,10 @@ title: eMagazines and eNewspapers
         <p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
 	</p>
 
-</div>
 </div><!--close div for acc7 (question)-->
 </div><!--close div for acc body (answer)-->
+</div><!--close acc-kontainer-->
+</div><!--close section-->
 
 
 
