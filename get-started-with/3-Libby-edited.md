@@ -21,7 +21,7 @@ title: eBooks and Audiobooks
 </div>
 
 <ul>
-	<li><a href="#reservation">Learn the Features</a></li>
+	<li><a href="#reservation">Learn about the Features</a></li>
 	<li><a href="#ereader">NLB's eBooks - Compatibility with eReaders / apps</a></li>
 	<li><a href="#troubleshooting">Troubleshooting</a></li>
 	<li><a href="#findmoreebooks">Find more eBooks</a></li>
@@ -48,7 +48,7 @@ title: eBooks and Audiobooks
 </div>
 	</div><!--close accordion-->
 
-<h3><a name="reservation">Learn the Features</a></h3>
+<h3><a name="reservation">Learn about the Features</a></h3>
 Learn about borrowing, renewing and reserving.
 <div class="acc-kontainer"><!--accordion--> 
 <div>
