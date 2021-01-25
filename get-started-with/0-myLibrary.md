@@ -275,7 +275,7 @@ title: Library Membership and myLibrary ID
         <div class="acc-body">
         <p><strong>Online</strong></p>
         <ul>
-        <li>Click <a href="https://account.nlb.gov.sg">here</a> and:
+        <li><a href="https://account.nlb.gov.sg">Use this online service</a> and:
         <ul>
         <li>Sign in with your SingPass. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
         <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
