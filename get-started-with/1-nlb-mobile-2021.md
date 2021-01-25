@@ -17,7 +17,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 	</tr>
 	<tr border="0px">
 		<td><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" width="505px" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
-		<td><img src="/images/QR_downloadapp.svg" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
+		<td><img src="/images/QR_downloadapp.svg" width="505px" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
 	</tr>
 	</table>
 -->	
