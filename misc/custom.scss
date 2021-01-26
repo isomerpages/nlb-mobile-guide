@@ -395,7 +395,7 @@ $desktop: 960px + (2 * $gap) !default;
 	border-bottom: 5px solid white;
 	box-sizing: border-box;
 	overflow: hidden;
-	a:link: $secondary;
+
 }
 
 .acc-kontainer label {
@@ -409,8 +409,24 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 20px;
 	box-sizing: border-box;
 	z-index: 100;
-	a:link: $secondary;
+
 }
+
+a:link {
+  color: #secondary;
+}
+
+a:visited {
+  color: #secondary;
+}
+
+a:hover {
+  color: #secondary;
+}
+
+a:active {
+  color: #secondary;
+} 
 
 .acc-kontainer input {
 	display: none;
