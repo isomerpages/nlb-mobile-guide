@@ -6,9 +6,20 @@ description: How to Read eMagazines and eNewspapers using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
-<h2>Catch up with local and international news and magazines</h2>
-<p>Launch your library subscription to daily <a href="#sph">SPH newspapers</a> as well as international newspapers and magazines from the NLB Mobile app.</p>
+<h2>Thousands of digital newspapers and magazines await</h2>
+<p>We bring in daily <a href="#sph">local newspapers</a> and international newspapers, as well as a variety of magazines. Find out about:</p>
+	<ul>
+		<!--<li><a href="#digitalmagazines">Reading digital magazines</a></li>-->
+		<li><a href="#sph">Reading local newspapers online</a></li>
+		<li><a href="#PressReaderLocalNews">Downloading local newspapers</a></li>
+		<li><a href="AboutPressReader">Reading international newspapers and magazines</a></li>
 
+<!--
+<div class="digitalmagazines" id="sph">
+<h3>How to Read Digital Magazines</h3>
+	<p>You can access digital magazines from two sources: <a href="https://mobileapp.nlb.gov.sg/get-started-with/libby/">the Libby app</a> and <a href="AboutPressReader">the PressReader app</a>. PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap.</p>	
+</div><!--close magazines-->
+-->
 
 <div class="FAQ-section" id="sph">
 <h3>How to Read SPH eNewspapers From Home</h3>
@@ -18,9 +29,11 @@ title: eMagazines and eNewspapers
 
 <h4>Get started</h4>
 <div class="acc-kontainer"><!--div for each button-->
+
 <div>
+	
         <input type="radio" name="acc" id="sph1">
-        <label for="sph1">How can I read SPH newspapers from home?</label>
+        <label for="sph1">How can I read SPH newspapers from my computer at home?</label>
 
  <div class="acc-body">
   <p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
@@ -153,7 +166,7 @@ title: eMagazines and eNewspapers
 
 </div><!--close acc-kontainer-->
 
-<h4>More about the service</h4>
+<h4>More about reading SPH newspapers from home</h4>
 <div class="acc-kontainer"><!--div for each button-->
 <div>
         <input type="radio" name="acc" id="sph1a">
@@ -196,8 +209,10 @@ title: eMagazines and eNewspapers
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
         <div class="acc-body">
-                <p>SPH newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
-<p>You can download SPH local newspapers only if you are <u>onsite</u> at NLB&rsquo;s libraries with your device,  while it is <b>connected to NLB's Wireless@SGx</b> networks. </p>
+		<p>You have to use the PressReader app to download SPH newspapers. Do note that these newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
+<p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
+</p>
+<p>To download SPH newspapers using the PressReader app, make sure you are <u>onsite</u> at NLB&rsquo;s libraries with your device, and that your device is <b>connected to NLB's Wireless@SGx</b> networks. </p>
 		<p><b>Step 1:</b></p>
 		<p>Connect your device to the Wireless@SGx network in the library.</p>
 		<p><b>Step 2:</b></p>
@@ -205,8 +220,7 @@ title: eMagazines and eNewspapers
 		<p><b>Step 3:</b></p>
 		<p>Search for the newspaper you want. Tap on the downwards arrow next to the name of the newspaper, or tap on the green "Read" button to download it. To access past issues, tap on the cover of the newspaper, then the calendar icon.</p>
 <p>Anything you download in the PressReader app can be accessed using the "Downloaded" button at the bottom of the PressReader app. You can download as many SPH newspapers as you want <b>when you are at the libraries</b>, just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
-        <p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
-	</p>
+        
 
 </div><!--close div for acc7 (question)-->
 </div><!--close div for acc body (answer)-->
@@ -216,9 +230,8 @@ title: eMagazines and eNewspapers
 
 
 <div class="FAQ-section" id="AboutPressReader"> 
-	<p><h1>Reading International eNewspapers and eMagazines with PressReader</h1></p>
-	<p><h2>About PressReader</h2></p>
-	<p>An <b>international</b> digital newsstand on the go:</p>
+	<p><h3>Reading International eNewspapers and eMagazines with PressReader</h3></p>
+	<p>PressReader is an <b>international</b> digital newsstand on the go:</p>
 <ul>
 <li>Current issues from over 7,000 of the world’s leading publications</li>
 <li>From more than 100 countries</li>
@@ -253,7 +266,7 @@ title: eMagazines and eNewspapers
 -->
 
 <div class="FAQ-section" id="PressReaderStart"> 
-  <p><h2>Getting Started with PressReader</h2></p> 
+  <p><h4>Get Started with PressReader</h4></p> 
   <div class="acc-kontainer"><!--div for each button-->
 <div>
 		<input type="radio" name="acc" id="acc1">
@@ -301,7 +314,7 @@ title: eMagazines and eNewspapers
 </li>
 	<li><strong>NLB libraries</strong>
 <ol style="list-style-type: lower-alpha;">
-	<li>Connect <strong>your device</strong> to the Wireless@SGx network at our libraries. Open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to <em>The Straits Times</em>, <em>The Business Times</em> and <em>Lianhe Zaobao</em> is only available while you are connected to the Wireless@SGx network at any library.</li>
+	<li>Connect <strong>your device</strong> to the Wireless@SGx network at our libraries. Open either <a href="http://www.pressreader.com">pressreader.com</a> in your browser or the PressReader app. You will have complimentary access to PressReader&rsquo;s publications for three days, even after you leave the library. However, access to The Straits Times, The Business Times and Lianhe Zaobao is only available while you are connected to the Wireless@SGx network at any library.</li>
 	<li>Use the <strong>eNewspaper stations</strong> at our libraries.</li>
 </ol>
 </li>
@@ -351,25 +364,25 @@ title: eMagazines and eNewspapers
   </div>
 </div> 
 
+<p></p>
+<h4>Magazine titles on PressReader and Libby</h4>
 <div>
 		<input type="radio" name="acc" id="acc6a">
 	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
         <div class="acc-body">
-		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another vendor - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here to read</a> <i>The Economist</i> on your browser or the Libby app.</p>
-		<p>The difference between PressReader and Libby is that Libby has a smaller collection of only magazines, but includes some that are not available in PressReader. These are:
+		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another application - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here to read</a> <i>The Economist</i> on your browser or the Libby app.</p>
+		<p>PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in <b>Libby</b> and not PressReader:</p>
 		<ol>
-			<li>Allure</li>
-			<li>Billboard</li>
-			<li>Bon Appetit</li>
-			<li>Conde Nast Traveler</li>
-			<li>Marie Claire</li>
-			<li>Rolling Stone</li>
 			<li>The Economist</li>
 			<li>The Hollywood Reporter</li>
 			<li>The New Yorker</li>
+			<li>Bon Appetit</li>
 			<li>Wired</li>
+			<li>New Scientist</li>
+			<li>National Geographic</li>
+			<li>Gramophone</li>
 		</ol>
-		</p>
+		
   
 
 </div>
@@ -380,19 +393,16 @@ title: eMagazines and eNewspapers
 	<label for="acc6b">What is the difference between Libby's eMagazines and PressReader's eNewspapers and eMagazines?</label>
         <div class="acc-body">
 		<p>
-			    PressReader has a much larger collection that includes newspapers. Libby has a smaller, <b>magazines-only</b> collection, but includes some that are not available in PressReader. These are:
-		</p>
+			<p>PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in <b>Libby</b> and not PressReader:</p>
 		<ol>
-			<li>Allure</li>
-			<li>Billboard</li>
-			<li>Bon Appetit</li>
-			<li>Conde Nast Traveler</li>
-			<li>Marie Claire</li>
-			<li>Rolling Stone</li>
 			<li>The Economist</li>
 			<li>The Hollywood Reporter</li>
 			<li>The New Yorker</li>
+			<li>Bon Appetit</li>
 			<li>Wired</li>
+			<li>New Scientist</li>
+			<li>National Geographic</li>
+			<li>Gramophone</li>
 		</ol>
 		<p>
 		    If you want any of the above titles, go to Libby. <a href="/get-started-with/libby/#mag" target="_blank" rel="noopener">Click here for the Libby guide.</a>
@@ -406,7 +416,7 @@ title: eMagazines and eNewspapers
 
 <p>
 <div class="FAQ-section" id="PressReaderTroubleShooting">
-<h2>Troubleshooting PressReader</h2>
+<h4>Troubleshooting PressReader</h4>
   <div><!--div for each button-->
 <input type="radio" name="acc" id="acc8">
         <label for="acc8">I’m already at the library and connected to Wireless@SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
