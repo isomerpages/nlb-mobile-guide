@@ -57,6 +57,23 @@ title: eLearning
 </video>
 </div>
 
+<div>
+		<input type="radio" name="acc" id="acc5">
+        <label for="acc5">Do I need to install the Lynda mobile app?</label>
+<div class="acc-body">
+      <p>You don't need the Lynda mobile app to access the online courses. But if you wish to use the Lynda app (e.g. to download courses for offline viewing) you can! Just follow the steps listed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_mobile">eResources FAQ page on LyndaLibrary</a>.</p>
+    </div>
+    </div>
+
+<div>
+		<input type="radio" name="acc" id="acc6">
+        <label for="acc6">Is LyndaLibrary free to use for NLB members?</label>
+        <div class="acc-body">
+      <p>Yes! As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
+      </div>
+            </div>
+
+<h3>Questions about accounts</h3>
 
 </div></div>
 
@@ -78,22 +95,9 @@ access training courses?</label>
     </div>
     </div>
 
-<div>
-		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">Do I need to install the Lynda mobile app?</label>
-<div class="acc-body">
-      <p>You don't need the Lynda mobile app to access the online courses. But if you wish to use the Lynda app (e.g. to download courses for offline viewing) you can! Just follow the steps listed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_mobile">eResources FAQ page on LyndaLibrary</a>.</p>
-    </div>
 
-    </div>
 
-<div>
-		<input type="radio" name="acc" id="acc6">
-        <label for="acc6">Is LyndaLibrary free to use for NLB members?</label>
-        <div class="acc-body">
-      <p>Yes! As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
-      </div>
-            </div>
+
 </div><!--close FAQ-section-->
 
 <h3>Troubleshooting</h3>
