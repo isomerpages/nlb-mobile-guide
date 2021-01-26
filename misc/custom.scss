@@ -6,9 +6,9 @@
 
 // brand colors
 $primary: #6031b6;
-$secondary: #183472;
+$secondary: #22489B;
 $secondary-hover: darken($secondary, 10%);
-//changed sec colour from #22489B to #183472
+
 $media-color-one: #005577;
 $media-color-two: #0071BC;
 $media-color-three: #e21216;
@@ -395,6 +395,7 @@ $desktop: 960px + (2 * $gap) !default;
 	border-bottom: 5px solid white;
 	box-sizing: border-box;
 	overflow: hidden;
+	a:link: $secondary;
 }
 
 .acc-kontainer label {
@@ -408,6 +409,7 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 20px;
 	box-sizing: border-box;
 	z-index: 100;
+	a:link: $secondary;
 }
 
 .acc-kontainer input {
