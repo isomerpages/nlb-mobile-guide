@@ -20,8 +20,9 @@ title: eMagazines and eNewspapers
 <div class="digitalmagazines" id="sph">
 <h3>How to Read Digital Magazines</h3>
 	<p>You can access digital magazines from two sources: <a href="https://mobileapp.nlb.gov.sg/get-started-with/libby/">the Libby app</a> and <a href="AboutPressReader">the PressReader app</a>. PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap.</p>	
-</div><!--close magazines-->
+</div>
 -->
+
 
 <div class="FAQ-section" id="sph">
 <h3>How to Read SPH eNewspapers From Home</h3>
