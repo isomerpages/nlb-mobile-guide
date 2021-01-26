@@ -78,7 +78,7 @@ title: eLearning
 </div><!--close section-->
 <h3>Questions about accounts</h3>
 <div class="acc-kontainer" id="lynda-get-started">      
-</div></div>
+
 
 <div>
 		<input type="radio" name="acc" id="acc3">
