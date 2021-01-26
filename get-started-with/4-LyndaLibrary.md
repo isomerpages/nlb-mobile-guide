@@ -73,8 +73,9 @@ title: eLearning
       </div>
             </div>
 
+</div><!--close section-->
 <h3>Questions about accounts</h3>
-
+<div class="acc-kontainer" id="lynda-get-started">      
 </div></div>
 
 <div>
@@ -96,9 +97,7 @@ access training courses?</label>
     </div>
 
 
-
-
-</div><!--close FAQ-section-->
+</div><!--close section-->
 
 <h3>Troubleshooting</h3>
 <div>
