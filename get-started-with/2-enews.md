@@ -7,13 +7,13 @@ image: /images/NLB-Mobile-logo-square.png
 title: eMagazines and eNewspapers
 ---
 <h2>Thousands of digital newspapers and magazines await</h2>
-<p>We bring in daily <a href="#sph">local newspapers</a> and international newspapers, as well as a variety of magazines. Find out about:</p>
+<p>We bring in daily local newspapers and international newspapers, as well as a variety of magazines. Find out about:
 	<ul>
 		<!--<li><a href="#digitalmagazines">Reading digital magazines</a></li>-->
 		<li><a href="#sph">Reading local newspapers online</a></li>
 		<li><a href="#PressReaderLocalNews">Downloading local newspapers</a></li>
 		<li><a href="AboutPressReader">Reading international newspapers and magazines</a></li>
-
+</p>
 <!--
 <div class="digitalmagazines" id="sph">
 <h3>How to Read Digital Magazines</h3>
@@ -239,7 +239,7 @@ title: eMagazines and eNewspapers
 	Bloomberg Businessweek, T3, Wallpaper*, Marie Claire Ideas,</i> and more!</li>  
 <li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
 	</ul>
-	<p><h2>How to Read International eNewspapers and eMagazines</h2></p>
+	
 <div class="vd">
 <iframe title="how to use PressReader" width="560" height="315" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
