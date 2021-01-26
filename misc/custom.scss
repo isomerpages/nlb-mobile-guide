@@ -413,19 +413,19 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 a:link {
-  color: #secondary;
+  color: $secondary;
 }
 
 a:visited {
-  color: #secondary;
+  color: $secondary;
 }
 
 a:hover {
-  color: #secondary;
+  color: $secondary-hover;
 }
 
 a:active {
-  color: #secondary;
+  color: $secondary-hover;
 } 
 
 .acc-kontainer input {
