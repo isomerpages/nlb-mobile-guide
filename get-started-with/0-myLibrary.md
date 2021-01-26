@@ -4,8 +4,7 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary ID
 ---
-<h2>About myLibrary ID</h2>
-<p> A user ID for library members to borrow ebooks, access our digital resources, check library accounts and more! </p>
+<h2> A user ID for library members to borrow ebooks, access our digital resources, check library accounts and more! </h2>
 <p>Forgot your ID or password? <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 
@@ -25,7 +24,7 @@ title: Library Membership and myLibrary ID
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p> 
 -->
 <p>
-	<a name="membership"><h2>Sign Up for Library Membership Online</h2></a>
+	<a name="membership"><h3>Sign Up for Library Membership Online</h3></a>
 <p></p>
 <div class="acc-kontainer">          
 	<div>
@@ -152,7 +151,7 @@ title: Library Membership and myLibrary ID
            </div>
 
 <p>
-    <a name="mylibrary"><h2>myLibrary ID</h2></a>
+    <a name="mylibrary"><h3>myLibrary ID</h3></a>
 </p>
 <div class="acc-kontainer">          
 	<div>
