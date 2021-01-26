@@ -11,7 +11,7 @@ title: eMagazines and eNewspapers
 	<ul>
 		<li><a href="#sph">Reading local newspapers online</a></li>
 		<li><a href="#PressReaderLocalNews">Downloading local newspapers</a></li>
-		<li><a href="AboutPressReader">Reading international newspapers and magazines</a></li>
+		<li><a href="#AboutPressReader">Reading international newspapers and magazines</a></li>
 </ul>
 </p>
 
