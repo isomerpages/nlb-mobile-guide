@@ -52,10 +52,12 @@ title: eLearning
 <div class="acc-body">
         <p>If you prefer to do your eLearning on a laptop or desktop, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
 	<div class="vd">
-     <video width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
+     <video title="steps on using lynda" width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
   <source src="/images/lyndalibrary steps.mp4" type="video/mp4" />
 </video>
-</div>
+	</div>
+	</div>
+	</div>
 
 <div>
 		<input type="radio" name="acc" id="acc5">
