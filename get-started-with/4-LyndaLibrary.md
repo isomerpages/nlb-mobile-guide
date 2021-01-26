@@ -6,7 +6,7 @@ description: How to Access Complimentary eLearning Courses using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eLearning
 ---
-<h2>Introducing LyndaLibrary</h2>
+<h2>Learn through bite-sized videos with LyndaLibrary, by LinkedIn</h2>
 
 <div class="vd">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,9 +19,6 @@ title: eLearning
 </video>
 -->
 
-<p>
-	Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i>LyndaLibrary by LinkedIn</i>:
-	</p>
 <ul>   
 	<li> <b>Learn anything:</b> Over 8,000 courses covering a wide range of topics, from data science to leadership skills</li>
 	<li> <b>Learn from experts:</b> Many courses are taught by recognised industry experts
@@ -35,7 +32,7 @@ title: eLearning
 
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
 
-<p><h2>Getting Started</h2></p>
+<p><h3>Getting Started</h3></p>
 <div class="acc-kontainer" id="lynda-get-started">          
 	<div>
 
@@ -99,7 +96,7 @@ access training courses?</label>
             </div>
 </div><!--close FAQ-section-->
 
-<h2>Troubleshooting</h2>
+<h3>Troubleshooting</h3>
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">I can't log in to LyndaLibrary.</label>
