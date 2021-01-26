@@ -12,7 +12,7 @@ title: eMagazines and eNewspapers
 		<li><a href="#sph">Reading local newspapers online</a></li>
 		<li><a href="#PressReaderLocalNews">Downloading local newspapers</a></li>
 		<li><a href="AboutPressReader">Reading international newspapers and magazines</a></li>
-</p>
+</ul>
 <!--
 <div class="digitalmagazines" id="sph">
 <h3>How to Read Digital Magazines</h3>
