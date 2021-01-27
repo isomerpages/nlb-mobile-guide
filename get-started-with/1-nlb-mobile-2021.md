@@ -148,8 +148,12 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 </div></div>
 
 <p><h3>Learn about the Features</h3></p>
-Learn about borrowing, returning and reserving books.
+
+<p>
+	Learn about borrowing, returning and reserving books.
 You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs) and points</a>.
+	</p>
+	
 	<div>
 		<input type="radio" name="acc" id="acc1">
 		<label for="acc1">Can you tell me more about the app’s features?</label>
@@ -210,12 +214,13 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
       <p>Next, tap on the camera icon on the top left corner of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item.</p>
       <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, tap the “eCard” icon (at the top right corner of the NLB Mobile app). Your virtual membership card will appear. Scan the membership QR code at the Borrowing Station to borrow the library items.</p>  
 
-<!--GIFs-->
+<!--GIFs--
 	<p><strong>Option 1: Use the in-app barcode scanner</strong></p>
 ![How to borrow physical items with the NLB Mobile app, using the in-app barcode scanner](/images/NLBMobile_ScantoBorrow_animatedGIF.gif)
 <p><strong>Option 2: Use the Borrowing Station</strong></p>
 ![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)	
 </div></div>
+-->
 
 <div>
 		<input type="radio" name="acc" id="acc8">
