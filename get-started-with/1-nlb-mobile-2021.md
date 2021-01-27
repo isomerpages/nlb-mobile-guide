@@ -87,7 +87,7 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
 		<input type="radio" name="acc" id="acc3">
         <label for="acc3">What do I need to sign in?</label>
          <div class="acc-body">
-        <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or using the app’s login page – tap on the + button <img src="/images/add_account.svg> on the top right of the app’s screen.</p>
+        <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or using the app’s login page – tap on the + button <img src="/images/add_account.svg"> on the top right of the app’s screen.</p>
     </div>
     </div>
 
@@ -98,7 +98,7 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
         <p>You can retrieve your myLibrary ID and password:</p>
         <ul>
         <li><b><a href="https://account.nlb.gov.sg">Online</a></b> with your SingPass or NRIC / FIN number. Once you have signed in, the system will automatically detect if you have a myLibrary ID and display it. It will also let you reset your password if you have forgotten it.</li>
-<li>Via the <strong>NLB Mobile app&rsquo;s</strong> login page with your SingPass or NRIC / FIN number &ndash;. Tap on the + button <img src="/images/add_account.svg> on the top right of the app’s screen, then tap on “Forgot your myLibraryID or password”.</li></ul>
+<li>Via the <strong>NLB Mobile app&rsquo;s</strong> login page with your SingPass or NRIC / FIN number &ndash;. Tap on the + button <img src="/images/add_account.svg"> on the top right of the app’s screen, then tap on “Forgot your myLibraryID or password”.</li></ul>
 </div>
 </div>
 
