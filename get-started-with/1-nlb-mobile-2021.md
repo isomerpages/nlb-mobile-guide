@@ -219,8 +219,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 ![How to borrow physical items with the NLB Mobile app, using the in-app barcode scanner](/images/NLBMobile_ScantoBorrow_animatedGIF.gif)
 <p><strong>Option 2: Use the Borrowing Station</strong></p>
 ![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)	
-</div></div>
 -->
+</div></div>
 
 <div>
 		<input type="radio" name="acc" id="acc8">
