@@ -24,7 +24,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/QR_faq-download-nlb-mobile-go.nlb-plusCTA.png" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
+<td style="width: 50%; height: auto;"><a href="http://go.nlb.gov.sg/nlbmobile"><img src="/images/QR_faq-download-nlb-mobile-go.nlb-plusCTA.png" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></a></td>
 <td style="width: 50%; height: auto;"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
 </tr>
 <tr>
@@ -46,15 +46,16 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 <li><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:20px; width:316px; height:96px;"></a></li>
 <li><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:20px; width:344px; height:96px;"></a></li>
 </ul>-->
-The NLB Mobile app is your personal library, anywhere, anytime:
+Discover a world of learning with the NLB Mobile app, anywhere, anytime:
 <ul>   
-	<li> Read eBooks and listen to audiobooks online</li>
-	<li> Access eMagazines and eNewspapers</li>
-	<li> Search for both online and physical resources to borrow</li>
-<li> Take online courses</li>
-	<li> Borrow physical items using your mobile device</li>
+	<li> Read eBooks or listen to audiobooks</li>
+	<li> Read the latest issues of eMagazines and eNewspapers</li>
+	<li> Take online courses</li>
+	<li> Borrow physical library items using your mobile device</li>
+	<li> Discover new digital resources and sign in to our websites easily with <a href="#qr">QR Login</a></li>
+	<li> Discover happenings at our libraries</li>
 	<li> Check the accounts of you and your family</li>
-	<li> Log in to NLB websites quickly by scanning a QR code - <a href="#qr">find out more</a>.</li>
+
 </ul>
 <table style="border:0px; padding:0px; text-align:left; max-width:400px;">
 	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:10px; width:316px; height:96px;"></a></td></tr>
@@ -75,11 +76,9 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <div class="acc-body">
         <p>By signing in, you will be able to enjoy the full suite of services available to library members such as borrowing items and reading eMagazines and eNewspapers. But even if you don&rsquo;t sign in, you can still:</p>
         <ul>
-        <li>Search the library catalogue</li>
+        <li>Search the library catalogue and share the title</li>
         <li>Locate nearby libraries based on your current location</li>
-        <li>Get library addresses, directions and operating hours</li>
-        <li>View details of events happening at the libraries</li>
-        <li>Share a title on Facebook, Twitter and WhatsApp</li>
+        <li>View highlights of library happenings and book recommendations </li>
         </ul>
     </div>
     </div>
@@ -88,7 +87,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 		<input type="radio" name="acc" id="acc3">
         <label for="acc3">What do I need to sign in?</label>
          <div class="acc-body">
-        <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or at a Borrowing Station in any library.</p>
+        <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or using the app’s login page – tap on the + button <img src="/images/add_account.svg> on the top right of the app’s screen.</p>
     </div>
     </div>
 
@@ -99,7 +98,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <p>You can retrieve your myLibrary ID and password:</p>
         <ul>
         <li><b><a href="https://account.nlb.gov.sg">Online</a></b> with your SingPass or NRIC / FIN number. Once you have signed in, the system will automatically detect if you have a myLibrary ID and display it. It will also let you reset your password if you have forgotten it.</li>
-<li>Via the <strong>NLB Mobile app&rsquo;s</strong> login page with your SingPass or NRIC / FIN number &ndash; tap &ldquo;Forgot ID&rdquo; or &ldquo;Forgot Password&rdquo;.</li></ul>
+<li>Via the <strong>NLB Mobile app&rsquo;s</strong> login page with your SingPass or NRIC / FIN number &ndash;. Tap on the + button <img src="/images/add_account.svg> on the top right of the app’s screen, then tap on “Forgot your myLibraryID or password”.</li></ul>
 </div>
 </div>
 
@@ -409,6 +408,6 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc19">What can I do with ‘My Points’ showing on my account page?</label>
 
 <div class="acc-body">
-      <p>During promotional periods, the points earned from borrowing library items may be redeemed for rewards, e.g. Book Bugs II cards in 2018.</p>
+      <p>During promotional periods, the points earned from borrowing library items may be redeemed for rewards, e.g. Book Bugs X cards in 2021.</p>
     </div>
     </div><!--close FAQ-section-->
