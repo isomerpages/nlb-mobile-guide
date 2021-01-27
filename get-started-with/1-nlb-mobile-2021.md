@@ -23,18 +23,18 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 -->	
 <table style="width: auto;">
 <tbody>
-<tr style="height: auto;">
-<td style="width: auto; height: auto;"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
-<td style="width: auto; height: auto;"><img src="images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
+<tr>
+<td style="width: 50%; height: auto;"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+<td style="width: 50%; height: auto;"><img src="images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
 </tr>
-<tr style="height: auto;">
-<td style="width: auto; height: auto;"><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
-<td style="width: auto; height: auto;"><img src="/images/QR_downloadapp.svg" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
+<tr>
+<td style="width: 50%; height: auto;"><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
+<td style="width: 50%; height: auto;"><img src="/images/QR_downloadapp.svg" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
 </tr>
 </tbody>
 </table>
-	
-<h2>About the NLB Mobile app</h2>
+
+<h2>A library in Your pocket</h2>
 <p>
 	<div class="vd">
 <!--NLB Mobile app features video - PLS YouTube-->
@@ -58,7 +58,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <li> Take online courses</li>
 	<li> Borrow physical items using your mobile device</li>
 	<li> Check the accounts of you and your family</li>
-	<li><b>*New - April 2020* Log in to NLB websites quickly by scanning a QR code</b> - <a href="#qr">find out more</a>.</li>
+	<li> Log in to NLB websites quickly by scanning a QR code - <a href="#qr">find out more</a>.</li>
 </ul>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
@@ -67,68 +67,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<h3>How to Borrow Physical Items using the NLB Mobile app</h3>
-<p><strong>Option 1: Use the in-app barcode scanner</strong></p>
-![How to borrow physical items with the NLB Mobile app, using the in-app barcode scanner](/images/NLBMobile_ScantoBorrow_animatedGIF.gif)
-<p><strong>Option 2: Use the Borrowing Station</strong></p>
-![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)	
-
-<p></p>
-<h2>About NLB Mobile</h2>
-<div class="acc-kontainer">          
-	<div>
-		<input type="radio" name="acc" id="acc1">
-		<label for="acc1">Can you tell me more about the app’s features?</label>
-		<div class="acc-body">
-			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
-			
-<!--NLB Mobile app features video - PLS YouTube-->
-<p>
-	<div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
-</p>
-	
-		<h5>List of Features</h5>
-		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
-		<p><strong>Borrow and read / listen</strong></p>
-		<ul>
-		<li>Borrow eBooks and Audiobooks and read / listen to them online</li>
-		<li>Read eMagazines and eNewspapers</li>
-		<li>Borrow library items with the app instead of at the borrowing stations</li>
-		</ul>
-		<p><strong>Transact</strong></p>
-		<ul>
-		<li>Pay outstanding fees and/or fines using PayPal or credit cards</li>
-		<li>Check and/or renew your loans</li>
-		<li>Reserve library items</li>
-		<li>View the titles you borrowed from the libraries for the last three years</li>
-		<li>Update your particulars such as email address and mobile number</li>
-		<li>Switch between family members&rsquo; accounts for quick access to library transactions</li>
-		<li><b> *New - April 2020* Log in to NLB websites quickly by scanning a QR code</b></li>
-		</ul>
-		<p><strong>eCard</strong></p>
-		<ul>
-		<li>Use the eCard to borrow items at the libraries&rsquo; borrowing stations, collect reserved items, make payments and more</li>
-		</ul>
-		<p><strong>Search, share and recommend titles</strong></p>
-		<ul>
-		<li>Search the library catalogue</li>
-		<li>Bookmark your favourite titles</li>
-		<li>Share a title easily on Facebook, Twitter and WhatsApp</li>
-		<li>Suggest a title to NLB and view all your recommendations<br /><br /></li>
-		</ul>
-		<p><strong>Find libraries and events</strong></p>
-		<ul>
-		<li>Search and register for events held at our libraries</li>
-		<li>Locate nearby libraries based on your current location</li>
-		<li>Get library addresses, directions and operating hours easily</li>
-		</ul>
-		</div>
-		</div>
-
-
-<p><h2>Setting Up NLB Mobile</h2></p>
+<p><h3>Get Started</h3></p>
     <div>
         <input type="radio" name="acc" id="acc2">
         <label for="acc2">Why should I sign in?</label>
@@ -207,54 +146,76 @@ The NLB Mobile app is your personal library, anywhere, anytime:
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div></div>
 
+<p><h3>Learn about the Features</h3></p>
+Learn about borrowing, returning and reserving books.
+You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, <a href="#qr">using the QR Login Feature on NLB Websites</a>, as  well as <a href="#points">reading challenges (e.g. Book Bugs) and points</a>.
+<div class="acc-kontainer">          
+	<div>
+		<input type="radio" name="acc" id="acc1">
+		<label for="acc1">Can you tell me more about the app’s features?</label>
+		<div class="acc-body">
+			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
+			
+<!--NLB Mobile app features video - PLS YouTube-->
+<p>
+	<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+</p>
+	
+		<h5>List of Features</h5>
+		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
+		<p><strong>Borrow and read / listen</strong></p>
+		<ul>
+		<li>Borrow eBooks and Audiobooks and read / listen to them online</li>
+		<li>Read eMagazines and eNewspapers</li>
+		<li>Borrow library items with the app instead of at the borrowing stations</li>
+		</ul>
+		<p><strong>Transact</strong></p>
+		<ul>
+		<li>Pay outstanding fees and/or fines using PayPal or credit cards</li>
+		<li>Check and/or renew your loans</li>
+		<li>Reserve library items</li>
+		<li>View the titles you borrowed from the libraries for the last three years</li>
+		<li>Update your particulars such as email address and mobile number</li>
+		<li>Switch between family members&rsquo; accounts for quick access to library transactions</li>
+		<li><b> *New - April 2020* Log in to NLB websites quickly by scanning a QR code</b></li>
+		</ul>
+		<p><strong>eCard</strong></p>
+		<ul>
+		<li>Use the eCard to borrow items at the libraries&rsquo; borrowing stations, collect reserved items, make payments and more</li>
+		</ul>
+		<p><strong>Search, share and recommend titles</strong></p>
+		<ul>
+		<li>Search the library catalogue</li>
+		<li>Bookmark your favourite titles</li>
+		<li>Share a title easily on Facebook, Twitter and WhatsApp</li>
+		<li>Suggest a title to NLB and view all your recommendations<br /><br /></li>
+		</ul>
+		<p><strong>Find libraries and events</strong></p>
+		<ul>
+		<li>Search and register for events held at our libraries</li>
+		<li>Locate nearby libraries based on your current location</li>
+		<li>Get library addresses, directions and operating hours easily</li>
+		</ul>
+		</div>
+		</div>
 
-<div id="qr"><p><h2>Using the QR Login Feature on NLB Websites</h2></p>
-    <div>
-        <input type="radio" name="acc" id="acc99">
-        <label for="acc99">What’s NLB QR Login?</label>
-        <div class="acc-body">
-        <p>It’s another method for you to sign in to our services without having to key in your myLibrary ID and password. When logging into NLB's websites, use your NLB Mobile app's camera feature to scan the QR code.</p>
-	<img src="/images/QRLogin.png">
-
-    </div>
-    </div>
-     
-<div>
-        <input type="radio" name="acc" id="acc100">
-        <label for="acc100">Which websites support NLB QR Login?</label>
-        <div class="acc-body">
-        <p>Currently, you can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
-    </div>
-    </div>
-    
-<div>
-        <input type="radio" name="acc" id="acc101">
-        <label for="acc101">How do I use NLB Mobile's QR Login feature?</label>
-        <div class="acc-body">
-		<p>Just follow these simple steps:</p>
-		<ol>
-			<li>Visit any NLB website on a desktop computer / laptop and click "Login". Choose to log in using NLB Mobile app.</li>
-			<li>Click on the QR code on the computer screen.</li>
-			<li>Open NLB Mobile app on your mobile device. If you have added other profiles, make sure you are logged into the right profile. Tap the camera icon on the top left corner of the Home tab. (If the app requests access to the device camera, please allow it. You will need to do this only once.)</li>
-			<li>Use your phone to scan the QR code displayed on the computer screen.</li>
-			<li>NLB Mobile will show you a confirmation screen that mentions the website you are trying to log into. Tap "Yes" to confirm.</li>
-			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
-		</ol>
-	<img src="/images/QRLogin.png">
-    </div>
-    </div>
-
-
-
-<p><h2>Borrowing physical items, eBooks and Audiobooks</h2></p>
+<!--Section on Borrowing physical items, eBooks and Audiobooks-->
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">How can I borrow physical items with the NLB Mobile app?</label>
 <div class="acc-body">
-  <p>First, sign in with your myLibrary ID.</p> 
+	  <p>First, sign in with your myLibrary ID.</p> 
       <p>Next, tap on the camera icon on the top left corner of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item.</p>
       <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, tap the “eCard” icon (at the top right corner of the NLB Mobile app). Your virtual membership card will appear. Scan the membership QR code at the Borrowing Station to borrow the library items.</p>  
 </div></div>
+<!--GIFs-->
+	<p><strong>Option 1: Use the in-app barcode scanner</strong></p>
+![How to borrow physical items with the NLB Mobile app, using the in-app barcode scanner](/images/NLBMobile_ScantoBorrow_animatedGIF.gif)
+<p><strong>Option 2: Use the Borrowing Station</strong></p>
+![How to borrow physical items with the NLB Mobile app, using the borrowing station](/images/NLBMobile_eCard_animatedGIF.gif)	
+
 
 <div>
 		<input type="radio" name="acc" id="acc8">
@@ -341,7 +302,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 			</p>
 			</div></div>
 
-<p><h2>Reading eMagazines/ eNewspapers</h2></p>
+<div id="enews"><p><h4>Reading eMagazines/ eNewspapers</h4></p>
 <div>
 		<input type="radio" name="acc" id="acc14">
         <label for="acc14">How do I read eMagazines/ eNewspapers from NLB Mobile?  </label>
@@ -358,8 +319,8 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 </div></div>
 </div><!--close FAQ-section-->
 
-<div class="FAQ-section">
-<p><h2>Accessing eLearning courses</h2></p>
+<div class="FAQ-section"><div id="elearning"><p>
+<p><h4>Accessing eLearning courses</h4></p>
 
 <div>
 		<input type="radio" name="acc" id="acc15">
@@ -391,8 +352,46 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 </div>
 </div><!--close FAQ-section-->
 
-<div class="FAQ-section">
-<p><h2>Reading Challenges and Points</h2></p>
+
+<div id="qr"><p><h4>Using the QR Login Feature on NLB Websites</h4></p>
+    <div>
+        <input type="radio" name="acc" id="acc99">
+        <label for="acc99">What’s NLB QR Login?</label>
+        <div class="acc-body">
+        <p>It’s another method for you to sign in to our services without having to key in your myLibrary ID and password. When logging into NLB's websites, use your NLB Mobile app's camera feature to scan the QR code.</p>
+	<img src="/images/QRLogin.png">
+
+    </div>
+    </div>
+     
+<div>
+        <input type="radio" name="acc" id="acc100">
+        <label for="acc100">Which websites support NLB QR Login?</label>
+        <div class="acc-body">
+        <p>Currently, you can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
+    </div>
+    </div>
+    
+<div>
+        <input type="radio" name="acc" id="acc101">
+        <label for="acc101">How do I use NLB Mobile's QR Login feature?</label>
+        <div class="acc-body">
+		<p>Just follow these simple steps:</p>
+		<ol>
+			<li>Visit any NLB website on a desktop computer / laptop and click "Login". Choose to log in using NLB Mobile app.</li>
+			<li>Click on the QR code on the computer screen.</li>
+			<li>Open NLB Mobile app on your mobile device. If you have added other profiles, make sure you are logged into the right profile. Tap the camera icon on the top left corner of the Home tab. (If the app requests access to the device camera, please allow it. You will need to do this only once.)</li>
+			<li>Use your phone to scan the QR code displayed on the computer screen.</li>
+			<li>NLB Mobile will show you a confirmation screen that mentions the website you are trying to log into. Tap "Yes" to confirm.</li>
+			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
+		</ol>
+	<img src="/images/QRLogin.png">
+    </div>
+    </div>
+
+
+<div class="FAQ-section"><div id="points"><p>
+<p><h4>Reading Challenges and Points</h4></p>
 <div>
 		<input type="radio" name="acc" id="acc18">
         <label for="acc18">What is the ‘Reading Challenge’ that shows up on my account page about?</label>
