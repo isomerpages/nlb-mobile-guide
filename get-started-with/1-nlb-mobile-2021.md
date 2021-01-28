@@ -211,8 +211,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc7">How can I borrow physical items with the NLB Mobile app?</label>
 <div class="acc-body">
 	  <p>First, sign in with your myLibrary ID.</p> 
-      <p>Next, tap on the camera icon on the top left corner of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item.</p>
-      <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, tap the “eCard” icon (at the top right corner of the NLB Mobile app). Your virtual membership card will appear. Scan the membership QR code at the Borrowing Station to borrow the library items.</p>  
+      <p>Next, tap on the camera icon at the bottom of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item. In the Feb 2021 release of the app, we’ve added nifty features to the scan-to-borrow screen – now you can switch your profile in this screen, and check if you have previously borrowed the title.</p>
+      <p>Alternatively, if you prefer to use the Borrowing Stations at libraries, use the “eCard”. Go to your profile (this icon is at the top right corner of the NLB Mobile app).  Your virtual membership card will appear. Scan the membership QR code at the Borrowing Station to borrow the library items.</p>  
 
 <!--GIFs--
 	<p><strong>Option 1: Use the in-app barcode scanner</strong></p>
