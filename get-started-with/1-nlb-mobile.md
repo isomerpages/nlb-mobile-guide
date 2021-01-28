@@ -8,7 +8,7 @@ title: NLB Mobile app
 ---
 <h2>About the NLB Mobile app</h2>
 <p>
-	<div class="vd">
+	<div class="bp-youtube">
 <!--NLB Mobile app features video - PLS YouTube-->
 <iframe title="video on NLB Mobile app" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
