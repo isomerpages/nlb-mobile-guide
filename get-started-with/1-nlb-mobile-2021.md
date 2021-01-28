@@ -360,8 +360,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <input type="radio" name="acc" id="acc99">
         <label for="acc99">What’s NLB QR Login?</label>
         <div class="acc-body">
-        <p>It’s another method for you to sign in to our services without having to key in your myLibrary ID and password. When logging into NLB's websites, use your NLB Mobile app's camera feature to scan the QR code.</p>
-	<img src="/images/QRLogin.png">
+        <p>It’s another method for you to sign in to our services without having to key in your myLibrary ID and password. When logging into NLB's websites (e.g. on your laptop), use your NLB Mobile app's camera feature to scan the QR code.</p>
+	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png">
 
     </div>
     </div>
@@ -370,7 +370,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <input type="radio" name="acc" id="acc100">
         <label for="acc100">Which websites support NLB QR Login?</label>
         <div class="acc-body">
-        <p>Currently, you can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
+        <p>You can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
     </div>
     </div>
     
@@ -382,12 +382,12 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<ol>
 			<li>Visit any NLB website on a desktop computer / laptop and click "Login". Choose to log in using NLB Mobile app.</li>
 			<li>Click on the QR code on the computer screen.</li>
-			<li>Open NLB Mobile app on your mobile device. If you have added other profiles, make sure you are logged into the right profile. Tap the camera icon on the top left corner of the Home tab. (If the app requests access to the device camera, please allow it. You will need to do this only once.)</li>
+			<li>Open NLB Mobile app on your mobile device. If you have added other profiles, make sure you are logged into the right profile. Tap the camera icon on the bottom of the app. (If the app requests access to the device camera, please allow it. You will need to do this only once.)</li>
 			<li>Use your phone to scan the QR code displayed on the computer screen.</li>
 			<li>NLB Mobile will show you a confirmation screen that mentions the website you are trying to log into. Tap "Yes" to confirm.</li>
 			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
 		</ol>
-	<img src="/images/QRLogin.png">
+	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png">
     </div>
     </div>
 
