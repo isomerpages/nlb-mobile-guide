@@ -57,7 +57,7 @@ Learn about borrowing, renewing and reserving.
                 <div class="acc-body">
 <p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
 <p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
-<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby" width="300px"></p>
+<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby" style="max-width:300px;height:auto;width:auto;"></p>
 <p>
 If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div></div>
@@ -366,9 +366,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc21">My eBook/eAudiobook isn't downloading.</label>
         <div class="acc-body">
   <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
-  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg" alt="screenshot of Libby" width="300px"></p>
+  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg" alt="screenshot of Libby" style="max-width:300px;height:auto;width:auto;"></p>
     <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
-    <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg" alt="screenshot of Libby" width="300px"></p>
+    <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg" alt="screenshot of Libby" style="max-width:300px;height:auto;width:auto;"></p>
   </div></div>
 
 <div>
