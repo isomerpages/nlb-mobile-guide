@@ -39,7 +39,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 <p>
 	<div class="bp-youtube">
 <!--NLB Mobile app features video - PLS YouTube-->
- 	 <iframe title=”NLB Mobile app features video - PLS YouTube” width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <iframe title="NLB Mobile app features video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	 </iframe>
 	 </div>
 </p>
@@ -59,8 +59,8 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
 
 </ul>
 <table style="border:0px; padding:0px; text-align:left; max-width:400px;">
-	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" alt="Button that links iOS users to the iTunes App Store" style="max-width:200px;height:auto;width:auto;"></a></td></tr>
-	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" alt="Button that links Android users to the Google Play Store" style="max-width:200px;height:auto;width:auto;"></a></td></tr>
+	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" alt="Button that links iOS users to the iTunes App Store" style="padding:10px; max-width:200px;height:auto;width:auto;"></a></td></tr>
+	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" alt="Button that links Android users to the Google Play Store" style="padding:10px; max-width:200px;height:auto;width:auto;"></a></td></tr>
 </table>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
@@ -362,7 +362,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc99">What’s NLB QR Login?</label>
         <div class="acc-body">
         <p>It’s another method for you to sign in to our services without having to key in your myLibrary ID and password. When logging into NLB's websites (e.g. on your laptop), use your NLB Mobile app's camera feature to scan the QR code.</p>
-	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone" style="max-width:200px;height:auto;width:auto;">
+	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone">
 
     </div>
     </div>
@@ -388,7 +388,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 			<li>NLB Mobile will show you a confirmation screen that mentions the website you are trying to log into. Tap "Yes" to confirm.</li>
 			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
 		</ol>
-	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone" style="max-width:200px;height:auto;width:auto;">
+	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone">
     </div>
     </div>
 
