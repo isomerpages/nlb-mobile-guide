@@ -37,7 +37,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest
 
 <h2>A library in your pocket</h2>
 <p>
-	<div class="vd">
+	<div class="bp-youtube">
 <!--NLB Mobile app features video - PLS YouTube-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -63,7 +63,7 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
 </table>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
-<div class="vd">
+<div class="bp-youtube">
 	<!--Borrow eBooks w/ NLB Mobile app video - PLS YouTube-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -161,7 +161,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 			
 <!--NLB Mobile app features video - PLS YouTube-->
 <p>
-	<div class="vd">
+	<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 </p>
