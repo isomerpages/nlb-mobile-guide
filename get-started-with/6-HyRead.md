@@ -15,7 +15,7 @@ title: HyRead Chinese eBooks and eMagazines
 <p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。<a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">点击链接,观看视频学习如何使用Hyread!</a>
 </p>
 	
-<p><h2>How to Read Chinese eBooks and eMagazines with HyRead</h2></p>
+<p><h3>How to Read Chinese eBooks and eMagazines with HyRead</h3></p>
 <div class="vd">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -66,7 +66,7 @@ title: HyRead Chinese eBooks and eMagazines
 
 </div><!--close accordion-->
 
-<h2>Borrowing and Reading</h2>
+<h3>Borrowing and Reading</h3>
 <div class="acc-kontainer"><!--accordion-->       
 <div>
 		<input type="radio" name="acc" id="acc3">
@@ -130,7 +130,7 @@ title: HyRead Chinese eBooks and eMagazines
 </div></div>
 </div><!--close accordion-->
 
-<h2>Getting more help</h2>
+<h3>Getting more help</h3>
 <div class="acc-kontainer"><!--accordion-->       
   <div>
 		<input type="radio" name="acc" id="acc9">

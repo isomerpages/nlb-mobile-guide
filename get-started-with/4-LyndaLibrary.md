@@ -6,22 +6,19 @@ description: How to Access Complimentary eLearning Courses using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eLearning
 ---
-<h2>Introducing LyndaLibrary</h2>
+<h2>Learn through bite-sized videos with LyndaLibrary, by LinkedIn</h2>
 
-<div class="vd">
+<div class="bp-youtube">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	
 <!--Use this version when SPH newspapers aren't available remotely anymore
-<div class="vd">
+<div class="bp-youtube">
      <video width="720px" poster="/images/Thumbnail-Lynda.PNG" controls>
   <source src="/images/Video_Lynda.mp4" type="video/mp4" />
 </video>
 -->
 
-<p>
-	Learn through bite-sized videos, anywhere, anytime, with eLearning courseware <i>LyndaLibrary by LinkedIn</i>:
-	</p>
 <ul>   
 	<li> <b>Learn anything:</b> Over 8,000 courses covering a wide range of topics, from data science to leadership skills</li>
 	<li> <b>Learn from experts:</b> Many courses are taught by recognised industry experts
@@ -35,7 +32,7 @@ title: eLearning
 
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
 
-<p><h2>Getting Started</h2></p>
+<p><h3>Getting Started</h3></p>
 <div class="acc-kontainer" id="lynda-get-started">          
 	<div>
 
@@ -52,16 +49,36 @@ title: eLearning
 <div>
 		<input type="radio" name="acc" id="acc1">
         <label for="acc1">How do I start using LyndaLibrary on my laptop or desktop? </label>
-<div class="acc-body">
+<div class=bp-youtube"acc-body">
         <p>If you prefer to do your eLearning on a laptop or desktop, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
-	<div class="vd">
-     <video width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
+	<div class="">
+     <video title="steps on using lynda" width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
   <source src="/images/lyndalibrary steps.mp4" type="video/mp4" />
 </video>
-</div>
+	</div>
+	</div>
+	</div>
 
+<div>
+		<input type="radio" name="acc" id="acc5">
+        <label for="acc5">Do I need to install the Lynda mobile app?</label>
+<div class="acc-body">
+      <p>You don't need the Lynda mobile app to access the online courses. But if you wish to use the Lynda app (e.g. to download courses for offline viewing) you can! Just follow the steps listed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_mobile">eResources FAQ page on LyndaLibrary</a>.</p>
+    </div>
+    </div>
 
-</div></div>
+<div>
+		<input type="radio" name="acc" id="acc6">
+        <label for="acc6">Is LyndaLibrary free to use for NLB members?</label>
+        <div class="acc-body">
+      <p>Yes! As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
+      </div>
+            </div>
+
+</div><!--close section-->
+<h3>Questions about accounts</h3>
+<div class="acc-kontainer" id="lynda-get-started">      
+
 
 <div>
 		<input type="radio" name="acc" id="acc3">
@@ -81,25 +98,10 @@ access training courses?</label>
     </div>
     </div>
 
-<div>
-		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">Do I need to install the Lynda mobile app?</label>
-<div class="acc-body">
-      <p>You don't need the Lynda mobile app to access the online courses. But if you wish to use the Lynda app (e.g. to download courses for offline viewing) you can! Just follow the steps listed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_mobile">eResources FAQ page on LyndaLibrary</a>.</p>
-    </div>
 
-    </div>
+</div><!--close section-->
 
-<div>
-		<input type="radio" name="acc" id="acc6">
-        <label for="acc6">Is LyndaLibrary free to use for NLB members?</label>
-        <div class="acc-body">
-      <p>Yes! As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
-      </div>
-            </div>
-</div><!--close FAQ-section-->
-
-<h2>Troubleshooting</h2>
+<h3>Troubleshooting</h3>
 <div>
 		<input type="radio" name="acc" id="acc7">
         <label for="acc7">I can't log in to LyndaLibrary.</label>

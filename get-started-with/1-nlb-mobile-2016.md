@@ -8,9 +8,9 @@ title: NLB Mobile app
 ---
 <h2>About the NLB Mobile app</h2>
 <p>
-	<div class="bp-youtube">
+	<div class="vd">
 <!--NLB Mobile app features video - PLS YouTube-->
-<iframe title="video on NLB Mobile app" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </p>
 <!--ul style="list-style:none inside none;">
@@ -34,9 +34,9 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 </ul>
 
 <p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
-<div class="bp-youtube">
+<div class="vd">
 	<!--Borrow eBooks w/ NLB Mobile app video - PLS YouTube-->
-<iframe title="video on borrowing ebooks with NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h3>How to Borrow Physical Items using the NLB Mobile app</h3>
@@ -56,8 +56,8 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 			
 <!--NLB Mobile app features video - PLS YouTube-->
 <p>
-	<div class="bp-youtube">
-<iframe title="video on NLB Mobile app" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="vd">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 </p>
 	
