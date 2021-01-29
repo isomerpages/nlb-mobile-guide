@@ -344,8 +344,13 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc15">How do I access eLearning courses from NLB Mobile? </label>
 
 <div class="acc-body">
-  <p>Sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary, and you don’t need to sign in again.
-      </p>
+  <p>Sign in to the NLB Mobile app with your myLibrary ID. Tap on the Discover tab on the bottom left corner and select the ‘More’ icon. You will see some options:</p>
+	  <ul>
+		  <li>LinkedIn's LyndaLibrary. This eLearning service from LinkedIn offers thousands of video tutorials on technology, design and business. <a href="/get-started-with/lynda/">Find out more about using LyndaLibrary</a>.</li>
+		  <li>Learning Resources. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
+		  </li>
+	</ul>
+     
 
 </div></div>
 
