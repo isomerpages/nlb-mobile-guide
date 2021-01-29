@@ -279,8 +279,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc13">
         <label for="acc13">How do I reserve eBooks / Audiobooks? And can I cancel the reservation?</label>
 <div class="acc-body">
-     	  <p>If the title you wish to borrow is not available, you can reserve it free of charge by selecting the "Place Hold" option in Libby.  You can reserve up to 16 eBooks / audiobooks. </p>
-      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. You will receive a notification in your phone when it is your turn to borrow. If you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email. To keep the reservation, simply respond to the notification within 10 days. </p>
+     	  <p>If the title you wish to borrow is not available, you will see a "Reserve" option in the NLB Mobile app, instead of the "Borrow" button. Reservations for eBooks and audiobooks are free. You can reserve up to 16 eBooks / audiobooks. </p>
+      <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. You will receive a notification in the Libby app or your email when it is your turn to borrow. If you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email. To keep the reservation, simply respond to the notification within 10 days. </p>
 <p>Once notified, you have three options:</p>  
 <ul>
 <li>borrow now,</li>
@@ -295,15 +295,23 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
 </div></div>
 
+<div>
+		<input type="radio" name="acc" id="acc13b">
+        <label for="acc13b">How do I cancel a reservation?</label>
+<div class="acc-body">
+	<p>If you wish to cancel a <b>physical item</b> reservation, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "Book and AV Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the cancel item button.</p>
+	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "eBook and Audiobook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation".</p>
+</div></div>
+
   <div>
 		<input type="radio" name="acc" id="acc13a">
         <label for="acc13a">Why do some of your eBooks have limited copies?</label>
                 <div class="acc-body">
 			<p>
-			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details</a> here from our eBooks vendor, OverDrive.</p>
+			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details in an article</a> from our eBooks vendor, OverDrive.</p>
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
-			<p>To find books that are available right now, you can browse "Available" categories in Libby, such as <a href="https://libbyapp.com/library/nlb/spotlight-52/books/page-1">this list of popular but available books for adults</a>.</p>
-			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, Home & Decor and The Economist are always available. Click <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">here</a> to see the full list and borrow them.</p>
+			<p>To find books that are available right now, you can <a href="https://libbyapp.com/library/nlb">look in the "Available" categories</a> in the Libby website or app.</p>
+			<p>In addition, eMagazines like The Economist Asia Edition, Readers' Digest, WIRED, HELLO!, and Home & Decor  are always available. Go to the <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby website or app</a> to see the full list of eMagazines and borrow them.</p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
 			</div></div>
