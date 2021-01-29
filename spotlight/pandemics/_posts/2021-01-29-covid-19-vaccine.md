@@ -61,8 +61,8 @@ You can also check out an earlier guide on vaccinations published by the NLB in 
 
 <h4>Videos and Podcasts</h4>
 <h5>1. How vaccines work against COVID-19: Science, simplified</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/-dmJSLNgjxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/embed/-dmJSLNgjxo" target="_blank">How vaccines work against COVID-19: Science, simplified.</a> (2020, December 18). <i>Scripps Research</i>. Retrieved 2021, January 18.
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uWGTciX795o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/embed/uWGTciX795oo" target="_blank">How vaccines work against COVID-19: Science, simplified.</a> (2020, December 18). <i>Scripps Research</i>. Retrieved 2021, January 18.
 
 <h5>2. COVID-19 vaccines and herd immunity</h5>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/SkpIaeQtbGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -83,7 +83,7 @@ Source: <a href="https://www.youtube.com/embed/3EK4VRmG3yM" target="_blank">Covi
 <h5>6. <a href="https://sph.umich.edu/podcast/coronavirus/debunking-misinformation-about-covid-19.html" target="_blank">Debunking misinformation about COVID-19</a></h5>
 Debunking misinformation about COVID-19. (2020, November 13). <i>University of Michigan School of Public Health</i>. Retrieved 2021, January 19.
 
-<h5>7. <a href="https://www.channelnewsasia.com/news/podcasts/heart-of-the-matter/covid-19-vaccines-rolled-out-at-warp-speed-safety-side-effects-13909632" target="_blank">Debunking misinformation about COVID-19</a></h5>
+<h5>7. <a href="https://www.channelnewsasia.com/news/podcasts/heart-of-the-matter/covid-19-vaccines-rolled-out-at-warp-speed-safety-side-effects-13909632" target="_blank">COVID-19 vaccines rolled out at warp speed – safety, side effects and the big logistical challenges</a></h5>
 COVID-19 vaccines rolled out at warp speed – safety, side effects and the big logistical challenges. (2021, January 7). <i>Channel News Asia</i>. Retrieved 2021, January 19.
 
 <h5>8. <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-20---covid-19---variants-vaccines" target="_blank">Episode #20 - COVID-19 - Variants & Vaccines. (2021, January 8). World Health Organisation</a></h5>
