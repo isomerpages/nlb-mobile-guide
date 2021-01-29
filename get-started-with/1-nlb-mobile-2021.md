@@ -299,7 +299,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc13b">
         <label for="acc13b">How do I cancel a reservation?</label>
 <div class="acc-body">
-	<p>If you wish to cancel a <b>physical item</b> reservation, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "Book and AV Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the cancel item button.</p>
+	<p>If you wish to cancel a <b>physical item</b> reservation, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "Book and AV Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the "Cancel Item(s)" button.</p>
 	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "eBook and Audiobook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation".</p>
 </div></div>
 
@@ -311,7 +311,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details in an article</a> from our eBooks vendor, OverDrive.</p>
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
 			<p>To find books that are available right now, you can <a href="https://libbyapp.com/library/nlb">look in the "Available" categories</a> in the Libby website or app.</p>
-			<p>In addition, eMagazines like The Economist Asia Edition, Readers' Digest, WIRED, HELLO!, and Home & Decor  are always available. Go to the <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby website or app</a> to see the full list of eMagazines and borrow them.</p>
+			<p>In addition, eMagazines like The Economist (Asia Edition), Readers' Digest, WIRED, HELLO!, and Home & Decor  are always available. Go to the <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby website or app</a> to see the full list of eMagazines and borrow them.</p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
 			</div></div>
@@ -323,12 +323,15 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <div class="acc-body">
 	<h5>Reading SPH Local eNewspapers</h5>
-<p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the SPH icon. Choose the eNewspaper you would like to read.</p>
-<p>Find out more about how to access SPH Local eNewspapers (e.g. how to zoom in) from <a href="/get-started-with/PressReader/">our FAQ page</a>.</p>
+<p>If you wish to read local newspapers such as The Straits Times, there are two ways of doing so. The first method is to  install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the SPH icon. Choose the eNewspaper you would like to read. Alternatively, while you are at the libraries, sign in to Wireless@SGx, then access the PressReader app. The difference between the two methods is that in the first method, you will read the digitised newspaper in your browser. In the second method, you can download the newspaper into the PressReader app to read offline.</p>
+<p>If you have questions about SPH Local eNewspapers (e.g. how to zoom in), check out <a href="/get-started-with/enews/">our FAQ page</a>.</p>
         <p><h5>Reading International eNewspapers and eMagazines</h5></p>
 <p>NLB Mobile lets you read over 7,000 current eNewspapers and eMagazines from local and international publishers.</p>
-<p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the ‘eMagazines & eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the one hour is up, you can re-launch PressReader from NLB Mobile to get sponsored access again. </p>
-<p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines</a>.</p>
+<p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the ‘eMagazines & eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the hour is up, you can launch NLB Mobile and tap on the ‘eMagazines & eNewspapers’ icon to get sponsored access again. </p>
+<p>
+	We also have some eMagazine titles not found in PressReader, e.g. The Economist (Asia Edition). You can borrow this title directly from the <a href="https://libbyapp.com/library/nlb/everything/page-1/6030562">Libby website or app</a>.
+	</p>
+<p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines</a>.</p>
 
 </div></div>
 </div><!--close FAQ-section-->
