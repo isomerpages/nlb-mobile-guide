@@ -271,7 +271,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <div class="acc-body">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
-<p>Just go to &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return early&rsquo; under the title&rsquo;s cover image.</p>
+<p>Just go to the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook and Audiobook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return early&rsquo; under the title&rsquo;s cover image.</p>
 
 </div></div>
 
