@@ -72,8 +72,8 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
 <p><h3>Get Started</h3></p>
 <div class="acc-kontainer">          
     <div>
-        <input type="radio" name="acc" id="acc2">
-        <label for="acc2">Why should I sign in?</label>
+        <input type="radio" name="acc" id="acc1">
+        <label for="acc1">Why should I sign in?</label>
         <div class="acc-body">
         <p>By signing in, you will be able to enjoy the full suite of services available to library members such as borrowing items and reading eMagazines and eNewspapers. But even if you don&rsquo;t sign in, you can still:</p>
         <ul>
@@ -85,16 +85,16 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
     </div>
 
 <div>
-		<input type="radio" name="acc" id="acc3">
-        <label for="acc3">What do I need to sign in?</label>
+		<input type="radio" name="acc" id="acc2">
+        <label for="acc2">What do I need to sign in?</label>
          <div class="acc-body">
         <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or using the app’s login page – tap on the + button on the top right of the app’s screen.</p>
     </div>
     </div>
 
 <div>
-		<input type="radio" name="acc" id="acc4">
-        <label for="acc4">What if I forget my myLibrary ID or password? </label>
+		<input type="radio" name="acc" id="acc3">
+        <label for="acc3">What if I forget my myLibrary ID or password? </label>
         <div class="acc-body">
         <p>You can retrieve your myLibrary ID and password:</p>
         <ul>
@@ -104,8 +104,8 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc20">
-        <label for="acc20">When I try to log in, the app says “Profile already exists”. What do I do?</label>
+		<input type="radio" name="acc" id="acc4">
+        <label for="acc4">When I try to log in, the app says “Profile already exists”. What do I do?</label>
         <div class="acc-body">
 		<p>We are sorry that you are encountering this problem! Here are the steps.</p>
 		<p><b>If you are using an iPhone:</b></p>
@@ -151,12 +151,11 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
 
 <p>
 	Learn about borrowing, returning and reserving books.
-You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs) and points</a>.
+You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs), points and rewards</a>.
 	</p>
-	
 	<div>
-		<input type="radio" name="acc" id="acc1">
-		<label for="acc1">Can you tell me more about the app’s features?</label>
+		<input type="radio" name="acc" id="acc7">
+		<label for="acc7">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
 			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
 			
@@ -207,8 +206,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <!--Section on Borrowing physical items, eBooks and Audiobooks-->
 <div>
-		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">How can I borrow physical items with the NLB Mobile app?</label>
+		<input type="radio" name="acc" id="acc8">
+        <label for="acc8">How can I borrow physical items with the NLB Mobile app?</label>
 <div class="acc-body">
 	  <p>First, sign in with your myLibrary ID.</p> 
       <p>Next, tap on the camera icon at the bottom of the app to launch the “Scan-to-Borrow” function. Use the in-app camera to scan the NLB barcode on the library item. In the Feb 2021 release of the app, we added nifty features to the scan-to-borrow screen – now you can switch your profile in this screen, and check if you have previously borrowed the title.</p>
@@ -223,23 +222,23 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc8">
-        <label for="acc8">Does scanning the barcode of the library item with the app immediately trigger a checkout?</label>
+		<input type="radio" name="acc" id="acc9">
+        <label for="acc9">Does scanning the barcode of the library item with the app immediately trigger a checkout?</label>
 <div class="acc-body">
   <p>No, the app will seek your confirmation before the item is checked out.</p>
 
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc9">
-        <label for="acc9">How many eBooks / Audiobooks can I borrow?</label>
+		<input type="radio" name="acc" id="acc10">
+        <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
   <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc10">
-        <label for="acc10">How do I borrow eBooks / Audiobooks with this app?</label>
+		<input type="radio" name="acc" id="acc11">
+        <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
  <p>Follow these simple steps:</p>
 <p><strong>Step One:</strong> In the app, search for the titles you want.</p>
@@ -255,8 +254,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <div class="acc-kontainer">          
 	<div>
-		<input type="radio" name="acc" id="acc11">
-		<label for="acc11">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
+		<input type="radio" name="acc" id="acc12">
+		<label for="acc12">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
 <div class="acc-body">
  <p>Here are the steps:</p>
 <p><b>Step One:</b> In the app, select the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook and Audiobook Loans&rsquo; and tap on the title you want to read or listen to. </p>
@@ -266,8 +265,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </div></div>
 
   <div>
-        <input type="radio" name="acc" id="acc12">
-        <label for="acc12">How do I return eBooks / Audiobooks?</label>
+        <input type="radio" name="acc" id="acc13">
+        <label for="acc13">How do I return eBooks / Audiobooks?</label>
 
 <div class="acc-body">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
@@ -276,8 +275,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc13">
-        <label for="acc13">How do I reserve eBooks / Audiobooks? And can I cancel the reservation?</label>
+		<input type="radio" name="acc" id="acc14">
+        <label for="acc14">How do I reserve eBooks and/or audiobooks?</label>
 <div class="acc-body">
      	  <p>If the title you wish to borrow is not available, you will see a "Reserve" option in the NLB Mobile app, instead of the "Borrow" button. Reservations for eBooks and audiobooks are free. You can reserve up to 16 eBooks / audiobooks. </p>
       <p>To ensure that titles are delivered at the right time for you, reserved items <b>will not be automatically borrowed</b>. You will receive a notification in the Libby app or your email when it is your turn to borrow. If you have turned off notifications in Libby's settings or if you don't have the Libby app, we will send you an email. To keep the reservation, simply respond to the notification within 10 days. </p>
@@ -296,16 +295,16 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc13b">
-        <label for="acc13b">How do I cancel a reservation?</label>
+		<input type="radio" name="acc" id="acc15">
+        <label for="acc15">How do I cancel a reservation?</label>
 <div class="acc-body">
 	<p>If you wish to cancel a <b>physical item</b> reservation, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "Book and AV Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the "Cancel Item(s)" button.</p>
 	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "eBook and Audiobook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation".</p>
 </div></div>
 
   <div>
-		<input type="radio" name="acc" id="acc13a">
-        <label for="acc13a">Why do some of your eBooks have limited copies?</label>
+		<input type="radio" name="acc" id="acc16">
+        <label for="acc16">Why do some of your eBooks have limited copies?</label>
                 <div class="acc-body">
 			<p>
 			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details in an article</a> from our eBooks vendor, OverDrive.</p>
@@ -318,8 +317,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <div id="enews"><p><h4>Reading eMagazines/ eNewspapers</h4></p>
 <div>
-		<input type="radio" name="acc" id="acc14">
-        <label for="acc14">How do I read eMagazines/ eNewspapers from NLB Mobile?  </label>
+		<input type="radio" name="acc" id="acc17">
+        <label for="acc17">How do I read eMagazines/ eNewspapers from NLB Mobile?  </label>
 
 <div class="acc-body">
 	<h5>Reading SPH Local eNewspapers</h5>
@@ -340,8 +339,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><h4>Accessing eLearning courses</h4></p>
 
 <div>
-		<input type="radio" name="acc" id="acc15">
-        <label for="acc15">How do I access eLearning courses from NLB Mobile? </label>
+		<input type="radio" name="acc" id="acc18">
+        <label for="acc18">How do I access eLearning courses from NLB Mobile? </label>
 
 <div class="acc-body">
   <p>Sign in to the NLB Mobile app with your myLibrary ID. Tap on the Discover tab on the bottom left corner and select the ‘More’ icon. You will see some options:</p>
@@ -355,8 +354,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </div></div>
 
 <div>
-		<input type="radio" name="acc" id="acc16">
-        <label for="acc16">Do I need a Lynda.com account? </label>
+		<input type="radio" name="acc" id="acc19">
+        <label for="acc19">Do I need a Lynda.com account? </label>
 
 <div class="acc-body">
       <p>This is optional as long as you access the online courses from the NLB Mobile app. As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
@@ -364,8 +363,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc17">
-        <label for="acc17">Do I need to install the Lynda mobile app?</label>
+		<input type="radio" name="acc" id="acc20">
+        <label for="acc20">Do I need to install the Lynda mobile app?</label>
 
 <div class="acc-body">
       <p>You don't need the Lynda mobile app to access the online courses.</p>
@@ -375,8 +374,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <div id="qr"><p><h4>Using the QR Login Feature on NLB Websites</h4></p>
     <div>
-        <input type="radio" name="acc" id="acc99">
-        <label for="acc99">What’s NLB QR Login?</label>
+        <input type="radio" name="acc" id="acc21">
+        <label for="acc21">What’s NLB QR Login?</label>
         <div class="acc-body">
         <p>It’s another method for you to sign in to our services without having to key in your myLibrary ID and password. When logging into NLB's websites (e.g. on your laptop), use your NLB Mobile app's camera feature to scan the QR code.</p>
 	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone">
@@ -385,16 +384,16 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
     </div>
      
 <div>
-        <input type="radio" name="acc" id="acc100">
-        <label for="acc100">Which websites support NLB QR Login?</label>
+        <input type="radio" name="acc" id="acc22">
+        <label for="acc22">Which websites support NLB QR Login?</label>
         <div class="acc-body">
         <p>You can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
     </div>
     </div>
     
 <div>
-        <input type="radio" name="acc" id="acc101">
-        <label for="acc101">How do I use NLB Mobile's QR Login feature?</label>
+        <input type="radio" name="acc" id="acc23">
+        <label for="acc23">How do I use NLB Mobile's QR Login feature?</label>
         <div class="acc-body">
 		<p>Just follow these simple steps:</p>
 		<ol>
@@ -411,21 +410,30 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 
 <div class="FAQ-section"><div id="points"><p>
-<p><h4>Reading Challenges and Points</h4></p>
+<p><h4>Reading Challenges, Points and Rewards</h4></p>
 <div>
-		<input type="radio" name="acc" id="acc18">
-        <label for="acc18">What is the ‘Reading Challenge’ that shows up on my account page about?</label>
+		<input type="radio" name="acc" id="acc24">
+        <label for="acc24">On my Profile page, I see ‘Challenges’. What is this about?</label>
 
 <div class="acc-body">
-      <p>We periodically hold Challenges to encourage our library members to read. During the Challenge period, eligible library members can register to participate.</p>
+      <p>We periodically hold Challenges to encourage our library members to read more. During the Challenge period, eligible library members can register to participate.</p>
     </div>
 </div>
 
 <div>
-		<input type="radio" name="acc" id="acc19">
-        <label for="acc19">What can I do with ‘My Points’ showing on my account page?</label>
+		<input type="radio" name="acc" id="acc25">
+        <label for="acc25">What can I do with the ‘Points and Rewards’ in my Profile page?</label>
 
 <div class="acc-body">
       <p>During promotional periods, the points earned from borrowing library items may be redeemed for rewards, e.g. Book Bugs X cards in 2021.</p>
     </div>
+    </div>    
+        <div>
+		<input type="radio" name="acc" id="acc26">
+        <label for="acc26">I have questions about Book Bugs.</label>
+
+<div class="acc-body">
+      <p>Please visit the <a href="https://childrenandteens.nlb.gov.sg/events/bookbugsx/">Book Bugs website</a> for more information, e.g. about how to earn points to redeem Book Bugs cards, and how to redeem the cards.</p>
+    </div>
+    </div>    
     </div><!--close FAQ-section-->
