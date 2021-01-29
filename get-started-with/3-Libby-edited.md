@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /get-started-with/Libby-edited/
+permalink: /get-started-with/Libby/
 breadcrumb: eBooks and Audiobooks
 description: How to Read NLB's eBooks and Audiobooks
 image: /images/libby_socmed.png
