@@ -242,11 +242,12 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc10">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
  <p>Follow these simple steps:</p>
-<p><strong>Step One:</strong> In the app, search the catalogue for the titles you want.</p>
-<p><strong>Step Two:</strong> The search results will include both physical books you can find at the actual libraries as well as digital items that match your search terms. Select your desired title.</p>
-<p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page.</p>
-<p><strong>Step Four:</strong> After the title has been checked out, you will be prompted to choose among these options: read / listen online, <a href="/get-started-with/Libby/">download the item</a> so you can read / listen offline or return to &lsquo;Home&rsquo;.</p>
-<p>You may view all your borrowed eBook / Audiobook titles by selecting &lsquo;Account&rsquo;, then &lsquo;eBook Loans&rsquo;. </p>
+<p><strong>Step One:</strong> In the app, search for the titles you want.</p>
+<p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
+<p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
+<p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
+<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook and Audiobook Loans’.
+. </p>
 
 </div></div>
 
