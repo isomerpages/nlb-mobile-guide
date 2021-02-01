@@ -16,29 +16,34 @@ hero-subtitle: Your Personal Library, Anywhere, Anytime
 hero-banner: /images/backdrop-abstract.jpeg
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "Get top tips for..."
+hero-dropdown-text: Learn more about...
 
 # I want to dropdown
 i-want-to:
-  - title: Families and Children
-    url: /toptips/parent/
-  - title: Avid Readers
-    url: /toptips/reader/
-  - title: Learners
-    url: /toptips/learner/
-  - title: Seniors
-    url: /toptips/seniors/
+  - title: the NLB Mobile app
+    url: /get-started-with/nlb-mobile/
+  - title: eBooks and audiobooks
+    url: /get-started-with/Libby/
+  - title: eMagazines and eNewspapers
+    url: /get-started-with/PressReader/
+  - title: eLearning
+    url: /get-started-with/lynda/
+  - title: Library membership and myLibrary ID
+    url: /get-started-with/myLibrary/    
+  - title: Chinese eBooks
+    url: /get-started-with/hyread/
+
     
 # Info Sections
 info-sections:
-  - section-title: 
-    section-subtitle: Download Now
-    section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. 
-    section-more-button: Install NLB Mobile
-    section-more-button-url: https://go.nlb.gov.sg/nlbmobile
+  - section-title: NLB Mobile
+    section-subtitle: Learn More
+    section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. Scan the QR code to download the app.
+    section-more-button: Learn More
+    section-more-button-url: /get-started-with/nlb-mobile
     section-image-path: /images/QR_downloadapp.svg
     section-image-alt: NLB Mobile app screenshot
-  - section-title: 
+  - section-title: eBooks
     section-subtitle: Read on the Go 
     section-description: With an ever-expanding collection of eBooks and eAudiobooks, there’s always something to check out. 
     section-more-button: Learn How to Download eBooks and audiobooks
