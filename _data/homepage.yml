@@ -20,7 +20,7 @@ hero-dropdown-text: Learn more about...
 
 # I want to dropdown
 i-want-to:
-  - title: the NLB Mobile app
+  - title: The NLB Mobile App
     url: /get-started-with/nlb-mobile/
   - title: eBooks and audiobooks
     url: /get-started-with/Libby/
@@ -36,32 +36,25 @@ i-want-to:
     
 # Info Sections
 info-sections:
-  - section-title: NLB Mobile
-    section-subtitle: Learn More
+  - section-title: 
+    section-subtitle: The NLB Mobile App
     section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. Scan the QR code to download the app.
     section-more-button: Learn More
     section-more-button-url: /get-started-with/nlb-mobile
-    section-image-path: /images/QR_downloadapp.svg
-    section-image-alt: NLB Mobile app screenshot
-  - section-title: eBooks
+    section-image-path: /images/homepage-ebooks.jpg
+    section-image-alt: Image of person using NLB Mobile app
+  - section-title: 
     section-subtitle: Read on the Go 
     section-description: With an ever-expanding collection of eBooks and eAudiobooks, there’s always something to check out. 
     section-more-button: Learn How to Download eBooks and audiobooks
     section-more-button-url: /get-started-with/Libby/
     section-image-path: /images/Home_ReadOnTheGo_tut2_landscape.jpg
-    section-image-alt: curated eBooks 
-  - section-title: 
-    section-subtitle: Scan to Borrow
-    section-description: Use the in-app camera or scan your virtual library card to borrow books.
-    section-more-button: Learn How
-    section-more-button-url: /get-started-with/nlb-mobile/
-    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
-    section-image-alt: Borrow both ebooks and physical books with the in-app camera 
+    section-image-alt: Screenshot with curated categories of eBooks 
   - section-title: 
     section-subtitle: Read eNewspapers and eMagazines
     section-description: Choose from more than 7,000 current issues of international publications.
     section-more-button: Learn How
-    section-more-button-url: /get-started-with/PressReader/
+    section-more-button-url: /get-started-with/enews/
     section-image-path: /images/Home_news_landscape.png
     section-image-alt: Publications include The Washington Post, NewsWeek, Bloomsberg Businessweek
   - section-title: 
@@ -78,6 +71,13 @@ info-sections:
     section-more-button-url: /get-started-with/nlb-mobile/
     section-image-path: /images/Home_ManageAccts.png
     section-image-alt: Switch the profiles on the app with a few taps 
+  - section-title: 
+    section-subtitle: Scan to Borrow
+    section-description: Use the in-app camera or scan your virtual library card to borrow books.
+    section-more-button: Learn How
+    section-more-button-url: /get-started-with/nlb-mobile/
+    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
+    section-image-alt: Borrow both ebooks and physical books with the in-app camera 
 
 
 resources-title: Spotlight
