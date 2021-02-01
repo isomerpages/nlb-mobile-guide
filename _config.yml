@@ -4,6 +4,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Find out how the NLB Mobile app can be your personal library to let you read and learn anytime, anywhere. Get help on using NLB Mobile.
 url: "https://mobileapp.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Analytics
+google_analytics: UA-50449401-31
+
 # Build settings
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
