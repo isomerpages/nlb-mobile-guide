@@ -25,7 +25,7 @@ i-want-to:
   - title: eBooks and audiobooks
     url: /get-started-with/Libby/
   - title: eMagazines and eNewspapers
-    url: /get-started-with/PressReader/
+    url: /get-started-with/enews/
   - title: eLearning
     url: /get-started-with/lynda/
   - title: Library membership and myLibrary ID
@@ -41,15 +41,15 @@ info-sections:
     section-description: The NLB Mobile app is available on the Apple AppStore and Google Play Store. Scan the QR code to download the app.
     section-more-button: Learn More
     section-more-button-url: /get-started-with/nlb-mobile
-    section-image-path: /images/homepage-ebooks.jpg
-    section-image-alt: Image of person using NLB Mobile app
+    section-image-path: /images/QR_downloadapp.svg
+    section-image-alt: QR code to install the NLB Mobile app
   - section-title: 
     section-subtitle: Read on the Go 
     section-description: With an ever-expanding collection of eBooks and eAudiobooks, there’s always something to check out. 
     section-more-button: Learn How to Download eBooks and audiobooks
     section-more-button-url: /get-started-with/Libby/
-    section-image-path: /images/Home_ReadOnTheGo_tut2_landscape.jpg
-    section-image-alt: Screenshot with curated categories of eBooks 
+    section-image-path: /images/homepage-ebooks.jpg
+    section-image-alt: Screenshot of NLB Mobile app
   - section-title: 
     section-subtitle: Read eNewspapers and eMagazines
     section-description: Choose from more than 7,000 current issues of international publications.
@@ -69,14 +69,14 @@ info-sections:
     section-description: Manage all your family members’ accounts from one app. Check due dates, manage reservations and more!
     section-more-button: Download NLB Mobile Now
     section-more-button-url: /get-started-with/nlb-mobile/
-    section-image-path: /images/Home_ManageAccts.png
+    section-image-path: /images/ManageAccounts-Isomer.png
     section-image-alt: Switch the profiles on the app with a few taps 
   - section-title: 
     section-subtitle: Scan to Borrow
     section-description: Use the in-app camera or scan your virtual library card to borrow books.
     section-more-button: Learn How
     section-more-button-url: /get-started-with/nlb-mobile/
-    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
+    section-image-path: /images/ScantoBorrow_bookcover_iPhone11_lowres.png
     section-image-alt: Borrow both ebooks and physical books with the in-app camera 
 
 
