@@ -22,7 +22,7 @@ title: eLearning
 	<li> <b>Learn on the go:</b> Easy access through the NLB Mobile app</li>
 	<li> <b>Learn hands-on:</b> Test your new knowledge immediately with the exercises* and quizzes included</li>
 
-<p>The NLB Mobile app is available for download on the <a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8">Apple AppStore</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile">Google Play Store</a>.</p>    
+<p>The NLB Mobile app is available for download on the <a href="https://go.nlb.gov.sg/nlbmobile">Apple AppStore and Google Play Store</a>.</p>    
 
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
 
@@ -35,7 +35,11 @@ title: eLearning
         <label for="acc2">How do I start using LyndaLibrary from the NLB Mobile app? </label>
 
 <div class="acc-body">
-  <p>Sign in to NLB Mobile with your myLibrary ID and select the ‘eLearning’ icon on the Home page. You will be directed to LyndaLibrary. Do note that if you are a new LyndaLibrary user, you will be prompted to create a Lynda profile. 
+          <p>
+		First, please ensure that your app is up-to-date. <a href="https://go.nlb.gov.sg/nlbmobile">Tap here</a> to go to the NLB Mobile app store page and tap on “Update”.  If there is no “Update” button, it means your app is already up-to-date. 
+	</p>
+	<p>
+		Next, sign in to NLB Mobile with your myLibrary ID and select the ‘More’ icon on the Discover tab. Then, tap on the LyndaLibrary icon. Do note that if you are a new LyndaLibrary user, you will be prompted to create a Lynda profile. 
       </p>
 
 </div></div>
@@ -44,7 +48,7 @@ title: eLearning
 		<input type="radio" name="acc" id="acc1">
         <label for="acc1">How do I start using LyndaLibrary on my laptop or desktop? </label>
 <div class="acc-body">
-        <p>If you prefer to do your eLearning on a laptop or desktop, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
+	<p>If you prefer to do your eLearning on a laptop or desktop, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
 	<div class="vd">
      <video title="steps on using lynda" width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
   <source src="/images/lyndalibrary steps.mp4" type="video/mp4" />
