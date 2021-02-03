@@ -23,7 +23,7 @@ title: eLearning
 	<li> <b>Learn hands-on:</b> Test your new knowledge immediately with the exercises* and quizzes included</li>
 
 <p>The NLB Mobile app is available for download on the <a href="https://go.nlb.gov.sg/nlbmobile">Apple AppStore and Google Play Store</a>.</p>    
-<p><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:200px;height:auto;width:auto;">
+<p><a href="https://go.nlb.gov.sg/nlbmobile"><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:300px;height:auto;width:auto;"></a>
 	</p>
 
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
@@ -40,7 +40,7 @@ title: eLearning
           <p>
 		First, please ensure that your app is up-to-date. <a href="https://go.nlb.gov.sg/nlbmobile">Tap here with your mobile phone</a> or scan the QR code below to go to the NLB Mobile app store page.
 	</p>
-	<p><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:200px;height:auto;width:auto;">
+	<p><a href="https://go.nlb.gov.sg/nlbmobile"><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:300px;height:auto;width:auto;"></a>
 	</p>
 	<p>Tap on “Update”.  If there is no “Update” button, it means your app is already up-to-date. 
 	</p>
