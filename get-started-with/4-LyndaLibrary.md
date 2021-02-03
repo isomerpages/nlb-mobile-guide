@@ -23,6 +23,8 @@ title: eLearning
 	<li> <b>Learn hands-on:</b> Test your new knowledge immediately with the exercises* and quizzes included</li>
 
 <p>The NLB Mobile app is available for download on the <a href="https://go.nlb.gov.sg/nlbmobile">Apple AppStore and Google Play Store</a>.</p>    
+<p><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png">
+	</p>
 
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
 
@@ -36,7 +38,11 @@ title: eLearning
 
 <div class="acc-body">
           <p>
-		First, please ensure that your app is up-to-date. <a href="https://go.nlb.gov.sg/nlbmobile">Tap here</a> to go to the NLB Mobile app store page and tap on “Update”.  If there is no “Update” button, it means your app is already up-to-date. 
+		First, please ensure that your app is up-to-date. <a href="https://go.nlb.gov.sg/nlbmobile">Tap here with your mobile phone</a> or scan the QR code below to go to the NLB Mobile app store page.
+	</p>
+	<p><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png">
+	</p>
+	<p>Tap on “Update”.  If there is no “Update” button, it means your app is already up-to-date. 
 	</p>
 	<p>
 		Next, sign in to NLB Mobile with your myLibrary ID and select the ‘More’ icon on the Discover tab. Then, tap on the LyndaLibrary icon. Do note that if you are a new LyndaLibrary user, you will be prompted to create a Lynda profile. 
