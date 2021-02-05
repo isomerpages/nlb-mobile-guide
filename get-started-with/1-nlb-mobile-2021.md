@@ -16,11 +16,11 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 	 </div>
 
 <div id="update"><h3>How to update or download the app</h3></div>
-To update or download the NLB Mobile app, head to the Google Play Store or Apple App Store by either 
-<ol><li><a href="http://go.nlb.gov.sg/nlbmobile">tapping this link</a> if you are using a mobile device to view this page, or</li>
-	<li>Scan the QR code below with your mobile device</li></ol>
+<p>To update or download the NLB Mobile app, head to the Google Play Store or Apple App Store by  
+<ol><li><a href="http://go.nlb.gov.sg/nlbmobile">Tapping this link</a> if you are using a mobile device to view this page, or</li>
+	<li>Scanning the QR code below with your mobile device.</li></ol></p>
 <p>If you see an "Open" or "Installed" button in the Play Store or App Store, it means that you are already using the latest version of the NLB Mobile app.</p>
-<p>Now that you have the latest version, see the quick guide below on signing in for the first time. If you don't sign in, you can still browse the catalogue, but you won't be able to borrow libary materials nor access our digital resources with the app. </p>
+<p>Now that you have the latest version, see the quick pictorial guide below on signing in for the first time. If you don't sign in, you can still browse our catalogue, but you won't be able to borrow libary materials nor access our digital resources with the app. </p>
 <!--
 <table>
 	<tr>
