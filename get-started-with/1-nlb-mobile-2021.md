@@ -6,9 +6,21 @@ description: NLB Mobile app FAQ
 image: /images/NEW_NLB_mobile-app-icon_dark orange_final.png
 title: NLB Mobile app
 ---
-<h1>Quick Start Guide</h1>
-The NLB Mobile app is your personal library, anywhere, anytime. Enjoy the latest features in the upgraded app, released in Feb 2021. If you are using a mobile device to view this page, tap <a href="http://go.nlb.gov.sg/nlbmobile">here</a> to install or update the app. Otherwise, scan the QR code below with your mobile device to install or update the app. If you don't see any Update button, it means that you are already using the latest version. 
-<p>Here are a few quick tips to get you started. </p>
+<h2>A Library in Your Pocket</h2>
+The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
+<p>
+	<div class="bp-youtube">
+<!--NLB Mobile app features video - PLS YouTube-->
+ 	 <iframe title="NLB Mobile app features video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
+
+<div id="update"><h3>How to update or download the app</h3></div>
+To update or download the NLB Mobile app, head to the Google Play Store or Apple App Store by either 
+<ol><li><a href="http://go.nlb.gov.sg/nlbmobile">tapping this link</a> if you are using a mobile device to view this page, or</li>
+	<li>Scan the QR code below with your mobile device</li></ol>
+<p>If you see an "Open" or "Installed" button in the Play Store or App Store, it means that you are already using the latest version of the NLB Mobile app.</p>
+<p>Now that you have the latest version, see the quick guide below on signing in for the first time. If you don't sign in, you can still browse the catalogue, but you won't be able to borrow libary materials nor access our digital resources with the app. </p>
 <!--
 <table>
 	<tr>
@@ -79,7 +91,7 @@ Discover a world of learning with the NLB Mobile app, anywhere, anytime:
         <ul>
         <li>Search the library catalogue and share the title</li>
         <li>Locate nearby libraries based on your current location</li>
-        <li>View highlights of library happenings and book recommendations </li>
+        <li>View highlights of library happenings</li>
         </ul>
     </div>
     </div>
