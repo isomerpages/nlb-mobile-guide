@@ -105,7 +105,9 @@ title: Library Membership and myLibrary ID
 		<input type="radio" name="acc" id="acc6">
         <label for="acc6">Where can I sign up for library membership if I cannot use the online registration service? </label>
         <div class="acc-body">
-        <p>You can sign up for library membership at our libraries using a Reservation Locker at any library except library@chinatown. If you are a PR or foreigner studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee (for PRs) or the registration fee and annual fee (for foreigners). For foreigners, please also check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring.
+        <p>
+		You can sign up for library membership at our libraries using a Reservation Locker at any library except library@chinatown. If you are a PR or foreigner studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee (for PRs) or the registration fee and annual fee (for foreigners). For foreigners, please also check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring.
+		</p>
         </div>
         </div>
 
@@ -121,6 +123,7 @@ title: Library Membership and myLibrary ID
 	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($42.80). The registration fee ($10.50) will be waived. To sign up, please go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
 	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
           </div>
+	</div>
 
 <div>
 		<input type="radio" name="acc" id="acc9">
