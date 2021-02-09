@@ -121,7 +121,6 @@ title: Library Membership and myLibrary ID
 	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($42.80). The registration fee ($10.50) will be waived. To sign up, please go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
 	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
           </div>
-          </div>
 
 <div>
 		<input type="radio" name="acc" id="acc9">
