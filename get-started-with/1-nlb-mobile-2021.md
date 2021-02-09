@@ -47,18 +47,13 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 </tbody>
 </table>
 
-<h2>A library in your pocket</h2>
+<!--<h2>A library in your pocket</h2>
 <p>
 	<div class="bp-youtube">
-<!--NLB Mobile app features video - PLS YouTube-->
  	 <iframe title="NLB Mobile app features video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	 </iframe>
 	 </div>
 </p>
-<!--ul style="list-style:none inside none;">
-<li><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:20px; width:316px; height:96px;"></a></li>
-<li><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:20px; width:344px; height:96px;"></a></li>
-</ul>-->
 <p>Discover a world of learning with the NLB Mobile app, anywhere, anytime:</p>
 <ul>   
 	<li> Read eBooks or listen to audiobooks</li>
@@ -68,18 +63,12 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 	<li> Discover new digital resources and sign in to our websites easily with <a href="#qr">QR Login</a></li>
 	<li> Discover happenings at our libraries</li>
 	<li> Check the accounts of you and your family</li>
-
 </ul>
 <table style="border:0px; padding:0px; text-align:left; max-width:400px;">
 	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" alt="Button that links iOS users to the iTunes App Store" style="padding:10px; max-width:200px;height:auto;width:auto;"></a></td></tr>
 	<tr style="border:0px; padding:0px; text-align:left;"><td style="border:0px; padding:0px; text-align:left;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" alt="Button that links Android users to the Google Play Store" style="padding:10px; max-width:200px;height:auto;width:auto;"></a></td></tr>
 </table>
-
-<p><h3>How to Borrow eBooks using the NLB Mobile app</h3></p>
-<div class="bp-youtube">
-	<!--Borrow eBooks w/ NLB Mobile app video - PLS YouTube-->
-<iframe title="Borrow eBooks w/ NLB Mobile app video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+-->
 
 <p><h3>Get Started</h3></p>
 <div class="acc-kontainer">          
@@ -162,9 +151,14 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 <p><h3>Learn about the Features</h3></p>
 
 <p>
-	Learn about borrowing, returning and reserving books.
+	Learn about borrowing, returning and reserving books. For a step-by-step guide on borrowing eBooks, watch the video below.
 You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs), points and rewards</a>.
 	</p>
+	<p><h4>How to Borrow eBooks using the NLB Mobile app</h4></p>
+<div class="bp-youtube">
+<iframe title="Borrow eBooks w/ NLB Mobile app video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+	
 	<div>
 		<input type="radio" name="acc" id="acc7">
 		<label for="acc7">Can you tell me more about the app’s features?</label>
