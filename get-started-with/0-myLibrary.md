@@ -105,11 +105,7 @@ title: Library Membership and myLibrary ID
 		<input type="radio" name="acc" id="acc6">
         <label for="acc6">Where can I sign up for library membership if I cannot use the online registration service? </label>
         <div class="acc-body">
-        <p>You can sign up for library membership at our libraries:</p>
-        <ul>
-        <li>If you are a Singaporean/PR, go to a Borrowing Station at any library. If you are a PR studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee.</li>
-        <li>If you are a foreigner, go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring. If you study at an MOE school, remember to bring your School Smart Card to receive a waiver on both the registration fee and annual fee.</li>
-        </ul>
+        <p>You can sign up for library membership at our libraries using a Reservation Locker at any library except library@chinatown. If you are a PR or foreigner studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee (for PRs) or the registration fee and annual fee (for foreigners). For foreigners, please also check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring.
         </div>
         </div>
 
@@ -249,7 +245,6 @@ title: Library Membership and myLibrary ID
 	    <li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your SingPass or NRIC / FIN number</a>.</li>
 	    <li>Via the <strong>NLB Mobile app</strong> with your SingPass or NRIC / FIN number. 
 		    </li>
-	    <li>At the<strong> libraries&rsquo; borrowing stations</strong> with your original NRIC, Birth Certificate or any of the compatible cards listed in our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_registration">membership guide</a>.</li>
 	    </ul>
 	    </li>
 	    <li>To complete the process, key in your <strong>email address</strong> and your <strong>mobile number</strong>, and you will receive a one-time password (OTP) on your mobile phone.</li>
@@ -272,7 +267,17 @@ title: Library Membership and myLibrary ID
 		<input type="radio" name="acc" id="acc15">
         <label for="acc15">I can’t remember if I have a myLibrary ID. How can I check?</label>
         <div class="acc-body">
-        <p><strong>Online</strong></p>
+		<p>
+			Use this online service</a> and:
+	</p>
+        <ul>
+        <li>Sign in with your SingPass. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
+        <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
+        </ul>
+        </li>
+        </ul>
+<!--old ans
+<p><strong>Online</strong></p>
         <ul>
         <li><a href="https://account.nlb.gov.sg">Use this online service</a> and:
         <ul>
@@ -285,6 +290,7 @@ title: Library Membership and myLibrary ID
         <ul>
         <li>Go to any of the borrowing stations at the libraries with your NRIC. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
         </ul>
+-->
         </div>
         </div>
 
