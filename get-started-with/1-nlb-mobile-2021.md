@@ -20,7 +20,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 <ol><li><a href="http://go.nlb.gov.sg/nlbmobile">Tapping this link</a> if you are using a mobile device to view this page, or</li>
 	<li>Scanning the QR code below with your mobile device.</li></ol></p>
 <p>If you see an "Open" or "Installed" button in the Play Store or App Store, it means that you are already using the latest version of the NLB Mobile app.</p>
-<p>Now that you have the latest version, see the quick pictorial guide below on signing in for the first time. If you don't sign in, you can still browse our catalogue, but you're missing out on features such as borrowing libary materials and accessing digital resources with the app. </p>
+<p>Now that you have the latest version, see the quick pictorial guide below on signing in for the first time. If you don't sign in, you can still browse our catalogue, but you're missing out on features such as borrowing library materials and accessing digital resources with the app. </p>
 <!--
 <table>
 	<tr>
@@ -59,7 +59,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 <li><a href="https://itunes.apple.com/sg/app/nlb-mobile/id1147053983?mt=8"><img src="/images/download-apple-store.svg" style="padding:20px; width:316px; height:96px;"></a></li>
 <li><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/download-android-store.svg" style="padding:20px; width:344px; height:96px;"></a></li>
 </ul>-->
-Discover a world of learning with the NLB Mobile app, anywhere, anytime:
+<p>Discover a world of learning with the NLB Mobile app, anywhere, anytime:</p>
 <ul>   
 	<li> Read eBooks or listen to audiobooks</li>
 	<li> Read the latest issues of eMagazines and eNewspapers</li>
