@@ -154,12 +154,12 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 	Learn about borrowing, returning and reserving books. For a step-by-step guide on borrowing eBooks, watch the video below.
 You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs), points and rewards</a>.
 	</p>
-	<p><h4>How to Borrow eBooks using the NLB Mobile app</h4></p>
+	<p>
 <div class="bp-youtube">
 <iframe title="Borrow eBooks w/ NLB Mobile app video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-	
-	<div>
+</p>
+<div>
 		<input type="radio" name="acc" id="acc7">
 		<label for="acc7">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
