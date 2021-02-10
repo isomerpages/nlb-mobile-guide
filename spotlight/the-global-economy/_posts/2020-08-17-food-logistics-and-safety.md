@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 5 - Food Logistics and Safety
-date:   2020-08-17
+title: 'Learning Package 5 - Food Logistics and Safety'
+date: 2020-08-17T00:00:00.000Z
 permalink: /spotlight/the-global-economy/food-logistics-and-safety
-description: Food logistics or supply and food safety are two major components in ensuring food security. The processes involved in these areas are often taken for granted in our everyday lives. When a crisis strikes, everyone from “farm to fork” is affected, and any potential risk or disruption shines a spotlight on the entire food supply chain.
+description: 'Food logistics or supply and food safety are two major components in ensuring food security. The processes involved in these areas are often taken for granted in our everyday lives. When a crisis strikes, everyone from “farm to fork” is affected, and any potential risk or disruption shines a spotlight on the entire food supply chain.'
 image: /images/NL-b5-overview.jpg
+
 ---
+
 <img src="/images/NL-b5-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pexels.com/photo/apple-business-fruit-local-95425/" target="_blank">pexels.com/photo/apple-business-fruit-local-95425/</a></p>
 Food logistics or supply and food safety are two major components in ensuring food security. The processes involved in these areas are often taken for granted in our everyday lives. When a crisis strikes, everyone from “farm to fork” is affected, and any potential risk or disruption shines a spotlight on the entire food supply chain.
