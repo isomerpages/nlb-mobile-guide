@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 7 - The Only Constant Is Change
-date:   2020-05-11
+title: 'Learning Package 7 - The Only Constant Is Change'
+date: 2020-05-11T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-05-11-dealing-with-uncertainty
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
+description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
 image: /images/PL-7-Intro-Image.jpg
+
 ---
+
 <img src="/images/PL-7-Intro-Image.jpg">
 <p><q>The only constant is change.</q> - Heraclitus.</p>
 <p>When life throws you lemons, you make…. wait. What if they aren’t even lemons? Uncertainty is an inevitable part of life, so how can we deal with the metaphorical lemon (or any other fruit, really?) to reset ourselves and emerge a stronger person? Here are some resources on dealing with uncertainty in exceptional times.</p>
