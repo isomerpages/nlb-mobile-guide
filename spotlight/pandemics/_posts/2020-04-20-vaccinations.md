@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 7 - Vaccinations
-date:   2020-04-20
+title: 'Learning Package 7 - Vaccinations'
+date: 2020-04-20T00:00:00.000Z
 permalink: /spotlight/pandemics/vaccinations
-description: The world is now racing to find a vaccine for COVID-19. However, what are vaccines and how do they help in preventing disease? This guide provides a range of interesting resources about vaccinations.
+description: 'The world is now racing to find a vaccine for COVID-19. However, what are vaccines and how do they help in preventing disease? This guide provides a range of interesting resources about vaccinations.'
 image: /images/NL-7-vaccinations.jpg
+
 ---
+
 
 <img src="/images/NL-7-vaccinations.jpg">
 
