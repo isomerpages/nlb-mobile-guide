@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 3 - Supply Chains in a Globalised World
-date:   2020-07-20
+title: 'Learning Package 3 - Supply Chains in a Globalised World'
+date: 2020-07-20T00:00:00.000Z
 permalink: /spotlight/the-global-economy/supply-chains
-description: The COVID-19 pandemic has drastically changed the global economy, creating uncertainties in demand and disruptions in global supply chains. These have in turn not only restricted movements of people and materials but also caused delivery delays and shortages of goods and materials.
+description: 'The COVID-19 pandemic has drastically changed the global economy, creating uncertainties in demand and disruptions in global supply chains. These have in turn not only restricted movements of people and materials but also caused delivery delays and shortages of goods and materials.'
 image: /images/NL-b3-overview.jpg
+
 ---
+
 <img src="/images/NL-b3-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/logistics-truck-container-plane-3382013/" target="_blank">pixabay.com/photos/logistics-truck-container-plane-3382013/</a></p>
 The COVID-19 pandemic has drastically changed the global economy, creating uncertainties in demand and disruptions in global supply chains. These have in turn not only restricted movements of people and materials but also caused delivery delays and shortages of goods and materials. It has been a challenge to keep global supply chains of essential goods open. A stark reminder of this situation came from the World Health Organization (WHO) who warned that disruptions to the supply of personal protective equipment were putting lives at risk.[^1]
