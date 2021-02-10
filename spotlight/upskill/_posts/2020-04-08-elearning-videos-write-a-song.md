@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  eLearning Videos On Writing A Song
-date:   2020-04-08
+title: 'eLearning Videos On Writing A Song'
+date: 2020-04-08T00:00:00.000Z
 permalink: /spotlight/upskill/write-a-song
-description: Video tutorials to help you transform a concept in your head into a song
+description: 'Video tutorials to help you transform a concept in your head into a song'
 image: /images/upskill-4-lynda-songwriting.jpg
+
 ---
+
 <img src="/images/upskill-4-lynda-songwriting.jpg">
 <h3>Video Tutorials: Introduction to Songwriting</h3>
 <p>Got a concept in your head - like a lyrical phrase or a melody? Check out <a href="https://www.lynda.com/learning-paths/Audio-Music/write-a-song" target="_blank">this series of video tutorials</a> on songwriting tips and techniques. Pick out the topics you enjoy, sign in with your myLibrary ID and start the course!</p> 
