@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  eLearning Videos On Mastering Powerpoint
-date:   2020-04-13
+title: 'eLearning Videos On Mastering Powerpoint'
+date: 2020-04-13T00:00:00.000Z
 permalink: /spotlight/upskill/powerpoint
-description: Video tutorials on Microsoft Powerpoint
+description: 'Video tutorials on Microsoft Powerpoint'
 image: /images/upskill-5-lynda-powerpoint.jpg
+
 ---
+
 <img src="/images/upskill-5-lynda-powerpoint.jpg">
 <h3>Video Tutorials: Powerpoint Essential Training</h3>
 <p>Powerpoint is a commonly used tool for presentations and conducing classroom lessons, and it got more powerful with new AI tools in the Office 365 version. Check out these video tutorials on <a href="https://www.lynda.com/PowerPoint-tutorials/PowerPoint-Essential-Training-Office-365/740358-2.html" target="_blank">the essentials of Powerpoint for Office 365</a> and <a href="https://www.lynda.com/PowerPoint-tutorials/PowerPoint-Tips-Weekly/534644-2.html" target="_blank">weekly tips for those who want to go beyond the basics</a>.</p>
