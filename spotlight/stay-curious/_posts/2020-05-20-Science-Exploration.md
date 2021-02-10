@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  Stay Curious with Your Child - Science Exploration
-date:   2020-05-20
+title: 'Stay Curious with Your Child - Science Exploration'
+date: 2020-05-20T00:00:00.000Z
 permalink: /spotlight/stay-curious/2020-05-20-Science-Exploration
-description: Sink or float? Get creative in exploring the concept of density and find out!  
-
+description: 'Sink or float? Get creative in exploring the concept of density and find out!'
 image: /images/PL-1-header.jpg
+
 ---
+
 <img src="/images/PL-1-header.jpg">
 <h1 style="text-align:center">“When you’re curious, you find lots of interesting things to do.”<p><i>Walt Disney</i></p></h1>
 <h4>Science Exploration</h4>
