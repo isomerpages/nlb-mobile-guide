@@ -1,65 +1,22 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: Get Started 
-  url: /get-started-with/NLB-Mobile/
-  sub-links:
-  - title: Library Membership and myLibrary ID 
-    url: /get-started-with/myLibrary/
-  - title: NLB Mobile app
-    url: /get-started-with/nlb-mobile/
-  - title: eMagazines and eNewspapers
-    url: /get-started-with/PressReader/
-  - title: eBooks and Audiobooks
-    url: /get-started-with/Libby/
-  - title: HyRead Chinese eBooks and eMagazines
-    url: /get-started-with/hyread/
-  - title: eLearning
-    url: /get-started-with/lynda/
-
-- title: Top Tips
-  false_collection: true
-  url: /toptips/reader
-  sub-links:
-  - title: Families and Children
-    url: /toptips/parent/
-  - title: Avid Readers
-    url: /toptips/reader/
-  - title: Learn New Skills
-    url: /toptips/learner/
-  - title: Seniors
-    url: /toptips/seniors/
-    
-
-- title: Spotlight
-  url: /spotlight/
-  sub-links:
-  - title: All
-    url: /spotlight/
-  - title: Career in Focus
-    url: /spotlight/career-in-focus/
-  - title: The Global Economy
-    url: /spotlight/the-global-economy/
-  - title: SkillsFuture
-    url: /spotlight/skillsfuture-month-2020/
-  - title: A New Normal
-    url: /spotlight/a-new-normal/
-  - title: Pandemics
-    url: /spotlight/pandemics/
-  - title: Wellbeing
-    url: /spotlight/wellbeing/
-  - title: Upskill
-    url: /spotlight/upskill/
-  - title: Stay Curious with your Child
-    url: /spotlight/stay-curious/
-  
-
-- title: Contact Us
-  url: /contact-us/
-  
-- title: NLB Homepage
-  url: https://www.nlb.gov.sg/
-  
+logo: /images/NLB-Mobile-Logo-and-Name.png
+links:
+    - title: 'Get Started'
+      collection: get-started
+    - title: 'Top Tips'
+      false_collection: true
+      url: /toptips/reader
+      sublinks:
+            - title: 'Families and Children'
+              url: /toptips/parent/
+            - title: 'Avid Readers'
+              url: /toptips/reader/
+            - title: 'Learn New Skills'
+              url: /toptips/learner/
+            - title: Seniors
+              url: /toptips/seniors/
+    - title: Spotlight
+      resource_room: true
+    - title: 'Contact Us'
+      url: /contact-us/
+    - title: 'NLB Homepage'
+      url: 'https://www.nlb.gov.sg/'
