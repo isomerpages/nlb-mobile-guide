@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Get More Than 20,000 eBooks on Business Skills and Emerging Trends 
-date:   2020-03-26
+title: 'Get More Than 20,000 eBooks on Business Skills and Emerging Trends'
+date: 2020-03-26T00:00:00.000Z
 permalink: /spotlight/upskill/get-more-than-20-thousand-ebooks-on-business-skills-and-emerging-trends
 image: /images/business-library.jpg
-description: Keep up with management skills and emerging trends with our Digital Business Library. This library is a dedicated resource for professionals and executives, with more than 20,000 eBooks and audiobooks.
+description: 'Keep up with management skills and emerging trends with our Digital Business Library. This library is a dedicated resource for professionals and executives, with more than 20,000 eBooks and audiobooks.'
+
 ---
+
 
 <img src="/images/business-library.jpg"><br/>
 <h5><a href="https://libbyapp.com/library/nlb/guide/biz" target="_blank">Our Digital Business Library</a> is a dedicated resource for professionals and executives, with more than 20,000 eBooks and audiobooks. <a href="/get-started-with/libby/">Find out how to borrow eBooks and audiobooks.</a></h5>
