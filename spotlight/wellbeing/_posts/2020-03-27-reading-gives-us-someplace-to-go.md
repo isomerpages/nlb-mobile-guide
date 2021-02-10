@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 1 - Reading Gives Us Someplace to Go When We Have to Stay Where We Are
-date:   2020-03-27
+title: 'Learning Package 1 - Reading Gives Us Someplace to Go When We Have to Stay Where We Are'
+date: 2020-03-27T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-03-27-reading-gives-us-someplace-to-go
-description: What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. 
+description: 'What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace.'
 image: /images/PL-1-intro.jpg
+
 ---
+
 <img src="/images/PL-1-intro.jpg">
 <p><q>Reading gives us someplace to go when we have to stay where we are.</q> - Mason Cooley</p>
 <p>What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. Learn from the experiences and insights of others and get tips that we hope you can apply to your life.</p>
