@@ -1,45 +1,42 @@
-title: National Library Board - Guide to NLB Mobile app   
-title-abbreviated: NLB Mobile app 
-description: >- # this means to ignore newlines until "baseurl:"
-  Find out how the NLB Mobile app can be your personal library to let you read and learn anytime, anywhere. Get help on using NLB Mobile.
-url: "https://mobileapp.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Analytics
-google_analytics: UA-50449401-31
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'National Library Board - Guide to NLB Mobile app'
+description: 'Find out how the NLB Mobile app can be your personal library to let you read and learn anytime, anywhere. Get help on using NLB Mobile.'
+url: 'https://mobileapp.nlb.gov.sg'
+google_analytics: null
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 resources_name: spotlight
-paginate_path: "/spotlight/page:num"
+paginate_path: '/spotlight/page:num'
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: true
-homepage_resources: true
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  get-started-with:
-    output: true
-  toptips:
-    output: true
+    get-started-with:
+        output: true
+    toptips:
+        output: true
+favicon: /images/favicon-nlb.ico
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
