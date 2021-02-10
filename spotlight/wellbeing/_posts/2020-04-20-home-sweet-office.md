@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 4 - Home Sweet Office
-date: 2020-04-20
+title: 'Learning Package 4 - Home Sweet Office'
+date: 2020-04-20T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-04-20-home-sweet-office
-description: Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment. 
-image: /images/PL-4-Intro Image.jpg
+description: 'Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment.'
+image: '/images/PL-4-Intro Image.jpg'
+
 ---
+
 <img src="/images/PL-4-Intro Image.jpg">
 <p><q>The fact that tools like Skype and digital collaboration are letting people work better at a distance — that is a wonderful thing.</q> - Bill Gates, Cofounder of Microsoft.</p>
 <p>Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment.</p>
