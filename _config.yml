@@ -41,3 +41,20 @@ defaults:
           path: ""
       values:
           layout: page
+
+colors:
+    primary-color: '#6031b6'
+    secondary-color: '#22489B'
+    media-colors:
+        - title: media-color-one
+          color: '#005577' 
+        - title: media-color-two
+          color: '#0071BC'
+        - title: media-color-three
+          color: '#e21216'
+        - title: media-color-four
+          color: '#912b87'
+        - title: media-color-five
+          color: '#00838f'
+        - title: media-color-six
+          color: '#007722'
