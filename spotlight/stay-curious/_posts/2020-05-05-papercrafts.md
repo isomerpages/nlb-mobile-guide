@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Stay Curious with Your Child - Paper Crafts
-date:   2020-05-05
+title: 'Stay Curious with Your Child - Paper Crafts'
+date: 2020-05-05T00:00:00.000Z
 permalink: /spotlight/stay-curious/2020-05-05-papercrafts
-description: Looking for easy craft activities? Write thoughtful messages in these paper hearts to appreciate your family and friends. 
+description: 'Looking for easy craft activities? Write thoughtful messages in these paper hearts to appreciate your family and friends.'
 image: /images/PL-1-header.jpg
+
 ---
+
 <img src="/images/PL-1-header.jpg">
 <h1 style="text-align:center">"Curiosity is the wick in the candle of learning."<p><i>William Arthur Ward</i></p></h1>
 <h4>Paper Crafts</h4>
