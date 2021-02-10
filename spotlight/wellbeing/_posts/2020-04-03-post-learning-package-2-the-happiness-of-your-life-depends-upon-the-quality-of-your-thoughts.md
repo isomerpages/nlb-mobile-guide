@@ -1,7 +1,7 @@
 ---
-title: 'Learning Package 4 - The happiness of your life depends upon the quality of your thoughts'
-date: 2020-04-03T00:00:00.000Z
-permalink: /spotlight/wellbeing/your-new-filename-here
+title: 'Learning Package 2 - The Happiness of Your Life Depends Upon the Quality of Your Thoughts'
+date: 2020-04-06T00:00:00.000Z
+permalink: /spotlight/wellbeing/2020-04-06-The-happiness-of-your-life-depends-upon-the-quality-of-your-thoughts
 description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
 image: /images/PL-2-intro.jpg
 
@@ -10,39 +10,6 @@ image: /images/PL-2-intro.jpg
 <img src="/images/PL-2-intro.jpg">
 <p><q>The happiness of your life depends upon the quality of your thoughts.</q> - Marcus Aurelius, <i>Meditations</i>.</p>
 <p>How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
-
-<h4>Videos</h4>
-<h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
-Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, comes and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
-
-<h5>2. The Surprising Science of Happiness by Dan Gilbert</h5>
-We’re surprisingly more resilient than we think. Research shows that setbacks that we think would be traumatising tend to have less impact than we would expect, and that we are capable of being happy even when things don't go as planned. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/4q1dgn_C0AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">The Surprising Science of Happiness</a> (2012, April 27). TED. 
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg" target="_blank">Happiness Tips</a></strong><br/>
-From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg" target="_blank">Arianna Huffington's Thrive 01: Discovering Meditation and Sleep</a></strong><br/>
-Improve your wellbeing with two simple activities – meditation and sleep!</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
-
-
-<h4>Stories on the Internet</h4>
-
-<h5>1. <a href="https://bbc.com/news/uk-51936286">Coronavirus: How Families Can Cope with Self-Isolating Together</a><br/>
-<i>Francesca Gillett.</i> Published on bbc.com on 17 March 2020.</h5>
-<p>How do you cope with your children or other members of your family as you spend more and more time cooped up together at home? Learn how experts and different families are spending their time together in this article. </p>
-
-<h5>2. <a href="https://www.nylon.com.sg/2020/04/trendy-easy-to-make-recipes-to-try-at-home-including-d-i-y-bubble-tea">Trendy & Easy-To-Make Recipes to Try At Home, Including D-I-Y Bubble Tea</a><br/>
-<i>Shazrina Shamsudin.</i> Published on nylon.com.sg on April 22 2020.</h5>
-<p>Everyone now has the time to aspire to be a home chef and experiment with different recipes. Here are 6 that may just suit your tastebuds’ fancy should you have the ingredients at home already.</p>
 
 <h4>eBooks</h4>
 
@@ -70,7 +37,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=61788AD8
 
 <h5>Man's Search for Meaning</h5>
 <i>Viktor E. Frankl</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href=" https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007"><img src="/images/PL-2-man-search.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 150.195 FRA. Boston: Beacon Press, 2019.<br/>
 We’re currently living through trying times but this is not the first time the world is facing a global crisis. Holocaust survivor and psychiatrist Viktor Frankl argues that suffering cannot be avoided. However, we can choose how to cope with it, find meaning in it, and move forward with renewed purpose.  <i>Timely words indeed.</i><br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E514E54B-840C-4B66-A0E7-38BAFBF12007">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/E514E54B-840C-4B66-A0E7-38BAFBF12007">online</a> &#128187;.<br/>
@@ -110,4 +77,27 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F7E27631
     </td>
   </tr>
   </table>
+
+<h4>TED Talk Videos</h4>
+<h5>1. There's More to Life Than Being Happy by Emily Esfahani Smith</h5>
+Is there more to life than being happy? Happiness, as rightfully pointed out by writer Emily Esfahani Smith, comes and goes. But having meaning in life - serving something beyond yourself and developing the best within you - gives you something to hold onto in times of good and bad.  
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9Trdafp83U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=y9Trdafp83U" target="_blank">There's More to Life Than Being Happy</a> (2017, September 26). TED. 
+
+<h5>2. The Surprising Science of Happiness by Dan Gilbert</h5>
+We’re surprisingly more resilient than we think. Research shows that setbacks that we think would be traumatising tend to have less impact than we would expect, and that we are capable of being happy even when things don't go as planned. 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/4q1dgn_C0AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=4q1dgn_C0AU" target="_blank">The Surprising Science of Happiness</a> (2012, April 27). TED. 
+
+<h4>eLearning videos from Lynda Library</h4>
+<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
+
+<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg" target="_blank">Happiness Tips</a></strong><br/>
+From focusing on the good in life, to building gratitude, here are some practical methods to cultivating wellbeing and happiness that you can learn in 6 minutes!</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Happiness-Tips-Weekly/426767-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Happiness-Laptop.png" style="width:400px;"></a>
+
+<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg" target="_blank">Arianna Huffington's Thrive 01: Discovering Meditation and Sleep</a></strong><br/>
+Improve your wellbeing with two simple activities – meditation and sleep!</p>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Arianna-Huffingtons-Thrive-01-Discovering-Meditation-Sleep/604203-2.html?org=nlb.gov.sg"><img src="/images/PL-2-Lynda-Thrive-laptop.png" style="width:400px;"></a>
+
 
