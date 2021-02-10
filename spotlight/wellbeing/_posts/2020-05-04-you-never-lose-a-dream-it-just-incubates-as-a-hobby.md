@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 6 - You Never Lose a Dream, It Just Incubates as a Hobby
-date:   2020-05-04
+title: 'Learning Package 6 - You Never Lose a Dream, It Just Incubates as a Hobby'
+date: 2020-05-04T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-05-04-you-never-lose-a-dream-it-just-incubates-as-a-hobby
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
-image: /images/PL-6-Intro Image.jpg
+description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
+image: '/images/PL-6-Intro Image.jpg'
+
 ---
+
 <img src="/images/PL-6-Intro Image.jpg">
 <p><q>You never lose a dream, it just incubates as a hobby.</q> - Larry Page</p>
 <p>With most of us spending our days cooped up at home, it's never been more important to prioritise one’s wellbeing. Indulging in a hobby is a great way to improve one’s mental health, pass time meaningfully and reduce stress. Here are some ideas to inspire your creative streak.</p>
