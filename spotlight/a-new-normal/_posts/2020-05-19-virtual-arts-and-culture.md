@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 5 - Virtual Arts and Culture
-date:   2020-05-19
+title: 'Learning Package 5 - Virtual Arts and Culture'
+date: 2020-05-19T00:00:00.000Z
 permalink: /spotlight/a-new-normal/virtual-arts-and-culture
-description: Technological advances have enabled us to access art and culture from across the world in unprecedented ways. Today, we can visit a museum virtually in the middle of the night without crossing the thresholds of our doors.
+description: 'Technological advances have enabled us to access art and culture from across the world in unprecedented ways. Today, we can visit a museum virtually in the middle of the night without crossing the thresholds of our doors.'
 image: /images/NL-a5-overview.jpg
+
 ---
+
 <img src="/images/NL-a5-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/empty-hallway-3527701/" target="_blank">www.pexels.com/photo/empty-hallway-3527701/</a></p>
 
