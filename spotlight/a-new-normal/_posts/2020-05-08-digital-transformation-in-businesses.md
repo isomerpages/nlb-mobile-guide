@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 2 - Digital Transformation in Businesses
-date:   2020-05-08
+title: 'Learning Package 2 - Digital Transformation in Businesses'
+date: 2020-05-08T00:00:00.000Z
 permalink: /spotlight/a-new-normal/digital-transformation-in-businesses
-description: While businesses in recent years have understood the need for digital transformation, the COVID-19 pandemic has radically altered work and business models very quickly.
+description: 'While businesses in recent years have understood the need for digital transformation, the COVID-19 pandemic has radically altered work and business models very quickly.'
 image: /images/NL-a2-main.jpg
+
 ---
+
 <img src="/images/NL-a2-main.jpg">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/transformation-digital-visualization-3746922/" target="_blank">https://pixabay.com/photos/transformation-digital-visualization-3746922/</a></p>
