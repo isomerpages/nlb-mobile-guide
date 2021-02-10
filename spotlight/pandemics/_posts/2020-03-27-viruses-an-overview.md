@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 1 - Viruses - An Overview 
-date:   2020-03-27
+title: 'Learning Package 1 - Viruses - An Overview'
+date: 2020-03-27T00:00:00.000Z
 permalink: /spotlight/pandemics/viruses-an-overview
-description: Viruses are microscopic organisms that require a living host such as people, plants or animals to survive and reproduce. 
+description: 'Viruses are microscopic organisms that require a living host such as people, plants or animals to survive and reproduce.'
 image: /images/NL-1-overview.jpg
+
 ---
+
 <img src="/images/NL-1-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/" target="_blank">pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/</a></p>
 <p>Viruses are microscopic organisms that require a living host such as people, plants or animals to survive and reproduce. They have the ability to mutate as they multiply and these mutations may result in complications and challenging treatments for infected persons.</p>
