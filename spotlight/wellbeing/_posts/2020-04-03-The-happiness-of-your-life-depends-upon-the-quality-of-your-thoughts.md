@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 2 - The Happiness of Your Life Depends Upon the Quality of Your Thoughts
-date:   2020-04-06
+title: 'Learning Package 2 - The Happiness of Your Life Depends Upon the Quality of Your Thoughts'
+date: 2020-04-06T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-04-06-The-happiness-of-your-life-depends-upon-the-quality-of-your-thoughts
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
+description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
 image: /images/PL-2-intro.jpg
+
 ---
+
 <img src="/images/PL-2-intro.jpg">
 <p><q>The happiness of your life depends upon the quality of your thoughts.</q> - Marcus Aurelius, <i>Meditations</i>.</p>
 <p>How does one improve one’s wellbeing and attain happiness? How does one go beyond chasing the superficial, consumerist highs? Pick the brains of the thinkers and experts in this list for tips to achieve your best life.</p>
