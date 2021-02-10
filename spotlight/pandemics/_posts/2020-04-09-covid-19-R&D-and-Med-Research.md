@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 4 - COVID-19 - R&D and Medical Research 
-date:   2020-04-09
-permalink: /spotlight/pandemics/covid-19-r&d-and-medical-research
-description: COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. 
+title: 'Learning Package 4 - COVID-19 - R&D and Medical Research'
+date: 2020-04-09T00:00:00.000Z
+permalink: '/spotlight/pandemics/covid-19-r&d-and-medical-research'
+description: 'COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined.'
 image: /images/NL-4-COVID19.jpg
+
 ---
+
 <img src="/images/NL-4-COVID19.jpg">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/chemistry-crown-coronavirus-cure-4932607/" target="_blank">pixabay.com/photos/chemistry-crown-coronavirus-cure-4932607/</a></p>
