@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /get-started-with/nlb-mobile/
-breadcrumb: NLB Mobile app
-description: NLB Mobile app FAQ
+breadcrumb: 'NLB Mobile app'
+description: 'NLB Mobile app FAQ'
 image: /images/NLB-Mobile-logo-square.png
-title: NLB Mobile app
+title: 'NLB Mobile app'
+
 ---
+
 <h2>About the NLB Mobile app</h2>
 <p>
 	<div class="vd">
