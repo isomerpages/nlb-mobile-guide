@@ -1,7 +1,21 @@
 logo: /images/NLB-Mobile-Logo-and-Name.png
 links:
     - title: 'Get Started'
-      collection: get-started-with
+      false_collection: true
+      url: /get-started-with/NLB-Mobile/
+      sublinks:
+            - title: Library Membership and myLibrary ID 
+              url: /get-started-with/myLibrary/
+            - title: NLB Mobile app
+              url: /get-started-with/nlb-mobile/
+            - title: eMagazines and eNewspapers
+              url: /get-started-with/PressReader/
+            - title: eBooks and Audiobooks
+              url: /get-started-with/Libby/
+            - title: HyRead Chinese eBooks and eMagazines
+              url: /get-started-with/hyread/
+            - title: eLearning
+              url: /get-started-with/lynda/
     - title: 'Top Tips'
       false_collection: true
       url: /toptips/reader
