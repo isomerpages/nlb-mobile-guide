@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 6 - Major Pandemics from the 20th Century
-date:   2020-04-16
+title: 'Learning Package 6 - Major Pandemics from the 20th Century'
+date: 2020-04-16T00:00:00.000Z
 permalink: /spotlight/pandemics/major-pandemics-from-20th-century
-description: The World Health Organisation (WHO) defines a pandemic as the worldwide spread of a new disease, crossing international boundaries and affecting a large number of people.
+description: 'The World Health Organisation (WHO) defines a pandemic as the worldwide spread of a new disease, crossing international boundaries and affecting a large number of people.'
 image: /images/NL-6-major-pandemics.jpg
+
 ---
+
 <img src="/images/NL-6-major-pandemics.jpg">
 <p style="font-size:8pt;">Photo credit: <a href="https://unsplash.com/photos/uDMXH4l0XH8" target="_blank">Tedward Quinn</a> via Unsplash </p>
 
