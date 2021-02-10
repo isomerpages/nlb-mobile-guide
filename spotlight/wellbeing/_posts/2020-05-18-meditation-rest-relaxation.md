@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 8 - The Quieter You Become, the More You Can Hear
-date:   2020-05-18
+title: 'Learning Package 8 - The Quieter You Become, the More You Can Hear'
+date: 2020-05-18T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-05-18-The-quieter-you-become-the-more-you-can-hear
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace. 
+description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
 image: /images/PL-8-Intro-image.jpg
+
 ---
+
 <img src="/images/PL-8-Intro-image.jpg">
 <p><q>The quieter you become, the more you can hear.</q> - Ram Dass</p>
 <p>How do you stay calm and relaxed in a world that is seemingly not? Make yourself a cup of coffee, find a cosy corner in your house and get inspired by these recommended videos, articles and eReads.  
