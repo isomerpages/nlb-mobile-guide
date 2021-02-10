@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 2 - COVID-19 - An Overview
-date:   2020-04-02
+title: 'Learning Package 2 - COVID-19 - An Overview'
+date: 2020-04-02T00:00:00.000Z
 permalink: /spotlight/pandemics/covid-19-overview
-description: COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. 
+description: 'COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined.'
 image: /images/NL-2-overview.jpg
+
 ---
+
 <img src="/images/NL-2-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/" target="_blank">pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/</a></p>
 COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. In December 2019, the first human cases were identified in Wuhan, China.[^1] Within the first quarter of 2020, as of 30 March 2020, there have been more than 780,000 confirmed cases in over 170 countries and territories, according to the Johns Hopkins University Tracker. More than 37,000 fatalities have also been reported.[^2]
