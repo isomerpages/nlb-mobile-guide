@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 13 - Living on a Budget
-date:   2020-06-22
+title: 'Learning Package 13 - Living on a Budget'
+date: 2020-06-22T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-06-22-living-on-a-budget
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
+description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm'
 image: /images/PL-13-Intro-Image-Charts.jpg
+
 ---
+
 <img src="/images/PL-13-Intro-Image-Charts.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/background-board-chart-data-590041/" target="_blank">http://pexels.com/photo/background-board-chart-data-590041/</a></p>
 
