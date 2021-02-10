@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 9 - COVID-19 Vaccines
-date:   2021-01-29
+title: 'Learning Package 9 - COVID-19 Vaccines'
+date: 2021-01-29T00:00:00.000Z
 permalink: /spotlight/pandemics/covid-19-vaccines
-description: Less than a year after the outbreak, several successful trials on potential COVID-19 vaccine candidates have already taken place.
+description: 'Less than a year after the outbreak, several successful trials on potential COVID-19 vaccine candidates have already taken place.'
 image: /images/NL-9-covid-19-vaccines.jpg
+
 ---
+
 <img src="/images/NL-9-covid-19-vaccines.jpg">
 
 <p style="font-size:8pt;">Photo credit: <a href="https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/" target="_blank">https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/</a></p>
