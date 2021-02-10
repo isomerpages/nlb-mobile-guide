@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /get-started-with/myLibrary/
-breadcrumb: Library Membership and myLibrary ID
-title: Library Membership and myLibrary ID
+breadcrumb: 'Library Membership and myLibrary ID'
+title: 'Library Membership and myLibrary ID'
+
 ---
+
 <h2> A user ID that lets you borrow ebooks, access digital resources, check library accounts and more! </h2>
 <p>Forgot your ID or password? <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
 <p>Not yet a library member? Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
