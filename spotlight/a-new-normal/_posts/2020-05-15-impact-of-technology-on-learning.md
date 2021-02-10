@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 4 - Impact of Technology on Learning
-date:   2020-05-15
+title: 'Learning Package 4 - Impact of Technology on Learning'
+date: 2020-05-15T00:00:00.000Z
 permalink: /spotlight/a-new-normal/impact-of-technology-on-learning
-description: The COVID-19 pandemic has radically shifted the learning experience on an unprecedented scale.
+description: 'The COVID-19 pandemic has radically shifted the learning experience on an unprecedented scale.'
 image: /images/NL-a4-main.jpg
+
 ---
+
 <img src="/images/NL-a4-main.jpg">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://unsplash.com/photos/2FPjlAyMQTA" target="_blank">https://unsplash.com/photos/2FPjlAyMQTA</a></p>
