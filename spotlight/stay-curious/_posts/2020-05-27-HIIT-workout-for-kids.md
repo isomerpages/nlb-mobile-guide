@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Stay Curious with Your Child - High-Intensity Interval Training (HIIT) Workout for Kids
-date:   2020-05-27
+title: 'Stay Curious with Your Child - High-Intensity Interval Training (HIIT) Workout for Kids'
+date: 2020-05-27T00:00:00.000Z
 permalink: /spotlight/stay-curious/2020-05-27-HIIT-workout-for-kids
-description: Get the whole family moving with this 8-minute HIIT workout. Have fun sweating it out!
+description: 'Get the whole family moving with this 8-minute HIIT workout. Have fun sweating it out!'
 image: /images/PL-1-header.jpg
+
 ---
+
 <img src="/images/PL-1-header.jpg">
 <h1 style="text-align:center">“Exercise is the single most powerful tool you have to optimise your brain function.”<p><i>John Ratey</i></p></h1>
 <h4>High-Intensity Interval Training (HIIT) Workout for Kids</h4>
