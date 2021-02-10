@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /get-started-with/lynda/
 breadcrumb: eLearning
-description: How to Access Complimentary eLearning Courses using NLB Mobile
+description: 'How to Access Complimentary eLearning Courses using NLB Mobile'
 image: /images/NLB-Mobile-logo-square.png
 title: eLearning
+
 ---
+
 <h2>Learn through bite-sized videos with LyndaLibrary, by LinkedIn</h2>
 
 <div class="bp-youtube">
