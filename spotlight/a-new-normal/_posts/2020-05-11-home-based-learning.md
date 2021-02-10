@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 3 - Home-based Learning
-date:   2020-05-11
+title: 'Learning Package 3 - Home-based Learning'
+date: 2020-05-11T00:00:00.000Z
 permalink: /spotlight/a-new-normal/home-based-learning
-description: In response to COVID-19, many schools across the globe have closed and transitioned to home-based learning (HBL), or distance learning, affecting over 90 percent of the world’s student population.
+description: 'In response to COVID-19, many schools across the globe have closed and transitioned to home-based learning (HBL), or distance learning, affecting over 90 percent of the world’s student population.'
 image: /images/NL-a3-overview.jpg
+
 ---
+
 <img src="/images/NL-a3-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/man-in-yellow-crew-neck-t-shirt-using-vr-headset-4144179/" target="_blank">www.pexels.com/photo/man-in-yellow-crew-neck-t-shirt-using-vr-headset-4144179/</a></p>
 In response to COVID-19, many schools across the globe have closed and transitioned to home-based learning (HBL), or distance learning, affecting over 90 percent of the world’s student population.[^1] 
