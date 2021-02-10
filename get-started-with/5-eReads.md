@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /get-started-with/ereads/
 breadcrumb: eReads
-description: How to Access eBooks and Audiobook using eReads service
+description: 'How to Access eBooks and Audiobook using eReads service'
 image: /images/NLB-Mobile-logo-square.png
 title: eReads
+
 ---
+
 <h2>About eReads</h2>
 
 <p></p>
