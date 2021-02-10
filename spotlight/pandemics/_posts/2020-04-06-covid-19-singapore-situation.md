@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 3 - COVID-19 - The Singapore Situation
-date:   2020-04-06
+title: 'Learning Package 3 - COVID-19 - The Singapore Situation'
+date: 2020-04-06T00:00:00.000Z
 permalink: /spotlight/pandemics/covid-19-singapore-situation
-description: In late 2019, Singapore’s medical practitioners took notice when reports of severe pneumonia cases in Wuhan, China emerged. Soon after, temperature screening at Changi Airport was implemented.
+description: 'In late 2019, Singapore’s medical practitioners took notice when reports of severe pneumonia cases in Wuhan, China emerged. Soon after, temperature screening at Changi Airport was implemented.'
 image: /images/NL-3-coronavirus.png
+
 ---
+
 <img src="/images/NL-3-coronavirus.png">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/" target="_blank">pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/</a></p>
 In late 2019, Singapore’s medical practitioners took notice when reports of severe pneumonia cases in Wuhan, China emerged. Soon after, temperature screening at Changi Airport was implemented.[^1] In addition, a multi-ministry taskforce co-chaired by Minister for Health Gan Kim Yong and Minister for National Development Lawrence Wong was formed on 23 January 2020 to “deal with the eventuality” of the virus spreading to Singapore.[^2]
