@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 2- Interconnected Economies
-date:   2020-07-06
+title: 'Learning Package 2- Interconnected Economies'
+date: 2020-07-06T00:00:00.000Z
 permalink: /spotlight/the-global-economy/interconnected-economies
-description: The COVID-19 pandemic has upended the global economy. With varying degrees of lockdowns imposed, both advanced and developing economies have been hit hard as economic activities ground to a halt and livelihoods are drastically affected.
+description: 'The COVID-19 pandemic has upended the global economy. With varying degrees of lockdowns imposed, both advanced and developing economies have been hit hard as economic activities ground to a halt and livelihoods are drastically affected.'
 image: /images/NL-b2-overview.jpg
+
 ---
+
 <img src="/images/NL-b2-overview.jpg">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/network-earth-block-chain-globe-3537401/" target="_blank">https://pixabay.com/illustrations/network-earth-block-chain-globe-3537401/</a></p>
