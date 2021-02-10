@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Making the Most of Your 24 Hours
-date:   2020-06-17
+title: 'Making the Most of Your 24 Hours'
+date: 2020-06-17T00:00:00.000Z
 permalink: /spotlight/upskill/productivity
-description: Video Courses on How to Maximise Productivity
+description: 'Video Courses on How to Maximise Productivity'
 image: /images/PL-4-Intro%20Image.jpg
+
 ---
+
 <img src="/images/PL-4-Intro%20Image.jpg">
 <p><h3>Video Courses on How to Maximise Productivity</h3></p>
 <p>You can&#39;t control how much work you get, but you can control how effectively you do it.&nbsp; Here&#39;s our pick of courses from LyndaLibrary that teach you how to get the most out of every work day.</p>
