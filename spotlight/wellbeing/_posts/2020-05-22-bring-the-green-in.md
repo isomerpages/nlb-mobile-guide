@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 9 - Bring the Green In
-date:   2020-05-22
+title: 'Learning Package 9 - Bring the Green In'
+date: 2020-05-22T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-05-22-bring-the-green-in
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm 
+description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm'
 image: /images/PL-9-Intro-Image.jpg
+
 ---
+
 <img src="/images/PL-9-Intro-Image.jpg">
 <p><q>The natural world is the greatest source of excitement.</q> - Sir David Attenborough.</p>
 <p>What are the personal and natural resources that we can harness so that nature becomes a bigger part of us? This article will show you the various natural aspirations we can work towards, and at the same time, help us reduce our carbon footprint.</p>
