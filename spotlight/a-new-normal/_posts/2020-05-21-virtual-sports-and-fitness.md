@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 6 - Virtual Sports and Fitness
-date:   2020-05-21
+title: 'Learning Package 6 - Virtual Sports and Fitness'
+date: 2020-05-21T00:00:00.000Z
 permalink: /spotlight/a-new-normal/virtual-sports-and-fitness
-description: The outbreak of the COVID-19 pandemic has disrupted the sports and fitness industry and severely impacted the staging of sporting events around the world.
+description: 'The outbreak of the COVID-19 pandemic has disrupted the sports and fitness industry and severely impacted the staging of sporting events around the world.'
 image: /images/NL-a6-main.jpg
+
 ---
+
 <img src="/images/NL-a6-main.jpg">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/dumbbells-training-fitness-gym-2465478/" target="_blank">https://pixabay.com/photos/dumbbells-training-fitness-gym-2465478/</a></p>
