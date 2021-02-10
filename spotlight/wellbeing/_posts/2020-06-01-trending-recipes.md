@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 10 - Trending Recipes
-date:   2020-06-01
+title: 'Learning Package 10 - Trending Recipes'
+date: 2020-06-01T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-06-01-trending-recipes
-description: What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm.  
+description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm.'
 image: /images/PL-10-banner-no-text-raw2.jpg
+
 ---
+
 <img src="/images/PL-10-banner-no-text-raw2.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/burger-and-vegetables-placed-on-brown-wood-surface-1565982/" target="_blank">https://www.pexels.com/photo/burger-and-vegetables-placed-on-brown-wood-surface-1565982/</a></p>
 <p><q>Eating and reading are two pleasures that combine admirably.</q> - C.S. Lewis.</p>
