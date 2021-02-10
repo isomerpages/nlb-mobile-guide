@@ -21,6 +21,7 @@
     url: /get-started-with/lynda/
 
 - title: Top Tips
+  false_collection: true
   url: /toptips/reader
   sub-links:
   - title: Families and Children
