@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /get-started-with/enews/
-breadcrumb: eMagazines and eNewspapers
-description: How to Read eMagazines and eNewspapers using NLB Mobile
+breadcrumb: 'eMagazines and eNewspapers'
+description: 'How to Read eMagazines and eNewspapers using NLB Mobile'
 image: /images/NLB-Mobile-logo-square.png
-title: eMagazines and eNewspapers
+title: 'eMagazines and eNewspapers'
+
 ---
+
 <h2>Thousands of digital newspapers and magazines await</h2>
 <p>We bring in daily local newspapers and international newspapers, as well as a variety of magazines. Find out about:
 	<ul>
