@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /get-started-with/hyread/
-breadcrumb: HyRead Chinese eBooks and eMagazines
-description: How to Read Chinese eBooks and eMagazines on HyRead
+breadcrumb: 'HyRead Chinese eBooks and eMagazines'
+description: 'How to Read Chinese eBooks and eMagazines on HyRead'
 image: /images/hyread_socmed.jpg
-title: HyRead Chinese eBooks and eMagazines
+title: 'HyRead Chinese eBooks and eMagazines'
+
 ---
+
 <h2>About HyRead</h2>
 <p>
 <ul>
