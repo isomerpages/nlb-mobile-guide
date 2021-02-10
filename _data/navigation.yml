@@ -1,7 +1,7 @@
 logo: /images/NLB-Mobile-Logo-and-Name.png
 links:
     - title: 'Get Started'
-      collection: get-started
+      collection: get-started-with
     - title: 'Top Tips'
       false_collection: true
       url: /toptips/reader
