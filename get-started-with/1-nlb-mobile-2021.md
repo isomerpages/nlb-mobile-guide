@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /get-started-with/nlb-mobile-2021/
-breadcrumb: NLB Mobile app
-description: NLB Mobile app FAQ
-image: /images/NEW_NLB_mobile-app-icon_dark orange_final.png
-title: NLB Mobile app
+breadcrumb: 'NLB Mobile app'
+description: 'NLB Mobile app FAQ'
+image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
+title: 'NLB Mobile app'
+
 ---
+
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
 <p>
