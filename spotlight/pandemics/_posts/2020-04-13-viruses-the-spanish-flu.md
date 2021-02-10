@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 5 - Viruses - The Spanish Flu
-date:   2020-04-13
+title: 'Learning Package 5 - Viruses - The Spanish Flu'
+date: 2020-04-13T00:00:00.000Z
 permalink: /spotlight/pandemics/viruses-the-spanish-flu
-description: The influenza pandemic from 1918 to 1919 is also known as the Spanish Flu, or La Grippe, although the first known case was reported at a military base in Kansas, United States on 11 March 1918.
+description: 'The influenza pandemic from 1918 to 1919 is also known as the Spanish Flu, or La Grippe, although the first known case was reported at a military base in Kansas, United States on 11 March 1918.'
 image: /images/NL-5-spanish-flu.jpg
+
 ---
+
 <img src="/images/NL-5-spanish-flu.jpg">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg" target="_blank">commons.wikimedia.org/wiki/File:USCampHospital45InfluenzaWard.jpg</a></p>
