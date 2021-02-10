@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 7 - Social Relationships
-date:   2020-05-26
+title: 'Learning Package 7 - Social Relationships'
+date: 2020-05-26T00:00:00.000Z
 permalink: /spotlight/a-new-normal/social-relationships
-description: Technological advances have enabled us to access art and culture from across the world in unprecedented ways. Today, we can visit a museum virtually in the middle of the night without crossing the thresholds of our doors.
+description: 'Technological advances have enabled us to access art and culture from across the world in unprecedented ways. Today, we can visit a museum virtually in the middle of the night without crossing the thresholds of our doors.'
 image: /images/NL-a7-overview.jpg
+
 ---
+
 <img src="/images/NL-a7-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/coronavirus-corona-quarantine-4939242/" target="_blank">pixabay.com/photos/coronavirus-corona-quarantine-4939242/</a></p>
 Human beings are inherently social creatures. Our emotional and physical wellbeing are affected by the strength of our varied relationships at home, work, school and play. Social connections affect our sense of self-esteem and mental wellbeing. Research has shown that strong, healthy relationships strengthen our immune systems, help us recover from diseases, and may even lengthen our lives.[^1]
