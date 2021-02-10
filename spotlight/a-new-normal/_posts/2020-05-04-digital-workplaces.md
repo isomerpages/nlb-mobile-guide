@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  Learning Package 1 - Digital Workplaces
-date:   2020-05-04
+title: 'Learning Package 1 - Digital Workplaces'
+date: 2020-05-04T00:00:00.000Z
 permalink: /spotlight/a-new-normal/digital-workplaces
-description: A 2019 report found that 48 percent of staff in the United States already worked from home at least once a week. In Singapore, employers have been gradually adopting telecommuting.
+description: 'A 2019 report found that 48 percent of staff in the United States already worked from home at least once a week. In Singapore, employers have been gradually adopting telecommuting.'
 image: /images/NL-a1-overview.jpg
+
 ---
+
 <img src="/images/NL-a1-overview.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/online-meeting-virtual-skype-zoom-5059828/" target="_blank">pixabay.com/photos/online-meeting-virtual-skype-zoom-5059828/</a></p>
 A 2019 report found that 48 percent of staff in the United States already worked from home at least once a week.[^1] In Singapore, employers have been gradually adopting telecommuting. From 2013 to 2018, the proportion of employers providing formal telecommuting arrangements grew from 5 to 8 percent, whereas between 17 to 18 percent of employers allowed ad-hoc tele-working when necessary.[^2]
