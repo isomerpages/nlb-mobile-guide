@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /get-started-with/PressReader/
-breadcrumb: eMagazines and eNewspapers
-description: How to Read eMagazines and eNewspapers using NLB Mobile
+breadcrumb: 'eMagazines and eNewspapers'
+description: 'How to Read eMagazines and eNewspapers using NLB Mobile'
 image: /images/NLB-Mobile-logo-square.png
-title: eMagazines and eNewspapers
+title: 'eMagazines and eNewspapers'
+
 ---
+
 
 <p>
 <div class="FAQ-section" id="sph">
