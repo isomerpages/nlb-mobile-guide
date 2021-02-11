@@ -271,13 +271,11 @@ title: 'Library Membership and myLibrary ID'
         <label for="acc15">I can’t remember if I have a myLibrary ID. How can I check?</label>
         <div class="acc-body">
 		<p>
-			Use this online service</a> and:
+			Use this <a href="https://account.nlb.gov.sg">online service</a> and:
 	</p>
         <ul>
         <li>Sign in with your SingPass. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
         <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your User ID if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-        </ul>
-        </li>
         </ul>
 <!--old ans
 <p><strong>Online</strong></p>
