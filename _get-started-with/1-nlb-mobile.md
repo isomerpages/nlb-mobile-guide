@@ -4,7 +4,6 @@ breadcrumb: 'NLB Mobile app'
 description: 'NLB Mobile app FAQ'
 image: /images/NLB-Mobile-logo-square.png
 title: 'NLB Mobile app'
-published: false
 
 ---
 
