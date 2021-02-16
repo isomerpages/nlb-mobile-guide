@@ -163,10 +163,9 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs), points and rewards</a>.
 	</p>
 	<p>
-
-	<div class="vd">
-     <video title="Video highlighting the features of the 2021 release of the NLB Mobile app" width="560px" height="315px" poster="/images/nlb-mobile-2021-video-thumbnail.png" controls>
-  <source src="/images/New_NLB_Mobile_App_20210209_720p.mp4" type="video/mp4" />
+<div class="vd">
+     <video title="Video highlighting the features of the 2021 release of the NLB Mobile app" width="560px" height="315px" poster="/images/read-ebooks-video-thumbnail.png" controls>
+  <source src="/images/Read-eBooks-video-20210201_1080p.mp4" type="video/mp4" />
 </video>
 	</div>
 
