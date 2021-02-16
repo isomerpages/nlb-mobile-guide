@@ -10,11 +10,18 @@ title: 'NLB Mobile app'
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
 <p>
-	<div class="bp-youtube">
+	<div class="vd">
+     <video title="Video highlighting the features of the 2021 release of the NLB Mobile app" width="560px" height="315px" poster="/images/nlb-mobile-2021-video-thumbnail.png" controls>
+  <source src="/images/New_NLB_Mobile_App_20210209_720p.mp4" type="video/mp4" />
+</video>
+	</div>
+
+	<!--div class="bp-youtube"-->
 <!--NLB Mobile app features video - PLS YouTube-->
- 	 <iframe title="NLB Mobile app features video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <!--iframe title="NLB Mobile app features video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	 </iframe>
 	 </div>
+	 -->
 <p></p>
 <div id="update"><h3>How to update or download the app</h3></div>
 <p>To update or download the NLB Mobile app, head to the Google Play Store or Apple App Store by  
@@ -156,10 +163,19 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs), points and rewards</a>.
 	</p>
 	<p>
-<div class="bp-youtube">
+
+	<div class="vd">
+     <video title="Video highlighting the features of the 2021 release of the NLB Mobile app" width="560px" height="315px" poster="/images/nlb-mobile-2021-video-thumbnail.png" controls>
+  <source src="/images/New_NLB_Mobile_App_20210209_720p.mp4" type="video/mp4" />
+</video>
+	</div>
+
+<!--div class="bp-youtube">
 <iframe title="Borrow eBooks w/ NLB Mobile app video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/qeuTl09dub8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </p>
+-->
+
 <div>
 		<input type="radio" name="acc" id="acc7">
 		<label for="acc7">Can you tell me more about the app’s features?</label>
@@ -168,9 +184,17 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 			
 <!--NLB Mobile app features video - PLS YouTube-->
 <p>
-	<div class="bp-youtube">
+		<div class="vd">
+     <video title="Video highlighting the features of the 2021 release of the NLB Mobile app" width="560px" height="315px" poster="/images/nlb-mobile-2021-video-thumbnail.png" controls>
+  <source src="/images/New_NLB_Mobile_App_20210209_720p.mp4" type="video/mp4" />
+</video>
+	</div>
+
+<!--	<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
+		</div> 
+-->
+
 </p>
 	
 		<h5>List of Features</h5>
