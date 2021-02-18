@@ -9,25 +9,14 @@ links:
             - title: NLB Mobile app
               url: /get-started-with/nlb-mobile/
             - title: eMagazines and eNewspapers
-              url: /get-started-with/PressReader/
+              url: /get-started-with/enews/
             - title: eBooks and Audiobooks
               url: /get-started-with/Libby/
             - title: HyRead Chinese eBooks and eMagazines
               url: /get-started-with/hyread/
             - title: eLearning
               url: /get-started-with/lynda/
-    - title: 'Top Tips'
-      false_collection: true
-      url: /toptips/reader
-      sublinks:
-            - title: 'Families and Children'
-              url: /toptips/parent/
-            - title: 'Avid Readers'
-              url: /toptips/reader/
-            - title: 'Learn New Skills'
-              url: /toptips/learner/
-            - title: Seniors
-              url: /toptips/seniors/
+             
     - title: Spotlight
       resource_room: true
     - title: 'Contact Us'
