@@ -6,10 +6,17 @@ image: /images/NLB-Mobile-logo-square.png
 title: 'eMagazines and eNewspapers'
 
 ---
-
-<h1>We've Moved!</h1>
-<p><a href="/get-started-with/enews/">Visit the latest FAQ page</a> for information on how to read eMagazines and eNewspapers using NLB Mobile. 
-</p>
+<table style="border-color: blue;" border="1" cellpadding="10">
+<tbody>
+<tr>
+<td>
+	<h1 style="text-align: center;">We've Moved!</h1>
+	<p><a href="/get-started-with/enews/">Visit the latest FAQ page</a> for information on how to read eMagazines and eNewspapers using NLB Mobile. 
+	</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <p>
 <div class="FAQ-section" id="sph">
