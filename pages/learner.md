@@ -55,7 +55,7 @@ title: 'Top Tips for Learners'
 <body>
 
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
-<p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
+<p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
 <p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
 <p>Find out more about <a href="/get-started-with/lynda/">LyndaLibrary</a>.</p>
 <h3>I want to learn but I can't seem to find the time to do it! Do you have tips for me?</h3>
