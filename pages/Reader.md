@@ -12,7 +12,7 @@ title: 'Top Tips for Avid Readers'
 
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
 <p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
-<p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
+<p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
 <p><h1>More Tips</h1></p>
 <div class="acc-kontainer">          
 	<div>
