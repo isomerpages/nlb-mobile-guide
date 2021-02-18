@@ -10,18 +10,12 @@ title: 'NLB Mobile app'
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
 <p>
-	<div class="vd">
-     <video title="Video highlighting the features of the 2021 release of the NLB Mobile app" width="560px" height="315px" poster="/images/nlb-mobile-2021-video-thumbnail.png" controls>
-  <source src="/images/New_NLB_Mobile_App_20210209_720p.mp4" type="video/mp4" />
-</video>
-	</div>
-
-	<!--div class="bp-youtube"-->
-<!--NLB Mobile app features video - PLS YouTube-->
- 	 <!--iframe title="NLB Mobile app features video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	<div class="bp-youtube">
+<NLB Mobile app features video 2021 - PLS YouTube>
+ 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TZCEyO0EecU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	 </iframe>
 	 </div>
-	 -->
+	 
 <p></p>
 <div id="update"><h3>How to update or download the app</h3></div>
 <p>To update or download the NLB Mobile app, head to the Google Play Store or Apple App Store by  
@@ -181,13 +175,13 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<div class="acc-body">
 			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
 
-<!--NLB Mobile app features video - PLS YouTube-->
+<!--NLB Mobile app features 2021 video - PLS YouTube-->
 <p>
-		<div class="vd">
-     <video title="Video highlighting the features of the 2021 release of the NLB Mobile app" width="560px" height="315px" poster="/images/nlb-mobile-2021-video-thumbnail.png" controls>
-  <source src="/images/New_NLB_Mobile_App_20210209_720p.mp4" type="video/mp4" />
-</video>
-	</div>
+	<div class="bp-youtube">
+<NLB Mobile app features video 2021 - PLS YouTube>
+ 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TZCEyO0EecU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
 
 <!--	<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
