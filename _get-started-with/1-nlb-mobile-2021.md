@@ -1,5 +1,5 @@
 ---
-permalink: /get-started-with/nlb-mobile-2021/
+permalink: /get-started-with/nlb-mobile/
 breadcrumb: 'NLB Mobile app'
 description: 'NLB Mobile app FAQ'
 image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
@@ -180,7 +180,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<label for="acc7">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
 			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
-			
+
 <!--NLB Mobile app features video - PLS YouTube-->
 <p>
 		<div class="vd">
@@ -379,7 +379,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		  <li>Learning Resources. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
 		  </li>
 	</ul>
-     
+​     
 
 </div></div>
 
@@ -412,7 +412,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
     </div>
     </div>
-     
+
 <div>
         <input type="radio" name="acc" id="acc22">
         <label for="acc22">Which websites support NLB QR Login?</label>
@@ -420,7 +420,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <p>You can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
     </div>
     </div>
-    
+
 <div>
         <input type="radio" name="acc" id="acc23">
         <label for="acc23">How do I use NLB Mobile's QR Login feature?</label>
@@ -459,7 +459,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
     </div>
     </div>    
         <div>
-		<input type="radio" name="acc" id="acc26">
+    	<input type="radio" name="acc" id="acc26">
         <label for="acc26">I have questions about Book Bugs.</label>
 
 <div class="acc-body">

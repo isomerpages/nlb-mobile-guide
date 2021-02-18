@@ -1,5 +1,5 @@
 ---
-permalink: /get-started-with/nlb-mobile/
+permalink: /get-started-with/nlb-mobile-2016/
 breadcrumb: 'NLB Mobile app'
 description: 'NLB Mobile app FAQ'
 image: /images/NLB-Mobile-logo-square.png
@@ -54,14 +54,14 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 		<label for="acc1">Can you tell me more about the app’s features?</label>
 		<div class="acc-body">
 			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
-			
+
 <!--NLB Mobile app features video - PLS YouTube-->
 <p>
 	<div class="bp-youtube">
 <iframe title="video on NLB Mobile app" width="560" height="315" src="https://www.youtube.com/embed/TSDtQBiJyrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 </p>
-	
+
 		<h5>List of Features</h5>
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 		<p><strong>Borrow and read / listen</strong></p>
@@ -191,7 +191,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
 
     </div>
     </div>
-     
+
 <div>
         <input type="radio" name="acc" id="acc100">
         <label for="acc100">Which websites support NLB QR Login?</label>
@@ -199,7 +199,7 @@ The NLB Mobile app is your personal library, anywhere, anytime:
         <p>Currently, you can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
     </div>
     </div>
-    
+
 <div>
         <input type="radio" name="acc" id="acc101">
         <label for="acc101">How do I use NLB Mobile's QR Login feature?</label>
