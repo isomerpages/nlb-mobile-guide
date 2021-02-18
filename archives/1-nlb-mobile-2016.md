@@ -3,8 +3,7 @@ permalink: /get-started-with/nlb-mobile-2016/
 breadcrumb: 'NLB Mobile app'
 description: 'NLB Mobile app FAQ'
 image: /images/NLB-Mobile-logo-square.png
-title: 'NLB Mobile app'Hide page from nav bar
-published: false
+title: 'NLB Mobile app'
 
 ---
 
