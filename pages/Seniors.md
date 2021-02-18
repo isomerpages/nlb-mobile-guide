@@ -9,7 +9,9 @@ title: 'Top Tips for Seniors'
 
 <h2>Quick Start Guide</h2>
 If you are new to NLB's digital collection (which include <a href="/get-started-with/pressreader/">eNewspapers</a>, <a href="/get-started-with/libby/">eBooks</a>, <a href="/get-started-with/lynda/">eLearning</a>), you're in the right place!
-<p>To start using any of NLB's digital services, you need a myLibrary ID. To find out if you need to create one, go to the <a href="https://account.nlb.gov.sg" target="_blank">myLibrary account page</a>. If you need to create one, <a href="/images/mylibrary_guide_TOYL.pdf" target="_blank"> this handy step-by-step PDF guide (1.2 MB)</a> has all the answers, in all 4 languages. For more questions on myLibrary ID, go to our <a href="/get-started-with/myLibrary/#mylibrary" target="_blank">myLibrary ID FAQ page</a>.</p>
+<p>To start using any of NLB's digital services, you need a myLibrary ID. To find out if you need to create one, go to the <a href="https://account.nlb.gov.sg" target="_blank">myLibrary account page</a>. 
+<!--If you need to create one, <a href="/images/mylibrary_guide_TOYL.pdf" target="_blank"> this handy step-by-step PDF guide (1.2 MB)</a> has all the answers, in all 4 languages.--> 
+For more questions on myLibrary ID, go to our <a href="/get-started-with/myLibrary/#mylibrary" target="_blank">myLibrary ID FAQ page</a>.</p>
 
 <h3>Read local newspapers from home</h3>
 <div class="vd">
