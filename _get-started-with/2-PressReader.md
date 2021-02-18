@@ -8,7 +8,7 @@ title: 'eMagazines and eNewspapers'
 ---
 
 <h1>We've Moved!</h1>
-<p><a href="/get-started-with/enews/">Visit the latest FAQ page</a>for information on how to read eMagazines and eNewspapers using NLB Mobile. 
+<p><a href="/get-started-with/enews/">Visit the latest FAQ page</a> for information on how to read eMagazines and eNewspapers using NLB Mobile. 
 </p>
 
 <p>
