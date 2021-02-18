@@ -7,6 +7,9 @@ title: 'eMagazines and eNewspapers'
 
 ---
 
+<h1>We've Moved!</h1>
+<p><a href="/get-started-with/enews/">Visit the latest FAQ page</a>for information on how to read eMagazines and eNewspapers using NLB Mobile. 
+</p>
 
 <p>
 <div class="FAQ-section" id="sph">
@@ -14,7 +17,7 @@ title: 'eMagazines and eNewspapers'
 	<div class="vd">
 <iframe title="read SPH enewspapers from home" width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-	
+
 <div class="acc-kontainer"><!--div for each button-->
 <div>
         <input type="radio" name="acc" id="sph1">
