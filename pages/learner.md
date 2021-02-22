@@ -1,11 +1,12 @@
 ---
-layout: simple-page
 permalink: /toptips/learner/
-breadcrumb: Learn New Skills
-description: Top Tips for Learning New Skills
+breadcrumb: 'Learn New Skills'
+description: 'Top Tips for Learning New Skills'
 image: /images/learners_socmed.png
-title: Top Tips for Learners
+title: 'Top Tips for Learners'
+
 ---
+
 <a href="/images/Learner_highres.png">![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)</a>
 <a href="/images/Learner_highres.png">Click to enlarge</a>
 
@@ -54,7 +55,7 @@ title: Top Tips for Learners
 <body>
 
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
-<p>Find out more about <a href="/get-started-with/PressReader/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
+<p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
 <p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
 <p>Find out more about <a href="/get-started-with/lynda/">LyndaLibrary</a>.</p>
 <h3>I want to learn but I can't seem to find the time to do it! Do you have tips for me?</h3>
