@@ -18,10 +18,12 @@ title: 'eMagazines and eNewspapers'
 
 <div class="FAQ-section" id="sph">
 <h3>How to Read SPH eNewspapers From Home</h3>
-	<div class="bp-youtube">
+	<!--
+<div class="bp-youtube">
 <iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+-->
+	
 <h4>Get started</h4>
 <div class="acc-kontainer"><!--div for each button-->
 
