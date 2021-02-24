@@ -16,11 +16,12 @@ title: 'eBooks and Audiobooks'
 </ul>
 
 <h3>Get Started</h3>
-<p>Using Libby is easy. Watch this video to find out how to sign in and borrow eBooks and audiobooks:</p> 
+<p>Using Libby is easy. 
+	<!--Watch this video to find out how to sign in and borrow eBooks and audiobooks:</p> 
 <div class="bp-youtube">
 <iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+-->
 <ul>
 	<li><a href="#reservation">Learn about the Features</a></li>
 	<li><a href="#ereader">NLB's eBooks - Compatibility with eReaders / apps</a></li>
