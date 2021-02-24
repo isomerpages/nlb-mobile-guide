@@ -10,7 +10,7 @@ title: eLearning
 <h2>Learn through bite-sized videos with LyndaLibrary, by LinkedIn</h2>
 
 <div class="bp-youtube">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	
 
