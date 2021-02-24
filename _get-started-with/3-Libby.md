@@ -16,10 +16,9 @@ title: 'eBooks and Audiobooks'
 </ul>
 
 <h3>Get Started</h3>
-<p>Using Libby is easy. 
-	<!--Watch this video to find out how to sign in and borrow eBooks and audiobooks:</p> 
+<p>Using Libby is easy. Watch this video to find out how to sign in and borrow eBooks and audiobooks:</p> 
 <div class="bp-youtube">
-<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 -->
 <ul>
@@ -119,7 +118,7 @@ Tap Renew Loan, then Renew. </p>
 		Just follow the steps in the video below. You can skip to 0:24 if you are already familiar with what Libby is. If you've borrowed eBooks from Libby before, the steps are the same. 
 		</p>
 		<div class="bp-youtube">
-			<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/wZsThcLY_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 			<p>
 				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">see the full list</a> of magazines available in Libby.
