@@ -20,7 +20,7 @@ title: 'eBooks and Audiobooks'
 <div class="bp-youtube">
 <iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
--->
+
 <ul>
 	<li><a href="#reservation">Learn about the Features</a></li>
 	<li><a href="#ereader">NLB's eBooks - Compatibility with eReaders / apps</a></li>
@@ -121,7 +121,7 @@ Tap Renew Loan, then Renew. </p>
 			<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 			<p>
-				If you can't find the magazines section in the Libby app, <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">see the full list</a> of magazines available in Libby.
+				<a href="https://libbyapp.com/library/nlb/curated-1174573/page-1" target="_blank" rel="noopener">See the full list</a> of magazines available in Libby.
 			</p>
 			<p>If you can't find the magazines you want in Libby, try <a href="/get-started-with/enews/" target="_blank" rel="noopener">PressReader (click here for the guide)</a>.
 			</p>
