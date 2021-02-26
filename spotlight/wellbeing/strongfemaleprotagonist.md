@@ -91,7 +91,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"><img src="/images/FR-1-The-girl-under-the-bed.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: Young Adult Lending Singapore 741.595957 CHU. Epigram Books, 2012.<br/> 
 Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spooky and thrilling tale about Jingli, who is Secondary One. She finds a ghost sleeping under her bed and they become friends. With another boy, Weizhong, who is also a medium, they set out to find out more about Xiaomei and why she appeared to Jingli.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"> Find the book at the libraries</a>. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659">Find the book at the libraries</a>. 
 
 <h5>Giant days. Volume 1, Not on the test edition, Fall semester</h5>
 <i>John Allison</i><br/>
@@ -105,14 +105,14 @@ Esther, Susan and Daisy meet at university and become fast friends. Read their o
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12123201"><img src="/images/FR-1-Persepolis-book-1.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5944 SAT -[ART]. Pantheon Books, 2008.<br/> 
 Persepolis, The story of a childhood, illustrates in comic form the author’s life through the ages six to fourteen in Tehran during the Islamic Revolution. With the turmoil in the larger society, her family’s love is much needed to get her through the days.<br/>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12123201"> Find the book at the libraries</a>. 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12123201">Find the book at the libraries</a>. 
 
 <h5>Persepolis 2</h5>
 <i>Marjane Satrapi</i><br/>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12445475"><img src="/images/FR-1-Persepolis-book-2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5944 SAT -[ART]. Random House, 2008.<br/> 
 The second graphic novel in Marjane Satrapi’s memoirs depicts her four years of high school in Vienna away from her family, followed by four years back in Iran growing into adulthood.<br/>
-https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12445475">Find the book at the libraries</a>. 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12445475">Find the book at the libraries</a>. 
 
 <h5>Lumberjanes. Beware the Kitten Holy. [Volume One]</h5>
 <i>Noelle Stevenson</i><br/>
