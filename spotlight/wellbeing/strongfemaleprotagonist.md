@@ -35,7 +35,7 @@ Find out which of the Marvel women characters inspire the female staff who work 
 Source: <a href=" https://www.youtube.com/embed/CEbAmLU05Ic" target="_blank"> Happy International Women's Day from the Women of Marvel!</a> (2018, March 9). Marvel Entertainment.
 
 
-<h4>eLearning videos from Lynda Library</h4>
+<h4>eLearning Videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href=" https://www.lynda.com/training/2012-SBIFF-Women-s-Panel-Women-in-the-Biz/96431-2.html?org=nlb.gov.sg" target="_blank">2012 Santa Barbara International Film Festival Women's Panel: Women in the Biz</a></strong><br/>
