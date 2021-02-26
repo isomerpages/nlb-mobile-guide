@@ -79,7 +79,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035
 
 <h5>Lumberjanes. Beware the Kitten Holy. [Volume One]</h5>
 <i>Noelle Stevenson</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/FR-1-lumberjanes.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201652089"><img src="/images/FR-1-lumberjanes.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 STE -[ART]. BOOM! Box, 2015.<br/> 
 Best pals Jo, April, Mal, Molly and Ripley intend to have a fantastic summer together at Miss Qiunzella Thiskwin Penniquiqul Thistle Crumpet’s Camp for Hardcore Lady Types. However they face a magical quest and an assortment of supernatural critters which get in their way of fun.<br/>
 Borrow the Book <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201652089">find the book at the libraries</a>. 
