@@ -31,7 +31,7 @@ Source: <a href="https://www.youtube.com/watch?v=6k8k4s4RwYY" target="_blank"> I
 
 <h5>2. Happy International Women's Day from the Women of Marvel!</h5>
 Find out which of the Marvel women characters inspire the female staff who work for Marvel Entertainment.  
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=CEbAmLU05Ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CEbAmLU05Ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Source: <a href=" https://www.youtube.com/embed/CEbAmLU05Ic" target="_blank"> Happy International Women's Day from the Women of Marvel!</a> (2018, March 9). Marvel Entertainment.
 
 
