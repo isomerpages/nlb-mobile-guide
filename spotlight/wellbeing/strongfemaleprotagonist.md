@@ -105,7 +105,7 @@ Borrow the Book <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=20394
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551"><img src="/images/FR-1-Persepolis-1-&-2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5944 SAT -[ART]. Random House, 2008.<br/> 
 his graphic memoir collects both Marjane Satrapi’s first book, Persepolis, The story of a childhood and her second book, The story of a return. Her life is illustrated in comic form with beautiful illustrations depicting her from ages six to fourteen in Tehran during the Islamic Revolution, the next four years of high school in Vienna followed by four years back in Iran growing into adulthood.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551">find the book at the libraries</a>. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551">Find the book at the libraries</a>. 
 
 <h5>Lumberjanes. Beware the Kitten Holy. [Volume One]</h5>
 <i>Noelle Stevenson</i><br/>
