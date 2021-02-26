@@ -111,7 +111,7 @@ Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spo
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E"><img src="/images/FR-1-Wonder-Woman.jpg" style="width:300px; text-align:left;"></a><br/>
 DC Comics, 2016.<br/> 
 The first of six issues of the critically acclaimed new Wonder Woman series are collected in this series. Wonder Woman finally learns who her father is after it being kept a secret from her. Why does Hera’s daughter, Strife want the truth revealed? Celebrated writer Brian Azzarello creates a new direction for one of DC's best-known heroes, with amazing art by Cliff Chiang and Tony Akins!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659">find the book at the libraries</a>.  
 
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
