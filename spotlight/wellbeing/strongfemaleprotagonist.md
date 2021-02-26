@@ -102,10 +102,10 @@ Borrow the Book <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=20394
 
 <h5>Persepolis</h5>
 <i>Marjane Satrapi</i><br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551"><img src="/images/FR-1-Persepolis-book-1" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 741.5944 SAT -[ART]. Pantheon Book, 2008.<br/> 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12123201"><img src="/images/FR-1-Persepolis-book-1.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 741.5944 SAT -[ART]. Pantheon Books, 2008.<br/> 
 Persepolis, The story of a childhood, illustrates in comic form the author’s life through the ages six to fourteen in Tehran during the Islamic Revolution. With the turmoil in the larger society, her family’s love is much needed to get her through the days.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551"> Find the book at the libraries</a>. 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12123201"> Find the book at the libraries</a>. 
 
 <h5>Persepolis 2</h5>
 <i>Marjane Satrapi</i><br/>
