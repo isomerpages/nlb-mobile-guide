@@ -58,7 +58,7 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 
 <h5>Strong Female Protagonist (2014), Book One</h5>
 <i> Brennan Lee Mulligan, Molly Ostertag</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/FR-1-strong-female-protagonist-bk-1.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467"><img src="/images/FR-1-strong-female-protagonist-bk-1.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 MUL -[CMX]. IDW Publishing, 2019.<br/> 
 Alison Green used to be one of the most powerful superheroes around, fighting crime with other teenagers under the alter ego Mega Girl. Now a college student, she is trying to find ways to help the world while still getting to class on time.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>. 
