@@ -90,7 +90,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE
 <i>Dave Chua, Ng Xiao Yan</i><br/>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"><img src="/images/FR-1-The-girl-under-the-bed.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: Young Adult Lending Singapore 741.595957 CHU. Epigram Books, 2012.<br/> 
-Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spooky and thrilling tale about Jingli, who is Secondary One. She finds a ghost sleeping under her bed and they become friends. With another boy, Weizhong, who is also a medium, they set out to find out more about Xiaomei and why she appeared to Jingli.<br/>
+Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spooky and thrilling tale about Jingli, who is in Secondary One. She finds a ghost sleeping under her bed and they become friends. With another boy, Weizhong, who is also a medium, they set out to find out more about Xiaomei and why she appeared to Jingli.<br/>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659">Find the book at the libraries</a>. 
 
 <h5>Giant days. Volume 1, Not on the Test Edition, Fall Semester</h5>
