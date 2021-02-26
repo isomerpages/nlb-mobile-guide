@@ -74,7 +74,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6
 <i>Walter Tevis</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F"><img src="/images/FR-1-the-queens-gambit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English TEV. Blackstone Publishing, 2018.<br/> 
-Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat.<br/>
+Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat!<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
