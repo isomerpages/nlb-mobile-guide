@@ -20,7 +20,7 @@ image: /images/FR-1-Intl-womens-day.jpg
 <p>Cultivate resilience to improve how you deal with discomfort and adversity. Find out how to enrich your life!</p>
 
 <h5>2. <a href=" https://www.penguinrandomhouse.com/the-read-down/15-female-literary-characters-were-crushing-on/">15 Female Literary Characters We’re Crushing On</a><br/>
-Published on Penguin Random House</h5>
+Published on Penguin Random House.</h5>
 <p>Well-loved female protagonists in fiction have characteristics and charms that make for a compelling read. Here are some stories which you may have encountered before.</p>
 
 <h4>Videos</h4>
