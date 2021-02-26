@@ -16,7 +16,7 @@ image: /images/FR-1-Intl-womens-day.jpg
 <h4>Articles</h4>
 
 <h5>1. <a href="https://experiencelife.com/article/the-5-best-ways-to-build-resiliency">The 5 Best Ways to Build Resiliency</a><br/>
-<i> Jessie Sholl</i> Published on experiencelife.com on 1 Oct 2020.</h5>
+<i> Jessie Sholl </i> Published on experiencelife.com on 1 Oct 2020.</h5>
 <p>Cultivate resilience to improve how you deal with discomfort and adversity. Find out how to enrich your life!</p>
 
 <h5>2. <a href=" https://www.penguinrandomhouse.com/the-read-down/15-female-literary-characters-were-crushing-on/">15 Female Literary Characters We’re Crushing On</a><br/>
