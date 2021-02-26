@@ -101,10 +101,10 @@ The comic is also available in two separate volumes at the libraries.
 
 <h5>The Girl Under the Bed</h5>
 <i>Dave Chua, Ng Xiao Yan</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/FR-1-The-girl-under-the-bed.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"><img src="/images/FR-1-The-girl-under-the-bed.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: Young Adult Lending Singapore 741.595957 CHU. Epigram Books, 2012.<br/> 
 Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spooky and thrilling tale about Jingli, who is Secondary One. She finds a ghost sleeping under her bed and they become friends. With another boy, Weizhong, who is also a medium, they set out to find out more about Xiaomei and why she appeared to Jingli.<br/>
-Borrow the Book or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659">find the book at the libraries</a>. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"> Find the book at the libraries</a>. 
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
 <i>Brian Azzarello, Cliff Chiang</i><br/>
