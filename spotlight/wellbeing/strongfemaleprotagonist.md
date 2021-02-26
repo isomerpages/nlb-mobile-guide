@@ -98,7 +98,7 @@ Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spo
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089"><img src="/images/FR-1-giant-days-autumn.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 ALL -[CMX]. Boom! Studios, 2017.<br/> 
 Esther, Susan and Daisy meet at university and become fast friends. Read their often humorous adventures as they navigate their time at university. <br/>
-Borrow the Book <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089">find the book at the libraries</a>. 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089">Find the book at the libraries</a>. 
 
 <h5>Persepolis</h5>
 <i>Marjane Satrapi</i><br/>
