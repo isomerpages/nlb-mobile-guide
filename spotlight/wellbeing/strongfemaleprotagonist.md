@@ -75,36 +75,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F"><img src="/images/FR-1-the-queens-gambit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English TEV. Blackstone Publishing, 2018.<br/> 
 Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>. 
-
-<h5>Lumberjanes. Beware the Kitten Holy. [Volume One]</h5>
-<i>Noelle Stevenson</i><br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201652089"><img src="/images/FR-1-lumberjanes.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 741.5973 STE -[ART]. BOOM! Box, 2015.<br/> 
-Best pals Jo, April, Mal, Molly and Ripley intend to have a fantastic summer together at Miss Qiunzella Thiskwin Penniquiqul Thistle Crumpet’s Camp for Hardcore Lady Types. However they face a magical quest and an assortment of supernatural critters which get in their way of fun.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201652089">Find the book at the libraries</a>. 
-
-<h5>Giant days. Volume 1, Not on the test edition, Fall semester</h5>
-<i>John Allison</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ea298ace-b4a4-4177-97fe-71d9924a07f6"><img src="/images/FR-1-giant-days-autumn.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 741.5973 ALL -[CMX]. Boom! Studios, 2017.<br/> 
-Esther, Susan and Daisy meet at university and become fast friends. Read their often humorous adventures as they navigate their time at university. <br/>
-Borrow the Book <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089">find the book at the libraries</a>. 
-
-<h5>The Complete Persepolis</h5>
-<i>Marjane Satrapi</i><br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DC13CEB5-76AB-468F-8848-B5B4FB1B2B23"><img src="/images/FR-1-Persepolis-1-&-2.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: English 741.5944 SAT -[ART]. Random House, 2008.<br/> 
-his graphic memoir collects both Marjane Satrapi’s first book, Persepolis, The story of a childhood and her second book, The story of a return. Her life is illustrated in comic form with beautiful illustrations depicting her from ages six to fourteen in Tehran during the Islamic Revolution, the next four years of high school in Vienna followed by four years back in Iran growing into adulthood.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DC13CEB5-76AB-468F-8848-B5B4FB1B2B23">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/DC13CEB5-76AB-468F-8848-B5B4FB1B2B23">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551">find the book at the libraries</a>. 
-The comic is also available in two separate volumes at the libraries.
-
-<h5>The Girl Under the Bed</h5>
-<i>Dave Chua, Ng Xiao Yan</i><br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"><img src="/images/FR-1-The-girl-under-the-bed.jpg" style="width:300px; text-align:left;"></a><br/>
-Call Number: Young Adult Lending Singapore 741.595957 CHU. Epigram Books, 2012.<br/> 
-Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spooky and thrilling tale about Jingli, who is Secondary One. She finds a ghost sleeping under her bed and they become friends. With another boy, Weizhong, who is also a medium, they set out to find out more about Xiaomei and why she appeared to Jingli.<br/>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"> Find the book at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
 <i>Brian Azzarello, Cliff Chiang</i><br/>
@@ -113,6 +84,35 @@ DC Comics, 2016.<br/>
 The first of six issues of the critically acclaimed new Wonder Woman series are collected in this series. Wonder Woman finally learns who her father is after it being kept a secret from her. Why does Hera’s daughter, Strife want the truth revealed? Celebrated writer Brian Azzarello creates a new direction for one of DC's best-known heroes, with amazing art by Cliff Chiang and Tony Akins!<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659">find the book at the libraries</a>.  
 
+
+<h4>Books Available at the Libraries</h4>
+<h5>The Girl Under the Bed</h5>
+<i>Dave Chua, Ng Xiao Yan</i><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"><img src="/images/FR-1-The-girl-under-the-bed.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: Young Adult Lending Singapore 741.595957 CHU. Epigram Books, 2012.<br/> 
+Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spooky and thrilling tale about Jingli, who is Secondary One. She finds a ghost sleeping under her bed and they become friends. With another boy, Weizhong, who is also a medium, they set out to find out more about Xiaomei and why she appeared to Jingli.<br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659"> Find the book at the libraries</a>. 
+
+<h5>Giant days. Volume 1, Not on the test edition, Fall semester</h5>
+<i>John Allison</i><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089"><img src="/images/FR-1-giant-days-autumn.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 741.5973 ALL -[CMX]. Boom! Studios, 2017.<br/> 
+Esther, Susan and Daisy meet at university and become fast friends. Read their often humorous adventures as they navigate their time at university. <br/>
+Borrow the Book <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089">find the book at the libraries</a>. 
+
+<h5>Persepolis</h5>
+<i>Marjane Satrapi</i><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551"><img src="/images/FR-1-Persepolis-1-&-2.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 741.5944 SAT -[ART]. Random House, 2008.<br/> 
+his graphic memoir collects both Marjane Satrapi’s first book, Persepolis, The story of a childhood and her second book, The story of a return. Her life is illustrated in comic form with beautiful illustrations depicting her from ages six to fourteen in Tehran during the Islamic Revolution, the next four years of high school in Vienna followed by four years back in Iran growing into adulthood.<br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200398551">find the book at the libraries</a>. 
+
+<h5>Lumberjanes. Beware the Kitten Holy. [Volume One]</h5>
+<i>Noelle Stevenson</i><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201652089"><img src="/images/FR-1-lumberjanes.jpg" style="width:300px; text-align:left;"></a><br/>
+Call Number: English 741.5973 STE -[ART]. BOOM! Box, 2015.<br/> 
+Best pals Jo, April, Mal, Molly and Ripley intend to have a fantastic summer together at Miss Qiunzella Thiskwin Penniquiqul Thistle Crumpet’s Camp for Hardcore Lady Types. However they face a magical quest and an assortment of supernatural critters which get in their way of fun.<br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201652089">Find the book at the libraries</a>. 
 
 <table style="border-color: #4372d6;" border="1px" cellspacing="0" cellpadding="0">
   <tr>
