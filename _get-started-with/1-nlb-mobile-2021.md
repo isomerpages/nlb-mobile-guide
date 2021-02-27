@@ -44,7 +44,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 <td style="width: 50%; height: auto;"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><img src="images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
+<td style="width: 50%; height: auto;"><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
 <td style="width: 50%; height: auto;"><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
 
 </tr>
