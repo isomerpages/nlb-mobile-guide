@@ -10,7 +10,7 @@ image: /images/FR-1-Intl-womens-day.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/light-nature-sky-sunset-53364/
 " target="_blank">https://www.pexels.com/photo/light-nature-sky-sunset-53364</a></p>
 
-<p>In the spirit of International Women’s Day on March 8, here is a series of videos, articles, graphic novels and books which feature interesting female characters. The quality of resilience is common in all these characters, hence the first article which starts this learning package.</p>
+<p>In the spirit of International Women’s Day on March 8, here is a series of videos, articles, graphic novels and books, which feature interesting female characters. The quality of resilience is common in all these characters, hence the first article, which starts this learning package.</p>
 
 
 <h4>Articles</h4>
