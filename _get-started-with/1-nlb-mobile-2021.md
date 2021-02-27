@@ -6,7 +6,9 @@ image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
 title: 'NLB Mobile app'
 
 ---
-
+<table style="border:0; background-color: #ffe6e6;">
+	<tr><td>Some users on Android 11 have encountered problems with the app. We are working on this issue urgently. Thank you for your patience! </td></tr>
+	</table>
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
 <p>
