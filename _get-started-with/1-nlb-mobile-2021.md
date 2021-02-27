@@ -7,7 +7,7 @@ title: 'NLB Mobile app'
 
 ---
 <table style="border:0; background-color: #ffe6e6;">
-	<tr><td>Some users on Android 11 have encountered problems accessing PressReader. We are working on this issue urgently. In the meanwhile, you can <a href=https://eresources.nlb.gov.sg/main/browse/resource/1323" alt="PressReader at eresources.nlb.gov.sg">access PressReader from our website</a>. Thank you for your patience!</td></tr>
+	<tr><td>Some users on Android 11 have encountered problems accessing PressReader. We are working on this issue urgently. In the meanwhile, you can <a href="https://eresources.nlb.gov.sg/main/browse/resource/1323" alt="PressReader at eresources.nlb.gov.sg">access PressReader from our website</a>. Thank you for your patience!</td></tr>
 	</table>
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
