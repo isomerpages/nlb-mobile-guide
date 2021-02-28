@@ -82,7 +82,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E"><img src="/images/FR-1-Wonder-Woman.jpg" style="width:300px; text-align:left;"></a><br/>
 DC Comics, 2016.<br/> 
 The first of six issues of the critically acclaimed new Wonder Woman series are collected here. Wonder Woman finally learns who her father is after it being kept a secret from her. Why does Hera’s daughter, Strife want the truth revealed? Celebrated writer Brian Azzarello creates a new direction for one of DC's best-known heroes!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a>.  
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a>0&#128187;,</a>.  
 
 
 <h4>Books Available at the Libraries</h4>
