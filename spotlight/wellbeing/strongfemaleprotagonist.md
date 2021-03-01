@@ -10,7 +10,7 @@ image: /images/FR-1-Intl-womens-day.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/light-nature-sky-sunset-53364/
 " target="_blank">https://www.pexels.com/photo/light-nature-sky-sunset-53364</a></p>
 
-<p>In the spirit of International Women’s Day on March 8, here is a series of videos, articles, graphic novels and books which feature interesting female characters. The quality of resilience is common in all these characters, hence the first article which starts this learning package.</p>
+<p>In the spirit of International Women’s Day on March 8, here is a series of videos, articles, graphic novels and books, which feature interesting female characters. The quality of resilience is common in all these characters, hence the first article, which starts this learning package.</p>
 
 
 <h4>Articles</h4>
@@ -61,7 +61,7 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467"><img src="/images/FR-1-strong-female-protagonist-bk-1.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 MUL -[CMX]. IDW Publishing, 2019.<br/> 
 Alison Green used to be one of the most powerful superheroes around, fighting crime with other teenagers under the alter ego Mega Girl. Now a college student, she is trying to find ways to help the world while still getting to class on time.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/ C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>. 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>. 
 
 <h5>Strong Female Protagonist (2014), Book Two</h5>
 <i>Brennan Lee Mulligan, Molly Ostertag</i><br/>
@@ -75,15 +75,14 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F"><img src="/images/FR-1-the-queens-gambit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English TEV. Blackstone Publishing, 2018.<br/> 
 Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.
+Borrow the audioook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
 <i>Brian Azzarello, Cliff Chiang</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E"><img src="/images/FR-1-Wonder-Woman.jpg" style="width:300px; text-align:left;"></a><br/>
 DC Comics, 2016.<br/> 
 The first of six issues of the critically acclaimed new Wonder Woman series are collected here. Wonder Woman finally learns who her father is after it being kept a secret from her. Why does Hera’s daughter, Strife want the truth revealed? Celebrated writer Brian Azzarello creates a new direction for one of DC's best-known heroes!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a>&#128187</a>.  
-
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a> &#128187;.<br/>
 
 <h4>Books Available at the Libraries</h4>
 <h5>The Girl Under the Bed</h5>
@@ -102,7 +101,7 @@ Esther, Susan and Daisy meet at university and become fast friends. Read their o
 
 <h5>Persepolis</h5>
 <i>Marjane Satrapi</i><br/>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12123201"><img src="/images/FR-1-Persepolis-book-1.jpg" style="width:300px; text-align:left;"></a><br/>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123201"><img src="/images/FR-1-Persepolis-book-1.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5944 SAT -[ART]. Pantheon Books, 2003.<br/> 
 Persepolis, The story of a childhood, illustrates in comic form the author’s life from six to fourteen years old in Tehran during the Islamic Revolution. With the turmoil in the larger society, her family’s love is much needed to get her through the days.<br/>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123201">Find the book at the libraries</a>. 
