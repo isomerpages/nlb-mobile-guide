@@ -17,9 +17,12 @@ title: 'eBooks and Audiobooks'
 
 <h3>Get Started</h3>
 <p>Using Libby is easy. Watch this video to find out how to sign in and borrow eBooks and audiobooks:</p> 
+
 <div class="bp-youtube">
-<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<!--Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube-->
+ 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
 
 <ul>
 	<li><a href="#reservation">Learn about the Features</a></li>
@@ -27,7 +30,7 @@ title: 'eBooks and Audiobooks'
 	<li><a href="#troubleshooting">Troubleshooting</a></li>
 	<li><a href="#findmoreebooks">Find more eBooks</a></li>
 </ul>
-	
+
 <h4>Libby versus NLB Mobile</h4>
 <div class="acc-kontainer"><!--accordion--> 
 <div>
@@ -117,9 +120,11 @@ Tap Renew Loan, then Renew. </p>
 		<p>
 		Just follow the steps in the video below. You can skip to 0:24 if you are already familiar with what Libby is. If you've borrowed eBooks from Libby before, the steps are the same. 
 		</p>
-		<div class="bp-youtube">
-			<iframe title ="Introducing Libby, the reading companion app to NLB Mobile" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
+	<div class="bp-youtube">
+<!--Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube-->
+ 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
 			<p>
 				<a href="https://libbyapp.com/library/nlb/curated-1174573/page-1" target="_blank" rel="noopener">See the full list</a> of magazines available in Libby.
 			</p>
@@ -387,7 +392,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <div class="acc-body">
   <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
   </div></div>
-  
+
   <div>
 		<input type="radio" name="acc" id="acc24">
         <label for="acc24">Why am I seeing a message on the OverDrive app / website saying that my device will no longer be able to access OverDrive?</label>
@@ -437,7 +442,12 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<input type="radio" name="acc" id="acc1"><!--question 1-->
         <label for="acc1">How do I read the eBooks featured in the <a href="https://mobileapp.nlb.gov.sg/spotlight/">Spotlight section</a> of this website?</label>
         <div class="acc-body"><!--answer for question 1-->
-		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please read the "How to Download eBooks and Audiobooks with Libby" section on this page. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
+		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please watch the video below. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
+<div class="bp-youtube">
+<!--Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube-->
+ 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/FcD34wHdutc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
 </div><!--close div for acc-body-->
 	</div><!--accordion--> 
   <p>
