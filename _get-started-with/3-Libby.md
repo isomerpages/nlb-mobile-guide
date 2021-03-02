@@ -158,7 +158,7 @@ Tap Renew Loan, then Renew. </p>
 			    <li>Gramophone</li>
 		    </ol>
 		    <p>
-		    <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">See the full list</a> of magazines available in Libby. If Libby doesn't have the title you're looking for, try PressReader.<a href="/get-started-with/enews/" target="_blank" rel="noopener">Learn more about PressReader.</a>
+		    <a href="https://libbyapp.com/library/nlb/guide/magazines" target="_blank" rel="noopener">See the full list</a> of magazines available in Libby. If Libby doesn't have the title you're looking for, try PressReader.<a href="/get-started-with/enews/" target="_blank" rel="noopener">Learn more about PressReader.</a>
 		    </p>
 
 </div>
