@@ -61,11 +61,10 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 <i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
 
 <div class="bp-youtube">
-<!--Learn New Skills with Lynda and NLB Mobile - PLS YouTube channel-->
- <iframe title="Learn New Skills with LinkedIn Learning and NLB Mobile" width="560" height="315" src=https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<!--Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube-->
+ 	 <iframe title="Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	 </iframe>
 	 </div>
-
 
 <h4>eBooks</h4>
 <p>Check out these graphic novels and books that feature women and girls surviving school, camp and the struggles of their day to day lives. If you have only encountered female leads in romance and chick-lit novels, borrow these reads now and broaden your reading profile!</p>
@@ -97,7 +96,7 @@ In this second book, one-time superhero and current college student Alison Green
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F"><img src="/images/FR-1-the-queens-gambit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English TEV. Blackstone Publishing, 2018.<br/> 
 Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat!<br/>
-<a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">Borrow the audiobook - we currently have unlimited copies, so you can listen immediately</a>. 
+<a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">Borrow the audiobook</a> - we currently have unlimited copies, so you can listen immediately. 
 <p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.</p>
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
