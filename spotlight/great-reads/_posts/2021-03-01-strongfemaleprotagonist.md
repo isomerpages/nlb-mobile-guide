@@ -26,12 +26,24 @@ Published on Penguin Random House.</h5>
 <h4>Videos</h4>
 <h5>1. International Women's Day: Home Made Card Ideas</h5>
 Try your hand at making some International Women’s Day themed cards with the instructions provided. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/6k8k4s4RwYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="bp-youtube">
+<!--International Women's Day: Home Made Card Ideas - YouTube video-->
+ 	 <iframe title="International Women's Day: Home Made Card Ideas - YouTube video" width="560" height="315" src="https://www.youtube.com/embed/6k8k4s4RwYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
+
 Source: <a href="https://www.youtube.com/watch?v=6k8k4s4RwYY" target="_blank"> International Women's Day: Home Made Card Ideas </a> (2020, March 8). Ventuno Art. 
 
 <h5>2. Happy International Women's Day from the Women of Marvel!</h5>
 Find out which of the Marvel women characters inspire the female staff who work for Marvel Entertainment.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CEbAmLU05Ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="bp-youtube">
+<!--Happy International Women's Day from the Women of Marvel! - YouTube video-->
+ <iframe title="Happy International Women's Day from the Women of Marvel! - YouTube video" width="560" height="315" src="https://www.youtube.com/embed/CEbAmLU05Ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
+
 Source: <a href=" https://www.youtube.com/embed/CEbAmLU05Ic" target="_blank"> Happy International Women's Day from the Women of Marvel!</a> (2018, March 9). Marvel Entertainment.
 
 
@@ -47,9 +59,12 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 <a href="https://www.lynda.com/Leadership-Management-tutorials/Women-Work/625918-2.html?org=nlb.gov.sg"><img src="/images/FR-1-lynda-proven-strategies-for-women-at-work.jpg" style="width:400px;"></a>
 
 <i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+<div class="bp-youtube">
+<!--Learn New Skills with Lynda and NLB Mobile - PLS YouTube channel-->
+ <iframe title="Learn New Skills with LinkedIn Learning and NLB Mobile" width="560" height="315" src=https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
 
 
 <h4>eBooks</h4>
@@ -61,7 +76,12 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467"><img src="/images/FR-1-strong-female-protagonist-bk-1.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 MUL -[CMX]. IDW Publishing, 2019.<br/> 
 Alison Green used to be one of the most powerful superheroes around, fighting crime with other teenagers under the alter ego Mega Girl. Now a college student, she is trying to find ways to help the world while still getting to class on time.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>. 
+
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">Borrow the eBook</a>. 
+<p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>.</p>
+
+<!--hide app links until app has stabilised-->
+<!--Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>.-->
 
 <h5>Strong Female Protagonist (2014), Book Two</h5>
 <i>Brennan Lee Mulligan, Molly Ostertag</i><br/>
@@ -75,7 +95,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F"><img src="/images/FR-1-the-queens-gambit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English TEV. Blackstone Publishing, 2018.<br/> 
 Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat!<br/>
-Borrow the audioook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.
+Borrow the audiobook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the physical book at the libraries</a>.
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
 <i>Brian Azzarello, Cliff Chiang</i><br/>
