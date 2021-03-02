@@ -77,32 +77,35 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 Call Number: English 741.5973 MUL -[CMX]. IDW Publishing, 2019.<br/> 
 Alison Green used to be one of the most powerful superheroes around, fighting crime with other teenagers under the alter ego Mega Girl. Now a college student, she is trying to find ways to help the world while still getting to class on time.<br/>
 
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">Borrow the eBook</a>. 
+<a href="https://nlb.overdrive.com/media/C3F1731F-B9C7-4B3A-B0E1-5D2219648467">Borrow the eBook</a>. 
 <p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>.</p>
 
 <!--hide app links until app has stabilised-->
-<!--Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>.-->
+<!--Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>.-->
 
 <h5>Strong Female Protagonist (2014), Book Two</h5>
 <i>Brennan Lee Mulligan, Molly Ostertag</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6-93CD-4F0C-BC22-28F08ACC3C62"><img src="/images/FR-1-strong-female-protagonist-bk-2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 MUL -[CMX]. IDW Publishing, 2019.<br/>
 In this second book, one-time superhero and current college student Alison Green now faces trouble in the form of mysterious murders, ex-teammates with grudges, a cantankerous professor, and people who think they know the best way to be a hero.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6-93CD-4F0C-BC22-28F08ACC3C62">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/669E02B6-93CD-4F0C-BC22-28F08ACC3C62">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203972334">find the book at the libraries</a>. 
+
+<a href="https://nlb.overdrive.com/media/669E02B6-93CD-4F0C-BC22-28F08ACC3C62">Borrow the eBook</a>. 
+<p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203972334">find the book at the libraries</a>.</p>
 
 <h5>The Queen's Gambit</h5>
 <i>Walter Tevis</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F"><img src="/images/FR-1-the-queens-gambit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English TEV. Blackstone Publishing, 2018.<br/> 
 Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat!<br/>
-Borrow the audiobook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the physical book at the libraries</a>.
+<a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">Borrow the audiobook - we currently have unlimited copies, so you can listen immediately</a>. 
+<p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.</p>
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
 <i>Brian Azzarello, Cliff Chiang</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E"><img src="/images/FR-1-Wonder-Woman.jpg" style="width:300px; text-align:left;"></a><br/>
 DC Comics, 2016.<br/> 
 The first of six issues of the critically acclaimed new Wonder Woman series are collected here. Wonder Woman finally learns who her father is after it being kept a secret from her. Why does Hera’s daughter, Strife want the truth revealed? Celebrated writer Brian Azzarello creates a new direction for one of DC's best-known heroes!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a> &#128187;.<br/>
+<a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">Borrow the eBook</a>. 
 
 <h4>Books Available at the Libraries</h4>
 <h5>The Girl Under the Bed</h5>
