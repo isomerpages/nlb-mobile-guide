@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Fiction Reads 1- Strong Female Protagonist – International Women’s Day
-date:   2021-03-01
-permalink: /spotlight/wellbeing/strongfemaleprotagonist
+date:   2021-03-02
+permalink: /spotlight/great-reads/2021-03-02-strongfemaleprotagonist
 description: Fiction is full of exciting and meaningful stories. This series features books which tie in with different themes including some articles and videos thrown in for good measure. Get a head start on your reading and learning journey! Happy reading :)
 image: /images/FR-1-Intl-womens-day.jpg
 ---
@@ -26,12 +26,24 @@ Published on Penguin Random House.</h5>
 <h4>Videos</h4>
 <h5>1. International Women's Day: Home Made Card Ideas</h5>
 Try your hand at making some International Women’s Day themed cards with the instructions provided. 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/6k8k4s4RwYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="bp-youtube">
+<!--International Women's Day: Home Made Card Ideas - YouTube video-->
+ 	 <iframe title="International Women's Day: Home Made Card Ideas - YouTube video" width="560" height="315" src="https://www.youtube.com/embed/6k8k4s4RwYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
+
 Source: <a href="https://www.youtube.com/watch?v=6k8k4s4RwYY" target="_blank"> International Women's Day: Home Made Card Ideas </a> (2020, March 8). Ventuno Art. 
 
 <h5>2. Happy International Women's Day from the Women of Marvel!</h5>
 Find out which of the Marvel women characters inspire the female staff who work for Marvel Entertainment.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CEbAmLU05Ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="bp-youtube">
+<!--Happy International Women's Day from the Women of Marvel! - YouTube video-->
+ <iframe title="Happy International Women's Day from the Women of Marvel! - YouTube video" width="560" height="315" src="https://www.youtube.com/embed/CEbAmLU05Ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
+
 Source: <a href=" https://www.youtube.com/embed/CEbAmLU05Ic" target="_blank"> Happy International Women's Day from the Women of Marvel!</a> (2018, March 9). Marvel Entertainment.
 
 
@@ -47,10 +59,12 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 <a href="https://www.lynda.com/Leadership-Management-tutorials/Women-Work/625918-2.html?org=nlb.gov.sg"><img src="/images/FR-1-lynda-proven-strategies-for-women-at-work.jpg" style="width:400px;"></a>
 
 <i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
+<div class="bp-youtube">
+<!--Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube-->
+ 	 <iframe title="Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
 
 <h4>eBooks</h4>
 <p>Check out these graphic novels and books that feature women and girls surviving school, camp and the struggles of their day to day lives. If you have only encountered female leads in romance and chick-lit novels, borrow these reads now and broaden your reading profile!</p>
@@ -61,28 +75,36 @@ In this course, business consultants Deborah Kolb and Elizabeth Robillard help w
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467"><img src="/images/FR-1-strong-female-protagonist-bk-1.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 MUL -[CMX]. IDW Publishing, 2019.<br/> 
 Alison Green used to be one of the most powerful superheroes around, fighting crime with other teenagers under the alter ego Mega Girl. Now a college student, she is trying to find ways to help the world while still getting to class on time.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/ C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>. 
+
+<a href="https://nlb.overdrive.com/media/C3F1731F-B9C7-4B3A-B0E1-5D2219648467">Borrow the eBook</a>. 
+<p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>.</p>
+
+<!--hide app links until app has stabilised-->
+<!--Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C3F1731F-B9C7-4B3A-B0E1-5D2219648467">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/C3F1731F-B9C7-4B3A-B0E1-5D2219648467">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203981958">find the book at the libraries</a>.-->
 
 <h5>Strong Female Protagonist (2014), Book Two</h5>
 <i>Brennan Lee Mulligan, Molly Ostertag</i><br/>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6-93CD-4F0C-BC22-28F08ACC3C62"><img src="/images/FR-1-strong-female-protagonist-bk-2.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English 741.5973 MUL -[CMX]. IDW Publishing, 2019.<br/>
 In this second book, one-time superhero and current college student Alison Green now faces trouble in the form of mysterious murders, ex-teammates with grudges, a cantankerous professor, and people who think they know the best way to be a hero.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=669E02B6-93CD-4F0C-BC22-28F08ACC3C62">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/669E02B6-93CD-4F0C-BC22-28F08ACC3C62">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203972334">find the book at the libraries</a>. 
+
+<a href="https://nlb.overdrive.com/media/669E02B6-93CD-4F0C-BC22-28F08ACC3C62">Borrow the eBook</a>. 
+<p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203972334">find the book at the libraries</a>.</p>
 
 <h5>The Queen's Gambit</h5>
 <i>Walter Tevis</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F"><img src="/images/FR-1-the-queens-gambit.jpg" style="width:300px; text-align:left;"></a><br/>
 Call Number: English TEV. Blackstone Publishing, 2018.<br/> 
 Eight-year-old orphan, Beth Harmon learns to play chess from the janitor in the basement and discovers her remarkable talent for the game which eventually transforms her life in many ways. This thriller is sure to keep you on the edge of your seat!<br/>
-Borrow the audioook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B75F8035-ACE3-4D91-8E1C-1668D1EA291F">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">online</a> &#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.
+<a href="https://nlb.overdrive.com/media/B75F8035-ACE3-4D91-8E1C-1668D1EA291F">Borrow the audiobook</a> - we currently have unlimited copies, so you can listen immediately. 
+<p>If you prefer physical books, you can also <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205272183">find the book at the libraries</a>.</p>
 
 <h5>Wonder Woman (2011), Volume 1 Blood</h5>
 <i>Brian Azzarello, Cliff Chiang</i><br/>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E"><img src="/images/FR-1-Wonder-Woman.jpg" style="width:300px; text-align:left;"></a><br/>
 DC Comics, 2016.<br/> 
 The first of six issues of the critically acclaimed new Wonder Woman series are collected here. Wonder Woman finally learns who her father is after it being kept a secret from her. Why does Hera’s daughter, Strife want the truth revealed? Celebrated writer Brian Azzarello creates a new direction for one of DC's best-known heroes!<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">online</a> &#128187;.<br/>
+<a href="https://nlb.overdrive.com/media/C71833BE-EEFA-4E44-B92D-C6308ACD4B6E">Borrow the eBook</a>. 
 
 <h4>Books Available at the Libraries</h4>
 <h5>The Girl Under the Bed</h5>
