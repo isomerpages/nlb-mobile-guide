@@ -248,12 +248,12 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
   <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
-	<table>
+	<table border="0">
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" width="505px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
 	</tr>
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" width="505px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
 	</tr>
 		</table>
 	<p>
@@ -357,15 +357,14 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 	</p>
 <p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines</a>.</p>
 <p style="endnote">Note: eMagazines and eNewspapers do not contribute to the loan quota, which you can check from the NLB Mobile app by going to “Bookshelf”, then “eBook Loans”. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”.  You can borrow an unlimited number of eMagazines and eNewspapers.</p>
-	<table>
+	<table border="0">
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" width="505px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
 	</tr>
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" width="505px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
 	</tr>
 		</table>
-
 
 </div></div>
 </div><!--close FAQ-section-->
