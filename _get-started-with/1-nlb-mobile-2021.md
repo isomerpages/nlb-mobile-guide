@@ -247,7 +247,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc10">
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
-  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
+  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
 </div></div>
 
 <div>
