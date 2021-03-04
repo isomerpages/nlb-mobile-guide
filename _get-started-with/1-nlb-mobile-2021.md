@@ -253,6 +253,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" width="505px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
 		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" width="505px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
 	</tr>
+		<table>
 </div></div>
 
 <div>
@@ -264,7 +265,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
-	<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook and Audiobook Loans’.
+	<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 
 </div></div>
