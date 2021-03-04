@@ -7,7 +7,7 @@ title: 'NLB Mobile app'
 
 ---
 <table style="border:0; background-color: #e6ffe6;">
-	<tr><td>We have fixed the issue where some Android 11 users encountered problems accessing PressReader. If you are an Android user, please <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" alt="play store">update the app at the Google Play Store</a>. Thank you for your patience!</td></tr>
+	<tr><td><b>1 Mar 2021</b> - We have fixed the issue where some Android 11 users encountered problems accessing PressReader. If you are an Android user, please <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" alt="play store">update the app at the Google Play Store</a>. Thank you for your patience!</td></tr>
 	</table>
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
@@ -248,6 +248,11 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
   <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
+	<table>
+	<tr>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" width="505px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" width="505px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+	</tr>
 </div></div>
 
 <div>
