@@ -7,7 +7,7 @@ title: 'NLB Mobile app'
 
 ---
 <table style="border:0; background-color: #e6ffe6;">
-	<tr><td>We have fixed the issue where some Android 11 users encountered problems accessing PressReader. If you are an Android user, please <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" alt="play store">update the app at the Google Play Store</a>. Thank you for your patience!</td></tr>
+	<tr><td><b>1 Mar 2021</b> - We have fixed the issue where some Android 11 users encountered problems accessing PressReader. If you are an Android user, please <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" alt="play store">update the app at the Google Play Store</a>. Thank you for your patience!</td></tr>
 	</table>
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
@@ -247,7 +247,18 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc10">
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
-  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
+  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
+	<table border="0">
+	<tr>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+	</tr>
+	<tr>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+	</tr>
+		</table>
+	<p>
+		Note: eMagazines do not contribute to your eBooks loan quota. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”. You can borrow an unlimited number of eMagazines.
+	</p>
 </div></div>
 
 <div>
@@ -259,7 +270,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
-	<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook and Audiobook Loans’.
+	<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 
 </div></div>
@@ -272,7 +283,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<label for="acc12">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
 <div class="acc-body">
  <p>Here are the steps:</p>
-<p><b>Step One:</b> In the app, select the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook and Audiobook Loans&rsquo; and tap on the title you want to read or listen to. </p>
+<p><b>Step One:</b> In the app, select the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
 <p><b>Step Two:</b> You will see a &lsquo;Read in Browser &rsquo; option for eBooks or a &lsquo;Listen in Browser&rsquo; option for audiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi, and may incur charges from your telco.</em></p>
 <p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">&lsquo;Read in Libby&rsquo;</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
@@ -284,7 +295,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <div class="acc-body">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
-<p>Just go to the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook and Audiobook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return early&rsquo; under the title&rsquo;s cover image.</p>
+<p>Just go to the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
 
 </div></div>
 
@@ -312,8 +323,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc15">
         <label for="acc15">How do I cancel a reservation?</label>
 <div class="acc-body">
-	<p>If you wish to cancel a <b>physical item</b> reservation, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "Book and AV Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the "Cancel Item(s)" button.</p>
-	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "eBook and Audiobook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation".</p>
+	<p>If you wish to cancel a <b>physical item</b> reservation, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the "Cancel Item(s)" button.</p>
+	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "eBook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation". You could select "Suspend Reservation" instead if you still want the book, but not anytime soon. The app will allow others to borrow the book first for the duration you select - from 1 week to 90 days. After that period has passed, you will automatically re-join the queue at the same position or better. If, later on, you change your mind and want the book ASAP, you can go back to this menu and change the timeframe to "Immediately".</p>
 </div></div>
 
   <div>
@@ -324,7 +335,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details in an article</a> from our eBooks vendor, OverDrive.</p>
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
 			<p>To find books that are available right now, you can <a href="https://libbyapp.com/library/nlb">look in the "Available" categories</a> in the Libby website or app.</p>
-			<p>In addition, eMagazines like The Economist (Asia Edition), Readers' Digest, WIRED, HELLO!, and Home & Decor  are always available. Go to the <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1">Libby website or app</a> to see the full list of eMagazines and borrow them.</p>
+			<p>In addition, eMagazines like The Economist (Asia Edition), Readers' Digest, WIRED, HELLO!, and Home & Decor  are always available. Go to the <a href="https://libbyapp.com/library/nlb/guide/magazines">Libby website or app</a> to see the full list of eMagazines and borrow them.</p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
 			</div></div>
@@ -342,9 +353,18 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p>NLB Mobile lets you read over 7,000 current eNewspapers and eMagazines from local and international publishers.</p>
 <p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the ‘eMagazines & eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the hour is up, you can launch NLB Mobile and tap on the ‘eMagazines & eNewspapers’ icon to get sponsored access again. </p>
 <p>
-	We also have some eMagazine titles not found in PressReader, e.g. The Economist (Asia Edition). You can borrow this title directly from the <a href="https://libbyapp.com/library/nlb/everything/page-1/6030562">Libby website or app</a>.
+	We also have some eMagazine titles not found in PressReader, e.g. The Economist (Asia Edition). You can borrow this title directly from the <a href="https://libbyapp.com/library/nlb/guide/magazines">Libby website or app</a>.
 	</p>
 <p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines</a>.</p>
+<p style="endnote">Note: eMagazines and eNewspapers do not contribute to the loan quota, which you can check from the NLB Mobile app by going to “Bookshelf”, then “eBook Loans”. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”.  You can borrow an unlimited number of eMagazines and eNewspapers.</p>
+	<table border="0">
+	<tr>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+	</tr>
+	<tr>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+	</tr>
+		</table>
 
 </div></div>
 </div><!--close FAQ-section-->
