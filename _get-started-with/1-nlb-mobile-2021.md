@@ -251,6 +251,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 	<table>
 	<tr>
 		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" width="505px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+	</tr>
+	<tr>
 		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" width="505px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
 	</tr>
 		</table>
@@ -354,10 +356,12 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 	We also have some eMagazine titles not found in PressReader, e.g. The Economist (Asia Edition). You can borrow this title directly from the <a href="https://libbyapp.com/library/nlb/guide/magazines">Libby website or app</a>.
 	</p>
 <p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines</a>.</p>
-<p style="end-note">Note: eMagazines and eNewspapers do not contribute to the loan quota, which you can check from the NLB Mobile app by going to “Bookshelf”, then “eBook Loans”. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”.  You can borrow an unlimited number of eMagazines and eNewspapers.</p>
+<p style="endnote">Note: eMagazines and eNewspapers do not contribute to the loan quota, which you can check from the NLB Mobile app by going to “Bookshelf”, then “eBook Loans”. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”.  You can borrow an unlimited number of eMagazines and eNewspapers.</p>
 	<table>
 	<tr>
 		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" width="505px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+	</tr>
+	<tr>
 		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" width="505px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
 	</tr>
 		</table>
