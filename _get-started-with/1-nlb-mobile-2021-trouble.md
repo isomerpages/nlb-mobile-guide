@@ -4,8 +4,8 @@ breadcrumb: 'NLB Mobile app - Quick Guide'
 description: 'Answers to the most commonly-asked questions about the revamped NLB Mobile app (2021 release).'
 image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
 title: 'Quick Guide to the New NLB Mobile app'
-published: 'false'
 ---
+<p><h3>Visual Quick Start Guide</h3></p>
 
 <table style="width: auto;">
 <tbody>
@@ -20,6 +20,9 @@ published: 'false'
 </tbody>
 </table>
 
+<p><h3>Commonly Asked Questions</h3></p>
+
+<div class="acc-kontainer">         
 <div>
 		<input type="radio" name="acc" id="acc10">
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
