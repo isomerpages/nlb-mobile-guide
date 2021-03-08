@@ -7,8 +7,9 @@ title: 'NLB Mobile app'
 
 ---
 <table style="border:0; background-color: #e6ffe6;">
-	<tr><td><b>1 Mar 2021</b> - We have fixed the issue where some Android 11 users encountered problems accessing PressReader. If you are an Android user, please <a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" alt="play store">update the app at the Google Play Store</a>. Thank you for your patience!</td></tr>
+	<tr><td><b>Just updated the app?</b> <a href="/get-started-with/nlb-mobile-troubleshoot/">Here's a quick guide</a> to using the updated app, released on Feb 23. If you are unsure if your app has already been updated, <a href="#update">follow the steps in the "Update" section below</a>.</td></tr>
 	</table>
+	
 <h2>A Library in Your Pocket</h2>
 The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
 <p>
