@@ -14,6 +14,8 @@ title: 'Quick Guide to the New NLB Mobile app'
 </tr>
 <tr>
 <td style="width: 50%; height: auto;"><p><h4>How do I add my family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
+</tr>
+<tr>
 	<td style="width: 50%; height: auto;"><p><h4>Where do I check or renew my loans? Use "Bookshelf".</h4></p><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
 
 </tr>
