@@ -1,0 +1,86 @@
+---
+permalink: /get-started-with/nlb-mobile-troubleshoot/
+breadcrumb: 'NLB Mobile app - Quick Guide'
+description: 'Answers to the most commonly-asked questions about the revamped NLB Mobile app (2021 release).'
+image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
+title: 'Quick Guide to the New NLB Mobile app'
+published: 'false'
+---
+
+<table style="width: auto;">
+<tbody>
+<tr>
+<td style="width: 50%; height: auto;"><p><h4>I forgot the ID or password for my account or my family member's account.</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+</tr>
+<tr>
+<td style="width: 50%; height: auto;"><p><h4>How do I add my family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
+	<td style="width: 50%; height: auto;"><p><h4>Where do I check or renew my loans? Use "Bookshelf".</h4></p><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
+
+</tr>
+</tbody>
+</table>
+
+<div>
+		<input type="radio" name="acc" id="acc10">
+        <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
+<div class="acc-body">
+  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
+	<table border="0">
+	<tr>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+	</tr>
+	<tr>
+		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+	</tr>
+		</table>
+	<p>
+		Note: eMagazines do not contribute to your eBooks loan quota. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”. You can borrow an unlimited number of eMagazines.
+	</p>
+</div></div>
+
+<div>
+		<input type="radio" name="acc" id="acc11">
+        <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
+<div class="acc-body">
+ <p>Follow these simple steps:</p>
+<p><strong>Step One:</strong> In the app, search for the titles you want.</p>
+<p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
+<p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
+<p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
+	<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
+	</p>
+
+</div></div>
+
+
+
+<div class="acc-kontainer">          
+	<div>
+		<input type="radio" name="acc" id="acc12">
+		<label for="acc12">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
+<div class="acc-body">
+ <p>Here are the steps:</p>
+<p><b>Step One:</b> In the app, select the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
+<p><b>Step Two:</b> You will see a &lsquo;Read in Browser &rsquo; option for eBooks or a &lsquo;Listen in Browser&rsquo; option for audiobooks. Select this option to read / listen online immediately within the app. </p>
+<p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi, and may incur charges from your telco.</em></p>
+<p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">&lsquo;Read in Libby&rsquo;</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
+</div></div>
+
+  <div>
+        <input type="radio" name="acc" id="acc13">
+        <label for="acc13">How do I return eBooks / Audiobooks?</label>
+
+<div class="acc-body">
+  <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
+<p>Just go to the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
+
+</div></div>
+
+        <div>
+    	<input type="radio" name="acc" id="acc26">
+        <label for="acc26">I have questions about Book Bugs.</label>
+
+<div class="acc-body">
+      <p>Please visit the <a href="https://childrenandteens.nlb.gov.sg/events/bookbugsx/">Book Bugs website</a> for more information, e.g. about how to earn points to redeem Book Bugs cards, and how to redeem the cards.</p>
+    </div>
+    </div> 
