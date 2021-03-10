@@ -13,17 +13,18 @@ title: 'Quick Guide to the New NLB Mobile app'
 <td style="width: 50%; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
+<td style="width: 50%; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts).">
+</td>
 </tr>
 </tbody>
 </table>
 
-	<p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p>
-	<div class="vd">
-     <video title="Video showing how to renew loans using the revamped NLB Mobile app (Feb 2021 release)" width="560px" height="315px" poster="/images/Highlights-Renew-thumbnail.png" controls>
-  <source src="/images/Highlights-Renew.mp4" type="video/mp4" />
-  </video>
-	</div>
+<p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p>
+<div class="vd">
+<video title="Video showing how to renew loans using the revamped NLB Mobile app (Feb 2021 release)" width="560px" height="315px" poster="/images/Highlights-Renew-thumbnail.png" controls>
+<source src="/images/Highlights-Renew.mp4" type="video/mp4" />
+</video>
+</div>
 
 
 <p><h3>Commonly Asked Questions</h3></p>
@@ -56,7 +57,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 <p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
-	<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
+<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 
 </div></div>
@@ -102,7 +103,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 <td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><img src="Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></td>
+<td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></td>
 </tr>
 </tbody>
 </table>
