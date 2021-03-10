@@ -10,13 +10,13 @@ title: 'Quick Guide to the New NLB Mobile app'
 <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>I forgot the ID or password for my account or my family member's account.</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+<td style="width: 50%; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>How do I add my family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
+<td style="width: 50%; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
 </tr>
 <tr>
-	<td style="width: 50%; height: auto;"><p><h4>Where do I check or renew my loans? Use "Bookshelf".</h4></p><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
+	<td style="width: 50%; height: auto;"><p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
 
 </tr>
 </tbody>
