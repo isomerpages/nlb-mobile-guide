@@ -7,13 +7,13 @@ title: 'Quick Guide to the New NLB Mobile app'
 ---
 <p><h3>Visual Quick Start Guide</h3></p>
 
-<table style="width: auto;">
+<table style="width: 50%;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+<td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts).">
+<td style="width: auto; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts).">
 </td>
 </tr>
 </tbody>
