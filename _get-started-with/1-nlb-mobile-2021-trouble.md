@@ -15,17 +15,16 @@ title: 'Quick Guide to the New NLB Mobile app'
 <tr>
 <td style="width: 50%; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
 </tr>
-<tr>
-	<td style="width: 50%; height: auto;">
+</tbody>
+</table>
+
 	<p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p>
 	<div class="vd">
      <video title="Video showing how to renew loans using the revamped NLB Mobile app (Feb 2021 release)" width="560px" height="315px" poster="/images/Highlights-Renew-thumbnail.png" controls>
   <source src="/images/Highlights-Renew.mp4" type="video/mp4" />
   </video>
 	</div>
-  </tr>
-</tbody>
-</table>
+
 
 <p><h3>Commonly Asked Questions</h3></p>
 
@@ -87,7 +86,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 </tr>
 </tbody>
 </table>
-<p>The same instructions apply if you want to read from a tablet. If you prefer to read on a computer, please visit <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>and click on the 'Login' button on the top right corner. For quicker logins, you can launch the NLB Mobile app and scan the QR code using the orange camera/QR code icon on the bottom of the screen.</p>
+<p>The same instructions apply if you want to read from a tablet. If you prefer to read on a computer, please visit <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a> and click on the 'Login' button on the top right corner. For quicker logins, you can launch the NLB Mobile app and scan the QR code using the orange camera/QR code icon on the bottom of the screen.</p>
 </div></div>
 
   <div>
@@ -103,7 +102,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 <td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."></td>
 </tr>
 <tr>
-	<td style="width: 50%; height: auto;"><img src="Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></td>
+<td style="width: 50%; height: auto;"><img src="Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></td>
 </tr>
 </tbody>
 </table>
