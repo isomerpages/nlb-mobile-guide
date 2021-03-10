@@ -6,8 +6,8 @@ image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
 title: 'Quick Guide to the New NLB Mobile app'
 ---
 <p><h3>Visual Quick Start Guide</h3></p>
-
-<table style="width: 50%;">
+<div style="max-width: 400px">
+<table style="width: auto;">
 <tbody>
 <tr>
 <td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
@@ -18,6 +18,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 </tr>
 </tbody>
 </table>
+</div> 
 
 <p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p>
 <div class="vd">
