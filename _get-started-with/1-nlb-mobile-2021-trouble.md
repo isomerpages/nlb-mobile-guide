@@ -57,7 +57,7 @@ title: 'Quick Guide to the New NLB Mobile app'
         <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
  <p>Follow these simple steps:</p>
-<p><strong>Step One:</strong> In the app, search for the titles you want. Ensure that you are in the eBooks or Audiobooks tab near the top of the screen (see circled part of screenshot below). </p>
+<p><strong>Step One:</strong> In the app, search for the titles you want. Tap on the eBooks or Audiobooks tab near the top of the screen (see circled part of screenshot below). </p>
 	<table style="width: auto;">
 <tbody>
 <tr>
