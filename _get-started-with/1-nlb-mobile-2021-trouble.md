@@ -41,10 +41,10 @@ title: 'Quick Guide to the New NLB Mobile app'
   <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
 	<table border="0">
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></div></td>
 	</tr>
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
 	</tr>
 		</table>
 	<p>
@@ -87,7 +87,7 @@ title: 'Quick Guide to the New NLB Mobile app'
   <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-SPH-lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to read SPH eNewspapers.."></td>
+<td><div style="max-width: 400px"><img src="/images/Highlights-SPH-lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to read SPH eNewspapers.."></div></td>
 </tr>
 </tbody>
 </table>
@@ -104,10 +104,10 @@ title: 'Quick Guide to the New NLB Mobile app'
 <td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step1_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 1."></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."></td>
+<td><div style="max-width: 400px"><img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."></div></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></td>
+<td><div style="max-width: 400px"><img src="/images/Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></div></td>
 </tr>
 </tbody>
 </table>
