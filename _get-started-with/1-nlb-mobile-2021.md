@@ -267,12 +267,24 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
         <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
  <p>Follow these simple steps:</p>
-<p><strong>Step One:</strong> In the app, search for the titles you want.</p>
-<p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
+<p><strong>Step One:</strong> In the app, search for the titles you want. Tap on the eBooks or Audiobooks tab near the top of the screen (see circled part of screenshot below). </p>
+	<table style="width: auto;">
+<tbody>
+<tr>
+	<td style="width: auto; height: auto;">
+	<div style="max-width: 400px"><img src="/images/Highlights-OtherFormats-forIsomer.png" alt="A tutorial screenshot for the app, showing how to filter search results by ebooks or audiobooks only."></div> 
+	</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Step Two:</strong>Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
-	<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
+<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
+
+</div></div>
+
 
 </div></div>
 
