@@ -282,10 +282,6 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
 <p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
-
-</div></div>
-
-
 </div></div>
 
 
