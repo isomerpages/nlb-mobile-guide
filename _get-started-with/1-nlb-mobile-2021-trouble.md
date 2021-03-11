@@ -57,7 +57,16 @@ title: 'Quick Guide to the New NLB Mobile app'
         <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
  <p>Follow these simple steps:</p>
-<p><strong>Step One:</strong> In the app, search for the titles you want.</p>
+<p><strong>Step One:</strong> In the app, search for the titles you want. You can filter the search results by eBooks or audiobooks.</p>
+	<table style="width: auto;">
+<tbody>
+<tr>
+	<td style="width: auto; height: auto;">
+	<div style="max-width: 400px"><img src="/images/Highlights-OtherFormats-forIsomer.png" alt="A tutorial screenshot for the app, showing how to filter search results by ebooks or audiobooks only."></div> 
+	</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
@@ -101,10 +110,17 @@ title: 'Quick Guide to the New NLB Mobile app'
   <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step1_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 1."></td>
+<td style="width: auto; height: auto;">
+	<div style="max-width: 400px">
+		<img src="/images/Highlights-Pay-step1_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 1.">
+	</div>
+		</td>
 </tr>
 <tr>
-<td><div style="max-width: 400px"><img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."></div></td>
+<td><div style="max-width: 400px">
+	<img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."
+	     </div>
+	</td>
 </tr>
 <tr>
 <td><div style="max-width: 400px"><img src="/images/Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></div></td>
