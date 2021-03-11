@@ -117,10 +117,11 @@ title: 'Quick Guide to the New NLB Mobile app'
 		</td>
 </tr>
 <tr>
-<td><div style="max-width: 400px">
-	<img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."
-	     </div>
-	</td>
+<td style="width: auto; height: auto;">
+	<div style="max-width: 400px">
+		<img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2.">
+	</div>
+		</td>
 </tr>
 <tr>
 <td><div style="max-width: 400px"><img src="/images/Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></div></td>
