@@ -10,11 +10,14 @@ title: 'Quick Guide to the New NLB Mobile app'
 <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p><div style="max-width: 400px"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></div> </td>
+	<td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p>
+	<div style="max-width: 400px"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></div> 
+	</td>
 </tr>
 <tr>
-<td style="width: auto; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts).">
-</td>
+	<td style="width: auto; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p>
+	<div style="max-width: 400px"><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></div>
+	</td>
 </tr>
 </tbody>
 </table>
