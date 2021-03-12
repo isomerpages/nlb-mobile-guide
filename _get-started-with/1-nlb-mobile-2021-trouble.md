@@ -10,14 +10,18 @@ title: 'Quick Guide to the New NLB Mobile app'
 <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+	<td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p>
+	<div style="max-width: 400px"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></div> 
+	</td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts).">
-</td>
+	<td style="width: auto; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p>
+	<div style="max-width: 400px"><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></div>
+	</td>
 </tr>
 </tbody>
 </table>
+
 
 <p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p>
 <div class="vd">
@@ -37,10 +41,10 @@ title: 'Quick Guide to the New NLB Mobile app'
   <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
 	<table border="0">
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></div></td>
 	</tr>
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
 	</tr>
 		</table>
 	<p>
@@ -53,8 +57,17 @@ title: 'Quick Guide to the New NLB Mobile app'
         <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
  <p>Follow these simple steps:</p>
-<p><strong>Step One:</strong> In the app, search for the titles you want.</p>
-<p><strong>Step Two:</strong> Ensure that you are in the eBooks or Audiobooks tab near the top of the screen. Tap on your desired title.</p>
+<p><strong>Step One:</strong> In the app, search for the titles you want. Tap on the eBooks or Audiobooks tab near the top of the screen (see circled part of screenshot below). </p>
+	<table style="width: auto;">
+<tbody>
+<tr>
+	<td style="width: auto; height: auto;">
+	<div style="max-width: 400px"><img src="/images/Highlights-OtherFormats-forIsomer.png" alt="A tutorial screenshot for the app, showing how to filter search results by ebooks or audiobooks only."></div> 
+	</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Step Two:</strong>Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
 <p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
@@ -83,7 +96,7 @@ title: 'Quick Guide to the New NLB Mobile app'
   <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-SPH-lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to read SPH eNewspapers.."></td>
+<td><div style="max-width: 400px"><img src="/images/Highlights-SPH-lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to read SPH eNewspapers.."></div></td>
 </tr>
 </tbody>
 </table>
@@ -97,13 +110,21 @@ title: 'Quick Guide to the New NLB Mobile app'
   <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step1_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 1."></td>
+<td style="width: auto; height: auto;">
+	<div style="max-width: 400px">
+		<img src="/images/Highlights-Pay-step1_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 1.">
+	</div>
+		</td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2."></td>
+<td style="width: auto; height: auto;">
+	<div style="max-width: 400px">
+		<img src="/images/Highlights-Pay-step2_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 2.">
+	</div>
+		</td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><img src="/images/Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></td>
+<td><div style="max-width: 400px"><img src="/images/Highlights-Pay-step3_lowres.png" alt="A screenshot of the updated NLB Mobile app (Feb 2021 release), showing how to pay fees and fines - step 3."></div></td>
 </tr>
 </tbody>
 </table>

@@ -14,15 +14,15 @@ If you are new to NLB's digital collection (which include <a href="/get-started-
 For more questions on myLibrary ID, go to our <a href="/get-started-with/myLibrary/#mylibrary" target="_blank">myLibrary ID FAQ page</a>.</p>
 
 <h3>Read local newspapers from home</h3>
-<div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t78BIAZBX2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/brkz6074lXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p>You can now read newspapers published by Singapore Press Holdings (SPH) from home. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page.</a> If you have any questions, read our guide at the <a href="/get-started-with/enews/#sph">eNewspapers and eMagazines FAQ page here</a>.</p>
 <h3>International eNewspapers and eMagazines</h3>
 <p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. </p>
 <p>Watch this video to learn how to read eNewspapers and eMagazines.</p>
-<div class="vd">
-<iframe width="720" height="405" src="https://www.youtube.com/embed/w3HX07ZP_Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe title="how to use PressReader" width="560" height="315" src="https://www.youtube.com/embed/uE0_PdTNWKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p><h2>Tips for Seniors</h2></p>
