@@ -104,8 +104,8 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
         <div class="acc-body">
         <p>You can retrieve your myLibrary ID and password:</p>
         <ul>
-        <li><b><a href="https://account.nlb.gov.sg">Online</a></b> with your SingPass or NRIC / FIN number. Once you have signed in, the system will automatically detect if you have a myLibrary ID and display it. It will also let you reset your password if you have forgotten it.</li>
-<li>Via the <strong>NLB Mobile app</strong>, with your SingPass or NRIC / FIN number. Tap on the + button on the top right of the app’s screen, then tap on “Forgot your myLibraryID or password”.</li></ul>
+        <li><b><a href="https://account.nlb.gov.sg">Online</a></b> with your Singpass or NRIC / FIN number. Once you have signed in, the system will automatically detect if you have a myLibrary ID and display it. It will also let you reset your password if you have forgotten it.</li>
+<li>Via the <strong>NLB Mobile app</strong>, with your Singpass or NRIC / FIN number. Tap on the + button on the top right of the app’s screen, then tap on “Forgot your myLibraryID or password”.</li></ul>
 </div>
 </div>
 
