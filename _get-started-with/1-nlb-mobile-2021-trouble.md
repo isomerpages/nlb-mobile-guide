@@ -5,7 +5,7 @@ description: 'Answers to the most commonly-asked questions about the revamped NL
 image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
 title: 'Quick Guide to the New NLB Mobile app'
 ---
-<table style="background-color:"#ffe6e6; border:0;">
+<table style="background-color:#ffe6e6; border:0;">
 				       <tr><td>Customers have reported issues accessing their loan records and borrowing physical books. We are working to rectify the issue, and seek your patience. You can still borrow ebooks and access eNewspapers and eMagazines. Thank you. </td></tr></table> 
 
 <table style="width: auto;">
