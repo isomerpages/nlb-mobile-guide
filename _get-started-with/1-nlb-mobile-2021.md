@@ -14,7 +14,9 @@ title: 'NLB Mobile app'
 -->
 
 <h2>A Library in Your Pocket</h2>
-The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
+<p>
+	The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
+	</p>
 <p>
 	<div class="bp-youtube">
 <!--NLB Mobile app features video 2021 - PLS YouTube-->
@@ -29,18 +31,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 	<li>Scanning the QR code below with your mobile device.</li></ol></p>
 <p>If you see an "Open" or "Installed" button in the Play Store or App Store, it means that you are already using the latest version of the NLB Mobile app.</p>
 <p>Now that you have the latest version, see the quick pictorial guide below on signing in for the first time. If you don't sign in, you can still browse our catalogue, but you're missing out on features such as borrowing library materials and accessing digital resources with the app. </p>
-<!--
-<table>
-	<tr>
-		<td><img src="/images/Tutorial-screen-Welcome-smartmockup.png" width="505px" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
-		<td><img src="/images/Tutorial-screen-AddProfile-smartmockup_small.png" width="505px" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
-	</tr>
-	<tr border="0px">
-		<td><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" width="505px" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
-		<td><img src="/images/QR_downloadapp.svg" width="505px" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></td>
-	</tr>
-	</table>
--->	
+
 <table style="width: auto;">
 <tbody>
 <tr>
@@ -49,7 +40,7 @@ The NLB Mobile app is your personal library, anywhere, anytime. Watch this video
 </tr>
 <tr>
 <td style="width: 50%; height: auto;"><p><h4>How do I add my family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
-	<td style="width: 50%; height: auto;"><p><h4>Where do I check my loans? Use "Bookshelf".</h4></p><img src="/images/Tutorial-screen-bookshelf-smartmockup_small.png" alt="A tutorial screenshot for the app, showing the Bookshelf screen, where you can check due dates and access eBooks."></td>
+	<td style="width: 50%; height: auto;"><p><h4>Where do I check my loans? Use "Account".</h4></p><img src="/images/App-Bookshelf-Mar182021_Loans-selected-iPhone11.png" alt="A tutorial screenshot for the app, showing the Account screen, where you can check due dates, view loan details and read eBooks."></td>
 
 </tr>
 </tbody>
@@ -251,13 +242,13 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc10">
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
-  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
+  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
 	<table border="0">
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-eBookLoans-quota.png" height="800px" alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button."></div></td>
 	</tr>
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
 	</tr>
 		</table>
 	<p>
@@ -269,7 +260,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc11">
         <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="acc-body">
- <p>Follow these simple steps:</p>
+<p>Follow these simple steps:</p>
 <p><strong>Step One:</strong> In the app, search for the titles you want. Tap on the eBooks or Audiobooks tab near the top of the screen (see circled part of screenshot below). </p>
 	<table style="width: auto;">
 <tbody>
@@ -283,7 +274,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><strong>Step Two:</strong>Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
-<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
+<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Account’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 </div></div>
 
@@ -295,7 +286,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<label for="acc12">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
 <div class="acc-body">
  <p>Here are the steps:</p>
-<p><b>Step One:</b> In the app, select the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
+<p><b>Step One:</b> In the app, select the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
 <p><b>Step Two:</b> You will see a &lsquo;Read in Browser &rsquo; option for eBooks or a &lsquo;Listen in Browser&rsquo; option for audiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi, and may incur charges from your telco.</em></p>
 <p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">&lsquo;Read in Libby&rsquo;</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
@@ -307,7 +298,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <div class="acc-body">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
-<p>Just go to the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
+<p>Just go to the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
 
 </div></div>
 
@@ -335,8 +326,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<input type="radio" name="acc" id="acc15">
         <label for="acc15">How do I cancel a reservation?</label>
 <div class="acc-body">
-	<p>If you wish to cancel a <b>physical item</b> reservation, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the "Cancel Item(s)" button.</p>
-	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the Bookshelf tab on the bottom right corner of the NLB Mobile app. Select "eBook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation". You could select "Suspend Reservation" instead if you still want the book, but not anytime soon. The app will allow others to borrow the book first for the duration you select - from 1 week to 90 days. After that period has passed, you will automatically re-join the queue at the same position or better. If, later on, you change your mind and want the book ASAP, you can go back to this menu and change the timeframe to "Immediately".</p>
+	<p>If you wish to cancel a <b>physical item</b> reservation, go to the 'Account' tab on the bottom right corner of the NLB Mobile app. Select "Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the "Cancel Item(s)" button.</p>
+	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the 'Account' tab on the bottom right corner of the NLB Mobile app. Select "eBook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation". You could select "Suspend Reservation" instead if you still want the book, but not anytime soon. The app will allow others to borrow the book first for the duration you select - from 1 week to 90 days. After that period has passed, you will automatically re-join the queue at the same position or better. If, later on, you change your mind and want the book ASAP, you can go back to this menu and change the timeframe to "Immediately".</p>
 </div></div>
 
   <div>
@@ -368,13 +359,13 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 	We also have some eMagazine titles not found in PressReader, e.g. The Economist (Asia Edition). You can borrow this title directly from the <a href="https://libbyapp.com/library/nlb/guide/magazines">Libby website or app</a>.
 	</p>
 <p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines</a>.</p>
-<p style="endnote">Note: eMagazines and eNewspapers do not contribute to the loan quota, which you can check from the NLB Mobile app by going to “Bookshelf”, then “eBook Loans”. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”.  You can borrow an unlimited number of eMagazines and eNewspapers.</p>
+<p style="endnote">Note: eMagazines and eNewspapers do not contribute to the loan quota, which you can check from the NLB Mobile app by going to the “Account” tab on the bottom right corner, then “eBook Loans”. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”.  You can borrow an unlimited number of eMagazines and eNewspapers.</p>
 	<table border="0">
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-eBookLoans-quota.png" height="800px" alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button."></div></td>
 	</tr>
 	<tr>
-		<td><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
 	</tr>
 		</table>
 
