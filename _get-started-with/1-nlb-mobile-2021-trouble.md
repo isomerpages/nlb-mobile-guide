@@ -85,7 +85,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 <p><strong>Step Two:</strong>Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
-<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Bookshelf’ icon on the bottom right corner of the app, then ‘eBook Loans’.
+<p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Account’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 
 </div></div>
@@ -98,7 +98,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 		<label for="acc12">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
 <div class="acc-body">
  <p>Here are the steps:</p>
-<p><b>Step One:</b> In the app, select the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
+<p><b>Step One:</b> In the app, select the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
 <p><b>Step Two:</b> You will see a &lsquo;Read in Browser &rsquo; option for eBooks or a &lsquo;Listen in Browser&rsquo; option for audiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi, and may incur charges from your telco.</em></p>
 <p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">&lsquo;Read in Libby&rsquo;</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
@@ -152,7 +152,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 
 <div class="acc-body">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
-<p>Just go to the ‘Bookshelf’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
+<p>Just go to the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
 
 </div></div>
 
