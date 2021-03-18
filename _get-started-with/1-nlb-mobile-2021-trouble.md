@@ -25,13 +25,26 @@ title: 'Quick Guide to the New NLB Mobile app'
 </table>
 
 
-<p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p>
-<div class="vd">
-<video title="Video showing how to renew loans using the revamped NLB Mobile app (Feb 2021 release)" width="560px" height="315px" poster="/images/Highlights-Renew-thumbnail.png" controls>
-<source src="/images/Highlights-Renew.mp4" type="video/mp4" />
-</video>
-</div>
-
+<p><h4>Want to check or renew your loans? Use "Account".</h4></p>
+<table style="width: auto;">
+<tbody>
+<tr>
+	<td style="width: auto; height: auto;"><p>Step 1: Tap on the "Account" tab on the bottom right corner of the NLB Mobile app.</p>
+	<div style="max-width: 400px"><img src="/images/Highlights-Renew-step1_Isomer.png" alt="A tutorial screenshot for the app, showing how to renew loans - step 1."></div> 
+	</td>
+</tr>
+<tr>
+	<td style="width: auto; height: auto;"><p>Step 2: Tap on the "Loans" button.</p>
+	<div style="max-width: 400px"><img src="/images/Highlights-Renew-step2_Isomer.png" alt="A tutorial screenshot for the app, showing how to renew loans - step 2."></div>
+	</td>
+</tr>
+	<tr>
+	<td style="width: auto; height: auto;"><p>Step 3: Select the items you wish to renew. Then, tap on the orange "Renew" button on the bottom of the screen.</p>
+	<div style="max-width: 400px"><img src="/images/Highlights-Renew-step3_Isomer.png" alt="A tutorial screenshot for the app, showing how to renew loans - step 3."></div> 
+	</td>
+</tr>
+</tbody>
+</table>
 
 <p><h3>Commonly Asked Questions</h3></p>
 
