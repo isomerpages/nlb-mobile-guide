@@ -25,13 +25,26 @@ title: 'Quick Guide to the New NLB Mobile app'
 </table>
 
 
-<p><h4>Want to check or renew your loans? Use "Bookshelf".</h4></p>
-<div class="vd">
-<video title="Video showing how to renew loans using the revamped NLB Mobile app (Feb 2021 release)" width="560px" height="315px" poster="/images/Highlights-Renew-thumbnail.png" controls>
-<source src="/images/Highlights-Renew.mp4" type="video/mp4" />
-</video>
-</div>
-
+<p><h4>Want to check or renew your loans? Use "Account".</h4></p>
+<table style="width: auto;">
+<tbody>
+<tr>
+	<td style="width: auto; height: auto;"><p>Step 1: Tap on the "Account" tab on the bottom right corner of the NLB Mobile app.</p>
+	<div style="max-width: 400px"><img src="/images/Highlights-Renew-step1_Isomer.png" alt="A tutorial screenshot for the app, showing how to renew loans - step 1."></div> 
+	</td>
+</tr>
+<tr>
+	<td style="width: auto; height: auto;"><p>Step 2: Tap on the "Loans" button.</p>
+	<div style="max-width: 400px"><img src="/images/Highlights-Renew-step2_Isomer.png" alt="A tutorial screenshot for the app, showing how to renew loans - step 2."></div>
+	</td>
+</tr>
+	<tr>
+	<td style="width: auto; height: auto;"><p>Step 3: Select the items you wish to renew. Then, tap on the orange "Renew" button on the bottom of the screen.</p>
+	<div style="max-width: 400px"><img src="/images/Highlights-Renew-step3_Isomer.png" alt="A tutorial screenshot for the app, showing how to renew loans - step 3."></div> 
+	</td>
+</tr>
+</tbody>
+</table>
 
 <p><h3>Commonly Asked Questions</h3></p>
 
@@ -40,10 +53,10 @@ title: 'Quick Guide to the New NLB Mobile app'
 		<input type="radio" name="acc" id="acc10">
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
-  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
+  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
 	<table border="0">
 	<tr>
-		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></div></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-eBookLoans-quota.png" height="800px" alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button."></div></td>
 	</tr>
 	<tr>
 		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
