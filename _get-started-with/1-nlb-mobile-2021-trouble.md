@@ -53,10 +53,10 @@ title: 'Quick Guide to the New NLB Mobile app'
 		<input type="radio" name="acc" id="acc10">
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="acc-body">
-  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Bookshelf’, then ‘eBook Loans’ in the app. </p>
+  <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
 	<table border="0">
 	<tr>
-		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBookLoans-selected-iPhone11.png" height="800px" alt="A screenshot from the app, showing the Bookshelf tab, where one would find the 'eBook Loans' button."></div></td>
+		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-eBookLoans-quota.png" height="800px" alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button."></div></td>
 	</tr>
 	<tr>
 		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
