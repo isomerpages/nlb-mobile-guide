@@ -365,7 +365,7 @@ title: 'eMagazines and eNewspapers'
 		<input type="radio" name="acc" id="acc6a">
 	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
         <div class="acc-body">
-		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another application - not PressReader. <a href="https://libbyapp.com/library/nlb/generated-1033938/page-1" target="_blank" rel="noopener">Click here to read</a> <i>The Economist</i> on your browser or the Libby app.</p>
+		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another application - not PressReader. <a href="https://libbyapp.com/library/nlb/guide/magazines" target="_blank" rel="noopener">Click here to read</a> <i>The Economist</i> on your browser or the Libby app.</p>
 		<p>PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in <b>Libby</b> and not PressReader:</p>
 		<ol>
 			<li>The Economist</li>
