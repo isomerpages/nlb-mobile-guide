@@ -45,7 +45,7 @@ title: 'NLB Mobile app'
 </tr>
 </tbody>
 </table>
-</div>
+
 <!--<h2>A library in your pocket</h2>
 <p>
 	<div class="bp-youtube">
