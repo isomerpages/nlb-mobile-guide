@@ -383,7 +383,7 @@ $desktop: 960px + (2 * $gap) !default;
 .new-accordion label {
 	display: block;
 	padding: 8px 22px;
-	margin: 0 0 5px 0;
+	margin: 2px 0 2px 0;
 	cursor: pointer;
 	background: #ffeb99;
 	border-radius: 3px;
@@ -402,20 +402,21 @@ $desktop: 960px + (2 * $gap) !default;
 	background-color: #ffffe6;
 	padding: 10px 0px 30px 30px;
 	/* border: 1px solid #484848; */
-	margin: 0 0 1px 0;
+	margin: 0 0 5px 0;
 	border-radius: 3px;
 	color: #111111;
+	display: none;
 }
 
 input.new-accordion + label.new-accordion + .new-accordion-content {
 	display: none; 
 }
 
-.new-accordion:checked + label.new-accordion + .new-accordion-content {
+.new-accordion input:checked + label.new-accordion + .new-accordion-content {
 	display: none; 
 }
 	    
-.new-accordion:checked + label.new-accordion + .new-accordion-content {
+.new-accordion input:checked + label.new-accordion + .new-accordion-content {
 	display: block; 
 }
 	    
