@@ -44,7 +44,7 @@ title: 'eBooks and Audiobooks'
 
 <input type="checkbox" id="acc10">
 <label for="acc10">Why does NLB Mobile ask me to install Libby when I choose to download an eBook / Audiobook?</label>
-<div class="acc-body">
+<div class="new-accordion-content">
   <p>NLB Mobile is designed for access and transactions. It lets you borrow and read or listen to eBooks / Audiobooks online, but does not have a built-in reader for downloaded eBooks / Audiobooks. Installing Libby will let you read downloaded eBooks in a user-friendly interface.    
         </p>
 </div>
@@ -139,7 +139,7 @@ Tap Renew Loan, then Renew. </p>
 
 <input type="checkbox" id="acc7c">
 <label for="acc7c">What's the difference between Libby and PressReader?</label>
-<div class="acc-body">
+<div class="new-accordion-content">
 		    <p>
 		    PressReader offers both digital newspapers and magazines. Libby has <b>magazines</b>, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in Libby and not PressReader:</p>
 		    <ol>
@@ -180,8 +180,7 @@ Tap Renew Loan, then Renew. </p>
   </div>
 </div>
 
-<div>
-		<input type="checkbox" id="acc15">
+<input type="checkbox" id="acc15">
         <label for="acc15">Where can I browse a list of all “Skip the Line” titles?</label>
         <div class="new-accordion-content">
   <p>It’s simple! Launch Libby. Tap on the “Library” tab, then select “Explore”. Select 
@@ -193,10 +192,8 @@ Tap Renew Loan, then Renew. </p>
 <div class="new-accordion-contenty">
   <p>Yes, you can! A “Skip the Line” loan will not affect your reservation.</p>
   </div>
-</div>
 
-<div>
-		<input type="checkbox" id="acc17">
+<input type="checkbox" id="acc17">
         <label for="acc17">Does my “Skip the Line” loan contribute to my loan quota?</label>
         <div class="new-accordion-content">
   <p>Yes, it contributes to your loan quota (i.e. 16 eBooks/ eAudiobooks).</p><p class="end-note">Do note that you can only borrow one “Skip the Line” title at a time, regardless of how many 
@@ -232,7 +229,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <div class="new-accordion"><!--accordion--> 
 <input type="checkbox" id="acc3">
 <label for="acc3">I like Libby, but it doesn't have an app for my device.</label>
-<div class="new-accordion-contenty">
+<div class="new-accordion-content">
   <p>If you can't download the app, you can use Libby in your web browser at <a href="https://libbyapp.com/library/nlb" target="_blank" rel="noopener">libbyapp.com/library/nlb</a>. Do note that in the browser mode, you cannot download the eBooks or audiobooks for offline use.</p>
 </div>
 
@@ -394,7 +391,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="/get-started-with/hyread/" target="_blank" rel="noopener">FAQ page on HyRead</a>.</p>
 </div>
 
-<input type="radio" name="acc" id="acc26">
+<input type="checkbox" id="acc26">
         <label for="acc26">Other than Readalongs, do you have other more interactive eBooks for children?</label>
         <div class="new-accordion-content">
 		<p><a href="https://eresources.nlb.gov.sg/main/browse/resource/1137" target="_blank" rel="noopener">Tumblebook Library</a> has a large collection of animated picture books for children. Just log in with your myLibrary ID to access it.</p>
