@@ -7,7 +7,7 @@ image: /images/NL-9-covid-19-vaccines.jpg
 
 ---
 
-<img src="/images/NL-9-covid-19-vaccines.jpg">
+<img src="/images/NL-9-covid-19-vaccines.jpg" alt="article image">
 
 <p style="font-size:8pt;">Photo credit: <a href="https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/" target="_blank">https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/</a></p>
 
@@ -17,11 +17,11 @@ Less than a year after the outbreak, several successful trials on potential COVI
 
 Below is a diagrammatic overview of how the various COVID-19 vaccines work and how they compare with one another:[^4]
 
-<img src="/images/NL-9-types-of-vaccines.jpg">
+<img src="/images/NL-9-types-of-vaccines.jpg" alt="types of Covid-19 vaccines">
 
 <p style="font-size:8pt;">Source: What different types of Covid-19 vaccine are there? (2021, January 8). Wellcome. Retrieved 2021, January 15, from <a href="https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there" target="_blank">https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there</a></p>
 
-<img src="/images/NL-9-vaccines-compare.jpg">
+<img src="/images/NL-9-vaccines-compare.jpg" alt="comparisons of Covid-19 vaccines">
 
 <p style="font-size:8pt;">Source: What different types of Covid-19 vaccine are there? (2021, January 8). Wellcome. Retrieved 2021, January 15, from <a href="https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there" target="_blank">https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there</a></p>
 
