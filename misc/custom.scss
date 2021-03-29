@@ -377,10 +377,10 @@ $desktop: 960px + (2 * $gap) !default;
 
 //New NLB Accordion
 
-.new-accordion-label input {
+.new-accordion input {
 	display: none;
 }
-.new-accordion-label label {
+.new-accordion label {
 	display: block;
 	padding: 8px 22px;
 	margin: 0 0 5px 0;
@@ -392,7 +392,7 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 1.5em;
 }
 
-.new-accordion-label label:hover {
+.new-accordion label:hover {
 	background: #4a96b0;
 	color: #FFF;
 }
@@ -405,15 +405,15 @@ $desktop: 960px + (2 * $gap) !default;
 	border-radius: 3px;
 }
 
-input.new-accordion-label + label.new-accordion-label + .new-accordion-content {
+input.new-accordion + label.new-accordion + .new-accordion-content {
 	display: none;
 }
 
-input:checked.new-accordion-label + label.new-accordion-label + .accordion-content {
+input:checked.new-accordion + label.new-accordion + .accordion-content {
 	display: none;
 }
 
-input:checked.new-accordion-label + label.new-accordion-label + .accordion-content {
+input:checked.new-accordion + label.new-accordion + .accordion-content {
 	display: block;
 }
 
