@@ -148,3 +148,22 @@ title: 'HyRead Chinese eBooks and eMagazines'
   </div></div>
 
 </div><!--close accordion-->
+
+<!-- new-accordion test-->
+<h3>Getting more help</h3>
+<div class="new-accordion"><!--accordion-->       
+  <div>
+		<input type="radio" name="acc" id="acc9">
+        <label for="acc9">I cannot use HyRead and I need help. What should I do?</label>
+                <div class="acc-body">
+			<p>We are sorry to hear that! You could try the instructions in our <a href="https://eresources.nlb.gov.sg/main/Help/HyRead" target="_blank" rel="noopener">HyRead 3 app step-by-step guide</a>. If you still encounter problems after that, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered, along with screenshots related to the issue(s).</p>
+  </div></div>
+  
+ <div>
+		<input type="radio" name="acc" id="acc10">
+        <label for="acc10">Besides HyRead, where else can I find Chinese eBooks?</label>
+                <div class="acc-body">
+			<p>You can also find Chinese eBooks in the <a href="/get-started-with/libby/">Libby</a> app. The collection is mostly in simplified Chinese, and includes eBooks for both adults and children.</p>
+  </div></div>
+
+</div><!--close accordion-->
