@@ -412,10 +412,7 @@ input.new-accordion + label.new-accordion + .new-accordion-content {
 	display: none; 
 }
 
-.new-accordion input:checked + label.new-accordion + .new-accordion-content {
-	display: none; 
-}
-	    
+  
 .new-accordion input:checked + label.new-accordion + .new-accordion-content {
 	display: block; 
 }
