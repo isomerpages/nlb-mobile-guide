@@ -15,7 +15,25 @@ title: 'HyRead Chinese eBooks and eMagazines'
 </ul>
 <p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。<a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">点击链接,观看视频学习如何使用Hyread!</a>
 </p>
-	
+
+<!-- new-accordion test-->
+<h3>Getting more help</h3>
+<div class="new-accordion"><!--accordion-->
+	<input type="checkbox" id="acc11">
+        <label for="acc11">I cannot use HyRead and I need help. What should I do?</label>
+                <div class="new-accordion-content">
+			<p>We are sorry to hear that! You could try the instructions in our <a href="https://eresources.nlb.gov.sg/main/Help/HyRead" target="_blank" rel="noopener">HyRead 3 app step-by-step guide</a>. If you still encounter problems after that, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered, along with screenshots related to the issue(s).</p>
+  </div>
+  
+ <div>
+		<input type="checkbox" id="acc12">
+        <label for="acc12">Besides HyRead, where else can I find Chinese eBooks?</label>
+                <div class="new-accordion-content">
+			<p>You can also find Chinese eBooks in the <a href="/get-started-with/libby/">Libby</a> app. The collection is mostly in simplified Chinese, and includes eBooks for both adults and children.</p>
+  </div>
+
+</div><!--close accordion-->
+
 <p><h3>How to Read Chinese eBooks and eMagazines with HyRead</h3></p>
 <div class="vd">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -149,20 +167,4 @@ title: 'HyRead Chinese eBooks and eMagazines'
 
 </div><!--close accordion-->
 
-<!-- new-accordion test-->
-<h3>Getting more help</h3>
-<div class="new-accordion"><!--accordion-->
-	<input type="checkbox" id="acc9">
-        <label for="acc9">I cannot use HyRead and I need help. What should I do?</label>
-                <div class="new-accordion-content">
-			<p>We are sorry to hear that! You could try the instructions in our <a href="https://eresources.nlb.gov.sg/main/Help/HyRead" target="_blank" rel="noopener">HyRead 3 app step-by-step guide</a>. If you still encounter problems after that, please <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered, along with screenshots related to the issue(s).</p>
-  </div>
-  
- <div>
-		<input type="checkbox" id="acc10">
-        <label for="acc10">Besides HyRead, where else can I find Chinese eBooks?</label>
-                <div class="new-accordion-content">
-			<p>You can also find Chinese eBooks in the <a href="/get-started-with/libby/">Libby</a> app. The collection is mostly in simplified Chinese, and includes eBooks for both adults and children.</p>
-  </div>
 
-</div><!--close accordion-->
