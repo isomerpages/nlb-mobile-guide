@@ -212,9 +212,8 @@ title: 'Library Membership and myLibrary ID'
         <li><strong>Register for programmes.</strong></li>
         </ol>
         </div>
-        </div>
-	<div>
-		<input type="checkbox" id="acc13">
+
+<input type="checkbox" id="acc13">
 	    <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
 	    <div class="new-container-content">
 	    <ul>
@@ -265,6 +264,7 @@ title: 'Library Membership and myLibrary ID'
         </ul>
 -->
         </div>
+	
 <input type="checkbox" id="acc16">
         <label for="acc16">What should I do if I forget my User ID or password? </label>
         <div class="new-accordion-content">
