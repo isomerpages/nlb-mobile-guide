@@ -384,31 +384,37 @@ $desktop: 960px + (2 * $gap) !default;
 	display: block;
 	padding: 8px 22px;
 	margin: 0 0 5px 0;
-	cursor: pointor;
-	background: #F0F4F6;
+	cursor: pointer;
+	background: #ffeb99;
 	border-radius: 3px;
-	color: #484848;
+	color: #111111;
 	transition: ease .5s;
 	font-size: 1.5em;
 }
 
 .new-accordion label:hover {
 	background: #4a96b0;
-	color: #FFF;
+	color: #111111;
+	font-weight: bolder;
 }
 
 .new-accordion-content {
-	/* background: #E2E5F6; */
+	background-color: #ffffe6;
 	padding: 10px 0px 30px 30px;
 	/* border: 1px solid #484848; */
 	margin: 0 0 1px 0;
 	border-radius: 3px;
+	color: #111111;
 }
 
 input.new-accordion + label.new-accordion + .new-accordion-content {
 	display: none;
 }
 
+.new-accordion:checked + label.new-accordion + .new-accordion-content {
+	display: none;
+}
+	    
 .new-accordion:checked + label.new-accordion + .new-accordion-content {
 	display: block;
 }
