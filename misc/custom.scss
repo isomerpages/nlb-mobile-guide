@@ -393,7 +393,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .new-accordion label:hover {
-	background: #4a96b0;
+	background: #fce274;
 	color: #111111;
 	font-weight: bolder;
 }
@@ -405,20 +405,13 @@ $desktop: 960px + (2 * $gap) !default;
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 	color: #111111;
-}
-
-input.new-accordion + label.new-accordion + .new-accordion-content {
-	display: none;
+	visibility: collapse; 
 }
 
 .new-accordion:checked + label.new-accordion + .new-accordion-content {
-	display: none;
+	visibility: visible; 
 }
 	    
-.new-accordion:checked + label.new-accordion + .new-accordion-content {
-	display: block;
-}
-
 	    
 // NLB Accordion
 .acc-kontainer {
