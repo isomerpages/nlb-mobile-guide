@@ -409,11 +409,11 @@ input.new-accordion + label.new-accordion + .new-accordion-content {
 	display: none;
 }
 
-input:checked.new-accordion + label.new-accordion + .accordion-content {
+.new-accordion:checked + label.new-accordion + .new-accordion-content {
 	display: none;
 }
 
-input:checked.new-accordion + label.new-accordion + .accordion-content {
+.new-accordion:checked + label.new-accordion + .new-accordion-content {
 	display: block;
 }
 
