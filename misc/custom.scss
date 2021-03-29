@@ -410,10 +410,6 @@ input.new-accordion + label.new-accordion + .new-accordion-content {
 }
 
 .new-accordion:checked + label.new-accordion + .new-accordion-content {
-	display: none;
-}
-
-.new-accordion:checked + label.new-accordion + .new-accordion-content {
 	display: block;
 }
 
