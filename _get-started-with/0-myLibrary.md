@@ -27,11 +27,10 @@ title: 'Library Membership and myLibrary ID'
 <p>
 	<a name="membership"><h3>Sign Up for Library Membership Online</h3></a>
 <p></p>
-<div class="acc-kontainer">          
-	<div>
-		<input type="radio" name="acc" id="acc1" checked>
+<div class="new-accordion">          
+		<input type="checkbox" id="acc1">
 		<label for="acc1">Can I sign up for library membership online?</label>
-		<div class="acc-body">
+		<div class="new-accordion-content">
 			<p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password.</p>
 			<p>Do note that:</p>
 			<ul>
@@ -46,12 +45,10 @@ title: 'Library Membership and myLibrary ID'
 				</li>
 			</ul>
 	</div>
-</div>
 
- <div>
-        <input type="radio" name="acc" id="acc2">
+<input type="checkbox" id="acc2">
         <label for="acc2">Can I sign my child up for library membership online?</label>
-        <div class="acc-body"><p>Yes, you can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your Singpass if:</p>
+        <div class="new-accordion-content"><p>Yes, you can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your Singpass if:</p>
 <ul>
 <li>Your child is a Singaporean or Permanent Resident, and</li>
 <li>Your child is born in Singapore</li>
@@ -65,57 +62,44 @@ title: 'Library Membership and myLibrary ID'
 </li>
 </ul>
     </div>
-</div>
 
-<div>
-		<input type="radio" name="acc" id="acc3">
+<input type="checkbox" id="acc3">
         <label for="acc3">What do I need to sign up for library membership online?</label>
-        <div class="acc-body"><p>You will need a:</p>
+        <div class="new-accordion-content"><p>You will need a:</p>
 <ul>
 <li>Singpass ID and password</li>
 <li>[For PRs/foreigners] Debit/credit card to pay the registration and/or membership fee(s)</li>
 </ul>
     </div>
-</div>
 
-<div>
-		<input type="radio" name="acc" id="acc4">
+<input type="checkbox" id="acc4">
         <label for="acc4">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</label>
-        <div class="acc-body"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your Singpass when you are overseas. An OTP is <u>not</u> required to complete the registration <b>when you use your Singpass</b>.</p>
+        <div class="new-accordion-content"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your Singpass when you are overseas. An OTP is <u>not</u> required to complete the registration <b>when you use your Singpass</b>.</p>
     </div>
-</div>
 
-<div>
-<input type="radio" name="acc" id="acc5">
+<input type="checkbox" id="acc5">
         <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
-          <div class="acc-body"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration and/or membership fee(s) if you are a PR or a foreigner.</p>
+          <div class="new-accordion-content"><p>Your membership will be activated immediately if you are a Singaporean, or upon payment of the registration and/or membership fee(s) if you are a PR or a foreigner.</p>
           <p>Access your virtual membership card (eCard) in the NLB Mobile app, once you have signed into the app with a myLibrary ID. Use the eCard to borrow library materials and pick up reserved materials.</p> <p>You can check your library account directly in the app, or <a href="https://www.nlb.gov.sg/mylibrary/Account">online</a>.</p><p> We will not send you a physical membership card.</p>
           </div>
-          </div>
 
-<div>
-		<input type="radio" name="acc" id="acc5a">
+<input type="checkbox" id="acc5a">
         <label for="acc5a">[For Foreigners Only] Can I renew my membership online?</label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
         <p>Yes, you can renew <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password. You will need a debit/credit card to pay for the registration fee ($10.50; payable again upon renewal, if membership has expired for more than 6 months) and the annual membership fee ($42.80).</p>
         </div>
-        </div>
 
-
-<div>
-		<input type="radio" name="acc" id="acc6">
+<input type="checkbox" id="acc6">
         <label for="acc6">Where can I sign up for library membership if I cannot use the online registration service? </label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
         <p>
 		You can sign up for library membership at our libraries using a Reservation Locker at any library except library@chinatown. If you are a PR or foreigner studying at an MOE school, remember to bring your School Smart Card to receive a waiver on the registration fee (for PRs) or the registration fee and annual fee (for foreigners). For foreigners, please also check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents to bring.
 		</p>
         </div>
-        </div>
 
-<div>
-		<input type="radio" name="acc" id="acc8">
+<input type="checkbox" id="acc8">
         <label for="acc8">I have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</label>
-	<div class="acc-body">
+	<div class="new-accordion-content">
 		<h4>For Singaporeans/PRs</h4>
 		<p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
           <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your Singpass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (user ID). With this myLibrary ID, you can instantly check your account online, <a href="/get-started-with/nlb-mobile/">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
@@ -124,47 +108,39 @@ title: 'Library Membership and myLibrary ID'
 	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($42.80). The registration fee ($10.50) will be waived. To sign up, please go to a Reservation Locker at any library except library@chinatown. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
 	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
           </div>
-	</div>
 
-<div>
-		<input type="radio" name="acc" id="acc9">
+<input type="checkbox" id="acc9">
         <label for="acc9">I can’t remember if I am a library member. Can I check my library membership online? </label>
-         <div class="acc-body">
+         <div class="new-accordion-content">
 		 <p>
 			Yes, you can check <a href="https://account.nlb.gov.sg">online</a> with Singpass or by entering your NRIC number.
 		 </p>
 <p>The online service will inform you if you are a member. If not, it will prompt you to sign up for library membership.</p>
+</div>
 
-</div></div>
-
-
-<div>
-		<input type="radio" name="acc" id="acc10">
+<input type="checkbox" id="acc10">
         <label for="acc10">I have completed the registration to be a library member. When and how can I start using library services?</label>
-           <div class="acc-body"><ul>
+           <div class="new-accordion-content"><ul>
            <li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
            <li>You can start using our digital collection immediately! Download the <a href="https://go.nlb.gov.sg/nlbmobile">NLB Mobile app</a> to read eBooks, listen to audiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries </li></ul>
            <p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
            <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
-           </div>
-           </div>
+</div>
+</div><!--close new-container class-->
 
 <p>
     <a name="mylibrary"><h3>myLibrary ID</h3></a>
 </p>
-<div class="acc-kontainer">          
-	<div>
-		<input type="radio" name="acc" id="acc11">
+<div class="new-container">          
+<input type="checkbox" id="acc11">
 		<label for="acc11">Why do I need a myLibrary ID? </label>
-		<div class="acc-body">
+		<div class="new-accordion-content">
         <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a User ID and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
         </div>
-        </div>
 
-  <div>
-        <input type="radio" name="acc" id="acc12">
+<input type="checkbox" id="acc12">
         <label for="acc12">What can I do with a myLibrary ID? </label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
         <p>You need a myLibrary ID to enjoy these digital library services:</p>
         <table style="border-collapse: collapse; width: 100%; height: 188px;" border="1">
         <tbody>
@@ -238,7 +214,7 @@ title: 'Library Membership and myLibrary ID'
         </div>
         </div>
 	<div>
-		<input type="radio" name="acc" id="acc13">
+		<input type="checkbox" id="acc13">
 	    <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
 	    <div class="acc-body">
 	    <ul>
@@ -253,23 +229,19 @@ title: 'Library Membership and myLibrary ID'
 	    <li>To complete the process, key in your <strong>email address</strong> and your <strong>mobile number</strong>, and you will receive a one-time password (OTP) on your mobile phone.</li>
 	    </ul>
 	    </div>
-	    </div>
 
-<div>
-		<input type="radio" name="acc" id="acc14">
+<input type="checkbox" id="acc14">
         <label for="acc14">What do I need to take note of when creating my User ID and password? </label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
         <ul>
         <li>Your <strong>User ID</strong> must contain six to 20 alphanumeric characters. You cannot use special characters nor your NRIC number. Your User ID cannot be changed once created.</li>
         <li>Your <strong>password</strong> must have eight to 24 characters, and include one letter and one number.</li>
         </ul>
         </div>
-        </div>
 
-<div>
-		<input type="radio" name="acc" id="acc15">
+<input type="checkbox" id="acc15">
         <label for="acc15">I can’t remember if I have a myLibrary ID. How can I check?</label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
 		<p>
 			Use this <a href="https://account.nlb.gov.sg">online service</a> and:
 	</p>
@@ -293,12 +265,9 @@ title: 'Library Membership and myLibrary ID'
         </ul>
 -->
         </div>
-        </div>
-
-<div>
-		<input type="radio" name="acc" id="acc16">
+<input type="checkbox" id="acc16">
         <label for="acc16">What should I do if I forget my User ID or password? </label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
         <ul>
         <li>You can <a href="https://account.nlb.gov.sg">retrieve your User ID and reset your password online</a>.
         <ul>
@@ -308,6 +277,6 @@ title: 'Library Membership and myLibrary ID'
         </li>
         </ul>
        </div>
-        </div>
-  </div><!--close accordion style-->
+
+</div><!--close accordion style-->
 
