@@ -416,4 +416,3 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <div class="new-accordion-content">
       <p>Please visit the <a href="https://childrenandteens.nlb.gov.sg/events/bookbugsx/">Book Bugs website</a> for more information, e.g. about how to earn points to redeem Book Bugs cards, and how to redeem the cards.</p>
     </div>
- </div>
