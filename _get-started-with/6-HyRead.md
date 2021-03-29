@@ -24,20 +24,17 @@ title: 'HyRead Chinese eBooks and eMagazines'
 <p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp" target="_blank" rel="noopener">its website</a> or the app from the <a href="https://goo.gl/kGEflg" target="_blank" rel="noopener">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available.</p>
 
 <h2>Setting up the HyRead 3 app</h2>
-<div class="acc-kontainer"><!--accordion-->          
-<div>
-		<input type="radio" name="acc" id="acc1"><!--question 1-->
+<div class="new-accordion"><!--accordion-->     
+	<input type="checkbox" id="acc1"><!--question 1-->
         <label for="acc1">What can I do with the HyRead 3 app?</label>
-        <div class="acc-body"><!--answer for question 1-->
+        <div class="new-accordion-content"><!--answer for question 1-->
 		<p>After signing in with your <a href="/get-started-with/myLibrary/" target="_blank" rel="noopener">myLibrary ID</a>, you can browse, checkout, download and read Chinese eBooks and eMagazines from NLB’s HyRead collection.</p>
 		<p>You can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>.</p>
-</div><!--close div for acc-body-->
-</div><!--close div for qn-->
+</div><!--close div for question 1-->
 
-<div>
-		<input type="radio" name="acc" id="acc2">
+<input type="checkbox" id="acc2">
         <label for="acc2">What are the system requirements for the HyRead 3 app?</label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
   <p>For best results, HyRead recommends the minimum requirements listed below:</p>
 <p>
 	<table>
@@ -63,8 +60,6 @@ title: 'HyRead Chinese eBooks and eMagazines'
 		</p>
 	<p>For more information, please refer to the <a href="https://ebook.hyread.com.tw/Template/store/hyreadApp3/index.jsp" target="_blank" rel="noopener">HyRead 3 mobile app webpage</a>.</p>
 </div>
-</div>
-
 </div><!--close accordion-->
 
 <h3>Borrowing and Reading</h3>
