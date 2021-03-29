@@ -30,7 +30,7 @@ sections:
           url: /get-started-with/nlb-mobile
           image: /images/QR_downloadapp.svg
           alt: 'QR code to install the NLB Mobile app'
-          button: 'Learn More'
+          button: 'Learn More about the App'
     - infopic:
           title: 'Read on the Go'
           subtitle: null
@@ -46,7 +46,7 @@ sections:
           url: /get-started-with/enews/
           image: /images/Home_news_landscape.png
           alt: 'Publications include The Washington Post, NewsWeek, Bloomsberg Businessweek'
-          button: 'Learn How'
+          button: 'Learn How to Get Access'
     - infopic:
           title: 'Learn New Skills'
           subtitle: null
@@ -70,7 +70,7 @@ sections:
           url: /get-started-with/nlb-mobile/
           image: /images/ScantoBorrow_bookcover_iPhone11_lowres2.png
           alt: 'Borrow both ebooks and physical books with the in-app camera'
-          button: 'Learn How'
+          button: 'Learn More about the App'
     - resources:
           title: 'Resources Curated by Our Librarians'
           subtitle: Spotlight
