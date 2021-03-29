@@ -105,7 +105,6 @@ title: 'eMagazines and eNewspapers'
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 
 <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
-
 </div>
 
 <input type="checkbox" id="sph2b">
@@ -155,8 +154,8 @@ title: 'eMagazines and eNewspapers'
   <p>No. NLB's license agreement with SPH is for the digital version of the print newspaper only.</p>
 </div>
 
-<table style="background-color:#ffe6e6; border:0; font-size:15px;">
-				       <tr><td>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</td></tr></table> </p>
+<table style="background-color:#ffe6e6; border:0; font-size:15px; margin: 10px 0 0 0;">
+				       <tr><td>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</td></tr></table>
 </div><!--close div for section -->
 
 <p>
