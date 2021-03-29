@@ -81,8 +81,8 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-1{
     //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
+	background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+   -webkit-background-size: cover;
     background-size: cover;
   }
   &-2{
@@ -375,6 +375,49 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+//New NLB Accordion
+
+.new-accordion-label input {
+	display: none;
+}
+.new-accordion-label label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+.new-accordion-label label:hover {
+	background: #4a96b0;
+	color: #FFF;
+}
+
+.new-accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input.new-accordion-label + label.new-accordion-label + .new-accordion-content {
+	display: none;
+}
+
+input:checked.new-accordion-label + label.new-accordion-label + .accordion-content {
+	display: none;
+}
+
+input:checked.new-accordion-label + label.new-accordion-label + .accordion-content {
+	display: block;
+}
+
+	    
 // NLB Accordion
 .acc-kontainer {
 	width: 100%;
