@@ -94,5 +94,6 @@ access training courses?</label>
             <p>We're sorry! Please <a href="mailto:enquiry@nlb.gov.sg" target="_top">email us</a> and provide details of the issue, including a screenshot.</p>
       </div>
             </div>
-<p>Don't see your question here? We're sorry. There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LyndaLibrary</a> and in <a href="https://www.linkedin.com/help/lynda">Lynda's own Help page</a>. Tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </p>
 
+<table style="background-color:#ffe6e6; border:0; font-size:15px; margin: 10px 0 0 0;">
+				       <tr><td>Don't see your question here? We're sorry. There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LyndaLibrary</a> and in <a href="https://www.linkedin.com/help/lynda">Lynda's own Help page</a>. Tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </td></tr></table>
