@@ -407,12 +407,12 @@ $desktop: 960px + (2 * $gap) !default;
 	color: #111111;
 }
 
-input.new-accordion + label.new-accordion + .new-accordion-content {
+input + label + .new-accordion-content {
 	display: none; 
 }
 
   
-.new-accordion input:checked + label.new-accordion + .new-accordion-content {
+input:checked + label + .new-accordion-content {
 	display: block; 
 }
 	    
