@@ -16,21 +16,18 @@ title: 'eMagazines and eNewspapers'
 </ul>
 </p>
 
-<div class="FAQ-section" id="sph">
+<div id="sph">
 <h3>How to Read SPH eNewspapers From Home</h3>
 <div class="bp-youtube">
 <iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/brkz6074lXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div><!--close bp-youtube-->
+	</div> <!--close id = sph-->
 	
 <h4>Get started</h4>
-<div class="acc-kontainer"><!--div for each button-->
-
-<div>
-	
-        <input type="radio" name="acc" id="sph1">
-        <label for="sph1">How can I read SPH newspapers from my computer at home?</label>
-
- <div class="acc-body">
+<div class="new-accordion">
+<input type="checkbox" id="sph1">
+<label for="sph1">How can I read SPH newspapers from my computer at home?</label>
+<div class="new-accordion-content">
   <p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
 <p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
 </p>
@@ -38,39 +35,30 @@ title: 'eMagazines and eNewspapers'
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 <p>If you encounter problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div><!--close acc-body-->
-</div><!--close div for qn -->
 
-<div>
-        <input type="radio" name="acc" id="sph1b">
-        <label for="sph1b">Can I read the newspapers on tablets and smartphones? </label>
-
- <div class="acc-body">
+<input type="checkbox" id="sph1b">
+<label for="sph1b">Can I read the newspapers on tablets and smartphones? </label>
+<div class="new-accordion-content">
 	<p>Yes, you can. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above.</p> 	
 	<p class="end-note">If you are using the Safari browser on an iPad, first, go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 	<p>For users of Android devices, not all the browsers may work (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers.</p>
 	<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser.</p>
-</div><!--close acc-body-->
-</div><!--close div for qn -->
+</div>
 
-<div>
-        <input type="radio" name="acc" id="sph4">
-        <label for="sph4">Can I access SPH newspapers from the NLB Mobile app? </label>
-
- <div class="acc-body">
+<input type="checkbox" id="sph4">
+<label for="sph4">Can I access SPH newspapers from the NLB Mobile app? </label>
+<div class="new-accordion-content">
 	<p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
 	<p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>
 	<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
 
-</div><!--close acc-body-->
-</div><!--close div for qn -->
+</div>
 
-<div>
-        <input type="radio" name="acc" id="sph2">
-        <label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
-
- <div class="acc-body">
+<input type="checkbox" id="sph2">
+<label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
+<div class="new-accordion-content">
 	<p>You can read the current issues of:</p>
 	  <ol>
 		<li>The Straits Times</li> 
@@ -83,19 +71,14 @@ title: 'eMagazines and eNewspapers'
 		<li>Tamil Murasu</li> 
 	</ol>
 <p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
-</div><!--close acc-body-->
-</div><!--close div for qn -->
-
-</div><!--close acc-kontainer-->
+</div>
+</div><!--close new-accordion-->
 
 <h4>Troubleshooting</h4>
-<div class="acc-kontainer"><!--div for each button-->
-
-<div>
-        <input type="radio" name="acc" id="sph2a">
-        <label for="sph2a">How do I zoom in to the newspaper page / turn pages / read issues from other dates?</label>
-
- <div class="acc-body">
+<div class="new-accordion">
+<input type="checkbox" id="sph2a">
+<label for="sph2a">How do I zoom in to the newspaper page / turn pages / read issues from other dates?</label>
+<div class="new-accordion-content">
 	<p>The interface differs depending on which SPH ePaper you are reading.</p>
 	<h4>For English and Malay SPH ePapers (The Straits Times, The Business Times, The New Paper, and Berita Harian)</h4>
 	<h5>When Reading from Desktop / Laptop Computers</h5>
@@ -123,87 +106,66 @@ title: 'eMagazines and eNewspapers'
 
 <p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
 
-</div><!--close acc-body-->
-</div><!--close div for qn -->
+</div>
 
-<div>
-        <input type="radio" name="acc" id="sph2b">
-        <label for="sph2b">The navigation or zoom features on the ePaper do not work for my device.</label>
-
- <div class="acc-body">
+<input type="checkbox" id="sph2b">
+<label for="sph2b">The navigation or zoom features on the ePaper do not work for my device.</label>
+<div class="new-accordion-content">
   <p>If you are using the Safari browser on an iPad, first, make sure that you are using the mobile version of the website. To check this, go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
   <p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
   <p>If the above does not apply and you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
-</div><!--close acc-body-->
-</div><!--close div for qn -->
+</div>
 
-<div>
-        <input type="radio" name="acc" id="sph6">
-        <label for="sph6">I see an SPH login screen. What should I do? </label>
- <div class="acc-body">
+<input type="checkbox" id="sph6">
+<label for="sph6">I see an SPH login screen. What should I do? </label>
+<div class="new-accordion-content">
 	<p>This may happen for a few reasons.</p>
 <p>First, you may be using a device with an older operating system. Please update your operating system, e.g. Apple devices should be on iOS 13 / iPadOS 13 / MacOS 15 and above. Go to Settings > General > Software Update to check which version of the operating system you are on, and update to a new version if needed.</p>
 <p>Second, you may be using an incompatible browser. For example, Android users on Opera may wish to try another browser.</p>
 <p>Third, if this happens while you were reading the ePaper, this may be because your browser window has been idle for a while. Please log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
-</p></div><!--close acc-body-->
-</div><!--close div for qn -->
+</p></div>
 
 
-<div>
-        <input type="radio" name="acc" id="sph7">
-        <label for="sph7">I was logged out while I was reading the newspaper online. What should I do? </label>
-
- <div class="acc-body">
+<input type="checkbox" id="sph7">
+<label for="sph7">I was logged out while I was reading the newspaper online. What should I do? </label>
+<div class="new-accordion-content">
   <p>Due to licensing and access control, there is a limit to the number of users who can read the newspapers at the same time. Sometimes, users may be logged out when the limit is reached. If this happens, please wait a while, then log in again from <a href="https://go.gov.sg/nlb-enews" target="_blank">go.gov.sg/nlb-enews</a>.
 </p>
-</div><!--close acc-body-->
-</div><!--close div for qn -->
-
-</div><!--close acc-kontainer-->
+</div>
+</div><!--close new accordion-->
 
 <h4>More about reading SPH newspapers from home</h4>
-<div class="acc-kontainer"><!--div for each button-->
-<div>
-        <input type="radio" name="acc" id="sph1a">
-        <label for="sph1a">I hear that this service started during the Circuit Breaker. How long does NLB intend to offer access to SPH newspapers from home?</label>
-
- <div class="acc-body">
+<div class="new-accordion">
+<input type="checkbox" id="sph1a">
+<label for="sph1a">I hear that this service started during the Circuit Breaker. How long does NLB intend to offer access to SPH newspapers from home?</label>
+<div class="new-accordion-content">
   <p>NLB would like to continue offering SPH eNewspapers as a staple offering. Such subscriptions are dependent on our agreements and negotiations with vendors. 
 </p>
-</div><!--close acc-body-->
-</div><!--close div for qn -->
+</div>
 
-<div>
-        <input type="radio" name="acc" id="sph3">
-        <label for="sph3">What time will the newspapers be published?</label>
-
- <div class="acc-body">
+<input type="checkbox" id="sph3">
+<label for="sph3">What time will the newspapers be published?</label>
+<div class="new-accordion-content">
   <p>This depends on SPH’s publication times. You can read the newspaper on the same day as it is published.  
 </p></div><!--close acc-body-->
-</div><!--close div for qn -->
 
-<div>
-        <input type="radio" name="acc" id="sph8">
-        <label for="sph8">Does NLB's arrangement with SPH also allow me to read the articles on ST Online and other SPH websites?</label>
-
- <div class="acc-body">
+<input type="checkbox" id="sph8">
+<label for="sph8">Does NLB's arrangement with SPH also allow me to read the articles on ST Online and other SPH websites?</label>
+<div class="new-accordion-content">
   <p>No. NLB's license agreement with SPH is for the digital version of the print newspaper only.</p>
-</div><!--close acc-body-->
-</div><!--close div for qn -->
-
-</div><!--close acc-kontainer-->
+</div>
+</div><!--close new accordion-->
 
 <p>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div><!--close div for section -->
 
 <p>
-<div class="FAQ-section" id="PressReaderLocalNews"> 
+<div class="new-accordion" id="PressReaderLocalNews"> 
 <h4>Downloading Local Newspapers</h4>
-	  <div class="acc-kontainer"><!--div for each button-->
-<div>
-		<input type="radio" name="acc" id="acc7">
-        <label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
-        <div class="acc-body">
+
+<input type="checkbox" id="acc7">
+<label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
+<div class="new-accordion-content">
 		<p>You have to use the PressReader app to download SPH newspapers. Do note that these newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
 <p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
 </p>
@@ -217,11 +179,8 @@ title: 'eMagazines and eNewspapers'
 <p>Anything you download in the PressReader app can be accessed using the "Downloaded" button at the bottom of the PressReader app. You can download as many SPH newspapers as you want <b>when you are at the libraries</b>, just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
         
 
-</div><!--close div for acc7 (question)-->
-</div><!--close div for acc body (answer)-->
-</div><!--close acc-kontainer-->
+</div><!--close div for new-accordion-content (answer)-->
 </div><!--close section-->
-
 
 
 <div class="FAQ-section" id="AboutPressReader"> 
@@ -260,13 +219,12 @@ title: 'eMagazines and eNewspapers'
 ![An animated GIF describing how to access SPH eNewspapers through the NLB Mobile and PressReader apps.](/images/PressReader_flowchart_animatedGIF_2.gif)
 -->
 
-<div class="FAQ-section" id="PressReaderStart"> 
+<div class="new-accordion" id="PressReaderStart"> 
   <p><h4>Get Started with PressReader</h4></p> 
-  <div class="acc-kontainer"><!--div for each button-->
-<div>
-		<input type="radio" name="acc" id="acc1">
-		<label for="acc1">Where can I get the PressReader app?</label>
-<div class="acc-body">
+
+<input type="checkbox" id="acc1">
+<label for="acc1">Where can I get the PressReader app?</label>
+<div class="new-accordion-content">
  <p>You can download the app on iOS and Android devices for free at the <a href="https://itunes.apple.com/us/app/pressreader-news-magazines/id313904711?mt=8">Apple app store</a> and the <a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android&amp;hl=en">Google Play Store</a>.</p>
 <p>For other platforms (e.g. Windows), please check this <a href="https://care.pressreader.com/hc/en-us/articles/204520009-Download-the-Latest-App">PressReader guide</a>.
       <p><table style="height: 170px; width: 170px;">
@@ -278,22 +236,17 @@ title: 'eMagazines and eNewspapers'
      </p>
     </p>
 </div><!--close for acc body (answer)-->
-</div><!--close div for each button-->
 
-  <div>
-        <input type="radio" name="acc" id="acc2">
-        <label for="acc2">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</label>
-
- <div class="acc-body">
+<input type="checkbox" id="acc2">
+<label for="acc2">When I open the PressReader app, I see a box that says ‘Sponsored Access’. What does 'Sponsored Access' mean?</label>
+<div class="new-accordion-content">
   <p>‘Sponsored Access’ means that you have been granted complimentary access to PressReader. During this period, you can download PressReader content and continue to read the downloaded content until you decide to delete the files.</p> 
 <p>‘Sponsored Access’ is granted when you access PressReader via the NLB Mobile app, or when you connect your device to Wireless@SGx at the libraries.
 </p></div>
-</div>
 
-<div>
-		<input type="radio" name="acc" id="acc3">
-        <label for="acc3">How do I get complimentary access (also known as ‘Sponsored Access’) to PressReader?</label>
-<div class="acc-body">
+<input type="checkbox" id="acc3">
+<label for="acc3">How do I get complimentary access (also known as ‘Sponsored Access’) to PressReader?</label>
+<div class="new-accordion-content">
     <p>There are many ways! If you are reading from your mobile device, the best way is through the NLB Mobile app. If you are reading from your computer or laptop, use your Internet browser. If you want to read local newspapers too, you have to access PressReader at our libraries.</p>
 <p>Here are the details of each access mode:</p>
 <ol>
@@ -315,22 +268,17 @@ title: 'eMagazines and eNewspapers'
 </li>
 </ol>
   </div>
-</div>
 
-<div>
-		<input type="radio" name="acc" id="acc3a">
+<input type="checkbox" id="acc3a">
         <label for="acc3a">I prefer to access PressReader from my desktop/laptop computer. How can I do this?</label>
-	<div class="acc-body">
+	<div class="new-accordion-content">
   <p>Go to NLB&rsquo;s <a href="https://eresources.nlb.gov.sg/main/Browse/resource/1323" target="_blank">eResources webpage on PressReader</a>. Sign in with your myLibrary ID, and click on &ldquo;PressReader&rdquo; to gain complimentary access to the publications. You can share this shortcut - <a href="https://go.gov.sg/nlb-pressreader" target="_blank">go.gov.sg/nlb-pressreader</a> with your friends.</p>
 		<img src="/images/How-to-use-PressReader.gif" alt="how to use pressreader">
 	</div>
-</div>
 
-<div>
-		<input type="radio" name="acc" id="acc4">
-        <label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary content?</label>
-
-<div class="acc-body">
+<input type="checkbox"  id="acc4">
+<label for="acc4">How do I confirm if I have connected to PressReader and can enjoy complimentary content?</label>
+<div class="new-accordion-content">
   <p>To confirm this, go to the &lsquo;Browse&rsquo; tab in the PressReader app and look for a tea cup icon at the bottom right corner of the display. This tea cup icon will appear when you are connected to PressReader through the Wireless@SGx network at NLB libraries, or via the NLB Mobile app.</p>
 <table style="height: 170px; width: 170px;">
 <tbody><tr>
@@ -340,31 +288,27 @@ title: 'eMagazines and eNewspapers'
 </table>
 <p>Tap on the tea cup to confirm that the access is being provided by NLB.</p>
   </div>
-</div> 
 
-<div>
-		<input type="radio" name="acc" id="acc5">
-        <label for="acc5">Will I incur any costs when I download content from PressReader?</label>
-
-<div class="acc-body">
-	<p>No, you will not be charged for the content that NLB has subscribed to.</p> <p class="end-note">(Do note that downloading content using your mobile data plan may incur charges from your telco for the data used.)</p>
+<input type="checkbox" id="acc5">
+<label for="acc5">Will I incur any costs when I download content from PressReader?</label>
+<div class="new-accordion-content">
+<p>No, you will not be charged for the content that NLB has subscribed to.</p> <p class="end-note">(Do note that downloading content using your mobile data plan may incur charges from your telco for the data used.)</p>
   </div>
-</div> 
 
-<div>
-		<input type="radio" name="acc" id="acc6">
-        <label for="acc6">How many eNewspaper and eMagazine titles or issues can I download?</label>
-        <div class="acc-body">
+<input type="checkbox" id="acc6">
+<label for="acc6">How many eNewspaper and eMagazine titles or issues can I download?</label>
+<div class="new-accordion-content">
 		<p>Good news, there's no limit! You can download as many titles and issues as you like.</p><p class="end-note">But make sure your device has enough space to store the downloaded content.</p>
   </div>
-</div> 
+</div> <!-- close new-accordion-->
+</div><!-- close section--> 
 
 <p></p>
 <h4>Magazine titles on PressReader and Libby</h4>
-<div>
-		<input type="radio" name="acc" id="acc6a">
-	<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
-        <div class="acc-body">
+<div class="new-accordion">
+<input type="checkbox" id="acc6a">
+<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
+<div class="new-accordion-content">
 		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another application - not PressReader. <a href="https://libbyapp.com/library/nlb/guide/magazines" target="_blank" rel="noopener">Click here to read</a> <i>The Economist</i> on your browser or the Libby app.</p>
 		<p>PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in <b>Libby</b> and not PressReader:</p>
 		<ol>
@@ -381,12 +325,10 @@ title: 'eMagazines and eNewspapers'
   
 
 </div>
-</div> 
 
-<div>
-		<input type="radio" name="acc" id="acc6b">
-	<label for="acc6b">What is the difference between Libby's eMagazines and PressReader's eNewspapers and eMagazines?</label>
-        <div class="acc-body">
+<input type="checkbox" id="acc6b">
+<label for="acc6b">What is the difference between Libby's eMagazines and PressReader's eNewspapers and eMagazines?</label>
+<div class="new-accordion-content">
 		<p>
 			<p>PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in <b>Libby</b> and not PressReader:</p>
 		<ol>
@@ -410,39 +352,35 @@ title: 'eMagazines and eNewspapers'
 </div> 
 
 <p>
-<div class="FAQ-section" id="PressReaderTroubleShooting">
+<div class="new-accordion" id="PressReaderTroubleShooting">
 <h4>Troubleshooting PressReader</h4>
-  <div><!--div for each button-->
-<input type="radio" name="acc" id="acc8">
-        <label for="acc8">I’m already at the library and connected to Wireless@SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
 
-<div class="acc-body">
+<input type="checkbox" id="acc8">
+<label for="acc8">I’m already at the library and connected to Wireless@SGx, but I can’t see local newspapers in PressReader. What should I do?</label>
+<div class="new-accordion-content">
     <p>Sometimes, the app takes a while to refresh. To speed up the refresh, put your finger at the centre of the screen and drag down. When the app is refreshed, you should see a welcome box informing you that you are at an NLB hotspot.</p>
 	<p>Alternatively, if you only wish to read SPH newspapers <b>online</b> instead of downloading them, you can use the SPH eNewspaper service instead of PressReader to access the newspapers. Just log in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
 	</p>
 
-</div><!--close div for acc7 (question)-->
-    </div><!--close div for acc body (answer)-->
+</div><!--close div for acc body (answer)-->
 
-<div>
-		<input type="radio" name="acc" id="acc9">
-        <label for="acc9">Where are the eNewspapers / eMagazines that I have downloaded? I can’t find them.</label>
-        <div class="acc-body">
+<input type="checkbox" id="acc9">
+<label for="acc9">Where are the eNewspapers / eMagazines that I have downloaded? I can’t find them.</label>
+<div class="new-accordion-content">
   <p>Select the ‘Downloaded’ tab in the PressReader app to view the content that you have downloaded. </p>
-</div></div>
+</div>
 
-<div>
-		<input type="radio" name="acc" id="acc10">
-        <label for="acc10">Do I need an internet connection to read the downloaded eNewspapers / eMagazines?</label>
-        <div class="acc-body">
+<input type="checkbox" id="acc10">
+<label for="acc10">Do I need an internet connection to read the downloaded eNewspapers / eMagazines?</label>
+<div class="new-accordion-content">
   <p>No, you don’t need to connect to the Internet for this as the downloaded files can be accessed while your device is offline.</p>
-</div></div>
+</div>
 
-<div>
-		<input type="radio" name="acc" id="acc11">
-		<label for="acc11">I cannot use the app and I need help. What should I do? </label>
-		<div class="acc-body">
+<input type="checkbox" id="acc11">
+<label for="acc11">I cannot use the app and I need help. What should I do? </label>
+<div class="new-accordion-content">
   <p>You can <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered. Sending us screenshots related to the issue(s) would help us assist you better!</p>
-</div></div>
+</div>
+</div>
 
 
