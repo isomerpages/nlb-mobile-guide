@@ -170,15 +170,13 @@ Tap Renew Loan, then Renew. </p>
   </li>
   <li>You cannot renew a “Skip the Line” loan.&nbsp;</li>
 </ul>
-
-  </div>
+</div>
 
 <input type="checkbox" id="acc14">
 <label for="acc14">How do I know which titles have “Skip the Line” copies?</label>
 <div class="new-accordion-content">
   <p>Titles with “Skip the Line” copies have a four-leaf clover icon next to the “Borrow” button. </p>
   </div>
-</div>
 
 <input type="checkbox" id="acc15">
         <label for="acc15">Where can I browse a list of all “Skip the Line” titles?</label>
