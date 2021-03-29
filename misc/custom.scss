@@ -394,7 +394,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .new-accordion label:hover {
 	background: #fce274;
-	color: #ffffff;
+	color: #111111;
 	font-weight: bolder;
 }
 
@@ -405,7 +405,6 @@ $desktop: 960px + (2 * $gap) !default;
 	margin: 0 0 5px 0;
 	border-radius: 3px;
 	color: #111111;
-	display: none;
 }
 
 input.new-accordion + label.new-accordion + .new-accordion-content {
