@@ -405,11 +405,15 @@ $desktop: 960px + (2 * $gap) !default;
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 	color: #111111;
-	visibility: collapse; 
 }
 
+input.new-accordion + label.new-accordion + .new-accordion-content {
+	display: none; 
+}
+	
+	    
 .new-accordion:checked + label.new-accordion + .new-accordion-content {
-	visibility: visible; 
+	display: block; 
 }
 	    
 	    
