@@ -48,7 +48,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 
 <p><h3>Commonly Asked Questions</h3></p>
 
-<div class="new-container">         
+<div class="new-accordion">         
 <input type="checkbox" id="acc10">
         <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="new-accordion-content">
