@@ -154,9 +154,9 @@ title: 'eMagazines and eNewspapers'
 <div class="new-accordion-content">
   <p>No. NLB's license agreement with SPH is for the digital version of the print newspaper only.</p>
 </div>
-</div><!--close new accordion-->
 
-<p>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
+<table style="background-color:#ffe6e6; border:0; font-size:15px;">
+				       <tr><td>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</td></tr></table> </p>
 </div><!--close div for section -->
 
 <p>
