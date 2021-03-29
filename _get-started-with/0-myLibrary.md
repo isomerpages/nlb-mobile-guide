@@ -215,7 +215,7 @@ title: 'Library Membership and myLibrary ID'
 
 <input type="checkbox" id="acc13">
 	    <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
-	    <div class="new-container-content">
+	    <div class="new-accordion-content">
 	    <ul>
 	    <li>All library members, even children and babies, can have a myLibrary ID.</li>
 	    <li>Creating a myLibrary ID will only take a few minutes! You may create it:
