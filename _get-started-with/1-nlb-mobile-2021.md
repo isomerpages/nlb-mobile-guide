@@ -45,7 +45,7 @@ title: 'NLB Mobile app'
 </tr>
 </tbody>
 </table>
-
+</div>
 <!--<h2>A library in your pocket</h2>
 <p>
 	<div class="bp-youtube">
@@ -160,8 +160,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 	 </div>
 
 </p>
-	
-		<h5>List of Features</h5>
+	<h5>List of Features</h5>
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 		<p><strong>Borrow and read / listen</strong></p>
 		<ul>
@@ -196,7 +195,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<li>Locate nearby libraries based on your current location</li>
 		<li>Get library addresses, directions and operating hours easily</li>
 		</ul>
-		</div>
+</div>
 
 
 <!--Section on Borrowing physical items, eBooks and Audiobooks-->
@@ -220,7 +219,6 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <label for="acc9">Does scanning the barcode of the library item with the app immediately trigger a checkout?</label>
 <div class="new-accordion-content">
   <p>No, the app will seek your confirmation before the item is checked out.</p>
-
 </div>
 
 <input type="checkbox" id="acc10">
@@ -276,7 +274,6 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <div class="new-accordion-content">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
 <p>Just go to the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
-
 </div>
 
 <input type="checkbox" id="acc14">
@@ -318,7 +315,6 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 			</div>
 
 <div id="enews"><p><h4>Reading eMagazines/ eNewspapers</h4></p>
-
 <input type="checkbox" id="acc17">
 <label for="acc17">How do I read eMagazines/ eNewspapers from NLB Mobile?  </label>
 <div class="new-accordion-content">
@@ -399,8 +395,9 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		</ol>
 	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone">
     </div>
+</div>
 
-<div id="points"><p>
+<div class="new-accordion" id="points"><p>
 <p><h4>Reading Challenges, Points and Rewards</h4></p>
 <input type="checkbox" id="acc24">
 <label for="acc24">On my Profile page, I see ‘Challenges’. What is this about?</label>
