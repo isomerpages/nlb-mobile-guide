@@ -126,12 +126,12 @@ title: 'Library Membership and myLibrary ID'
            <p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
            <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
 </div>
-</div><!--close new-container class-->
+</div><!--close new-accordion class-->
 
 <p>
     <a name="mylibrary"><h3>myLibrary ID</h3></a>
 </p>
-<div class="new-container">          
+<div class="new-accordion">          
 <input type="checkbox" id="acc11">
 		<label for="acc11">Why do I need a myLibrary ID? </label>
 		<div class="new-accordion-content">
@@ -216,7 +216,7 @@ title: 'Library Membership and myLibrary ID'
 	<div>
 		<input type="checkbox" id="acc13">
 	    <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
-	    <div class="acc-body">
+	    <div class="new-container-content">
 	    <ul>
 	    <li>All library members, even children and babies, can have a myLibrary ID.</li>
 	    <li>Creating a myLibrary ID will only take a few minutes! You may create it:
