@@ -7,7 +7,7 @@ image: /images/NL-9-covid-19-vaccines.jpg
 
 ---
 
-<img src="/images/NL-9-covid-19-vaccines.jpg">
+<img src="/images/NL-9-covid-19-vaccines.jpg" alt="article image">
 
 <p style="font-size:8pt;">Photo credit: <a href="https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/" target="_blank">https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/</a></p>
 
@@ -17,11 +17,11 @@ Less than a year after the outbreak, several successful trials on potential COVI
 
 Below is a diagrammatic overview of how the various COVID-19 vaccines work and how they compare with one another:[^4]
 
-<img src="/images/NL-9-types-of-vaccines.jpg">
+<img src="/images/NL-9-types-of-vaccines.jpg" alt="types of Covid-19 vaccines">
 
 <p style="font-size:8pt;">Source: What different types of Covid-19 vaccine are there? (2021, January 8). Wellcome. Retrieved 2021, January 15, from <a href="https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there" target="_blank">https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there</a></p>
 
-<img src="/images/NL-9-vaccines-compare.jpg">
+<img src="/images/NL-9-vaccines-compare.jpg" alt="comparisons of Covid-19 vaccines">
 
 <p style="font-size:8pt;">Source: What different types of Covid-19 vaccine are there? (2021, January 8). Wellcome. Retrieved 2021, January 15, from <a href="https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there" target="_blank">https://wellcome.org/news/what-different-types-covid-19-vaccine-are-there</a></p>
 
@@ -62,23 +62,23 @@ You can also check out an earlier guide on vaccinations published by the NLB in 
 
 <h4>Videos and Podcasts</h4>
 <h5>1. How vaccines work against COVID-19: Science, simplified</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uWGTciX795o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/uWGTciX795o" title="How vaccines work against COVID-19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/uWGTciX795oo" target="_blank">How vaccines work against COVID-19: Science, simplified.</a> (2020, December 18). <i>Scripps Research</i>. Retrieved 2021, January 18.
 
 <h5>2. COVID-19 vaccines and herd immunity</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/SkpIaeQtbGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/SkpIaeQtbGA" title="COVID-19 vaccines and herd immunity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/SkpIaeQtbGAI" target="_blank">COVID-19 vaccines and herd immunity.</a> (2020, December 17). <i>JAMA Network</i>. Retrieved 2021, January 20.
 
 <h5>3. Mayo Clinic Q&A podcast: Expert updates on the COVID-19 vaccine</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/85YFu4soIk0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/85YFu4soIk0" title="Mayo Clinic Q&A podcast: Expert updates on the COVID-19 vaccine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/85YFu4soIk0" target="_blank">Mayo Clinic Q&A podcast: Expert updates on the COVID-19 vaccine.</a> (2021, January 13). <i>Mayo Clinic</i>. Retrieved 2021, January 18.
 
 <h5>4. Why are people hesitant to trust a COVID-19 vaccine?</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BJ2rT7h70QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/BJ2rT7h70QM" title="Why are people hesitant to trust a COVID-19 vaccine?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/BJ2rT7h70Q" target="_blank">Why are people hesitant to trust a COVID-19 vaccine?</a> (2020, December 11). <i>ABC News</i>. Retrieved 2021, January 18.
 
 <h5>5. Covid-19: Why vaccine mistrust is growing - The Economist</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3EK4VRmG3yM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3EK4VRmG3yM" title="Why vaccine mistrust is growing - The Economist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/3EK4VRmG3yM" target="_blank">Covid-19: Why vaccine mistrust is growing - The Economist</a> (2020, November 18). <i>The Economist</i>. Retrieved 2021, January 19.
 
 <h5>6. <a href="https://sph.umich.edu/podcast/coronavirus/debunking-misinformation-about-covid-19.html" target="_blank">Debunking misinformation about COVID-19</a></h5>
@@ -91,11 +91,11 @@ COVID-19 vaccines rolled out at warp speed – safety, side effects and the big 
 Episode #20 - COVID-19 - Variants & Vaccines. (2021, January 8). <i>World Health Organisation</i>. Retrieved 2021, January 19.
 
 <h5>9. Will Covid-19 Vaccine Passports Work?</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/yIKWhp2_eyM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/yIKWhp2_eyM" title="Will Covid-19 Vaccine Passports Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/yIKWhp2_eyM" target="_blank">Will Covid-19 Vaccine Passports Work?</a> (2021, January 17). <i>CNBC</i>. Retrieved 2021, January 18.
 
 <h5>10. Singapore's 3 COVID-19 vaccines - and is one better than the others?</h5>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/KWmO8sTjuwU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/KWmO8sTjuwU" title="Singapore's 3 COVID-19 vaccines - and is one better than the others?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/KWmO8sTjuwU" target="_blank">Singapore's 3 COVID-19 vaccines - and is one better than the others?</a> (2021, January 8). <i>CNA Insider</i>. Retrieved 2021, January 21.
 
 

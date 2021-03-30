@@ -81,8 +81,8 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &-1{
     //background-color: $primary;
-    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
-    -webkit-background-size: cover;
+	background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+   -webkit-background-size: cover;
     background-size: cover;
   }
   &-2{
@@ -375,6 +375,47 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+//New NLB Accordion
+
+.new-accordion input {
+	display: none;
+}
+.new-accordion label {
+	display: block;
+	padding: 8px 22px;
+	margin: 8px 0 2px 0;
+	cursor: pointer;
+	background: #ffeb99;
+	border-radius: 3px;
+	color: #111111;
+	transition: ease .5s;
+	font-size: 20px;
+}
+
+.new-accordion label:hover {
+	background: #FCE682;
+	color: #111111;
+}
+
+.new-accordion-content {
+	background-color: #fffff0;
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 5px 0;
+	border-radius: 3px;
+	color: #111111;
+	font-size: 20px;
+}
+
+input + label + .new-accordion-content {
+	display: none; 
+}
+  
+input:checked + label + .new-accordion-content {
+	display: block; 
+}
+	    
+	    
 // NLB Accordion
 .acc-kontainer {
 	width: 100%;

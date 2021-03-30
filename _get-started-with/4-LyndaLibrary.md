@@ -30,14 +30,10 @@ title: eLearning
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
 
 <p><h3>Getting Started</h3></p>
-<div class="acc-kontainer" id="lynda-get-started">          
-	<div>
-
-<div>
-		<input type="radio" name="acc" id="acc2">
+<div class="new-accordion" id="lynda-get-started">          
+<input type="checkbox" id="acc2">
         <label for="acc2">How do I start using LyndaLibrary from the NLB Mobile app? </label>
-
-<div class="acc-body">
+<div class="new-accordion-content">
           <p>
 		First, please ensure that your app is up-to-date. <a href="https://go.nlb.gov.sg/nlbmobile">Tap here with your mobile phone</a> or scan the QR code below to go to the NLB Mobile app store page.
 	</p>
@@ -48,13 +44,11 @@ title: eLearning
 	<p>
 		Next, sign in to NLB Mobile with your myLibrary ID and select the ‘More’ icon on the Discover tab. Then, tap on the LyndaLibrary icon. Do note that if you are a new LyndaLibrary user, you will be prompted to create a Lynda profile. 
       </p>
-
-</div></div>
-		
-<div>
-		<input type="radio" name="acc" id="acc1">
+</div>
+	
+<input type="checkbox" id="acc1">
         <label for="acc1">How do I start using LyndaLibrary on my laptop or desktop? </label>
-<div class="acc-body">
+<div class="new-accordion-content">
 	<p>If you prefer to do your eLearning on a laptop or desktop, you can! Watch this video.<!--Just follow the steps detailed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_desktop">eResources FAQ page</a>.--></p>
 	<div class="vd">
      <video title="steps on using lynda" width="720px" poster="/images/lyndalibrary steps thumbnail.png" controls>
@@ -62,57 +56,44 @@ title: eLearning
 </video>
 	</div>
 	</div>
-	</div>
 
-<div>
-		<input type="radio" name="acc" id="acc5">
+<input type="checkbox" id="acc5">
         <label for="acc5">Do I need to install the Lynda mobile app?</label>
-<div class="acc-body">
+<div class="new-accordion-content">
       <p>You don't need the Lynda mobile app to access the online courses. But if you wish to use the Lynda app (e.g. to download courses for offline viewing) you can! Just follow the steps listed in our <a href="http://eresources.nlb.gov.sg/main/Help/LyndaLibrary#step_mobile">eResources FAQ page on LyndaLibrary</a>.</p>
     </div>
-    </div>
 
-<div>
-		<input type="radio" name="acc" id="acc6">
+<input type="checkbox" id="acc6">
         <label for="acc6">Is LyndaLibrary free to use for NLB members?</label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
       <p>Yes! As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
       </div>
-            </div>
-
 </div><!--close section-->
+
 <h3>Questions about accounts</h3>
-<div class="acc-kontainer" id="lynda-get-started">      
-
-
-<div>
-		<input type="radio" name="acc" id="acc3">
+<div class="new-accordion" id="lynda-get-started">      
+<input type="checkbox" id="acc3">
         <label for="acc3">Do I need a Lynda.com or a LinkedIn account? </label>
-
-<div class="acc-body">
+<div class="new-accordion-content">
 	<p>As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to. Do note that you will be prompted to create a Lynda.com profile to save your history and bookmarks.</p>
     </div>
-</div>
 
-<div>
-		<input type="radio" name="acc" id="acc4">
+<input type="checkbox" id="acc4">
         <label for="acc4">I have a Lynda.com account. Can I still enjoy NLB’s subscription to LyndaLibrary to
 access training courses?</label>
-<div class="acc-body">
+<div class="new-accordion-content">
       <p>Yes! All NLB members can enjoy free access to training courses from NLB’s subscription to LyndaLibrary, even if they have their own personal subscription to Lynda.com. You have the option to keep both accounts separate. </p>
     </div>
-    </div>
-
-
 </div><!--close section-->
 
 <h3>Troubleshooting</h3>
-<div>
-		<input type="radio" name="acc" id="acc7">
+<div class="new-accordion">
+<input type="checkbox" id="acc7">
         <label for="acc7">I can't log in to LyndaLibrary.</label>
-        <div class="acc-body">
+        <div class="new-accordion-content">
             <p>We're sorry! Please <a href="mailto:enquiry@nlb.gov.sg" target="_top">email us</a> and provide details of the issue, including a screenshot.</p>
       </div>
             </div>
-<p>Don't see your question here? We're sorry. There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LyndaLibrary</a> and in <a href="https://www.linkedin.com/help/lynda">Lynda's own Help page</a>. Tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </p>
 
+<table style="background-color:#ffe6e6; border:0; font-size:15px; margin: 10px 0 0 0;">
+				       <tr><td>Don't see your question here? We're sorry. There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LyndaLibrary</a> and in <a href="https://www.linkedin.com/help/lynda">Lynda's own Help page</a>. Tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </td></tr></table>

@@ -23,12 +23,10 @@ title: eReads
 <br/><br/>Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
 
 
-<div class="acc-kontainer" id="eReads-get-started">          
-	<div>
-<div>
-		<input type="radio" name="acc" id="acc1">
+<div class="new-accordion" id="eReads-get-started">          
+<input type="checkbox" id="acc1">
         <label for="acc1">Where are eReads screens found? </label>
-<div class="acc-body">
+<div class="new-accordion-content">
       	<p>eReads screens can be found in schools, community clubs, malls and our libraries. <br/>Do check out our locations below.</p>
 
   <p><b>Libraries</b></p>
@@ -58,14 +56,12 @@ title: eReads
     <li>Millennia Institute</li>
     <li>Ngee Ann Polytechnic</li>
     <li>Rosyth School</li>
-    </ul>      </div> </div> 
+    </ul>      
+</div>  
 
-
-
-<div>
-		<input type="radio" name="acc" id="acc2">
+<input type="checkbox" name="acc" id="acc2">
         <label for="acc2">How do I borrow eBooks/audiobooks on the eReads screen?</label>
-<div class="acc-body">
+<div class="new-accordion-content">
         <p>Here are the steps:</p>
 <ol>   
 	<li> Select book title</li>
@@ -73,13 +69,11 @@ title: eReads
 	<li>Scan the QR code displayed and borrow the eBook/audiobook title</li>
     </ol> <p>
     If you would like to read or listen offline, please refer to our  <a href="/get-started-with/libby/">Libby guide</a>.
-    </p></div></div>
-
-
-<div>
-		<input type="radio" name="acc" id="acc3">
+    </p></div>
+    
+<input type="checkbox" id="acc3">
         <label for="acc3">How do I preview eBooks on the eReads screen?</label>
-<div class="acc-body">
+<div class="new-accordion-content">
 	<p>Here are the steps:</p>
 <ol>   
 	<li> Select book title</li>
@@ -87,13 +81,11 @@ title: eReads
          <br/> <span style="font-size:14px">Note: The preview button may load a few seconds after, and can be found next to the 'Close' button.</span></li>
 	<li> Swipe right to enjoy reading the sample of the book</li>
     </ol>
-        </div> </div>
-
-
-<div>
-		<input type="radio" name="acc" id="acc4">
+        </div> 
+	
+<input type="checkbox" id="acc4">
         <label for="acc4">How do I preview audiobooks on the eReads screen?</label>
-<div class="acc-body">
+<div class="new-accordion-content">
       	<p>Here are the steps:</p>
 <ol>   
 	<li> Select book title</li>
@@ -102,10 +94,6 @@ title: eReads
     <li> Click <b>Play</b> to enjoy listening to the sample of
 the book.</li>
     </ol>  
-        </div> </div> 
-
-
-
-
-</div> </div><!--close FAQ-section-->
+        </div> 
+</div><!--close FAQ-section-->
 
