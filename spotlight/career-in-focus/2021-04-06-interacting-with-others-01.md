@@ -40,7 +40,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <h4>Videos</h4>
 <h5>1. It’s Not Manipulation, It’s Strategic Communication by Keisha Brewer</h5>
 <p>Keisha Brewer is a strategic communication professional and CEO of the PR Alliance LLC. In her TED talk, she shares steps we can take to achieve specific responses from our target audience, in both our professional and personal lives.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=QGeHS4jO0X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/QGeHS4jO0X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=QGeHS4jO0X0" target="_blank">It’s Not Manipulation, It’s Strategic Communication</a> (2020, January 9). TEDxGeorgetown. 
 
 <h5>2. How to Speak Up in Meetings by Harvard Business Review</h5> 
