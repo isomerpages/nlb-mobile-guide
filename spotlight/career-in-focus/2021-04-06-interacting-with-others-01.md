@@ -99,16 +99,16 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 </p>
 <p class="end-note">Call Number: English 153.69 MUR. Harvill Secker, 2020.</p> 
 Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology, and sociology of listening, and for practical advice to become a better listener.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/30BD79AD-9CF8-4B10-AE49-42B4124979BB">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/30BD79AD-9CF8-4B10-AE49-42B4124979BB">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>. <br/> -->
 
-<h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
+h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
 <i>Mikael Krogerus & Roman Tschäppeler</i>
 <p>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF"><img src="/images/CCS-2-TheCommunicationBook.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 302.346 KRO. Portfolio Penguin, 2018.</p>
 <i>The Communication Book</i> condenses into one volume, 44 communication theories tested by the internationally bestselling duo Mikael Krogerus and Roman Tschäppeler. With smart illustrations and humour, this book educates readers on improving their communication skills to form meaningful connections at work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EB732886-3B75-41BE-AEA0-0AA80FE2D7A2">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EB732886-3B75-41BE-AEA0-0AA80FE2D7A2">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/> -->
 
 <h5>Communication: How to Connect With Anyone</h5>
 <i>Gill Hasson</i>
@@ -117,7 +117,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD
  </p>
 <p class="end-note">Call Number: English 153.6 HAS. Capstone, a Wiley brand, 2019.</p> 
 Communication is a dynamic process, influenced by complexities in human motivation and behaviour. In this book, Hasson demonstrates how to connect with others by developing empathy, rapport and the confidence to build friendships.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203965063">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203965063">find the book at the libraries</a>. <br/> -->
 
 <h5>The Communication Clinic: 99 Proven Cures for the Most Common Business Mistakes</h5>
 <i>Barbara Pachter</i>
@@ -126,7 +126,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0
  </p>
 <p class="end-note">eBook only. Mcgraw Hill, 2016.</p> 
 As digital platforms become commonplace for business interactions, skills for effective online communication have come to the fore. The Communication Clinic has you covered with tips from writing effective emails to delivering powerful presentations, and being assertive online and off.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344-D0A8-43E1-B097-49F9D98C2949">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4FA0F344-D0A8-43E1-B097-49F9D98C2949">online</a>&#128187;. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344-D0A8-43E1-B097-49F9D98C2949">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4FA0F344-D0A8-43E1-B097-49F9D98C2949">online</a>&#128187;. <br/> -->
 
 <h5>How to be Heard : Secrets for Powerful Speaking and Listening</h5>
 <i>Julian Treasure</i><br/>
