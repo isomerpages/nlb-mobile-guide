@@ -87,9 +87,12 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 <a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DevelopYourCommunicationSkills.jpg" style="width:400px;"></a>
 
 <i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
-<p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</p>
+
+<div class="bp-youtube">
+<!--Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube-->
+ 	 <iframe title="Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	 </iframe>
+	 </div>
 
 
 <h4>eBooks</h4>
