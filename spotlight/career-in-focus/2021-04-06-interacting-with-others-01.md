@@ -45,7 +45,7 @@ Source: <a href="https://www.youtube.com/watch?v=QGeHS4jO0X0" target="_blank">It
 
 <h5>2. How to Speak Up in Meetings by Harvard Business Review</h5> 
 <p>Christine Liu is an Innovation Editor at Harvard Business Review and like many of us, she is apprehensive to speak up in meetings. She seeks help from Justin Hale, host of “One Productive Minute” who shares the Fact-Story-Ask method to communicate better at meetings.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=m9NpSlziG58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/m9NpSlziG58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=m9NpSlziG58" target="_blank">How to Speak Up in Meetings</a> (2020, August 31). Harvard Business Review. 
 
 <h5>3. How to Collaborate Effectively If Your Team Is Remote (The Explainer) by Harvard Business Review</h5> 
