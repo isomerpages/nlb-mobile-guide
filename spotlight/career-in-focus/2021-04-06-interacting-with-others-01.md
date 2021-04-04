@@ -139,7 +139,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344
  </p>
 <p class="end-note">Call Number: English 658.45 TRE- [BIZ]. Mango Publishing Group, 2017.</p> 
 Renowned TED speaker and author Julian Treasure reveals how to speak so that people listen—and how to listen so that people feel heard. He shares practical exercises to help you develop communication skills that are as effective at home as in the boardroom.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF-5716-4011-BE03-3431A7881AB3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/42CCCAAF-5716-4011-BE03-3431A7881AB3">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203087814">find the book at the libraries</a>.<br/> -->
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF-5716-4011-BE03-3431A7881AB3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/42CCCAAF-5716-4011-BE03-3431A7881AB3">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203087814">find the book at the libraries</a>.<br/> 
 
 <h5>Virtual Collaboration: Work from Anywhere, Overcommunicate, Avoid Isolation</h5>
 <i>Harvard Business Review</i><br/>
@@ -148,7 +148,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF
  </p>
 <p class="end-note">Call Number: English 658.4022 VIR –[BIZ]. Harvard Business Review Press, 2016.</p> 
 This timely book offers strategies to collaborate with colleagues more effectively – and  manage common problems such as technology glitches, isolation, conflict, and performance issues – wherever you or your team may be.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C26B6794-C916-48F7-B263-66A046910B14">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C26B6794-C916-48F7-B263-66A046910B14">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172075">find the book at the libraries</a>.<br/> -->
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C26B6794-C916-48F7-B263-66A046910B14">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/C26B6794-C916-48F7-B263-66A046910B14">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172075">find the book at the libraries</a>.<br/> 
 
 <h5>Success Through Diversity: Why the Most Inclusive Companies Will Win</h5>
 <i>Carol Fulp</i><br/>
@@ -157,7 +157,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C26B6794
  </p>
 <p class="end-note">Call Number: English 658.3008 FUL –[BIZ]. Beacon Press, 2018.</p> 
 Author Carol Fulp posits that companies that proactively embrace diversity in all areas of their operations are best poised to thrive. She provides a blueprint for what businesses must do to maintain their edge and achieve this.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BE3FD22A-79A3-4C40-9EFF-283BF3B073AE">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/BE3FD22A-79A3-4C40-9EFF-283BF3B073AE">online</a>&#128187;. <!--, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204073942">find the book at the libraries</a>. <br/> -->
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BE3FD22A-79A3-4C40-9EFF-283BF3B073AE">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/BE3FD22A-79A3-4C40-9EFF-283BF3B073AE">online</a>&#128187;. <!--, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204073942">find the book at the libraries</a>. <br/> 
 
 <h5>A Great Place to Work For All</h5>
 <i>Michael C. Bush</i><br/>
@@ -166,7 +166,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BE3FD22A
  </p>
 <p class="end-note">Call Number: English 658.312 BUS -[BIZ]. Berrett-Koehler Publishers, 2018.</p> 
 Michael C. Bush is the CEO of <i>A Great Place to Work</i>, the organisation that compiles Fortune's list of “100 Best Companies to Work for”. He offers ideas on how to be a manager, in order to engage employees; and emphasises ethical behaviour and promoting trust, to grow staff potential and a culture of innovation and success.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7EC1F565-ABE4-4E41-A89E-6D5942B1DB2A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/7EC1F565-ABE4-4E41-A89E-6D5942B1DB2A">online</a>&#128187;. <!--, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203155369">find the book at the libraries</a>. <br/> -->
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7EC1F565-ABE4-4E41-A89E-6D5942B1DB2A">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/7EC1F565-ABE4-4E41-A89E-6D5942B1DB2A">online</a>&#128187;. <!--, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203155369">find the book at the libraries</a>. <br/> 
 
 <h5>Social Value Investing</h5>
 <i>Howard W. Buffett, William B. Eimicke</i><br/>
