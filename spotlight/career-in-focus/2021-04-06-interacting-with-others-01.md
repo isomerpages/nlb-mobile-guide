@@ -103,7 +103,7 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 </p>
 <p class="end-note">Call Number: English 153.69 MUR. Harvill Secker, 2020.</p> 
 Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology, and sociology of listening, and for practical advice to become a better listener.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/30BD79AD-9CF8-4B10-AE49-42B4124979BB">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>. <br/> -->
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/30BD79AD-9CF8-4B10-AE49-42B4124979BB">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>.<br/>
 
 <h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
 <i>Mikael Krogerus & Roman Tschäppeler</i>
