@@ -62,9 +62,9 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 <h4>eLearning videos from Lynda Library</h4>
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/What-empathy/534584/2401528-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3acommunicating+with+empathy%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg" target="_blank">Communicating with Empathy</a></strong></p>
+<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg" target="_blank">Communicating with Empathy</a></strong></p>
 <p>Empathetic communication is a cornerstone of organisational success. It helps to create a safe and inclusive workplace where each employee feels comfortable speaking up. Learn the principles of empathic communication and the strategies we can employ for difficult conversations, to improve team communications at the workplace.</p>
-<a href="https://www.lynda.com/Business-tutorials/What-empathy/534584/2401528-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3acommunicating+with+empathy%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Communication/175639/380451-4.html?org=nlb.gov.sg" target="_blank">Preparing for Successful Communication</a></strong></p>
 <p>Discover how you can capture and keep people’s attention, and gain respect and support when delivering a report, speaking at a conference, or making a request of your boss.. In this course, Sam Horn, CEO of the Intrigue Agency shares a step-by step process to achieve clear, concise and compelling communication.</p>
