@@ -30,7 +30,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 
 <h5>4. <a href="https://www.cio.com/article/3262704/diversity-and-inclusion-8-best-practices-for-changing-your-culture.amp.html">Diversity and Inclusion: 8 Best Practices for Changing Your Culture</a><br/>
 <i>Sharon Florentine.</i> Published on CIO on 14 Feb 2020.</h5>
-<p>Companies are realising that improving their diversity and inclusion programmes and policies can lead to greater profitability and value creation. This article outlines eight best practices to help organisations get on track.</i></p>
+<p>Companies are realising that improving their diversity and inclusion programmes and policies can lead to greater profitability and value creation. This article outlines eight best practices to help organisations get on track.</p>
 
 <h5>5. <a href="https://www.smartsheet.com/how-workplace-collaboration-can-change-your-company">How Workplace Collaboration Can Change Your Company</a><br/>
 <i>Smartstreet.</i> Published on Harvard Business Review.</h5>
@@ -105,7 +105,7 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology, and sociology of listening, and for practical advice to become a better listener.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/30BD79AD-9CF8-4B10-AE49-42B4124979BB">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>. <br/> -->
 
-h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
+<h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
 <i>Mikael Krogerus & Roman Tschäppeler</i>
 <p>
 <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF"><img src="/images/CCS-2-TheCommunicationBook.jpg" style="width:300px; text-align:left;"></a>
@@ -121,7 +121,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD
  </p>
 <p class="end-note">Call Number: English 153.6 HAS. Capstone, a Wiley brand, 2019.</p> 
 Communication is a dynamic process, influenced by complexities in human motivation and behaviour. In this book, Hasson demonstrates how to connect with others by developing empathy, rapport and the confidence to build friendships.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203965063">find the book at the libraries</a>. <br/> -->
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">online</a>&#128187;, or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203965063">find the book at the libraries</a>. <br/>
 
 <h5>The Communication Clinic: 99 Proven Cures for the Most Common Business Mistakes</h5>
 <i>Barbara Pachter</i>
@@ -139,7 +139,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344
  </p>
 <p class="end-note">Call Number: English 658.45 TRE- [BIZ]. Mango Publishing Group, 2017.</p> 
 Renowned TED speaker and author Julian Treasure reveals how to speak so that people listen—and how to listen so that people feel heard. He shares practical exercises to help you develop communication skills that are as effective at home as in the boardroom.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF-5716-4011-BE03-3431A7881AB3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/42CCCAAF-5716-4011-BE03-3431A7881AB3">online</a>&#128187;. <!-- or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203087814">find the book at the libraries</a>.<br/> 
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF-5716-4011-BE03-3431A7881AB3">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/42CCCAAF-5716-4011-BE03-3431A7881AB3">online</a>&#128187;. or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203087814">find the book at the libraries</a>.<br/> 
 
 <h5>Virtual Collaboration: Work from Anywhere, Overcommunicate, Avoid Isolation</h5>
 <i>Harvard Business Review</i><br/>
