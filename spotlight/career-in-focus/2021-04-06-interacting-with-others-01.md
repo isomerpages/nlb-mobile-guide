@@ -64,7 +64,7 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg" target="_blank">Communicating with Empathy</a></strong></p>
 <p>Empathetic communication is a cornerstone of organisational success. It helps to create a safe and inclusive workplace where each employee feels comfortable speaking up. Learn the principles of empathic communication and the strategies we can employ for difficult conversations, to improve team communications at the workplace.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Communication/175639/380451-4.html?org=nlb.gov.sg" target="_blank">Preparing for Successful Communication</a></strong></p>
 <p>Discover how you can capture and keep people’s attention, and gain respect and support when delivering a report, speaking at a conference, or making a request of your boss.. In this course, Sam Horn, CEO of the Intrigue Agency shares a step-by step process to achieve clear, concise and compelling communication.</p>
@@ -72,19 +72,19 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 
 <p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg" target="_blank">Skills for Inclusive Conversations</a></strong></p>
 <p>Learn the skills necessary to engage in inclusive conversations. These include an exploratory self-assessment to better understand yourself and your team, tactics to find common ground, and techniques when conversing about challenging issues.</p>
-<a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-SkillsForInclusiveConversations.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-SkillsForInclusiveConversations.png" style="width:400px;"></a>
 
 <p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg" target="_blank">Diversity, Inclusion, Belonging</a></strong></p>
 <p>The importance of belonging is crucial as it helps employees feel accepted for who they are. Pat Wakors explains how to activate the Diversity, Inclusion, and Belonging (DIB) approach in organisations, including the importance of storytelling and the purpose of listening.</p>
-<a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DiversityInclusionBelonging.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DiversityInclusionBelonging.png" style="width:400px;"></a>
 
 <p><strong>5. <a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg" target="_blank">Collaboration Principles and Process</a></strong></p>
 <p>Collaboration includes a range of activities that are crucial to successful teamwork and partnerships. This video details the ways to improve team collaboration and conduct effective meetings by establishing roles and responsibilities and assigning a group facilitator.</p>
-<a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CollaborationPrinciplesAndProcess.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CollaborationPrinciplesAndProcess.png" style="width:400px;"></a>
 
 <p><strong>6. <a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg" target="_blank">Develop Your Communication Skills and Interpersonal Influence</a></strong></p>
 <p>Learn how to clearly convey information and ideas in an engaging manner, with strategies to ignite curiosity, attention, trust, and respect through this curated set of videos on communication skills and interpersonal influence.</p>
-<a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DevelopYourCommunicationSkills.jpg" style="width:400px;"></a>
+<a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DevelopYourCommunicationSkills.png" style="width:400px;"></a>
 
 <i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
 
