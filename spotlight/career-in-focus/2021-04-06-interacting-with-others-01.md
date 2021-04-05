@@ -20,7 +20,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 <i>Katharina Schmidt.</i> Published on Forbes on 8 Jan 2020.</h5>
 <p>Katharina Schmidt, an executive coach shares that an obstacle to communicating clearly and accurately is how we each translate messages differently at a neurological level. In this article, she shares how two questions can be asked to overcome this latent barrier and foster more effective communication.</p>
 
-<h5>2. <a href="https://ideas.ted.com/7-ways-to-be-a-better-communicator-by-tweaking-your-body-language/">7 ways to be a better communicator — by tweaking your body language</a><br/>
+<h5>2. <a href="https://ideas.ted.com/7-ways-to-be-a-better-communicator-by-tweaking-your-body-language/">7 Ways to Be a Better Communicator — by Tweaking Your Body Language</a><br/>
 <i>Abhimanyu Das.</i> Published on IDEAS.TED.COM on 25 Feb 2020.</h5>
 <p>Communication expert David JP Philips has an arsenal of 100 communication and public speaking techniques from his years of analysing public speakers. In this article, TEDx content specialist Abhimanyu Das condenses Philips’ techniques, and shares 7 key body language tips that we can employ to become a better communicator.</p>
 
