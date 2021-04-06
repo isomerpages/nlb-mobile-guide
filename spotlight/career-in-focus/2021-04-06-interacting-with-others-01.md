@@ -66,9 +66,9 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 <p>Empathetic communication is a cornerstone of organisational success. It helps to create a safe and inclusive workplace where each employee feels comfortable speaking up. Learn the principles of empathetic communication and the strategies we can employ for difficult conversations, to improve team communications at the workplace.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.png" style="width:400px;"></a>
 
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Communication/175639/380451-4.html?org=nlb.gov.sg" target="_blank">Preparing for Successful Communication</a></strong></p>
+<p><strong>2. <a href="https://www.lynda.com/Leadership-Management-tutorials/Preparing-Successful-Communication/743144-2.html?org=nlb.gov.sg" target="_blank">Preparing for Successful Communication</a></strong></p>
 <p>Discover how you can capture and keep people’s attention, and gain respect and support when delivering a report, speaking at a conference, or making a request of your boss. In this course, Sam Horn, CEO of the Intrigue Agency shares a step-by step process to achieve clear, concise and compelling communication.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Communication/175639/380451-4.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-PreparingForSuccessfulCommunication.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Leadership-Management-tutorials/Preparing-Successful-Communication/743144-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-PreparingForSuccessfulCommunication.png" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg" target="_blank">Skills for Inclusive Conversations</a></strong></p>
 <p>Learn the skills necessary to engage in inclusive conversations. These include an exploratory self-assessment to better understand yourself and your team, tactics to find common ground, and techniques when conversing about challenging issues.</p>
