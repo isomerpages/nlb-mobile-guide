@@ -63,7 +63,7 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 <p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg" target="_blank">Communicating with Empathy</a></strong></p>
-<p>Empathetic communication is a cornerstone of organisational success. It helps to create a safe and inclusive workplace where each employee feels comfortable speaking up. Learn the principles of empathic communication and the strategies we can employ for difficult conversations, to improve team communications at the workplace.</p>
+<p>Empathetic communication is a cornerstone of organisational success. It helps to create a safe and inclusive workplace where each employee feels comfortable speaking up. Learn the principles of empathetic communication and the strategies we can employ for difficult conversations, to improve team communications at the workplace.</p>
 <a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.png" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Communication/175639/380451-4.html?org=nlb.gov.sg" target="_blank">Preparing for Successful Communication</a></strong></p>
@@ -112,7 +112,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD
  </p>
 <p class="end-note">Call Number: English 302.346 KRO. Portfolio Penguin, 2018.</p>
 <i>The Communication Book</i> condenses into one volume, 44 communication theories tested by the internationally bestselling duo Mikael Krogerus and Roman Tschäppeler. With smart illustrations and humour, this book educates readers on improving their communication skills to form meaningful connections at work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/EB732886-3B75-41BE-AEA0-0AA80FE2D7A2">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/>
 
 <h5>Communication: How to Connect With Anyone</h5>
 <i>Gill Hasson</i>
