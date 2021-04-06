@@ -56,7 +56,7 @@ Source: <a href="https://www.youtube.com/watch?v=vradYqcXfGQ" target="_blank">Ho
 <h5>4. The 7 Keys to Creative Collaboration by John Spencer</h5> 
 <p>Having a team that collaborates creatively requires a few building blocks – from encouraging ownership to dependability, to trust and candour, and a shared vision – this video reveals the seven keys to building a team that generates creative collaboration.</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/2DmFFS0dqQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">The 7 Keys to Creative Collaboration</a> (2017, September 17. John Spencer Videos. 
+Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">The 7 Keys to Creative Collaboration</a> (2017, September 17). John Spencer Videos. 
 
 
 <h4>eLearning videos from Lynda Library</h4>
