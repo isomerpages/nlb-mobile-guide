@@ -129,8 +129,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0
  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344-D0A8-43E1-B097-49F9D98C2949"><img src="/images/CCS-2-CommunicationClinic.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Mcgraw Hill, 2016.</p> 
-As digital platforms become commonplace for business interactions, skills for effective online communication have come to the fore. 
-</i>The Communication Clinic</i> has you covered with tips from writing effective emails to delivering powerful presentations, and being assertive online and off.<br/>
+As digital platforms become commonplace for business interactions, skills for effective online communication have come to the fore. This book has you covered with tips from writing effective emails to delivering powerful presentations, and being assertive online and off.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344-D0A8-43E1-B097-49F9D98C2949">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4FA0F344-D0A8-43E1-B097-49F9D98C2949">online</a>&#128187;. <br/>
 
 <h5>How to be Heard : Secrets for Powerful Speaking and Listening</h5>
