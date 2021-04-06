@@ -132,7 +132,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0
 As digital platforms become commonplace for business interactions, skills for effective online communication have come to the fore. This book has you covered with tips from writing effective emails to delivering powerful presentations, and being assertive online and off.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344-D0A8-43E1-B097-49F9D98C2949">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/4FA0F344-D0A8-43E1-B097-49F9D98C2949">online</a>&#128187;. <br/>
 
-<h5>How to be Heard : Secrets for Powerful Speaking and Listening</h5>
+<h5>How to be Heard: Secrets for Powerful Speaking and Listening</h5>
 <i>Julian Treasure</i><br/>
 <p>
  <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF-5716-4011-BE03-3431A7881AB3"><img src="/images/CCS-2-HowToBeHeard.jpg" style="width:300px; text-align:left;"></a>
