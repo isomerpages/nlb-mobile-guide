@@ -112,7 +112,7 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD
  </p>
 <p class="end-note">Call Number: English 302.346 KRO. Portfolio Penguin, 2018.</p>
 <i>The Communication Book</i> condenses into one volume, 44 communication theories tested by the internationally bestselling duo Mikael Krogerus and Roman Tschäppeler. With smart illustrations and humour, this book educates readers on improving their communication skills to form meaningful connections at work.<br/>
-Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">with the app</a> &#128241; or <a href="https://nlb.overdrive.com/media/CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/>
+Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/>
 
 <h5>Communication: How to Connect With Anyone</h5>
 <i>Gill Hasson</i>
