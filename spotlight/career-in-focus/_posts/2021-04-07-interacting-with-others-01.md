@@ -99,92 +99,92 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 <h5>You're Not Listening: What You're Missing and Why It Matters</h5>
 <i>Kate Murphy</i>
 <p>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;"></a>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;"></a>
 </p>
 <p class="end-note">Call Number: English 153.69 MUR. Harvill Secker, 2020.</p> 
 Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology and sociology of listening, as well as practical advice for becoming a better listener.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>.<br/>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>.<br/>
 
 <h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
 <i>Mikael Krogerus & Roman Tschäppeler</i>
 <p>
-<a href="http://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF"><img src="/images/CCS-2-TheCommunicationBook.jpg" style="width:300px; text-align:left;"></a>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/4966109"><img src="/images/CCS-2-TheCommunicationBook.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 302.346 KRO. Portfolio Penguin, 2018.</p>
 <i>The Communication Book</i> condenses into one volume, 44 communication theories tested by the internationally bestselling duo Mikael Krogerus and Roman Tschäppeler. With smart illustrations and humour, this book educates readers on improving their communication skills to form meaningful connections at work.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=CCBE84AD-3F53-44D9-8DD6-5BEA45CBC1EF">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/4966109">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203120798">find the book at the libraries</a>. <br/>
 
 <h5>Communication: How to Connect With Anyone</h5>
 <i>Gill Hasson</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D"><img src="/images/CCS-2-Communication.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://libbyapp.com/library/nlb/everything/page-1/4530172"><img src="/images/CCS-2-Communication.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 153.6 HAS. Capstone, a Wiley brand, 2019.</p> 
 Communication is a dynamic process, influenced by complexities in human motivation and behaviour. In this book, Hasson demonstrates how to connect with others by developing empathy, rapport and the confidence to build friendships.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FADB20D0-EBDD-4944-A6C9-4EC5E2032E2D">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203965063">find the book at the libraries</a>. <br/>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/4530172">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203965063">find the book at the libraries</a>. <br/>
 
 <h5>The Communication Clinic: 99 Proven Cures for the Most Common Business Mistakes</h5>
 <i>Barbara Pachter</i>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344-D0A8-43E1-B097-49F9D98C2949"><img src="/images/CCS-2-CommunicationClinic.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://libbyapp.com/library/nlb/everything/page-1/3038284"><img src="/images/CCS-2-CommunicationClinic.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Mcgraw Hill, 2016.</p> 
 As digital platforms become commonplace for business interactions, skills for effective online communication have come to the fore. This book has you covered with tips from writing effective emails to delivering powerful presentations, and being assertive online and off.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=4FA0F344-D0A8-43E1-B097-49F9D98C2949">Borrow the eBook</a><br/>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/3038284">Borrow the eBook</a>.<br/>
 
 <h5>How to be Heard: Secrets for Powerful Speaking and Listening</h5>
 <i>Julian Treasure</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF-5716-4011-BE03-3431A7881AB3"><img src="/images/CCS-2-HowToBeHeard.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://libbyapp.com/library/nlb/everything/page-1/3508273"><img src="/images/CCS-2-HowToBeHeard.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 658.45 TRE- [BIZ]. Mango Publishing Group, 2017.</p> 
 Renowned TED speaker and author Julian Treasure reveals how to speak so that people listen—and how to listen so that people feel heard. He shares practical exercises to help you develop communication skills that are as effective at home as in the boardroom.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=42CCCAAF-5716-4011-BE03-3431A7881AB3">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203087814">find the book at the libraries</a>.<br/> 
+<a href="https://libbyapp.com/library/nlb/everything/page-1/3508273">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203087814">find the book at the libraries</a>.<br/> 
 
 <h5>Virtual Collaboration: Work from Anywhere, Overcommunicate, Avoid Isolation</h5>
 <i>Harvard Business Review</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C26B6794-C916-48F7-B263-66A046910B14"><img src="/images/CCS-2-VirtualCollaboration.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://libbyapp.com/library/nlb/everything/page-1/2813959"><img src="/images/CCS-2-VirtualCollaboration.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 658.4022 VIR –[BIZ]. Harvard Business Review Press, 2016.</p> 
 This timely book offers strategies to collaborate with colleagues more effectively – and  manage common problems such as technology glitches, isolation, conflict, and performance issues – wherever you or your team may be.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=C26B6794-C916-48F7-B263-66A046910B14">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172075">find the book at the libraries</a>.<br/> 
+<a href="https://libbyapp.com/library/nlb/everything/page-1/2813959">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172075">find the book at the libraries</a>.<br/> 
 
 <h5>Success Through Diversity: Why the Most Inclusive Companies Will Win</h5>
 <i>Carol Fulp</i><br/>
 <p>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BE3FD22A-79A3-4C40-9EFF-283BF3B073AE"><img src="/images/CCS-2-SuccessThroughDiversity.jpg" style="width:300px; text-align:left;"></a>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/3941137"><img src="/images/CCS-2-SuccessThroughDiversity.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 658.3008 FUL –[BIZ]. Beacon Press, 2018.</p> 
 Author Carol Fulp posits that companies that proactively embrace diversity in all areas of their operations are best poised to thrive. She provides a blueprint for what businesses must do to maintain their edge and achieve this.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BE3FD22A-79A3-4C40-9EFF-283BF3B073AE">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204073942">find the book at the libraries</a>. <br/> 
+<a href="https://libbyapp.com/library/nlb/everything/page-1/3941137">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204073942">find the book at the libraries</a>. <br/> 
 
 <h5>A Great Place to Work For All</h5>
 <i>Michael C. Bush</i><br/>
 <p>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7EC1F565-ABE4-4E41-A89E-6D5942B1DB2A"><img src="/images/CCS-2-GreatPlaceToWorkForAll.jpg" style="width:300px; text-align:left;"></a>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/3840993"><img src="/images/CCS-2-GreatPlaceToWorkForAll.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">Call Number: English 658.312 BUS -[BIZ]. Berrett-Koehler Publishers, 2018.</p> 
 Michael C. Bush is the CEO of <i>A Great Place to Work</i>, the organisation that compiles Fortune's list of “100 Best Companies to Work for”. He offers ideas on how to be a manager, in order to engage employees; and emphasises ethical behaviour and promoting trust, to grow staff potential and a culture of innovation and success.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=7EC1F565-ABE4-4E41-A89E-6D5942B1DB2A">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203155369">find the book at the libraries</a>. <br/> 
+<a href="https://libbyapp.com/library/nlb/everything/page-1/3840993">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203155369">find the book at the libraries</a>. <br/> 
 
 <h5>Social Value Investing</h5>
 <i>Howard W. Buffett, William B. Eimicke</i><br/>
 <p>
- <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497B0451-5AD5-42FB-832D-E13756FB87C2"><img src="/images/CCS-2-SocialValueInvesting.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://libbyapp.com/library/nlb/everything/page-1/3781569"><img src="/images/CCS-2-SocialValueInvesting.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note">eBook only. Columbia University Press, 2018.</p> 
 The writers have created a framework which provides tools that maximise collaborative efficiency and positive social impact in partnerships. The five-point management framework – involving process, people, place, portfolio and performance - enables companies to develop and measure the success of these partnerships.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=497B0451-5AD5-42FB-832D-E13756FB87C2">Borrow the eBook</a><br/>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/3781569">Borrow the eBook</a>.<br/>
 
 <h5>Collaboration Begins with You</h5>
 <i>Ken Blanchard, Jane Ripley</i><br/>
 <p>
- <a href="http://eresources.nlb.gov.sg/ereads/proxy?id=FA51320D-6513-41C7-9BE3-3F3C32098A41"><img src="/images/CCS-2-CollaborationBeginsWithYou.jpg" style="width:300px; text-align:left;"></a>
+ <a href="https://libbyapp.com/library/nlb/everything/page-1/2383778"><img src="/images/CCS-2-CollaborationBeginsWithYou.jpg" style="width:300px; text-align:left;"></a>
  </p>
 <p class="end-note"> Call Number: English 650.13 BLA –[BIZ]. Columbia University Press, 2018.</p>
 <i>Collaboration Begins with You</i> encourages readers to develop a culture of collaboration that uses differences to drive contribution and innovation. The writers demonstrate the use of a three-part approach, which involves the heart, head and hands, to promote and preserve a successful work environment.<br/>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=FA51320D-6513-41C7-9BE3-3F3C32098A41">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202520801">find the book at the libraries</a>. <br/>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/2383778">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202520801">find the book at the libraries</a>. <br/>
 
 
 <p>
