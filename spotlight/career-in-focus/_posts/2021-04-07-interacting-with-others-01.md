@@ -99,7 +99,7 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 <h5>You're Not Listening: What You're Missing and Why It Matters</h5>
 <i>Kate Murphy</i>
 <p>
-<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;"></a>
+<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
 <p class="end-note">Call Number: English 153.69 MUR. Harvill Secker, 2020.</p> 
 Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology and sociology of listening, as well as practical advice for becoming a better listener.<br/>
