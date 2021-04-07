@@ -15,6 +15,7 @@ image-url: null
 contacts:
     - title: 'General Enquiries & Feedback'
       content:
-                - 'enquiry@nlb.gov.sg (email)'
+            - phone: 'enquiry@nlb.gov.sg (email)'
+
 ---
 
