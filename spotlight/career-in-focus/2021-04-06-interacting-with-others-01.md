@@ -3,7 +3,7 @@ layout: post
 title: Interacting With Others
 date: 2021-04-06
 permalink: /spotlight/career-in-focus/2021-04-06-interacting-with-others-01
-description: 'The Singapore economy and business environment are rapidly transforming. SkillsFuture Singapore (SSG) has identified 16 generic competencies that will help workers keep up with the future economy. These are Critical Core Skills deemed essential to the workplace that enable individuals to be employable, facilitate their career mobility, and enable the acquisition of technical skills and competencies for specific roles in the sectors. Click <a href="https://www.skillsfuture.gov.sg/skills-framework/criticalcoreskills">here</a>.<br/> for more info on the Critical Core Skills. These Critical Core Skills are grouped into three skill clusters - Thinking Critically, Interacting with Others, and Staying Relevant. The following learning packages comprise books, articles and videos, to get you started on building these critical skills. Our first set focuses on Thinking Critically.'
+description: 'The Singapore economy and business environment are rapidly transforming. SkillsFuture Singapore (SSG) has identified 16 generic competencies that will help workers keep up with the future economy. These are Critical Core Skills deemed essential to the workplace that enable individuals to be employable, facilitate their career mobility, and enable the acquisition of technical skills and competencies for specific roles in the sectors. Click <a href="https://www.skillsfuture.gov.sg/skills-framework/criticalcoreskills">here</a>.<br/> for more info on the Critical Core Skills. These Critical Core Skills are grouped into three skill clusters - Thinking Critically, Interacting with Others, and Staying Relevant. Our learning packages comprise books, articles and videos, to get you started on building these critical skills. Our secoond set focuses on Interacting with Others.'
 image: /images/FS-futureskillsmonth2020.jpg
 
 ---
@@ -12,13 +12,13 @@ image: /images/FS-futureskillsmonth2020.jpg
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
-<p>The new normal of working from home with remote teams have revolutionised our workplaces. With fewer physical interactions and teams becoming increasingly diverse, effective communication skills are more vital than ever to build collaborative and inclusive work cultures. Here is a list of books, articles and videos that we hope will provide some guidance on working with others in the new normal.</p>
+<p>The new normal of working from home with remote teams has revolutionised our workplaces. With fewer physical interactions and teams becoming increasingly diverse, effective communication skills are more vital than ever to build collaborative and inclusive work cultures. Here is a list of books, articles and videos that we hope will provide some guidance on working with others in the new normal.</p>
 
 <h4>Articles</h4>
 
 <h5>1. <a href="https://www.forbes.com/sites/forbescoachescouncil/2020/01/08/to-communicate-more-effectively-in-the-workplace-employ-these-two-questions/?sh=25f6d76f70de">To Communicate More Effectively In The Workplace, Employ These Two Questions</a><br/>
 <i>Katharina Schmidt.</i> Published on Forbes on 8 Jan 2020.</h5>
-<p>Katharina Schmidt, an executive coach shares that an obstacle to communicating clearly and accurately is how we each translate messages differently at a neurological level. In this article, she shares how two questions can be asked to overcome this latent barrier and foster more effective communication.</p>
+<p>Katharina Schmidt, an executive coach, shares that an obstacle to communicating clearly and accurately is how we each translate messages differently at a neurological level. In this article, she shares how two questions can be asked to overcome this latent barrier and foster more effective communication.</p>
 
 <h5>2. <a href="https://ideas.ted.com/7-ways-to-be-a-better-communicator-by-tweaking-your-body-language/">7 Ways to Be a Better Communicator — by Tweaking Your Body Language</a><br/>
 <i>Abhimanyu Das.</i> Published on IDEAS.TED.COM on 25 Feb 2020.</h5>
@@ -26,7 +26,7 @@ image: /images/FS-futureskillsmonth2020.jpg
 
 <h5>3. <a href="https://www.thebalancecareers.com/collaboration-skills-with-examples-2059686">What Are Collaboration Skills?</a><br/>
 <i>Alison Doyle.</i> Published on The Balance Careers on 26 June 2020.</h5>
-<p>In this article learn about the skills required to collaborate successfully at work. These include, being a clear communicator, listening actively, taking responsibility for mistakes, and respecting and being conscious of team diversity.</p>
+<p>In this article, learn about the skills required to collaborate successfully at work. These include being a clear communicator, listening actively, taking responsibility for mistakes, and respecting and being conscious of team diversity.</p>
 
 <h5>4. <a href="https://www.cio.com/article/3262704/diversity-and-inclusion-8-best-practices-for-changing-your-culture.amp.html">Diversity and Inclusion: 8 Best Practices for Changing Your Culture</a><br/>
 <i>Sharon Florentine.</i> Published on CIO on 14 Feb 2020.</h5>
@@ -64,27 +64,27 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 
 <p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg" target="_blank">Communicating with Empathy</a></strong></p>
 <p>Empathetic communication is a cornerstone of organisational success. It helps to create a safe and inclusive workplace where each employee feels comfortable speaking up. Learn the principles of empathetic communication and the strategies we can employ for difficult conversations, to improve team communications at the workplace.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.jpg" style="width:400px;"></a>
 
 <p><strong>2. <a href="https://www.lynda.com/Leadership-Management-tutorials/Preparing-Successful-Communication/743144-2.html?org=nlb.gov.sg" target="_blank">Preparing for Successful Communication</a></strong></p>
 <p>Discover how you can capture and keep people’s attention, and gain respect and support when delivering a report, speaking at a conference, or making a request of your boss. In this course, Sam Horn, CEO of the Intrigue Agency shares a step-by step process to achieve clear, concise and compelling communication.</p>
-<a href="https://www.lynda.com/Leadership-Management-tutorials/Preparing-Successful-Communication/743144-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-PreparingForSuccessfulCommunication.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Leadership-Management-tutorials/Preparing-Successful-Communication/743144-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-PreparingForSuccessfulCommunication.jpg" style="width:400px;"></a>
 
 <p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg" target="_blank">Skills for Inclusive Conversations</a></strong></p>
 <p>Learn the skills necessary to engage in inclusive conversations. These include an exploratory self-assessment to better understand yourself and your team, tactics to find common ground, and techniques when conversing about challenging issues.</p>
-<a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-SkillsForInclusiveConversations.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-SkillsForInclusiveConversations.jpg" style="width:400px;"></a>
 
 <p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg" target="_blank">Diversity, Inclusion, Belonging</a></strong></p>
 <p>The importance of belonging is crucial as it helps employees feel accepted for who they are. Pat Wakors explains how to activate the Diversity, Inclusion, and Belonging (DIB) approach in organisations, including the importance of storytelling and the purpose of listening.</p>
-<a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DiversityInclusionBelonging.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DiversityInclusionBelonging.jpg" style="width:400px;"></a>
 
 <p><strong>5. <a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg" target="_blank">Collaboration Principles and Process</a></strong></p>
 <p>Collaboration includes a range of activities that are crucial to successful teamwork and partnerships. This video details the ways to improve team collaboration and conduct effective meetings by establishing roles and responsibilities and assigning a group facilitator.</p>
-<a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CollaborationPrinciplesAndProcess.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CollaborationPrinciplesAndProcess.jpg" style="width:400px;"></a>
 
 <p><strong>6. <a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg" target="_blank">Develop Your Communication Skills and Interpersonal Influence</a></strong></p>
 <p>Learn how to clearly convey information and ideas in an engaging manner, with strategies to ignite curiosity, attention, trust, and respect through this curated set of videos on communication skills and interpersonal influence.</p>
-<a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DevelopYourCommunicationSkills.png" style="width:400px;"></a>
+<a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DevelopYourCommunicationSkills.jpg" style="width:400px;"></a>
 
 <i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
 
@@ -102,7 +102,7 @@ Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">Th
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;"></a>
 </p>
 <p class="end-note">Call Number: English 153.69 MUR. Harvill Secker, 2020.</p> 
-Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology, and sociology of listening, and for practical advice to become a better listener.<br/>
+Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology and sociology of listening, as well as practical advice for becoming a better listener.<br/>
 Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=30BD79AD-9CF8-4B10-AE49-42B4124979BB">with the app</a>&#128241; or <a href="https://nlb.overdrive.com/media/30BD79AD-9CF8-4B10-AE49-42B4124979BB">online</a>&#128187; or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>.<br/>
 
 <h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
