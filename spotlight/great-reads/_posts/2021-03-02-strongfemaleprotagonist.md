@@ -6,8 +6,8 @@ permalink: /spotlight/great-reads/2021-03-02-strongfemaleprotagonist
 description: Fiction is full of exciting and meaningful stories. This series features books which tie in with different themes including some articles and videos thrown in for good measure. Get a head start on your reading and learning journey! Happy reading :)
 image: /images/FR-1-Intl-womens-day.jpg
 ---
-<img src="/images/FR-1-Intl-womens-day.jpg">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/light-nature-sky-sunset-53364/
+<img src="/images/FR-1-Intl-womens-day.jpg" alt="cover image">
+<p sty alt="cover image"le="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/light-nature-sky-sunset-53364/
 " target="_blank">https://www.pexels.com/photo/light-nature-sky-sunset-53364</a></p>
 
 <p>In the spirit of International Women’s Day on March 8, here is a series of videos, articles, graphic novels and books, which feature interesting female characters. The quality of resilience is common in all these characters, hence the first article, which starts this learning package.</p>
