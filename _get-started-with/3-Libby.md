@@ -68,8 +68,8 @@ If you want to know why your titles are not downloading or how to adjust your au
 <div class="new-accordion-content">
   <p>You can renew a title a few days before it's due using these steps:<br/>
 Go to Shelf.<br/>
-Tap Manage Loan.<br/>
-Tap Renew Loan, then Renew. </p>
+Tap 'Manage Loan'.<br/>
+Tap 'Renew Loan', then 'Renew'. </p>
 </div>
 
 <input type="checkbox" id="acc6">
