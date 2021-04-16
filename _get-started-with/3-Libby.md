@@ -186,7 +186,7 @@ Tap Renew Loan, then Renew. </p>
 
 <input type="checkbox" id="acc16">
 <label for="acc16">A book I have already reserved has a “Skip the Line” copy. Can I still borrow a “Skip the Line” copy?</label>
-<div class="new-accordion-contenty">
+<div class="new-accordion-content">
   <p>Yes, you can! A “Skip the Line” loan will not affect your reservation.</p>
   </div>
 
