@@ -67,7 +67,7 @@ If you want to know why your titles are not downloading or how to adjust your au
 <label for="acc6a">How can I renew the eBooks / audiobooks? </label>
 <div class="new-accordion-content">
   <p>You can renew a title a few days before it's due using these steps:<br/>
-Go to Shelf > Loans.<br/>
+Go to Shelf.<br/>
 Tap Manage Loan.<br/>
 Tap Renew Loan, then Renew. </p>
 </div>
@@ -181,8 +181,7 @@ Tap Renew Loan, then Renew. </p>
 <input type="checkbox" id="acc15">
         <label for="acc15">Where can I browse a list of all “Skip the Line” titles?</label>
         <div class="new-accordion-content">
-  <p>It’s simple! Launch Libby. Tap on the “Library” tab, then select “Explore”. Select 
-“Skip the Line”. Check back often as the list changes frequently.</p>
+  <p>You can <a href="https://libbyapp.com/library/nlb/curated-1029173/page-1">view the latest list of "Skip the Line" titles here</a>. The list changes frequently, so check back often.</p>
   </div>
 
 <input type="checkbox" id="acc16">
