@@ -197,11 +197,13 @@ Tap Renew Loan, then Renew. </p>
 eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 
+<!--Hiding this qn as it does not help to promote NLB Mobile nor push the switch from OverDrive to Libby
 <input type="checkbox" id="acc18">
-<label for="acc18">Can I browse or borrow “Skip the Line” titles on NLB Mobile or nlb.overdrive.com?</label>
+<label for="acc18">Can I browse or borrow “Skip the Line” titles on the NLB Mobile app or nlb.overdrive.com?</label>
 <div class="new-accordion-content">
-  <p>No. Currently, you can only browse or borrow “Skip the Line” titles using the Libby app.</p>
+  <p>Currently, you cannot browse "Skip the Line" titles on the NLB Mobile app. You can browse these titles on nlb.overdrive.com by <a href="https://nlb.overdrive.com/collection/1029173">clicking here</a>.</p>
   </div>
+-->
 
 </div><!--close accordion-->
 
