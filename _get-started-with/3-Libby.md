@@ -67,9 +67,9 @@ If you want to know why your titles are not downloading or how to adjust your au
 <label for="acc6a">How can I renew the eBooks / audiobooks? </label>
 <div class="new-accordion-content">
   <p>You can renew a title a few days before it's due using these steps:<br/>
-Go to Shelf > Loans.<br/>
-Tap Manage Loan.<br/>
-Tap Renew Loan, then Renew. </p>
+Go to Shelf.<br/>
+Tap 'Manage Loan'.<br/>
+Tap 'Renew Loan', then 'Renew'. </p>
 </div>
 
 <input type="checkbox" id="acc6">
@@ -175,19 +175,18 @@ Tap Renew Loan, then Renew. </p>
 <input type="checkbox" id="acc14">
 <label for="acc14">How do I know which titles have “Skip the Line” copies?</label>
 <div class="new-accordion-content">
-  <p>Titles with “Skip the Line” copies have a four-leaf clover icon next to the “Borrow” button. </p>
+  <p>Titles with “Skip the Line” copies have a four-leaf clover icon next to the book title. </p>
   </div>
 
 <input type="checkbox" id="acc15">
         <label for="acc15">Where can I browse a list of all “Skip the Line” titles?</label>
         <div class="new-accordion-content">
-  <p>It’s simple! Launch Libby. Tap on the “Library” tab, then select “Explore”. Select 
-“Skip the Line”. Check back often as the list changes frequently.</p>
+  <p>You can <a href="https://libbyapp.com/library/nlb/curated-1029173/page-1">view the latest list of "Skip the Line" titles here</a>. The list changes frequently, so check back often.</p>
   </div>
 
 <input type="checkbox" id="acc16">
 <label for="acc16">A book I have already reserved has a “Skip the Line” copy. Can I still borrow a “Skip the Line” copy?</label>
-<div class="new-accordion-contenty">
+<div class="new-accordion-content">
   <p>Yes, you can! A “Skip the Line” loan will not affect your reservation.</p>
   </div>
 
@@ -198,11 +197,13 @@ Tap Renew Loan, then Renew. </p>
 eBooks / eAudiobooks you currently have on loan.</p>
   </div>
 
+<!--Hiding this qn as it does not help to promote NLB Mobile nor push the switch from OverDrive to Libby
 <input type="checkbox" id="acc18">
-<label for="acc18">Can I browse or borrow “Skip the Line” titles on NLB Mobile or nlb.overdrive.com?</label>
+<label for="acc18">Can I browse or borrow “Skip the Line” titles on the NLB Mobile app or nlb.overdrive.com?</label>
 <div class="new-accordion-content">
-  <p>No. Currently, you can only browse or borrow “Skip the Line” titles using the Libby app.</p>
+  <p>Currently, you cannot browse "Skip the Line" titles on the NLB Mobile app. You can browse these titles on nlb.overdrive.com by <a href="https://nlb.overdrive.com/collection/1029173">clicking here</a>.</p>
   </div>
+-->
 
 </div><!--close accordion-->
 
