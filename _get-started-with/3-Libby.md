@@ -58,8 +58,8 @@ Learn about borrowing, renewing and reserving.
 <div class="new-accordion-content">
 <p>Go to your Shelf in Libby and look at the icon next to the book title. If there is a tick next to the title, it's been downloaded on your device for offline use.</p>
 <p>If there's a cloud icon next to the title, it hasn't been downloaded on your device. It'll be streamed when you open it, requires an internet connection to read or listen to, and doesn't take up space on your device.</p>
-<p><img src="/images/Screenshot_Libby-download-icons.jpg" alt="screenshot of Libby" style="max-width:300px;height:auto;width:auto;"></p>
-<p>
+<p><img src="/images/Libby-downloadinprogress-edited.png" alt="A screenshot of the Libby app, showing books that have been downloaded and those that have not." style="max-width:300px;height:auto;width:auto;"></p>
+	<p>
 If you want to know why your titles are not downloading or how to adjust your automatic download settings, look at "My eBook/eAudiobook isn't downloading" under the Troubleshooting header on this page.</p>
   </div>
 
@@ -220,7 +220,22 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <label for="acc5">Can I use more than one library card or cards from different libraries in Libby?</label>
 <div class="new-accordion-content">
 		<p>Yes, you can! </p>
-		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p><p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
+		<p>Libby makes it easy to switch between library cards or between different libraries (e.g. for users who are not only members of NLB but also members of school libraries that use the OverDrive platform). Open the menu, select ‘See Library Cards’ or ‘Add A Library’. </p>
+	<p>
+		<table style="width: auto;">
+<tbody>
+<tr>
+	<td style="width: auto; height: auto;">
+	<div style="max-width: 400px"><img src="/images/Libby-shelf-edited.png" alt="A tutorial screenshot for the Libby app, showing where the menu button is."></div> 
+	</td>
+	<td style="width: auto; height: auto;">
+	<div style="max-width: 400px"><img src="/images/Libby-librarycards-edited.png" alt="A tutorial screenshot for the Libby app, showing the ‘See Library Cards’ and ‘Add A Library’ buttons."></div>
+	</td>
+</tr>
+</tbody>
+</table>
+	</p>
+	<p>All your digital checkouts from different cards and libraries are on the same virtual shelf, so you need not switch between libraries or cards to read your books.</p>
 </div>
 </div><!--close accordion-->
 
@@ -338,8 +353,11 @@ eBooks / eAudiobooks you currently have on loan.</p>
         <label for="acc21">My eBook/eAudiobook isn't downloading.</label>
         <div class="new-accordion-content">
   <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
-  <p><img src="/images/Screenshot_Libby-change-download-rules.jpg" alt="screenshot of Libby" style="max-width:300px;height:auto;width:auto;"></p>
-    <p>Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
+	<p>Step 1: Tap on the 'Shelf' button.</p>
+	<p><img src="/images/Libby-shelf-highlighted.png" alt="A screenshot of the Libby app, showing where the Shelf button is." style="max-width:300px;height:auto;width:auto;"></p>
+	<p>Step 2: Tap on the 'Actions' button, then select 'Change Download Rules'.</p>
+	<p><img src="/images/Libby-downloadrules-edited.png" alt="A screenshot of the Libby app, showing the options menu." style="max-width:300px;height:auto;width:auto;"></p>
+    <p>Step 3: Tap on the underlined <u>20 megabytes</u> to change the maximum file size for automatic downloads. If you wish, you can also switch <b>off</b> "Download only on WiFi" if you want the app to download books automatically over cellular data. Do note that if you do this, you may incur charges from your telco for exceeding your data quota.</p>
     <p><img src="/images/Screenshot_Libby-change-download-rules-options.jpg" alt="screenshot of Libby" style="max-width:300px;height:auto;width:auto;"></p>
   </div>
   
