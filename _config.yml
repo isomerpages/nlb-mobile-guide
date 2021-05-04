@@ -5,56 +5,54 @@ url: 'https://mobileapp.nlb.gov.sg'
 google_analytics: UA-50449401-31
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 resources_name: spotlight
 paginate_path: '/spotlight/page:num'
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
-collections:
-    get-started-with:
-        output: true
-    toptips:
-        output: true
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 favicon: /images/favicon-nlb.ico
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
 
 colors:
-    primary-color: '#6031b6'
-    secondary-color: '#22489B'
-    media-colors:
-        - title: media-color-one
-          color: '#005577' 
-        - title: media-color-two
-          color: '#0071BC'
-        - title: media-color-three
-          color: '#e21216'
-        - title: media-color-four
-          color: '#912b87'
-        - title: media-color-five
-          color: '#00838f'
-        - title: media-color-six
-          color: '#007722'
+  primary-color: '#6031b6'
+  secondary-color: '#22489B'
+  media-colors:
+    - title: media-color-one
+      color: '#005577' 
+    - title: media-color-two
+      color: '#0071BC'
+    - title: media-color-three
+      color: '#e21216'
+    - title: media-color-four
+      color: '#912b87'
+    - title: media-color-five
+      color: '#00838f'
+    - title: media-color-six
+      color: '#007722'
+staging: https://staging-nlb-mobile-guide.netlify.app
+prod: https://prod-nlb-mobile-guide.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme

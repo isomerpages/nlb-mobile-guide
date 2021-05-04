@@ -1,0 +1,12 @@
+collections:
+  get-started-with:
+    output: true
+    order:
+      - library-membership-and-mylibrary-id.md
+      - quick-guide-to-the-new-nlb-mobile-app.md
+      - nlb-mobile-app.md
+      - emagazines-and-enewspapers.md
+      - ebooks-and-audiobooks.md
+      - elearning.md
+      - ereads.md
+      - hyread-chinese-ebooks-and-emagazines.md
