@@ -7,6 +7,9 @@ image: /images/NL-9-covid-19-vaccines.jpg
 
 ---
 
+<table style="background-color:#ffe6e6; border:0;">
+                                      <tr><td>This learning package was created more than a year ago. Please check <a href="https://www.moh.gov.sg/covid-19/vaccination" target="_blank">https://www.moh.gov.sg/covid-19/vaccination</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr></table>
+
 <img src="/images/NL-9-covid-19-vaccines.jpg" alt="article image">
 
 <p style="font-size:8pt;">Photo credit: <a href="https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/" target="_blank">https://pixabay.com/photos/vaccine-covid-19-vials-vaccination-5895477/</a></p>

@@ -7,11 +7,11 @@ image: /images/NL-3-coronavirus.png
 
 ---
 
-<img src="/images/NL-3-coronavirus.png">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/" target="_blank">pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/</a></p>
-
 <table style="background-color:#ffe6e6; border:0;">
                                       <tr><td>This learning package was created more than a year ago. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr></table>
+
+<img src="/images/NL-3-coronavirus.png">
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/" target="_blank">pixabay.com/illustrations/corona-coronavirus-virus-pandemic-4901878/</a></p>
 
 In late 2019, Singapore’s medical practitioners took notice when reports of severe pneumonia cases in Wuhan, China emerged. Soon after, temperature screening at Changi Airport was implemented.[^1] In addition, a multi-ministry taskforce co-chaired by Minister for Health Gan Kim Yong and Minister for National Development Lawrence Wong was formed on 23 January 2020 to “deal with the eventuality” of the virus spreading to Singapore.[^2]
 

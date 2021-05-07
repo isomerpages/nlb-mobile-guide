@@ -7,6 +7,9 @@ image: /images/NL-4-COVID19.jpg
 
 ---
 
+<table style="background-color:#ffe6e6; border:0;">
+                                      <tr><td>This learning package was created more than a year ago. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr></table>
+
 <img src="/images/NL-4-COVID19.jpg">
 
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/photos/chemistry-crown-coronavirus-cure-4932607/" target="_blank">pixabay.com/photos/chemistry-crown-coronavirus-cure-4932607/</a></p>
