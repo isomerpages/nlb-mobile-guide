@@ -7,8 +7,13 @@ image: /images/NL-2-overview.jpg
 
 ---
 
+<table style="background-color:#ffe6e6; border:0;">
+                                      <tr><td>This learning package was created more than a year ago. Please check <a href="https://www.gov.sg/features/covid-19" target="_blank">https://www.gov.sg/features/covid-19</a> for the latest updates on the COVID-19 situation in Singapore.</td></tr></table>
+
 <img src="/images/NL-2-overview.jpg">
+
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/" target="_blank">pixabay.com/illustrations/coronavirus-virus-spread-flu-4952102/</a></p>
+
 COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined. In December 2019, the first human cases were identified in Wuhan, China.[^1] Within the first quarter of 2020, as of 30 March 2020, there have been more than 780,000 confirmed cases in over 170 countries and territories, according to the Johns Hopkins University Tracker. More than 37,000 fatalities have also been reported.[^2]
 
 [^1]: Novel Coronavirus (2019-nCoV) situation report - 1. (2020, January 21). World Health Organisation. Retrieved March 31, 2020, from <https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf>{:target="_blank"}
