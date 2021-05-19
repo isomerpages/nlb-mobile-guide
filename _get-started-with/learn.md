@@ -23,15 +23,15 @@ title: eLearning
             <li style="margin-left: 20px;">e.g. There is a course on the world-renowned <a href="https://www.lynda.com/Business-Skills-tutorials/Getting-Things-Done/170776-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3adavid+allen%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2">Getting Things Done productivity method course</a> taught by its creator, David Allen. </li>
     </ul>
 --->
-	<li> <b>Learn on the go:</b> Easy access through the NLB Mobile app</li>
+	<li> <b>Learn on the go:</b> Easy access through the NLB Mobile app or LinkedIn Learning app</li>
 	<!---Hide this point until can verify if LinkedIn Learning also has this feature
 	<li> <b>Learn hands-on:</b> Test your new knowledge immediately with the exercises* and quizzes included</li>
 --->
-	
+<!--Hide this so users can quickly see the new sign-in process	
 <p>The NLB Mobile app is available for download on the <a href="https://go.nlb.gov.sg/nlbmobile">Apple AppStore and Google Play Store</a>.</p>    
 <p><a href="https://go.nlb.gov.sg/nlbmobile"><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:300px;height:auto;width:auto;"></a>
 	</p>
-	
+-->	
 <!---Hide this point until can verify if LinkedIn Learning also has this feature
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
 --->
@@ -153,17 +153,17 @@ title: eLearning
         <div class="new-accordion-content">
       <p>Yes! As an NLB library member, you have complimentary access to more than 16,000 online courses from LinkedIn Learning for Library that NLB has subscribed to.</p>
       </div>
-
+<!--hidden as it's a sensitive qn
 	<input type="checkbox" id="acc6b">
         <label for="acc6b">Why are you using my year of birth as a PIN for signing in to LinkedIn Learning for Library?</label>
         <div class="new-accordion-content">
       <p>The PIN provides additional verification for NLB’s secured authentication with LinkedIn.</p>
       </div>
-	
+-->	
 <input type="checkbox" id="acc6a">
         <label for="acc6a">Can I still access LyndaLibrary/Lynda.com?</label>
         <div class="new-accordion-content">
-      <p>You can do your eLearning on LinkedIn Learning for Library instead - it has a much bigger library of more than 16,000 courses. LinkedIn acquired Lynda.com (including LyndaLibrary) in 2015 and migrated its service and content to the LinkedIn Learning platform. Since the upgrade to LinkedIn Learning for Library on 20 May 2021, NLB library members no longer have access to LyndaLibrary/Lynda.com.</p>
+      <p>Since the upgrade to LinkedIn Learning for Library on 20 May 2021, NLB library members no longer have access to LyndaLibrary/Lynda.com.</p>
       </div>
 	
 	<input type="checkbox" id="acc6c">
