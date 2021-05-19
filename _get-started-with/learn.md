@@ -78,7 +78,7 @@ title: eLearning
 		Sign in to NLB Mobile with your myLibrary ID and select the ‘More’ icon on the Discover tab. Then, tap on the LinkedIn Learning icon.
       </li>
 	<li>
-		Click “Proceed” and “Get Started” to access LinkedIn Learning for Library.
+		Click “Proceed” and “Get Started”.
 	</li>
 		<li>
 			You will be asked to verify and enter your library card number and PIN. Use your myLibrary ID for the “Library Card Number” (Go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve your myLibrary ID). The PIN Is your year of birth (in YYYY format). Click “Continue”.
@@ -166,8 +166,8 @@ title: eLearning
       <p>You can do your eLearning on LinkedIn Learning for Library instead - it has a much bigger library of more than 16,000 courses. LinkedIn acquired Lynda.com (including LyndaLibrary) in 2015 and migrated its service and content to the LinkedIn Learning platform. Since the upgrade to LinkedIn Learning for Library on 20 May 2021, NLB library members no longer have access to LyndaLibrary/Lynda.com.</p>
       </div>
 	
-	<input type="checkbox" id="acc6b">
-        <label for="acc6b">What is the difference between LyndaLibrary and LinkedIn Learning for Library?</label>
+	<input type="checkbox" id="acc6c">
+        <label for="acc6c">What is the difference between LyndaLibrary and LinkedIn Learning for Library?</label>
         <div class="new-accordion-content">
 		<p>LinkedIn Learning for Library has many more courses (more than 16,000,) than LyndaLibrary (which had about 7,000). While the courses on LyndaLibrary were only in English, LinkedIn Learning for Library has courses in English, Mandarin, Japanese, French, German, Spanish, and Portuguese. It also has an updated, easy-to-use interface. 
 		</p>
