@@ -37,28 +37,23 @@ title: eLearning
 --->
 	
 <p><h3>Getting Started</h3></p>
-<div class="new-accordion" id="lynda-get-started">          
-<input type="checkbox" id="acc2">
-        <label for="acc2">How do I start using LinkedIn Learning for Library from the NLB Mobile app? </label>
+<div class="new-accordion" id="lynda-get-started">
+	<input type="checkbox" id="acc1a">
+        <label for="acc1a">How do I log in to LinkedIn Learning for Library? What is my “library card number” and PIN?</label>
 <div class="new-accordion-content">
-        <ol>
+	<p> Use your myLibrary username for the “Library Card Number”. The PIN is your year of birth (in YYYY format). </p>
+	Here is the step-by-step guide on how to log in on a desktop/laptop. If you would like to log in using the NLB Mobile app or LinkedIn Learning app instead, the steps are provided under the respective questions below.
+	        <ol>
 		<li>
-		First, please ensure that your app is up-to-date. <a href="https://go.nlb.gov.sg/nlbmobile">Tap here with your mobile phone</a> or scan the QR code below to go to the NLB Mobile app store page.
-			<p>
-				<a href="https://go.nlb.gov.sg/nlbmobile"><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:300px;height:auto;width:auto;"></a>
-			</p>
+		Go to https://eresources.nlb.gov.sg/elearn. 
+			</li>
+			<li>Sign in with your myLibrary username. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) Click on “LinkedIn Learning for Library”.
 	</li>
 	<li>
-		Tap on “Update”.  If there is no “Update” button, it means your app is already up-to-date. 
-	</li>
-	<li>
-		Sign in to NLB Mobile with your myLibrary username. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) Select the ‘More’ icon on the Discover tab. Then, tap on the LinkedIn Learning icon.
-      </li>
-	<li>
-		Click “Proceed” and “Get Started” to access LinkedIn Learning for Library.
-	</li>
-		<li>
-			You will be asked to enter your library card number and PIN. Use your myLibrary username for the “Library Card Number”. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) The PIN is your year of birth (in YYYY format). Click “Continue”.
+		Click “Get Started”.
+			</li>
+			<li>
+			You will be asked to enter your library card number and PIN. Use your myLibrary username for the “Library Card Number”. The PIN is your year of birth (in YYYY format). Click “Continue”.
 		</li>
 		<li>
 			If you are accessing LinkedIn Learning for Library for the first time, you will be asked to personalise your learning experience in the next few steps. Click “Sounds Good” on the next screen, and select your topics of interest and learning goal. Then, you can start using LinkedIn Learning for Library. Happy learning!
@@ -97,6 +92,39 @@ title: eLearning
 	</div>
 
 <input type="checkbox" id="acc5">
+        <label for="acc5">Do I need to install the LinkedIn Learning mobile app?</label>
+<div class="new-accordion-content">
+      <p>You don't need the LinkedIn Learning mobile app to access the online courses. But if you wish to use the LinkedIn Learning app, you can! Just follow these steps.</p>
+	<ol>
+		<li>Install the LinkedIn Learning app from the <a href="https://apps.apple.com/sg/app/linkedin-learning/id1084807225">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.linkedin.android.learning&hl=en_SG&gl=SG">Google Play Store</a> on your mobile device. It is free to download.
+		</li>
+		<li>
+			Launch the LinkedIn Learning app and tap on “Sign in”.
+		</li>
+		<li>
+			Tap on “Sign in with your library card”.
+		</li>
+		<li>
+		You will be asked to enter your Library ID or custom invitation link. Enter “nlb” or “www.linkedin.com/learning-login/go/nlb” in the field requested. You only need to do this once (the first time you use the LinkedIn Learning app).
+		</li>
+		<li>
+			You will be asked to enter your library card number and PIN. Use your myLibrary username for the “Library Card Number”. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) The PIN is your year of birth (in YYYY format). Click “Continue”.
+		</li>
+		<li>
+			If you are accessing LinkedIn Learning for Library for the first time, you will be asked to personalise your learning experience in the next few steps. Click “Sounds Good” on the next screen, and select your topics of interest and learning goal. Then, you can start using LinkedIn Learning for Library. Happy learning!
+		</li>
+	</ol>
+
+    </div>
+
+<input type="checkbox" id="acc6a">
+        <label for="acc6a">Can I still access LyndaLibrary/Lynda.com?</label>
+        <div class="new-accordion-content">
+      <p>You can do your eLearning on LinkedIn Learning for Library instead - it has a much bigger library of more than 16,000 courses. LyndaLibrary/Lynda.com was upgraded to LinkedIn Learning for Library on 20 May 2021, and hence, NLB library members no longer have access to LyndaLibrary/Lynda.com.</p>
+      </div>
+	
+	
+	<input type="checkbox" id="acc5">
         <label for="acc5">Do I need to install the LinkedIn Learning mobile app?</label>
 <div class="new-accordion-content">
       <p>You don't need the LinkedIn Learning mobile app to access the online courses. But if you wish to use the LinkedIn Learning app, you can! Just follow these steps.</p>
@@ -161,18 +189,19 @@ access training courses?</label>
 		</li>
 		<li>
 			You may be asked to personalise your learning experience in the next few steps. Click “Sounds Good” on the next screen, and select your topics of interest and learning goal. Then, you can start using LinkedIn Learning for Library. Happy learning!
-		</li>		
+		</li>
+	</ol>
     </div>
 </div><!--close section-->
 
 <h3>Troubleshooting</h3>
 <div class="new-accordion">
 <input type="checkbox" id="acc7">
-        <label for="acc7">I can't log in to LyndaLibrary.</label>
+        <label for="acc7">I can't log in to LinkedIn Learning for Library.</label>
         <div class="new-accordion-content">
             <p>We're sorry! Please <a href="mailto:enquiry@nlb.gov.sg" target="_top">email us</a> and provide details of the issue, including a screenshot.</p>
       </div>
             </div>
 
 <table style="background-color:#ffe6e6; border:0; font-size:15px; margin: 10px 0 0 0;">
-				       <tr><td>Don't see your question here? We're sorry. There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LyndaLibrary</a> and in <a href="https://www.linkedin.com/help/lynda">Lynda's own Help page</a>. Tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </td></tr></table>
+				       <tr><td>Don't see your question here? We're sorry. <!--There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LinkedIn Learning for Library</a> and in <a href="https://www.linkedin.com/help/lynda">LinkedIn's own Help page</a>. -->Please <a href="mailto:enquiry@nlb.gov.sg" target="_top">email us</a> and provide details of the issue, including a screenshot. In addition, do tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </td></tr></table>
