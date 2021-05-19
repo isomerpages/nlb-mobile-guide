@@ -117,13 +117,6 @@ title: eLearning
 
     </div>
 
-<input type="checkbox" id="acc6a">
-        <label for="acc6a">Can I still access LyndaLibrary/Lynda.com?</label>
-        <div class="new-accordion-content">
-      <p>You can do your eLearning on LinkedIn Learning for Library instead - it has a much bigger library of more than 16,000 courses. LyndaLibrary/Lynda.com was upgraded to LinkedIn Learning for Library on 20 May 2021, and hence, NLB library members no longer have access to LyndaLibrary/Lynda.com.</p>
-      </div>
-	
-	
 	<input type="checkbox" id="acc5">
         <label for="acc5">Do I need to install the LinkedIn Learning mobile app?</label>
 <div class="new-accordion-content">
@@ -150,11 +143,32 @@ title: eLearning
 
     </div>
 
+
 <input type="checkbox" id="acc6">
         <label for="acc6">Is LinkedIn Learning for Library free to use for NLB members?</label>
         <div class="new-accordion-content">
       <p>Yes! As an NLB library member, you have complimentary access to more than 16,000 online courses from LinkedIn Learning for Library that NLB has subscribed to.</p>
       </div>
+
+	<input type="checkbox" id="acc6b">
+        <label for="acc6b">Why are you using my year of birth as a PIN for signing in to LinkedIn Learning for Library?</label>
+        <div class="new-accordion-content">
+      <p>The PIN provides additional verification for NLB’s secured authentication with LinkedIn.</p>
+      </div>
+	
+<input type="checkbox" id="acc6a">
+        <label for="acc6a">Can I still access LyndaLibrary/Lynda.com?</label>
+        <div class="new-accordion-content">
+      <p>You can do your eLearning on LinkedIn Learning for Library instead - it has a much bigger library of more than 16,000 courses. LinkedIn acquired Lynda.com (including LyndaLibrary) in 2015 and migrated its service and content to the LinkedIn Learning platform. Since the upgrade to LinkedIn Learning for Library on 20 May 2021, NLB library members no longer have access to LyndaLibrary/Lynda.com.</p>
+      </div>
+	
+	<input type="checkbox" id="acc6b">
+        <label for="acc6b">What is the difference between LyndaLibrary and LinkedIn Learning for Library?</label>
+        <div class="new-accordion-content">
+		<p>LinkedIn Learning for Library has many more courses (more than 16,000,) than LyndaLibrary (which had about 7,000). While the courses on LyndaLibrary were only in English, LinkedIn Learning for Library has courses in English, Mandarin, Japanese, French, German, Spanish, and Portuguese. It also has an updated, easy-to-use interface. 
+		</p>
+      </div>
+
 </div><!--close section-->
 
 <h3>Questions about LinkedIn or LinkedIn Premium Accounts</h3>
@@ -163,6 +177,12 @@ title: eLearning
         <label for="acc3">Do I need a LinkedIn account? </label>
 <div class="new-accordion-content">
 	<p>No, you do not. You simply need to sign in using your myLibrary username and PIN. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) The PIN is your year of birth (in YYYY format). As an NLB library member, you have complimentary access to more than 16,000 online courses from LinkedIn Learning for Library that NLB has subscribed to.</p>
+    </div>
+	
+	<input type="checkbox" id="acc3a">
+        <label for="acc3a">Does anything appear on my LinkedIn profile when I start or complete a course?</label>
+<div class="new-accordion-content">
+	<p>No, nothing will appear on your profile unless you proactively share an update on it.</p>
     </div>
 
 <input type="checkbox" id="acc4">
@@ -204,4 +224,4 @@ access training courses?</label>
             </div>
 
 <table style="background-color:#ffe6e6; border:0; font-size:15px; margin: 10px 0 0 0;">
-				       <tr><td>Don't see your question here? We're sorry. <!--There are more FAQs in our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LinkedIn Learning for Library</a> and in <a href="https://www.linkedin.com/help/lynda">LinkedIn's own Help page</a>. -->Please <a href="mailto:enquiry@nlb.gov.sg" target="_top">email us</a> and provide details of the issue, including a screenshot. In addition, do tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </td></tr></table>
+				       <tr><td>Don't see your question here? We're sorry. There are more FAQs in <!---our <a href="http://eresources.nlb.gov.sg/main/Pages/MobileDevices">eResources FAQ page on LinkedIn Learning for Library</a> and---> in <a href="https://www.linkedin.com/help/learning/answer/107121/linkedin-learning-for-library-patron-faq?lang=en ">LinkedIn's own Help page</a>.If you can't find any answer to your question, please <a href="mailto:enquiry@nlb.gov.sg" target="_top">email us</a> and provide details of the issue, including a screenshot. In addition, do tell us what questions you would like included on this page, by clicking on the smiley face icon on the bottom left corner of the page. </td></tr></table>
