@@ -45,7 +45,7 @@ title: eLearning
 	Here is the step-by-step guide on how to log in on a desktop/laptop. If you would like to log in using the NLB Mobile app or LinkedIn Learning app instead, the steps are provided under the respective questions below.
 	        <ol>
 		<li>
-		Go to https://eresources.nlb.gov.sg/elearn. 
+			Go to <a href="https://eresources.nlb.gov.sg/elearn">https://eresources.nlb.gov.sg/elearn</a>. 
 			</li>
 			<li>Sign in with your myLibrary username. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) Click on “LinkedIn Learning for Library”.
 	</li>
@@ -66,7 +66,7 @@ title: eLearning
 <div class="new-accordion-content">
 	        <ol>
 		<li>
-		Go to https://eresources.nlb.gov.sg/elearn. 
+		Go to <a href="https://eresources.nlb.gov.sg/elearn">https://eresources.nlb.gov.sg/elearn</a>.  
 			</li>
 			<li>Sign in with your myLibrary username. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) Click on “LinkedIn Learning for Library”.
 	</li>
