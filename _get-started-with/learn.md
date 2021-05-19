@@ -9,8 +9,7 @@ title: eLearning
 
 <h2>Learn through bite-sized videos with LinkedIn Learning for Library</h2>
 
-<!---
-
+<!---Hide video until updated video is out
 <div class="bp-youtube">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
@@ -19,33 +18,52 @@ title: eLearning
 <ul>   
 	<li> <b>Learn anything:</b> Over 16,000 courses covering a wide range of topics, from data science to leadership skills</li>
 	<li> <b>Learn from experts:</b> Many courses are taught by recognised industry experts
+		<!---Hide example until can verify if there is also this course on LinkedIn Learning
 	<ul>
             <li style="margin-left: 20px;">e.g. There is a course on the world-renowned <a href="https://www.lynda.com/Business-Skills-tutorials/Getting-Things-Done/170776-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3adavid+allen%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2">Getting Things Done productivity method course</a> taught by its creator, David Allen. </li>
     </ul>
+--->
 	<li> <b>Learn on the go:</b> Easy access through the NLB Mobile app</li>
+	<!---Hide this point until can verify if LinkedIn Learning also has this feature
 	<li> <b>Learn hands-on:</b> Test your new knowledge immediately with the exercises* and quizzes included</li>
-
+--->
+	
 <p>The NLB Mobile app is available for download on the <a href="https://go.nlb.gov.sg/nlbmobile">Apple AppStore and Google Play Store</a>.</p>    
 <p><a href="https://go.nlb.gov.sg/nlbmobile"><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:300px;height:auto;width:auto;"></a>
 	</p>
-
+	
+<!---Hide this point until can verify if LinkedIn Learning also has this feature
 <p><i>*Exercises are not available on mobile devices, only via an <b>internet browser</b> on desktop PCs and laptops</i></p>
-
+--->
+	
 <p><h3>Getting Started</h3></p>
 <div class="new-accordion" id="lynda-get-started">          
 <input type="checkbox" id="acc2">
-        <label for="acc2">How do I start using LyndaLibrary from the NLB Mobile app? </label>
+        <label for="acc2">How do I start using LinkedIn Learning for Library from the NLB Mobile app? </label>
 <div class="new-accordion-content">
-          <p>
+        <ol>
+		<li>
 		First, please ensure that your app is up-to-date. <a href="https://go.nlb.gov.sg/nlbmobile">Tap here with your mobile phone</a> or scan the QR code below to go to the NLB Mobile app store page.
-	</p>
-	<p><a href="https://go.nlb.gov.sg/nlbmobile"><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:300px;height:auto;width:auto;"></a>
-	</p>
-	<p>Tap on “Update”.  If there is no “Update” button, it means your app is already up-to-date. 
-	</p>
-	<p>
-		Next, sign in to NLB Mobile with your myLibrary ID and select the ‘More’ icon on the Discover tab. Then, tap on the LyndaLibrary icon. Do note that if you are a new LyndaLibrary user, you will be prompted to create a Lynda profile. 
-      </p>
+			<p>
+				<a href="https://go.nlb.gov.sg/nlbmobile"><img src="/images/qr_faq-download-nlb-mobile-go.nlb-pluscta.png" alt="QR code to download or install the NLB Mobile app" style="max-width:300px;height:auto;width:auto;"></a>
+			</p>
+	</li>
+	<li>
+		Tap on “Update”.  If there is no “Update” button, it means your app is already up-to-date. 
+	</li>
+	<li>
+		Sign in to NLB Mobile with your myLibrary ID and select the ‘More’ icon on the Discover tab. Then, tap on the LinkedIn Learning icon.
+      </li>
+	<li>
+		Click “Proceed” and “Get Started” to access LinkedIn Learning for Library.
+	</li>
+		<li>
+			You will be asked to verify and enter your library card number and PIN. Use your myLibrary ID for the “Library Card Number” (Go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve your myLibrary ID). The PIN Is your year of birth (in YYYY format). Click “Continue”.
+		</li>
+		<li>
+			If you are accessing LinkedIn Learning for Library for the first time, you will be asked to personalise your learning experience in the next few steps. Click “Sounds Good” on the next screen, and select your topics of interest and learning goal. After that, you can proceed to start using LinkedIn Learning for Library. Happy learning!
+		</li>
+	</ol>
 </div>
 
 <input type="checkbox" id="acc1">
