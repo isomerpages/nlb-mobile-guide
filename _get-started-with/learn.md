@@ -67,7 +67,7 @@ title: eLearning
 </div>
 
 <input type="checkbox" id="acc1">
-        <label for="acc1">How do I start using LyndaLibrary on my laptop or desktop? </label>
+        <label for="acc1">How do I start using LinkedIn Learning for Library on my laptop or desktop? </label>
 <div class="new-accordion-content">
 	        <ol>
 		<li>
@@ -129,19 +129,39 @@ title: eLearning
       </div>
 </div><!--close section-->
 
-<h3>Questions about Accounts</h3>
+<h3>Questions about LinkedIn or LinkedIn Premium Accounts</h3>
 <div class="new-accordion" id="lynda-get-started">      
 <input type="checkbox" id="acc3">
-        <label for="acc3">Do I need a Lynda.com or a LinkedIn account? </label>
+        <label for="acc3">Do I need a LinkedIn account? </label>
 <div class="new-accordion-content">
-	<p>As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to. Do note that you will be prompted to create a Lynda.com profile to save your history and bookmarks.</p>
+	<p>No, you do not. You simply need to sign in using your myLibrary username and PIN. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) The PIN is your year of birth (in YYYY format). As an NLB library member, you have complimentary access to more than 16,000 online courses from LinkedIn Learning for Library that NLB has subscribed to.</p>
     </div>
 
 <input type="checkbox" id="acc4">
-        <label for="acc4">I have a Lynda.com account. Can I still enjoy NLB’s subscription to LyndaLibrary to
+        <label for="acc4">I already have a LinkedIn Learning or LinkedIn Premium account. Can I still enjoy NLB’s subscription to LinkedIn Learning for Library to
 access training courses?</label>
 <div class="new-accordion-content">
-      <p>Yes! All NLB members can enjoy free access to training courses from NLB’s subscription to LyndaLibrary, even if they have their own personal subscription to Lynda.com. You have the option to keep both accounts separate. </p>
+      <p>Yes! All NLB members can enjoy free access to training courses from NLB’s subscription to LinkedIn Learning for Library, even if you have your own personal subscription to LinkedIn Learning or LinkedIn Premium. To enjoy NLB's subscription, you simply need to sign in using your myLibrary username and PIN. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) The PIN is your year of birth (in YYYY format). As an NLB library member, you have complimentary access to more than 16,000 online courses from LinkedIn Learning for Library that NLB has subscribed to.</p>
+	<p><b>If you are already using the LinkedIn Learning app with your personal subscription</b></p>
+	<ol>
+		<li>
+			Please first sign out of the LinkedIn Learning app. Tap on the “My Learning” tab on the bottom right. Tap on your LinkedIn profile on top, then the Settings icon on the top right. Next, tap on “Sign out” (you may have to scroll down to see the "Sign Out" button).
+		</li>
+		<li>
+			After signing out, tap on “Sign in”.
+		</li>
+		<li>
+			Tap on “Sign in with your library card”.
+		</li>
+		<li>
+		You will be asked to enter your Library ID or custom invitation link. Enter “nlb” or “www.linkedin.com/learning-login/go/nlb” in the field requested. You only need to do this once (the first time you use the LinkedIn Learning app).
+		</li>
+		<li>
+			You will be asked to enter your library card number and PIN. Use your myLibrary username for the “Library Card Number”. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) The PIN is your year of birth (in YYYY format). Click “Continue”.
+		</li>
+		<li>
+			You may be asked to personalise your learning experience in the next few steps. Click “Sounds Good” on the next screen, and select your topics of interest and learning goal. Then, you can start using LinkedIn Learning for Library. Happy learning!
+		</li>		
     </div>
 </div><!--close section-->
 
