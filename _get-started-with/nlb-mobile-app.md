@@ -347,8 +347,8 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <div class="new-accordion-content">
   <p>Sign in to the NLB Mobile app with your myLibrary ID. Tap on the Discover tab on the bottom left corner and select the ‘More’ icon. You will see some options:</p>
 	  <ul>
-		  <li>LinkedIn's LyndaLibrary. This eLearning service from LinkedIn offers thousands of video tutorials on technology, design and business. <a href="/get-started-with/lynda/">Find out more about using LyndaLibrary</a>.</li>
-		  <li>Learning Resources. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
+		  <li>LinkedIn Learning for Library. This eLearning service offers thousands of video tutorials on technology, design and business. <a href="/get-started-with/learn/">Find out more about using LinkedIn Learning for Library</a>.</li>
+		  <li>Learn & Reeearch. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
 		  </li>
 	</ul>
 </div>
