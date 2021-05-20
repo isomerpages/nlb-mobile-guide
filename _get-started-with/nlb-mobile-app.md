@@ -353,19 +353,6 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 	</ul>
 </div>
 
-<input type="checkbox" id="acc19">
-<label for="acc19">Do I need a Lynda.com account? </label>
-<div class="new-accordion-content">
-      <p>This is optional as long as you access the online courses from the NLB Mobile app. As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
-    </div>
-
-<input type="checkbox" id="acc20">
-<label for="acc20">Do I need to install the Lynda mobile app?</label>
-<div class="new-accordion-content">
-      <p>You don't need the Lynda mobile app to access the online courses.</p>
-</div>
-
-
 <div id="qr"><p><h4>Using the QR Login Feature on NLB Websites</h4></p>
 
 <input type="checkbox"  id="acc21">
