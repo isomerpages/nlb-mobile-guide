@@ -6,7 +6,17 @@ image: /images/NLB-Mobile-logo-square.png
 title: eLearning
 
 ---
-
+<table style="border-color: blue;" border="1" cellpadding="10">
+<tbody>
+<tr>
+<td>
+	<h1 style="text-align: center;">We've Moved!</h1>
+	<p><a href="/get-started-with/learn/">Visit the latest FAQ page</a> for information on eLearning. 
+	</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Learn through bite-sized videos with LyndaLibrary, by LinkedIn</h2>
 
 <div class="bp-youtube">
