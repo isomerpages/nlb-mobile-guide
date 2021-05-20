@@ -15,7 +15,7 @@ sections:
                     - title: 'eMagazines and eNewspapers'
                       url: /get-started-with/enews/
                     - title: eLearning
-                      url: /get-started-with/lynda/
+                      url: /get-started-with/learn/
                     - title: 'Library membership and myLibrary ID'
                       url: /get-started-with/myLibrary/
                     - title: 'Chinese eBooks'
@@ -50,11 +50,11 @@ sections:
     - infopic:
           title: 'Learn New Skills'
           subtitle: null
-          description: 'Learn on the go from more than 8,000 courses with LyndaLibrary (from LinkedIn).'
-          url: /get-started-with/lynda
+          description: 'Upskill with more than 16,000 courses on LinkedIn Learning for Library.'
+          url: /get-started-with/learn
           image: /images/Home_learn.jpg
           alt: 'Video courses on business, design and technology'
-          button: 'Ways to learn anytime, anywhere'
+          button: 'Learn anytime, anywhere'
     - infopic:
           title: 'Manage Your Account'
           subtitle: null
