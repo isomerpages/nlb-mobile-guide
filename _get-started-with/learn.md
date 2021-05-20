@@ -50,7 +50,7 @@ title: eLearning
 			<li>Sign in with your myLibrary username. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) Click on “LinkedIn Learning for Library”.
 	</li>
 	<li>
-		Click “Get Started”.
+		Click on "Begin Your Learning Journey", then “Get Started”.
 			</li>
 			<li>
 			You will be asked to enter your library card number and PIN. Use your myLibrary username for the “Library Card Number”. The PIN is your year of birth (in YYYY format). Click “Continue”.
@@ -78,7 +78,7 @@ title: eLearning
 		Sign in to NLB Mobile with your myLibrary ID and select the ‘More’ icon on the Discover tab. Then, tap on the LinkedIn Learning icon.
       </li>
 	<li>
-		Click “Proceed” and “Get Started”.
+		Click “Proceed”, then "Begin Your Learning Journey", followed by “Get Started”.
 	</li>
 		<li>
 			You will be asked to verify and enter your library card number and PIN. Use your myLibrary ID for the “Library Card Number” (Go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve your myLibrary ID). The PIN Is your year of birth (in YYYY format). Click “Continue”.
@@ -99,7 +99,7 @@ title: eLearning
 			<li>Sign in with your myLibrary username. (If you have forgotten your myLibrary username and/or password, go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a> to retrieve it.) Click on “LinkedIn Learning for Library”.
 	</li>
 	<li>
-		Click “Get Started”.
+		Click on "Begin Your Learning Journey", then “Get Started”.
 			</li>
 			<li>
 			You will be asked to enter your library card number and PIN. Use your myLibrary username for the “Library Card Number”. The PIN is your year of birth (in YYYY format). Click “Continue”.
