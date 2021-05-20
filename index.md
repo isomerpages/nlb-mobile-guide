@@ -52,7 +52,7 @@ sections:
           subtitle: null
           description: 'Upskill with more than 16,000 courses on LinkedIn Learning for Library.'
           url: /get-started-with/learn
-          image: /images/Home_learn.jpg
+          image: /images/Home_learn.png
           alt: 'Video courses on business, design and technology'
           button: 'Learn anytime, anywhere'
     - infopic:
