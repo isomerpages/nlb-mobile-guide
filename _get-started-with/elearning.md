@@ -1,6 +1,6 @@
 ---
 permalink: /get-started-with/lynda/
-breadcrumb: lynda
+breadcrumb: 'lynda'
 description: 'How to Access Complimentary eLearning Courses using NLB Mobile'
 image: /images/NLB-Mobile-logo-square.png
 title: [Archive] eLearning
