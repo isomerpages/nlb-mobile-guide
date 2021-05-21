@@ -347,24 +347,11 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <div class="new-accordion-content">
   <p>Sign in to the NLB Mobile app with your myLibrary ID. Tap on the Discover tab on the bottom left corner and select the ‘More’ icon. You will see some options:</p>
 	  <ul>
-		  <li>LinkedIn's LyndaLibrary. This eLearning service from LinkedIn offers thousands of video tutorials on technology, design and business. <a href="/get-started-with/lynda/">Find out more about using LyndaLibrary</a>.</li>
-		  <li>Learning Resources. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
+		  <li>LinkedIn Learning for Library. This eLearning service offers thousands of video tutorials on technology, design and business. <a href="/get-started-with/learn/">Find out more about using LinkedIn Learning for Library</a>.</li>
+		  <li>Learn & Reeearch. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
 		  </li>
 	</ul>
 </div>
-
-<input type="checkbox" id="acc19">
-<label for="acc19">Do I need a Lynda.com account? </label>
-<div class="new-accordion-content">
-      <p>This is optional as long as you access the online courses from the NLB Mobile app. As an NLB library member, you have complimentary access to the online courses from LyndaLibrary that NLB has subscribed to.</p>
-    </div>
-
-<input type="checkbox" id="acc20">
-<label for="acc20">Do I need to install the Lynda mobile app?</label>
-<div class="new-accordion-content">
-      <p>You don't need the Lynda mobile app to access the online courses.</p>
-</div>
-
 
 <div id="qr"><p><h4>Using the QR Login Feature on NLB Websites</h4></p>
 
