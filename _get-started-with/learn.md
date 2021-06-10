@@ -1,19 +1,15 @@
 ---
 permalink: /get-started-with/learn/
 breadcrumb: eLearning
-description: 'How to Access Complimentary eLearning Courses using NLB Mobile'
+description: How to Access Complimentary eLearning Courses using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eLearning
-
 ---
-
 <h2>Learn through bite-sized videos with LinkedIn Learning for Library</h2>
 
-<!---Hide video until updated video is out
 <div class="bp-youtube">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Sm9LgDQOhws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
---->	
 
 <ul>   
 	<li> <b>Learn anything:</b> Over 16,000 courses covering a wide range of topics, from data science to leadership skills</li>
