@@ -1,12 +1,10 @@
 ---
 permalink: /get-started-with/enews/
-breadcrumb: 'eMagazines and eNewspapers'
-description: 'How to Read eMagazines and eNewspapers using NLB Mobile'
+breadcrumb: eMagazines and eNewspapers
+description: How to Read eMagazines and eNewspapers using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
-title: 'eMagazines and eNewspapers'
-
+title: eMagazines and eNewspapers
 ---
-
 <h2>Thousands of digital newspapers and magazines await</h2>
 <p>We bring in daily local newspapers and international newspapers, as well as a variety of magazines. Find out about:
 	<ul>
@@ -19,7 +17,7 @@ title: 'eMagazines and eNewspapers'
 <div id="sph">
 <h3>How to Read SPH eNewspapers From Home</h3>
 <div class="bp-youtube">
-<iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/brkz6074lXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/NlYnB_anDj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><!--close bp-youtube-->
 	</div> <!--close id = sph-->
 	
@@ -381,5 +379,3 @@ title: 'eMagazines and eNewspapers'
   <p>You can <a href="mailto:enquiry@nlb.gov.sg">email us</a> and tell us about the issue(s) you have encountered. Sending us screenshots related to the issue(s) would help us assist you better!</p>
 </div>
 </div>
-
-
