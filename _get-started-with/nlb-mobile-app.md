@@ -1,10 +1,9 @@
 ---
 permalink: /get-started-with/nlb-mobile/
-breadcrumb: 'NLB Mobile app'
-description: 'NLB Mobile app FAQ'
-image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
-title: 'NLB Mobile app'
-
+breadcrumb: NLB Mobile app
+description: NLB Mobile app FAQ
+image: /images/NEW_NLB_mobile-app-icon_dark orange_final.png
+title: NLB Mobile app
 ---
 <table style="border:0; background-color: #e6ffe6;">
 	<tr><td><b>Just updated the app?</b> <a href="/get-started-with/nlb-mobile-troubleshoot/">Here's a quick guide</a> to using the updated app, released on Feb 23. If you are unsure if your app has already been updated, <a href="#update">follow the steps in the "Update" section below</a>.</td></tr>
@@ -20,7 +19,7 @@ title: 'NLB Mobile app'
 <p>
 	<div class="bp-youtube">
 <!--NLB Mobile app features video 2021 - PLS YouTube-->
- 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TZCEyO0EecU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/47FBXNAUNUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	 </iframe>
 	 </div>
 	 
@@ -155,7 +154,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p>
 	<div class="bp-youtube">
 <NLB Mobile app features video 2021 - PLS YouTube>
- 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/TZCEyO0EecU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/47FBXNAUNUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	 </iframe>
 	 </div>
 
