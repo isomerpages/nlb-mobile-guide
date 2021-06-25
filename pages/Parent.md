@@ -29,7 +29,7 @@ title: 'Top Tips for Families and Children'
 		<input type="radio" name="acc" id="acc1">
 		<label for="acc1"><i></i> It’s great that I can sign my child up to be an NLB member online! How do I do that?</label>
 		<div class="acc-body">
-			 <p>You can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your SingPass if:</p>
+			 <p>You can sign your child up <a href="https://account.nlb.gov.sg">online</a> using your Singpass if:</p>
 <ul>
 <li>Your child is a Singaporean or Permanent Resident, and</li>
 <li>Your child is born in Singapore</li>
@@ -49,7 +49,7 @@ title: 'Top Tips for Families and Children'
         <label for="acc2"><i></i>What do I need to sign up for library membership online?</label>
         <div class="acc-body">
 			<p>You will need a:</p>
-			<ul><li>SingPass login ID and password</li>
+			<ul><li>Singpass login ID and password</li>
 			<li>[For PRs] Debit/credit card to pay the one-time registration fee of $10.50</li>
       </ul>
 		</div>
