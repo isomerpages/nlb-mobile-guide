@@ -27,7 +27,7 @@ title: eMagazines and eNewspapers
 <label for="sph1">How can I read SPH newspapers from my computer at home?</label>
 <div class="new-accordion-content">
   <p>After signing in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
-<p>To sign up for library membership with your SingPass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
+<p>To sign up for library membership with your Singpass, sign up for myLibrary ID, or check your username / password, please go to <a href="https://account.nlb.gov.sg" target="_blank">account.nlb.gov.sg</a>. 
 </p>
 		<p class="end-note">If you are using the Safari browser on an iPad and have trouble turning pages or if the page looks cut off, your settings may be wrong. Go to Settings > Safari > (under the heading "Settings for Websites") Request Desktop Website > Switch off. After turning off this setting, close and reopen the page again to see the changed interface. Alternatively, download the Chrome browser from the AppStore and use Chrome instead.</p>
 	<p><img src="/images/PressReaderSPH_SafariSettings.png" alt="A screenshot showing the Safari setttings on the iPad."></p>
