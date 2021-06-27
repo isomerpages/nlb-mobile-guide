@@ -8,7 +8,7 @@ permalink: /permalink/booklist
   <span class="booklist-main">
     <span class="booklist-title">Farsighted</span><br/>
     <i>Author</i><br/>
-    Published in 2012
+    Published in 2012<br/>
     </span>
 <input type="checkbox" id="book1">
   <label for="book1">  
