@@ -419,7 +419,7 @@ input:checked + label + .new-accordion-content {
 .booklist-card 
 	    {
 	display: block;
- 	background: #f8f8f8;
+ 	background: #d7cec7;
  	padding: 16px 8px ;
  	margin: 8px 0px;
  	width: 100%;
@@ -428,7 +428,7 @@ input:checked + label + .new-accordion-content {
 
 .booklist-cover {
 	display: block;
- 	background: #f8f8f8;
+ 	background: #d7cec7;
  	padding: 12px 16px ;
  	margin: 8px;
  	max-width: 200px !important;
@@ -437,7 +437,7 @@ input:checked + label + .new-accordion-content {
 	    }
 .booklist-main{
 	display: block;
- 	background: #f8f8f8;
+ 	background: #d7cec7;
  	padding: 12px 16px;
  	margin: 8px;
  	    }	    
@@ -464,22 +464,22 @@ font-size: 1.5em;
 	border-radius: 3px;
 	color: #111111;
 	transition: ease .5s;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 .booklist label:hover {
-	background: #fdfdfd;
+	background: #7633f;
 	color: #111111;
 }
 	    
 .booklist-content {
-	background-color: #fdfdfd;
+	background-color: #d7cec7;
 	padding: 10px 10px 30px 30px;
 	
 	margin: 0 0 5px 0;
 	border-radius: 3px;
 	color: #111111;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 input + label + .booklist-content {
