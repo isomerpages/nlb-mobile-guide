@@ -5,8 +5,8 @@ permalink: /permalink/booklist
 
 <div class="booklist-card"><!--booklist card--> 
   <img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted" class="booklist-cover">
-  <span class="booklist-title">
-    <b>Farsighted</b><br/>
+  <span class="booklist-main">
+    <span class="booklist-title">Farsighted</span><br/>
     <i>Author</i><br/>
     Published in 2012
     </span>
