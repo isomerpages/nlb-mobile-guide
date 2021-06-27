@@ -23,9 +23,9 @@ permalink: /permalink/booklist
 </div><!--close booklist card-->
   
   <div class="booklist-card"><!--booklist card--> 
-  <img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted" class="booklist-cover">
+  <img src="/images/CCS-1-PuttingDesignThinkingtoWork.jpg" alt="Putting Design Thinking to Work" class="booklist-cover">
   <p class="booklist-main">
-    <span class="booklist-title">Farsighted 2</span><br/>
+    <span class="booklist-title">Putting Design Thinking to Work</span><br/>
     <i>Author</i><br/>
     Published in 2012<br/>
     </p>
