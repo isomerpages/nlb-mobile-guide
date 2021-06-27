@@ -6,10 +6,10 @@ permalink: /permalink/booklist
 <div class="booklist"><!--booklist accordion--> 
 <input type="checkbox" id="book1">
 <label for="book1">
-  <div class="booklist-container">
+  
       <div class="booklist-cover><img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted"></div>
       <div class="booklist-title>What is the difference between Libby and NLB Mobile?</div>
-  </div><!--close booklist-container-->
+  
   </label>
   <div class="booklist-content">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
