@@ -7,8 +7,8 @@ permalink: /permalink/booklist
 <input type="checkbox" id="book1">
 <label for="book1">
   
-      <div class="booklist-cover><img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted"></div>
-      <div class="booklist-title>What is the difference between Libby and NLB Mobile?</div>
+      <img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted" class="booklist-cover">
+      <p class="booklist-title>What is the difference between Libby and NLB Mobile?</p>
   
   </label>
   <div class="booklist-content">
