@@ -5,14 +5,14 @@ permalink: /permalink/booklist
 
 <div class="booklist-card"><!--booklist card--> 
   <img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted" class="booklist-cover">
-  <span class="booklist-main">
+  <p class="booklist-main">
     <span class="booklist-title">Farsighted</span><br/>
     <i>Author</i><br/>
     Published in 2012<br/>
-    </span>
+    </p>
 <input type="checkbox" id="book1" class="booklist">
   <label for="book1" class="booklist">  
-      Find out more
+    <p><b>Find out more</b></p>
   </label>
   <div class="booklist-content">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
@@ -23,14 +23,14 @@ permalink: /permalink/booklist
   
   <div class="booklist-card"><!--booklist card--> 
   <img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted" class="booklist-cover">
-  <span class="booklist-main">
+  <p class="booklist-main">
     <span class="booklist-title">Farsighted 2</span><br/>
     <i>Author</i><br/>
     Published in 2012<br/>
-    </span>
+    </p>
 <input type="checkbox" id="book2" class="booklist">
   <label for="book2" class="booklist">  
-      Find out more
+    <<p><b>Find out more</b></p>
   </label>
   <div class="booklist-content">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
