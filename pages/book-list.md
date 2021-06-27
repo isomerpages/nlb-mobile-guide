@@ -10,8 +10,8 @@ permalink: /permalink/booklist
     <i>Author</i><br/>
     Published in 2012<br/>
     </span>
-<input type="checkbox" id="book1">
-  <label for="book1">  
+<input type="checkbox" id="book1" class="booklist">
+  <label for="book1" class="booklist">  
       Find out more
   </label>
   <div class="booklist-content">
