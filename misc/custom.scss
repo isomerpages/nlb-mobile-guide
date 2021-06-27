@@ -427,7 +427,7 @@ input:checked + label + .new-accordion-content {
 	    }
 
 .booklist-cover {
-	display: inline-block;
+	display: block;
  	background: #f8f8f8;
  	padding: 12px 16px ;
  	margin: 8px;
@@ -436,7 +436,7 @@ input:checked + label + .new-accordion-content {
 	float: left;
 	    }
 .booklist-main{
-	display: inline-block;
+	display: block;
  	background: #f8f8f8;
  	padding: 12px 16px;
  	margin: 8px;
