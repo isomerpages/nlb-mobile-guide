@@ -13,7 +13,7 @@ permalink: /permalink/booklist
 <div class = "booklist">
   <input type="checkbox" id="book1">
   <label for="book1">  
-    <p><b>Find out more</b></p>
+    <p class="booklist-find-out">Find out more</p>
   </label>
   <div class="booklist-content">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
@@ -32,7 +32,7 @@ permalink: /permalink/booklist
 <div class = "booklist">
   <input type="checkbox" id="book2">
   <label for="book2">  
-    <p><b>Find out more</b></p>
+    <p class="booklist-find-out">Find out more</p>
   </label>
   <div class="booklist-content">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
