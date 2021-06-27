@@ -433,13 +433,17 @@ input:checked + label + .new-accordion-content {
  	width: 200px;
 	float: left;
 	    }
-.booklist-title{
+.booklist-main{
 	display: inline-block;
  	background: #f8f8f8;
  	padding: 12px 16px;
  	margin: 8px;
 	max-width: 60%
  	    }	    
+
+.booklist-title{
+font-size: 1.25rem;
+}
 	    
 .booklist input {
 	display: none;
