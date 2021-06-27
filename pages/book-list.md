@@ -8,7 +8,7 @@ permalink: /permalink/booklist
 <label for="book1">
   
       <img src="/images/CCS-1-Farsighted.jpg" alt="Farsighted" class="booklist-cover">
-      <p class="booklist-title>What is the difference between Libby and NLB Mobile?</p>
+      <span class="booklist-title>What is the difference between Libby and NLB Mobile?</span>
   
   </label>
   <div class="booklist-content">
