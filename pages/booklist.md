@@ -1,7 +1,8 @@
 ---
 title: Booklist
-permalink: /permalink/booklist
+permalink: /permalink/booklistv2
 ---
+
 ---
 title: booklist-v2
 permalink: /permalink/booklistv2
