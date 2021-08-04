@@ -3,9 +3,8 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
 ---
-
 <h2> A username that lets you borrow ebooks, access digital resources, check library accounts and more! </h2>
-<p><b>Forgot your ID or password?</b> <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
+<p><b>Forgot your username or password?</b> <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
 <p><b>Not yet a library member? </b> Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
 
 <!--A user ID for library members that lets you:
@@ -101,7 +100,7 @@ title: Library Membership and myLibrary username
 	<div class="new-accordion-content">
 		<h4>For Singaporeans/PRs</h4>
 		<p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
-          <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your Singpass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary ID (username). With this myLibrary ID, you can instantly check your account online, <a href="/get-started-with/nlb-mobile/">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
+          <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your Singpass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary username and password. With this myLibrary username, you can instantly check your account online, <a href="/get-started-with/nlb-mobile/">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
 	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
 	<h4>For Foreigners</h4>
 	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($42.80). The registration fee ($10.50) will be waived. To sign up, please <strong>approach a staff member at any library</strong>. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
@@ -132,15 +131,15 @@ title: Library Membership and myLibrary username
 </p>
 <div class="new-accordion">          
 <input type="checkbox" id="acc11">
-		<label for="acc11">Why do I need a myLibrary ID? </label>
+		<label for="acc11">Why do I need a myLibrary username? </label>
 		<div class="new-accordion-content">
-        <p>You need a myLibrary ID and password to sign in to our digital library services and use them anytime, anywhere. Simply sign in with a username and password. As long as you are an NLB member, you can register for a myLibrary ID.</p>
+        <p>You need a myLibrary username and password to sign in to our digital library services and use them anytime, anywhere. </p>
         </div>
 
 <input type="checkbox" id="acc12">
-        <label for="acc12">What can I do with a myLibrary ID? </label>
+        <label for="acc12">What can I do with a myLibrary username? </label>
         <div class="new-accordion-content">
-        <p>You need a myLibrary ID to enjoy these digital library services:</p>
+        <p>You need a myLibrary username to enjoy these digital library services:</p>
         <table style="border-collapse: collapse; width: 100%; height: 188px;" border="1">
         <tbody>
         <tr style="height: 17px;">
@@ -205,7 +204,7 @@ title: Library Membership and myLibrary username
         </tr>
         </tbody>
         </table>
-        <p>You may also use a myLibrary ID to:</p>
+        <p>You may also use a myLibrary username to:</p>
         <ol>
         <li><a href="/get-started-with/nlb-mobile/"><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations</a> .</li>
         <li><strong>Register for programmes.</strong></li>
@@ -213,11 +212,11 @@ title: Library Membership and myLibrary username
         </div>
 
 <input type="checkbox" id="acc13">
-	    <label for="acc13">Who can create a myLibrary ID? How do I create one?</label>
+	    <label for="acc13">Who can create a myLibrary username? How do I create one?</label>
 	    <div class="new-accordion-content">
 	    <ul>
-	    <li>All library members, even children and babies, can have a myLibrary ID.</li>
-	    <li>Creating a myLibrary ID will only take a few minutes! You may create it:
+	    <li>All library members, even children and babies, can have a myLibrary username.</li>
+	    <li>Creating a myLibrary username will only take a few minutes! You may create it:
 	    <ul>
 	    <li><a href="https://account.nlb.gov.sg"><strong>Online</strong> with your Singpass or NRIC / FIN number</a>.</li>
 	    <li>Via the <strong>NLB Mobile app</strong> with your Singpass or NRIC / FIN number. 
@@ -238,14 +237,14 @@ title: Library Membership and myLibrary username
         </div>
 
 <input type="checkbox" id="acc15">
-        <label for="acc15">I can’t remember if I have a myLibrary ID. How can I check?</label>
+        <label for="acc15">I can’t remember if I have a myLibrary username. How can I check?</label>
         <div class="new-accordion-content">
 		<p>
 			Use this <a href="https://account.nlb.gov.sg">online service</a> and:
 	</p>
         <ul>
-        <li>Sign in with your Singpass. The system will display your username if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
-        <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your username if you have a myLibrary ID. Otherwise, it will prompt you to create a myLibrary ID.</li>
+        <li>Sign in with your Singpass. The system will display your username if you have a myLibrary username. Otherwise, it will prompt you to create a myLibrary username.</li>
+        <li>Sign in with your NRIC / FIN number. We will send a one-time password (OTP) to either your mobile number or email address that you have previously registered with us. The system will display your username if you have a myLibrary username. Otherwise, it will prompt you to create a myLibrary username.</li>
         </ul>
         </div>
 	
