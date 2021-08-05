@@ -1,9 +1,10 @@
 ---
 permalink: /get-started-with/nlb-mobile-troubleshoot/
-breadcrumb: 'NLB Mobile app - Quick Guide'
-description: 'Answers to the most commonly-asked questions about the revamped NLB Mobile app (2021 release).'
-image: '/images/NEW_NLB_mobile-app-icon_dark orange_final.png'
-title: 'Quick Guide to the New NLB Mobile app'
+breadcrumb: NLB Mobile app - Quick Guide
+description: Answers to the most commonly-asked questions about the revamped NLB
+  Mobile app (2021 release).
+image: /images/NEW_NLB_mobile-app-icon_dark orange_final.png
+title: Quick Guide to the New NLB Mobile app
 ---
 <!--
 <table style="background-color:#ffe6e6; border:0;">
@@ -12,7 +13,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 <table style="width: auto;">
 <tbody>
 <tr>
-	<td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary ID/password? Tap on "Forgot ID/password".</h4></p>
+	<td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary username/password? Tap on "Forgot username/password".</h4></p>
 	<div style="max-width: 400px"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></div> 
 	</td>
 </tr>
@@ -81,7 +82,7 @@ title: 'Quick Guide to the New NLB Mobile app'
 </tbody>
 </table>
 <p><strong>Step Two:</strong>Tap on your desired title.</p>
-<p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
+<p><strong>Step Three:</strong> If you have signed in using your myLibrary username, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
 <p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Account’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
@@ -149,4 +150,4 @@ title: 'Quick Guide to the New NLB Mobile app'
 <div class="new-accordion-content">
       <p>Please visit the <a href="https://childrenandteens.nlb.gov.sg/events/bookbugsx/">Book Bugs website</a> for more information, e.g. about how to earn points to redeem Book Bugs cards, and how to redeem the cards.</p>
 </div>
-</div><!--close new-accordion div--> 
+</div><!--close new-accordion div-->
