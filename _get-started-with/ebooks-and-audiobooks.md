@@ -211,7 +211,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <input type="checkbox" id="acc4">
 <label for="acc4">I tried to 'Add A Library Card' and was prompted to enter a 'user ID' when entering my 'Library Account Details'. What is my 'user ID'? </label>
 <div class="new-accordion-content">
-  <p>Your 'user ID' refers to your NLB myLibrary ID. </p>
+  <p>Your 'user ID' refers to your NLB myLibrary username. </p>
 </div>
 
 <input type="checkbox" id="acc5">
@@ -300,7 +300,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>Here are the steps to do so:</p>
 <p>i. Connect your eReader to your computer.</p>
 <p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer.</p>
-<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary ID. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
+<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary username. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
   <a href="https://help.overdrive.com/en-us/0047.html" target="_blank" rel="noopener">what to do if your eReader is not detected by ADE</a>.&nbsp;
@@ -324,7 +324,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>Here are the steps to do so:</p>
 <p>i. Connect your eReader to your computer.</p>
 <p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer.</p>
-<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary ID. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
+<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary username. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
   <a href="https://help.overdrive.com/en-us/0047.html" target="_blank" rel="noopener">what to do if your eReader is not detected by ADE</a>.&nbsp;
