@@ -3,6 +3,7 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
 ---
+
 <h2> A username that lets you borrow ebooks, access digital resources, check library accounts and more! </h2>
 <p><b>Forgot your username or password?</b> <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
 <p><b>Not yet a library member? </b> Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
