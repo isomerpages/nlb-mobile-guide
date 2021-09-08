@@ -1,25 +1,24 @@
 logo: /images/NLB-Mobile-Logo-and-Name.png
 links:
-    - title: 'Get Started'
-      false_collection: true
-      url: /get-started-with/NLB-Mobile/
-      sublinks:
-            - title: Library Membership and myLibrary ID 
-              url: /get-started-with/myLibrary/
-            - title: NLB Mobile app
-              url: /get-started-with/nlb-mobile/
-            - title: eMagazines and eNewspapers
-              url: /get-started-with/enews/
-            - title: eBooks and Audiobooks
-              url: /get-started-with/Libby/
-            - title: HyRead Chinese eBooks and eMagazines
-              url: /get-started-with/hyread/
-            - title: eLearning
-              url: /get-started-with/learn/
-             
-    - title: Spotlight
-      resource_room: true
-    - title: 'Contact Us'
-      url: /contact-us/
-    - title: 'NLB Homepage'
-      url: 'https://www.nlb.gov.sg/'
+  - title: Get Started
+    false_collection: true
+    url: /get-started-with/NLB-Mobile/
+    sublinks:
+      - title: "Membership and myLibrary "
+        url: /get-started-with/myLibrary/
+      - title: NLB Mobile app
+        url: /get-started-with/nlb-mobile/
+      - title: eMagazines and eNewspapers
+        url: /get-started-with/enews/
+      - title: eBooks and Audiobooks
+        url: /get-started-with/Libby/
+      - title: HyRead Chinese eBooks and eMagazines
+        url: /get-started-with/hyread/
+      - title: eLearning
+        url: /get-started-with/learn/
+  - title: Spotlight
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  - title: NLB Homepage
+    url: https://www.nlb.gov.sg/
