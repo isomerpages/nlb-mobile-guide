@@ -3,6 +3,7 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
 ---
+
 <h2> A username that lets you borrow ebooks, access digital resources, check library accounts and more! </h2>
 <p><b>Forgot your username or password?</b> <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
 <p><b>Not yet a library member? </b> Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
@@ -121,13 +122,13 @@ title: Library Membership and myLibrary username
            <div class="new-accordion-content"><ul>
            <li>Find out what materials we have in our <a href="https://catalogue.nlb.gov.sg">catalogue</a>, and <a href="https://www.nlb.gov.sg/VisitUs.aspx">visit our libraries</a>.</li>
            <li>You can start using our digital collection immediately! Download the <a href="https://go.nlb.gov.sg/nlbmobile">NLB Mobile app</a> to read eBooks, listen to audiobooks, and read current eNewspapers and eMagazines. You can also use the eCard or the scan-to-borrow function in the NLB Mobile app to borrow books at our libraries </li></ul>
-           <p>Do note that you will need to create a myLibrary ID to use our digital services. You can check if you already have a myLibrary ID, retrieve your ID/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
+           <p>Do note that you will need to create a myLibrary username to use our digital services. You can check if you already have a myLibrary username, retrieve your username/password or create one <a href="https://account.nlb.gov.sg">online</a>.</p>
            <p>Find out more about your <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#borrowing_privileges">borrowing privileges</a> and our <a href="https://www.nlb.gov.sg/VisitUs/AvailableServices.aspx">library services</a>.</p>
 </div>
 </div><!--close new-accordion class-->
 
 <p>
-    <a name="mylibrary"><h3>myLibrary ID</h3></a>
+    <a name="mylibrary"><h3>myLibrary username</h3></a>
 </p>
 <div class="new-accordion">          
 <input type="checkbox" id="acc11">

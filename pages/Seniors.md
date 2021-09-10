@@ -1,23 +1,22 @@
 ---
 permalink: /toptips/seniors/
 breadcrumb: Seniors
-description: 'Top Tips for Seniors, including how to access eNewspapers and eMagazines, stories for grandchildren, eLearning and more'
+description: Top Tips for Seniors, including how to access eNewspapers and
+  eMagazines, stories for grandchildren, eLearning and more
 image: /images/seniors_socmed.png
-title: 'Top Tips for Seniors'
-
+title: Top Tips for Seniors
 ---
-
 <h2>Quick Start Guide</h2>
 If you are new to NLB's digital collection (which include <a href="/get-started-with/enews/">eNewspapers</a>, <a href="/get-started-with/libby/">eBooks</a>, <a href="/get-started-with/lynda/">eLearning</a>), you're in the right place!
-<p>To start using any of NLB's digital services, you need a myLibrary ID. To find out if you need to create one, go to the <a href="https://account.nlb.gov.sg" target="_blank">myLibrary account page</a>. 
+<p>To start using any of NLB's digital services, you need a myLibrary username. To find out if you need to create one, go to the <a href="https://account.nlb.gov.sg" target="_blank">myLibrary account page</a>. 
 <!--If you need to create one, <a href="/images/mylibrary_guide_TOYL.pdf" target="_blank"> this handy step-by-step PDF guide (1.2 MB)</a> has all the answers, in all 4 languages.--> 
-For more questions on myLibrary ID, go to our <a href="/get-started-with/myLibrary/#mylibrary" target="_blank">myLibrary ID FAQ page</a>.</p>
+For more questions on myLibrary username, go to our <a href="/get-started-with/myLibrary/#mylibrary" target="_blank">myLibrary username FAQ page</a>.</p>
 
 <h3>Read local newspapers from home</h3>
 <div class="bp-youtube">
 <iframe title="how to read SPH enewspapers" width="560" height="315" src="https://www.youtube.com/embed/brkz6074lXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<p>You can now read newspapers published by Singapore Press Holdings (SPH) from home. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary ID at this page.</a> If you have any questions, read our guide at the <a href="/get-started-with/enews/#sph">eNewspapers and eMagazines FAQ page here</a>.</p>
+<p>You can now read newspapers published by Singapore Press Holdings (SPH) from home. <a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank">Just log in with myLibrary username at this page.</a> If you have any questions, read our guide at the <a href="/get-started-with/enews/#sph">eNewspapers and eMagazines FAQ page here</a>.</p>
 <h3>International eNewspapers and eMagazines</h3>
 <p>Did you know that you could read international eNewspapers and eMagazines from the comfort of your own home? There are <b>more than 7,000</b> publications to choose from, including Reader's Digest and Newsweek. </p>
 <p>Watch this video to learn how to read eNewspapers and eMagazines.</p>
