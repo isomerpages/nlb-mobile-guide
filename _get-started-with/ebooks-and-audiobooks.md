@@ -289,7 +289,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive* on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
   <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank" rel="noopener">Read this article</a> for a step-by-step guide on how to borrow ebooks on your Kobo device.
 </p>
-<p class="end-note">*The Libby app interface is not currently available on Kobo - only the OverDrive app interface is supported. However, the selection of eBooks available and what you have borrowed from OverDrive/Libby/NLB Mobile apps would be the same.</p>
+<p class="end-note">*The Libby app is developed by OverDrive. </p>
 
 <p>For older models of Kobo eReaders such as those below, you will need to transfer NLB's eBooks from a computer using the free Adobe Digital Editions software:</p>
 <ul>
@@ -370,7 +370,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <input type="checkbox"  id="acc23">
         <label for="acc23">Can I read in landscape mode on my phone using Libby?</label>
         <div class="new-accordion-content">
-  <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For picture books, landscape mode is usually available regardless of screen size.</p>
+  <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For magazines and picture books, landscape mode is usually available regardless of screen size.</p>
   </div>
   
   <input type="checkbox" id="acc24">
@@ -389,7 +389,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		</ul>
 		<p>For more information, please read <a href="https://help.overdrive.com/en-us/2271.htm">OverDrive's Help article on this topic</a>.</p>
   </div>
-</div><!--close accordion-->
+</div><!--close section-->
 <p>
 	
 <div class="new-accordion" id="Others">
@@ -429,25 +429,10 @@ eBooks / eAudiobooks you currently have on loan.</p>
   <p>
 <div class="new-accordion" id="LibbyVsOverDrive">  
   <h4>Libby versus OverDrive</h4>
-<input type="checkbox" id="acc11">
-        <label for="acc11">I still prefer OverDrive to Libby. How can I use OverDrive to download eBooks and audiobooks?</label>
-        <div class="new-accordion-content">
-		<p>You can still use OverDrive to borrow eBooks and audiobooks from NLB.</p>
-	<p>Here are the steps to download eBooks and audiobooks using the OverDrive app:</p>
-    <p><ol><li>Launch OverDrive.</li>
-    <li>Go to the OverDrive app menu and select "National Library Board Singapore".</li>
-    <li>Log in using your myLibrary ID.</li>
-    <li>(Skip this step if you have already borrowed all the titles you wish to download.) Borrow the titles you want.</li>
-    <li>Tap on Shelf.</li>
-    <li>Tap on the "Download" button underneath each of the items you want to download. </li>
-    <li>Go to the <b>OverDrive app menu</b> and select "Bookshelf". Tap on the book you want to read. That's it!</li></ol>
-      </p>
-  </div>
-
 <input type="checkbox" id="acc12">
         <label for="acc12">Is Libby replacing the OverDrive app?</label>
         <div class="new-accordion-content">
-    <p>Libby will not be replacing the OverDrive app. OverDrive has no plans to remove the OverDrive app. We will keep users updated on the latest developments from OverDrive, if any.
+    <p>The OverDrive app will be sunset by <b>end 2022</b>. The app will be removed from the Apple App Store, Google Play and Microsoft store in February 2022. Existing users of the OverDrive app are encouraged to switch to the Libby app. The <a href="https://nlb.overdrive.com">OverDrive website</a> will continue to be accessible.
       </p>
 </div>
 </div><!--div class="FAQ-section" id="LibbyVsOverDrive-->
