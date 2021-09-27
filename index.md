@@ -57,17 +57,13 @@ sections:
       title: Manage Your Account
       description: Manage all your family members’ accounts from one app. Check due
         dates, manage reservations and more!
-      url: /get-started-with/nlb-mobile/
       image: /images/ManageAccounts-Isomer.png
       alt: Switch the profiles on the app with a few taps
-      button: Download NLB Mobile Now
   - infopic:
       title: Scan to Borrow
       description: Use the in-app camera or scan your virtual library card to borrow books.
-      url: /get-started-with/nlb-mobile/
       image: /images/ScantoBorrow_bookcover_iPhone11_lowres2.png
       alt: Borrow both ebooks and physical books with the in-app camera
-      button: Learn More about the App
   - resources:
       title: Resources Curated by Our Librarians
       subtitle: Spotlight
