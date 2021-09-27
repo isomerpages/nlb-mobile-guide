@@ -27,7 +27,7 @@ sections:
       title: The NLB Mobile App
       description: The NLB Mobile app is available on the Apple AppStore and Google
         Play Store. Scan the QR code to download the app.
-      url: go.gov.sg/nlb-mobile
+      url: https://go.gov.sg/nlb-mobile
       image: /images/QR_downloadapp.svg
       alt: QR code to install the NLB Mobile app
       button: Download the app
