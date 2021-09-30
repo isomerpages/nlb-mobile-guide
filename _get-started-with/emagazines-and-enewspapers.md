@@ -177,7 +177,7 @@ title: eMagazines and eNewspapers
 <h4>Downloading Local Newspapers</h4>
 
 <input id="acc7" type="checkbox">
-<label for="acc7">Can I download local newspapers published by Singapore Press Holdings (SPH) such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
+<label for="acc7">Can I download local newspapers published by SPH Media such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
 <div class="new-accordion-content">
 		<p>You have to use the PressReader app to download SPH newspapers. Do note that these newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
 <p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
