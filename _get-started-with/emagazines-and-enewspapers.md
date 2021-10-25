@@ -17,7 +17,8 @@ title: eMagazines and eNewspapers
 <div id="sph">
 <h3>How to Read SPH eNewspapers From Home</h3>
 <div class="bp-youtube">
-
+<!--NLB Mobile app video 2021 - Read eNewspapers from Home with NLB and SPH-->
+ 	 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlYnB_anDj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	</div> 
 	
