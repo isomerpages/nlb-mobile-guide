@@ -15,7 +15,7 @@ title: eMagazines and eNewspapers
 <p></p>
 
 <div id="sph">
-<h3>How to Read SPH eNewspapers From Home</h3>
+<h3>How to Read SPH Media eNewspapers From Home</h3>
 <div class="bp-youtube">
 <!--NLB Mobile app video 2021 - Read eNewspapers from Home with NLB and SPH-->
  	 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlYnB_anDj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,9 +25,9 @@ title: eMagazines and eNewspapers
 <h4>Get started</h4>
 <div class="new-accordion">
 <input id="sph1" type="checkbox">
-<label for="sph1">How can I read SPH newspapers from my computer at home?</label>
+<label for="sph1">How can I read SPH Media newspapers from my computer at home?</label>
 <div class="new-accordion-content">
-  <p>After signing in with your myLibrary username at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. </p>
+  <p>After signing in with your myLibrary username at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH Media ePaper site. </p>
 <p>To sign up for library membership with your Singpass, sign up for myLibrary username, or check your username / password, please go to <a href="https://account.nlb.gov.sg">account.nlb.gov.sg</a>. 
 </p>
 	Minimum browser versions suppported:
@@ -59,7 +59,7 @@ title: eMagazines and eNewspapers
 </div>
 
 <input id="sph4" type="checkbox">
-<label for="sph4">Can I access SPH newspapers from the NLB Mobile app? </label>
+<label for="sph4">Can I access SPH Media newspapers from the NLB Mobile app? </label>
 <div class="new-accordion-content">
 	<p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
 	<p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>
@@ -75,7 +75,7 @@ title: eMagazines and eNewspapers
 </div>
 
 <input id="sph2" type="checkbox">
-<label for="sph2">Which SPH newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
+<label for="sph2">Which SPH Media newspapers can I access from NLB’s website? Are these the current issues? Can I read past issues too? </label>
 <div class="new-accordion-content">
 	<p>You can read the current issues of:</p>
 	  <ol>
@@ -88,7 +88,7 @@ title: eMagazines and eNewspapers
 		<li>Berita Harian</li>
 		<li>Tamil Murasu</li> 
 	</ol>
-<p>After signing in with your myLibrary username at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
+<p>After signing in with your myLibrary username at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH Media ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
 </div>
 </div>
 
@@ -134,7 +134,7 @@ title: eMagazines and eNewspapers
 </div>
 
 <input id="sph6" type="checkbox">
-<label for="sph6">I see an SPH login screen. What should I do? </label>
+<label for="sph6">I see an SPH Media login screen. What should I do? </label>
 <div class="new-accordion-content">
 	<p>If you encounter this message, please log in again from <a href="https://go.gov.sg/nlb-enews">go.gov.sg/nlb-enews</a>.
 </p></div>
@@ -148,29 +148,29 @@ title: eMagazines and eNewspapers
 </div>
 </div>
 
-<h4>More about reading SPH newspapers from home</h4>
+<h4>More about reading SPH Media newspapers from home</h4>
 <div class="new-accordion">
 <input id="sph1a" type="checkbox">
-<label for="sph1a">I hear that this service started during the Circuit Breaker. How long does NLB intend to offer access to SPH newspapers from home?</label>
+<label for="sph1a">I hear that this service started during the Circuit Breaker. How long does NLB intend to offer access to SPH Media newspapers from home?</label>
 <div class="new-accordion-content">
-  <p>NLB would like to continue offering SPH eNewspapers as a staple offering. Such subscriptions are dependent on our agreements and negotiations with vendors. 
+  <p>NLB would like to continue offering SPH Media eNewspapers as a staple offering. Such subscriptions are dependent on our agreements and negotiations with vendors. 
 </p>
 </div>
 
 <input id="sph3" type="checkbox">
 <label for="sph3">What time will the newspapers be published?</label>
 <div class="new-accordion-content">
-  <p>This depends on SPH’s publication times. You can read the newspaper on the same day as it is published.  
+  <p>This depends on SPH Media’s publication times. You can read the newspaper on the same day as it is published.  
 </p></div>
 
 <input id="sph8" type="checkbox">
-<label for="sph8">Does NLB's arrangement with SPH also allow me to read the articles on ST Online and other SPH websites?</label>
+<label for="sph8">Does NLB's arrangement with SPH Media also allow me to read the articles on ST Online and other SPH Media websites?</label>
 <div class="new-accordion-content">
-  <p>No. NLB's license agreement with SPH is for the digital version of the print newspaper only.</p>
+  <p>No. NLB's license agreement with SPH Media is for the digital version of the print newspaper only.</p>
 </div>
 
 <table style="background-color:#ffe6e6; border:0; font-size:15px; margin: 10px 0 0 0;">
-				       <tbody><tr><td>Don't see your SPH eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</td></tr></tbody></table>
+				       <tbody><tr><td>Don't see your SPH Media eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</td></tr></tbody></table>
 </div>
 
 <p>
@@ -180,17 +180,17 @@ title: eMagazines and eNewspapers
 <input id="acc7" type="checkbox">
 <label for="acc7">Can I download local newspapers published by SPH Media such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
 <div class="new-accordion-content">
-		<p>You have to use the PressReader app to download SPH newspapers. Do note that these newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
-<p>If you only wish to read SPH newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
+		<p>You have to use the PressReader app to download SPH Media newspapers. Do note that these newspapers are not available for <b>download</b> <u>outside of NLB library premises</u> in Singapore due to the geographic restriction set by the publisher.</p>
+<p>If you only wish to read SPH Media newspapers <b>online</b> instead of downloading them, you don't have to be at the library and can read them from <u>anywhere</u>, by logging in with your myLibrary ID at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>. 
 </p>
-<p>To download SPH newspapers using the PressReader app, make sure you are <u>onsite</u> at NLB’s libraries with your device, and that your device is <b>connected to NLB's Wireless@SGx</b> networks. </p>
+<p>To download SPH Media newspapers using the PressReader app, make sure you are <u>onsite</u> at NLB’s libraries with your device, and that your device is <b>connected to NLB's Wireless@SGx</b> networks. </p>
 		<p><b>Step 1:</b></p>
 		<p>Connect your device to the Wireless@SGx network in the library.</p>
 		<p><b>Step 2:</b></p>
 		<p>Launch the PressReader app directly (or go to the NLB Mobile app and tap on the "eNewspapers and eMagazines" icon).</p>
 		<p><b>Step 3:</b></p>
 		<p>Search for the newspaper you want. Tap on the downwards arrow next to the name of the newspaper, or tap on the green "Read" button to download it. To access past issues, tap on the cover of the newspaper, then the calendar icon.</p>
-<p>Anything you download in the PressReader app can be accessed using the "Downloaded" button at the bottom of the PressReader app. You can download as many SPH newspapers as you want <b>when you are at the libraries</b>, just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
+<p>Anything you download in the PressReader app can be accessed using the "Downloaded" button at the bottom of the PressReader app. You can download as many SPH Media newspapers as you want <b>when you are at the libraries</b>, just as long as your device has enough storage for the downloaded content. You can then continue to read the downloaded content even when you are away from the library premises.</p>
         
 
 </div>
