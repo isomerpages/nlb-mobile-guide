@@ -1,12 +1,10 @@
 ---
 permalink: /get-started-with/hyread/
-breadcrumb: 'HyRead Chinese eBooks and eMagazines'
-description: 'How to Read Chinese eBooks and eMagazines on HyRead'
+breadcrumb: HyRead Chinese eBooks and eMagazines
+description: How to Read Chinese eBooks and eMagazines on HyRead
 image: /images/hyread_socmed.jpg
-title: 'HyRead Chinese eBooks and eMagazines'
-
+title: HyRead Chinese eBooks and eMagazines
 ---
-
 <h2>About HyRead</h2>
 <p>
 <ul>
@@ -17,8 +15,8 @@ title: 'HyRead Chinese eBooks and eMagazines'
 </p>
 
 <p><h3>How to Read Chinese eBooks and eMagazines with HyRead</h3></p>
-<div class="vd">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" title="HyRead video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp" target="_blank" rel="noopener">its website</a> or the app from the <a href="https://goo.gl/kGEflg" target="_blank" rel="noopener">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available.</p>
