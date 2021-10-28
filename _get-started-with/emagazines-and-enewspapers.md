@@ -176,7 +176,9 @@ title: eMagazines and eNewspapers
 <p>
 </p><div id="PressReaderLocalNews" class="new-accordion"> 
 <h4>Downloading Local Newspapers</h4>
-
+	<div class="bp-youtube">
+<!--NLB Mobile app video 2021 - Read eNewspapers and eMagazines with NLB Mobile app-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE0_PdTNWKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <input id="acc7" type="checkbox">
 <label for="acc7">Can I download local newspapers published by SPH Media such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
 <div class="new-accordion-content">
