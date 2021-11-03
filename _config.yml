@@ -1,12 +1,13 @@
-title: 'National Library Board - Guide to NLB Mobile app'
-title-abbreviated: NLB Mobile app 
-description: 'Find out how the NLB Mobile app can be your personal library to let you read and learn anytime, anywhere. Get help on using NLB Mobile.'
-url: 'https://mobileapp.nlb.gov.sg'
+title: National Library Board - Guide to NLB Mobile app
+title-abbreviated: NLB Mobile app
+description: Find out how the NLB Mobile app can be your personal library to let
+  you read and learn anytime, anywhere. Get help on using NLB Mobile.
+url: https://mobileapp.nlb.gov.sg
 google_analytics: UA-50449401-31
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 resources_name: spotlight
-paginate_path: '/spotlight/page:num'
+paginate_path: /spotlight/page:num
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
@@ -31,23 +32,22 @@ defaults:
       path: ""
     values:
       layout: page
-
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#22489B'
+  primary-color: "#6031b6"
+  secondary-color: "#22489B"
   media-colors:
     - title: media-color-one
-      color: '#005577' 
+      color: "#005577"
     - title: media-color-two
-      color: '#0071BC'
+      color: "#01548b"
     - title: media-color-three
-      color: '#e21216'
+      color: "#8f1113"
     - title: media-color-four
-      color: '#912b87'
+      color: "#5a1954"
     - title: media-color-five
-      color: '#00838f'
+      color: "#01565d"
     - title: media-color-six
-      color: '#007722'
+      color: "#007722"
 staging: https://staging-nlb-mobile-guide.netlify.app
 prod: https://prod-nlb-mobile-guide.netlify.app
 plugins:

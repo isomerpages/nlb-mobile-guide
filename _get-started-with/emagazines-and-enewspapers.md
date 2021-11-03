@@ -169,14 +169,13 @@ title: eMagazines and eNewspapers
   <p>No. NLB's license agreement with SPH Media is for the digital version of the print newspaper only.</p>
 </div>
 
-<table style="background-color:#ffe6e6; border:0; font-size:15px; margin: 10px 0 0 0;">
+<table style="border-color:#ffe6e6; border-width:5px; border-style: solid; font-size:15px; margin: 10px 0 0 0;">
 				       <tbody><tr><td>Don't see your SPH Media eNewspapers-related question / issue here? Email <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and indicate "NLB inquiry" in the email. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</td></tr></tbody></table>
 </div>
 
 <p>
 </p><div id="PressReaderLocalNews" class="new-accordion"> 
 <h4>Downloading Local Newspapers</h4>
-
 <input id="acc7" type="checkbox">
 <label for="acc7">Can I download local newspapers published by SPH Media such as <i>The Straits Times, Business Times</i> and <i>Lianhe Zaobao</i> into my device?</label>
 <div class="new-accordion-content">
@@ -208,11 +207,9 @@ title: eMagazines and eNewspapers
 <li>Local publications - <i>Female, Women’s Weekly, Singapore Tatler, The Edge Singapore</i> and more!</li>
 	</ul>
 	
-<div class="bp-youtube">
-
-</div>
-
-
+	<div class="bp-youtube">
+<!--NLB Mobile app video 2021 - Read eNewspapers and eMagazines with NLB Mobile app-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE0_PdTNWKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div id="PressReaderStart" class="new-accordion"> 
   <p></p><h4>Get Started with PressReader</h4><p></p> 
