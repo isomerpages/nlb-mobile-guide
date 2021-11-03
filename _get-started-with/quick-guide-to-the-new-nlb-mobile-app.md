@@ -10,6 +10,8 @@ title: Quick Guide to the New NLB Mobile app
 <table style="background-color:#ffe6e6; border:0;">
 				       <tr><td>Customers have reported issues accessing their loan records and borrowing physical books. We are working to rectify the issue, and seek your patience. You can still borrow ebooks and access eNewspapers and eMagazines. Thank you. </td></tr></table> 
 -->
+
+<h3>Commonly Used Features</h3>
 <table style="width: auto;">
 <tbody>
 <tr>
