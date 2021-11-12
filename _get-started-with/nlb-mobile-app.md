@@ -6,40 +6,40 @@ image: /images/NEW_NLB_mobile-app-icon_dark orange_final.png
 title: NLB Mobile app
 ---
 <table style="border:0; background-color: #e6ffe6;">
-	<tr><td><b>Just updated the app?</b> <a href="/get-started-with/nlb-mobile-troubleshoot/">Here's a quick guide</a> to using the updated app, released on Feb 23. If you are unsure if your app has already been updated, <a href="#update">follow the steps in the "Update" section below</a>.</td></tr>
-	</table><p>
+	<tbody><tr><td><b>Just updated the app?</b> <a href="/get-started-with/nlb-mobile-troubleshoot/">Here's a quick guide</a> to using the updated app, released on Feb 23. If you are unsure if your app has already been updated, <a href="#update">follow the steps in the "Update" section below</a>.</td></tr>
+	</tbody></table><p>
 <!--<table style="background-color:#ffe6e6; border:0;">
 				       <tr><td>Customers have reported issues accessing their loan records and borrowing physical books. We are working to rectify the issue, and seek your patience. You can still borrow ebooks and access eNewspapers and eMagazines. Thank you. </td></tr></table> 
 -->
 
-<h2>A Library in Your Pocket</h2>
+</p><h2>A Library in Your Pocket</h2>
 <p>
 	The NLB Mobile app is your personal library, anywhere, anytime. Watch this video for the new design and updated features in our latest major release (Feb 2021). Or <a href="#update">skip ahead to find out how to update / download</a> your app, and sign in for the first time. 
 	</p>
 <p>
-	<div class="bp-youtube">
+	</p><div class="bp-youtube">
 <!--NLB Mobile app features video 2021 - PLS YouTube-->
- 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/47FBXNAUNUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <iframe allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/47FBXNAUNUI" height="315" width="560" title="NLB Mobile app features 2021 video - PLS YouTube">
 	 </iframe>
 	 </div>
 	 
 <p></p>
 <div id="update"><h3>How to update or download the app</h3></div>
 <p>To update or download the NLB Mobile app, head to the Google Play Store or Apple App Store by  
-<ol><li><a href="http://go.nlb.gov.sg/nlbmobile">Tapping this link</a> if you are using a mobile device to view this page, or</li>
-	<li>Scanning the QR code below with your mobile device.</li></ol></p>
+</p><ol><li><a href="http://go.nlb.gov.sg/nlbmobile">Tapping this link</a> if you are using a mobile device to view this page, or</li>
+	<li>Scanning the QR code below with your mobile device.</li></ol><p></p>
 <p>If you see an "Open" or "Installed" button in the Play Store or App Store, it means that you are already using the latest version of the NLB Mobile app.</p>
 <p>Now that you have the latest version, see the quick pictorial guide below on signing in for the first time. If you don't sign in, you can still browse our catalogue, but you're missing out on features such as borrowing library materials and accessing digital resources with the app. </p>
 
 <table style="width: auto;">
 <tbody>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>How do I get the app? Scan or tap this QR code.</h4></p><a href="http://go.nlb.gov.sg/nlbmobile"><img src="/images/QR_faq-download-nlb-mobile-go.nlb-plusCTA.png" alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store."></a></td>
-<td style="width: 50%; height: auto;"><p><h4>Where can I find my ID or password?</h4></p><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></td>
+<td style="width: 50%; height: auto;"><p></p><h4>How do I get the app? Scan or tap this QR code.</h4><p></p><a href="http://go.nlb.gov.sg/nlbmobile"><img alt="A QR code which leads to the NLB Mobile app installation page in the AppStore or Google Play Store." src="/images/QR_faq-download-nlb-mobile-go.nlb-plusCTA.png"></a></td>
+<td style="width: 50%; height: auto;"><p></p><h4>Where can I find my ID or password?</h4><p></p><img alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it." src="/images/Tutorial-screen-Welcome-smartmockup.png"></td>
 </tr>
 <tr>
-<td style="width: 50%; height: auto;"><p><h4>How do I add my family's accounts? Use "Profile".</h4></p><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></td>
-	<td style="width: 50%; height: auto;"><p><h4>Where do I check my loans? Use "Account".</h4></p><img src="/images/App-Bookshelf-Mar182021_Loans-selected-iPhone11.png" alt="A tutorial screenshot for the app, showing the Account screen, where you can check due dates, view loan details and read eBooks."></td>
+<td style="width: 50%; height: auto;"><p></p><h4>How do I add my family's accounts? Use "Profile".</h4><p></p><img alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)." src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png"></td>
+	<td style="width: 50%; height: auto;"><p></p><h4>Where do I check my loans? Use "Account".</h4><p></p><img alt="A tutorial screenshot for the app, showing the Account screen, where you can check due dates, view loan details and read eBooks." src="/images/App-Bookshelf-Mar182021_Loans-selected-iPhone11.png"></td>
 
 </tr>
 </tbody>
@@ -68,11 +68,11 @@ title: NLB Mobile app
 </table>
 -->
 <div class="new-accordion"> 
-<p><h3>Get Started</h3></p>
-<input type="checkbox" id="acc1">
+<p></p><h3>Get Started</h3><p></p>
+<input id="acc1" type="checkbox">
         <label for="acc1">Why should I sign in?</label>
         <div class="new-accordion-content">
-        <p>By signing in, you will be able to enjoy the full suite of services available to library members such as borrowing items and reading eMagazines and eNewspapers. But even if you don&rsquo;t sign in, you can still:</p>
+        <p>By signing in, you will be able to enjoy the full suite of services available to library members such as borrowing items and reading eMagazines and eNewspapers. But even if you don’t sign in, you can still:</p>
         <ul>
         <li>Search the library catalogue and share the title</li>
         <li>Locate nearby libraries based on your current location</li>
@@ -80,13 +80,13 @@ title: NLB Mobile app
         </ul>
     </div>
 
-<input type="checkbox" id="acc2">
+<input id="acc2" type="checkbox">
         <label for="acc2">What do I need to sign in?</label>
          <div class="new-accordion-content">
         <p>You will need a myLibrary ID. If you do not have it, you may create one <a href="https://account.nlb.gov.sg">online</a> or using the app’s login page – tap on the + button on the top right of the app’s screen.</p>
     </div>
 
-<input type="checkbox" id="acc3">
+<input id="acc3" type="checkbox">
         <label for="acc3">What if I forget my myLibrary ID or password? </label>
         <div class="new-accordion-content">
         <p>You can retrieve your myLibrary ID and password:</p>
@@ -95,13 +95,13 @@ title: NLB Mobile app
 <li>Via the <strong>NLB Mobile app</strong>, with your Singpass or NRIC / FIN number. Tap on the + button on the top right of the app’s screen, then tap on “Forgot your myLibraryID or password”.</li></ul>
 </div>
 
-<input type="checkbox" id="acc4">
+<input id="acc4" type="checkbox">
         <label for="acc4">When I try to log in, the app says “Profile already exists”. What do I do?</label>
         <div class="new-accordion-content">
 		<p>We are sorry that you are encountering this problem! Here are the steps.</p>
 		<p><b>If you are using an iPhone:</b></p>
 		<p>Go to your phone’s Settings menu.</p>
-		<p>Tap on <b>General -> Storage & iCloud Usage</b>.</p>
+		<p>Tap on <b>General -&gt; Storage &amp; iCloud Usage</b>.</p>
 		<p>In the top section (Storage), tap on "Manage Storage".</p>
 		<p>Select “NLB Mobile”.</p>
 		<p>Take a look at the entry for "Documents &amp; Data".&nbsp;</p>
@@ -121,44 +121,44 @@ title: NLB Mobile app
 		<p>Try signing in again. It should work this time. If not, please take a screenshot of the error message and email it to enquiry@nlb.gov.sg.</p>
     </div>
 
-<input type="checkbox" id="acc5">
+<input id="acc5" type="checkbox">
         <label for="acc5">What can I do if I have protected my app using the four-digit passcode but have forgotten the passcode?</label>
         <div class="new-accordion-content">
         <p>You can delete the app, then re-download it before signing in again.</p>
     </div>
 
-<input type="checkbox" id="acc6">
+<input id="acc6" type="checkbox">
         <label for="acc6">Do I need to set my preferred library in the profile? </label>
         <div class="new-accordion-content">
       <p>This is optional but what it does is to enable the app to automatically display events that will be happening at your preferred library.</p>
 </div>
 
-<p><h3>Learn about the Features</h3></p>
+<p></p><h3>Learn about the Features</h3><p></p>
 
 <p>
 	Learn about borrowing, returning and reserving books. For a step-by-step guide on borrowing eBooks, watch the video below.
 You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <a href="#elearning">eLearning</a>, using the <a href="#qr">QR Login Feature</a> on NLB Websites, as  well as <a href="#points">reading challenges (e.g. Book Bugs), points and rewards</a>.
 	</p>
 	<p>
-<div class="bp-youtube">
-<iframe title="Borrow eBooks w/ NLB Mobile app video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/poiMyBv_-QI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p><div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/poiMyBv_-QI" height="315" width="560" title="Borrow eBooks w/ NLB Mobile app video - PLS YouTube"></iframe>
 </div>
-</p>
+<p></p>
 
-<input type="checkbox" id="acc7">
+<input id="acc7" type="checkbox">
 		<label for="acc7">Can you tell me more about the app’s features?</label>
 		<div class="new-accordion-content">
 			<p>The key highlights of the NLB Mobile app's features are summarised in this video. For a more detailed listing, please see the "List of Features" section below the video.</p>
 
 <!--NLB Mobile app features 2021 video - PLS YouTube-->
 <p>
-	<div class="bp-youtube">
-<NLB Mobile app features video 2021 - PLS YouTube>
- 	 <iframe title="NLB Mobile app features 2021 video - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/47FBXNAUNUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	</p><div class="bp-youtube">
+
+ 	 <iframe allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/47FBXNAUNUI" height="315" width="560" title="NLB Mobile app features 2021 video - PLS YouTube">
 	 </iframe>
 	 </div>
 
-</p>
+<p></p>
 	<h5>List of Features</h5>
 		<p>With NLB Mobile, you can enjoy these services while you are on the move or even from the comfort of your own home:</p>
 		<p><strong>Borrow and read / listen</strong></p>
@@ -174,19 +174,19 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 		<li>Reserve library items</li>
 		<li>View the titles you borrowed from the libraries for the last three years</li>
 		<li>Update your particulars such as email address and mobile number</li>
-		<li>Switch between family members&rsquo; accounts for quick access to library transactions</li>
+		<li>Switch between family members’ accounts for quick access to library transactions</li>
 		<li>Log in to NLB websites quickly by scanning a QR code</li>
 		</ul>
 		<p><strong>eCard</strong></p>
 		<ul>
-		<li>Use the eCard to borrow items at the libraries&rsquo; borrowing stations, collect reserved items, make payments and more</li>
+		<li>Use the eCard to borrow items at the libraries’ borrowing stations, collect reserved items, make payments and more</li>
 		</ul>
 		<p><strong>Search, share and recommend titles</strong></p>
 		<ul>
 		<li>Search the library catalogue</li>
 		<li>Bookmark your favourite titles</li>
 		<li>Share a title easily on Facebook, Twitter and WhatsApp</li>
-		<li>Suggest a title to NLB and view all your recommendations<br /><br /></li>
+		<li>Suggest a title to NLB and view all your recommendations<br><br></li>
 		</ul>
 		<p><strong>Find libraries and events</strong></p>
 		<ul>
@@ -199,7 +199,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 
 <!--Section on Borrowing physical items, eBooks and Audiobooks-->
 
-<input type="checkbox" id="acc8">
+<input id="acc8" type="checkbox">
 <label for="acc8">How can I borrow physical items with the NLB Mobile app?</label>
 <div class="new-accordion-content">
 	  <p>First, sign in with your myLibrary ID.</p> 
@@ -214,30 +214,30 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 -->
 </div>
 
-<input type="checkbox" id="acc9">
+<input id="acc9" type="checkbox">
 <label for="acc9">Does scanning the barcode of the library item with the app immediately trigger a checkout?</label>
 <div class="new-accordion-content">
   <p>No, the app will seek your confirmation before the item is checked out.</p>
 </div>
 
-<input type="checkbox" id="acc10">
+<input id="acc10" type="checkbox">
 <label for="acc10">How many eBooks / Audiobooks can I borrow?</label>
 <div class="new-accordion-content">
   <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
 	<table border="0">
-	<tr>
-		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-eBookLoans-quota.png" height="800px" alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button."></div></td>
+	<tbody><tr>
+		<td><div style="max-width: 400px"><img alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button." height="800px" src="/images/App-Bookshelf-eBookLoans-quota.png"></div></td>
 	</tr>
 	<tr>
-		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
+		<td><div style="max-width: 400px"><img alt="A screenshot from the app, showing the details in the 'eBook Loans' page." height="800px" src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png"></div></td>
 	</tr>
-		</table>
+		</tbody></table>
 	<p>
 		Note: eMagazines do not contribute to your eBooks loan quota. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”. You can borrow an unlimited number of eMagazines.
 	</p>
 </div>
 
-<input type="checkbox" id="acc11">
+<input id="acc11" type="checkbox">
 <label for="acc11">How do I borrow eBooks / Audiobooks with this app?</label>
 <div class="new-accordion-content">
 <p>Follow these simple steps:</p>
@@ -246,36 +246,36 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <tbody>
 <tr>
 	<td style="width: auto; height: auto;">
-	<div style="max-width: 400px"><img src="/images/Highlights-OtherFormats-forIsomer.png" alt="A tutorial screenshot for the app, showing how to filter search results by ebooks or audiobooks only."></div> 
+	<div style="max-width: 400px"><img alt="A tutorial screenshot for the app, showing how to filter search results by ebooks or audiobooks only." src="/images/Highlights-OtherFormats-forIsomer.png"></div> 
 	</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Step Two:</strong>Tap on your desired title.</p>
-<p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
+<p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select ‘Borrow’ on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
 <p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
 <p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Account’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 </div>
 
-<input type="checkbox" id="acc12">
+<input id="acc12" type="checkbox">
 <label for="acc12">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
 <div class="new-accordion-content">
  <p>Here are the steps:</p>
-<p><b>Step One:</b> In the app, select the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
-<p><b>Step Two:</b> You will see a &lsquo;Read in Browser &rsquo; option for eBooks or a &lsquo;Listen in Browser&rsquo; option for audiobooks. Select this option to read / listen online immediately within the app. </p>
+<p><b>Step One:</b> In the app, select the ‘Account’ tab on the bottom right corner, then ‘eBook Loans’ and tap on the title you want to read or listen to. </p>
+<p><b>Step Two:</b> You will see a ‘Read in Browser ’ option for eBooks or a ‘Listen in Browser’ option for audiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi, and may incur charges from your telco.</em></p>
-<p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">&lsquo;Read in Libby&rsquo;</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
+<p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">‘Read in Libby’</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
 </div>
 
-<input type="checkbox" id="acc13">
+<input id="acc13" type="checkbox">
 <label for="acc13">How do I return eBooks / Audiobooks?</label>
 <div class="new-accordion-content">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
-<p>Just go to the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
+<p>Just go to the ‘Account’ tab on the bottom right corner, then ‘eBook Loans’, and select the title you wish to return. You will see the option to ‘Return Title Early’ under the title’s cover image.</p>
 </div>
 
-<input type="checkbox" id="acc14">
+<input id="acc14" type="checkbox">
 <label for="acc14">How do I reserve eBooks and/or audiobooks?</label>
 <div class="new-accordion-content">
      	  <p>If the title you wish to borrow is not available, you will see a "Reserve" option in the NLB Mobile app, instead of the "Borrow" button. Reservations for eBooks and audiobooks are free. You can reserve up to 16 eBooks / audiobooks. </p>
@@ -288,86 +288,86 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </ul>
 <p>These actions have to be taken through:</p>  
 <ul>
-<li>Libby app or <a href="https://libbyapp.com/library/nlb" target="_blank">libbyapp.com/library/nlb</a></li>
-<li>OverDrive app or <a href="https://nlb.overdrive.com" target="_blank">nlb.overdrive.com</a></li>
+<li>Libby app or <a target="_blank" href="https://libbyapp.com/library/nlb">libbyapp.com/library/nlb</a></li>
+<li>OverDrive app or <a target="_blank" href="https://nlb.overdrive.com">nlb.overdrive.com</a></li>
     </ul>
 <p>If you don't respond within 10 days, we get it, you're busy - your reservation will be cancelled.</p>
 </div>
 
-<input type="checkbox" id="acc15">
+<input id="acc15" type="checkbox">
 <label for="acc15">How do I cancel a reservation?</label>
 <div class="new-accordion-content">
 	<p>If you wish to cancel a <b>physical item</b> reservation, go to the 'Account' tab on the bottom right corner of the NLB Mobile app. Select "Reservations". Tap on the "Select Reservations to Cancel" button, and select the title(s) you don't wish to reserve anymore. Tap on the "Cancel Item(s)" button.</p>
 	<p>If you wish to cancel an <b>eBook or audiobook reservation</b>, go to the 'Account' tab on the bottom right corner of the NLB Mobile app. Select "eBook Reservations". Tap on the title you don't wish to reserve anymore, and select "Cancel Reservation". You could select "Suspend Reservation" instead if you still want the book, but not anytime soon. The app will allow others to borrow the book first for the duration you select - from 1 week to 90 days. After that period has passed, you will automatically re-join the queue at the same position or better. If, later on, you change your mind and want the book ASAP, you can go back to this menu and change the timeframe to "Immediately".</p>
 </div>
 
-<input type="checkbox" id="acc16">
+<input id="acc16" type="checkbox">
 <label for="acc16">Why do some of your eBooks have limited copies?</label>
 <div class="new-accordion-content">
 			<p>
 			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details in an article</a> from our eBooks vendor, OverDrive.</p>
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
 			<p>To find books that are available right now, you can <a href="https://libbyapp.com/library/nlb">look in the "Available" categories</a> in the Libby website or app.</p>
-			<p>In addition, eMagazines like The Economist (Asia Edition), Readers' Digest, WIRED, HELLO!, and Home & Decor  are always available. Go to the <a href="https://libbyapp.com/library/nlb/guide/magazines">Libby website or app</a> to see the full list of eMagazines and borrow them.</p>
+			<p>In addition, eMagazines like The Economist (Asia Edition), Readers' Digest, WIRED, HELLO!, and Home &amp; Decor  are always available. Go to the <a href="https://libbyapp.com/library/nlb/guide/magazines">Libby website or app</a> to see the full list of eMagazines and borrow them.</p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
 			</div>
 
-<div id="enews"><p><h4>Reading eMagazines/ eNewspapers</h4></p>
-<input type="checkbox" id="acc17">
+<div id="enews"><p></p><h4>Reading eMagazines/ eNewspapers</h4><p></p>
+<input id="acc17" type="checkbox">
 <label for="acc17">How do I read eMagazines/ eNewspapers from NLB Mobile?  </label>
 <div class="new-accordion-content">
 	<h5>Reading SPH Local eNewspapers</h5>
 <p>If you wish to read local newspapers such as The Straits Times, there are two ways of doing so. The first method is to  install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the SPH icon. Choose the eNewspaper you would like to read. Alternatively, while you are at the libraries, sign in to Wireless@SGx, then access the PressReader app. The difference between the two methods is that in the first method, you will read the digitised newspaper in your browser. In the second method, you can download the newspaper into the PressReader app to read offline.</p>
 <p>If you have questions about SPH Local eNewspapers (e.g. how to zoom in), check out <a href="/get-started-with/enews/">our FAQ page</a>.</p>
-        <p><h5>Reading International eNewspapers and eMagazines</h5></p>
+        <p></p><h5>Reading International eNewspapers and eMagazines</h5><p></p>
 <p>NLB Mobile lets you read over 7,000 current eNewspapers and eMagazines from local and international publishers.</p>
-<p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the ‘eMagazines & eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the hour is up, you can launch NLB Mobile and tap on the ‘eMagazines & eNewspapers’ icon to get sponsored access again. </p>
+<p>First, install the NLB Mobile app and sign in with a myLibrary ID. Next, tap on the ‘eMagazines &amp; eNewspapers’ icon. Because this is a service we subscribe from PressReader, an international digital newsstand, you will be prompted to download the PressReader app if you do not have it. When you launch the PressReader app through NLB Mobile, you can get complimentary access (this is called ‘sponsored access’ in PressReader) to these local and international publications. Do note that this sponsored access is for one hour only. Don’t worry, when the hour is up, you can launch NLB Mobile and tap on the ‘eMagazines &amp; eNewspapers’ icon to get sponsored access again. </p>
 <p>
 	We also have some eMagazine titles not found in PressReader, e.g. The Economist (Asia Edition). You can borrow this title directly from the <a href="https://libbyapp.com/library/nlb/guide/magazines">Libby website or app</a>.
 	</p>
 <p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines</a>.</p>
 <p style="endnote">Note: eMagazines and eNewspapers do not contribute to the loan quota, which you can check from the NLB Mobile app by going to the “Account” tab on the bottom right corner, then “eBook Loans”. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”.  You can borrow an unlimited number of eMagazines and eNewspapers.</p>
 	<table border="0">
-	<tr>
-		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-eBookLoans-quota.png" height="800px" alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button."></div></td>
+	<tbody><tr>
+		<td><div style="max-width: 400px"><img alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button." height="800px" src="/images/App-Bookshelf-eBookLoans-quota.png"></div></td>
 	</tr>
 	<tr>
-		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
+		<td><div style="max-width: 400px"><img alt="A screenshot from the app, showing the details in the 'eBook Loans' page." height="800px" src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png"></div></td>
 	</tr>
-		</table>
+		</tbody></table>
 </div>
 
 <div id="elearning"><p>
-<p><h4>Accessing eLearning courses</h4></p>
+</p><p></p><h4>Accessing eLearning courses</h4><p></p>
 
-<input type="checkbox" id="acc18">
+<input id="acc18" type="checkbox">
 <label for="acc18">How do I access eLearning courses from NLB Mobile? </label>
 <div class="new-accordion-content">
   <p>Sign in to the NLB Mobile app with your myLibrary ID. Tap on the Discover tab on the bottom left corner and select the ‘More’ icon. You will see some options:</p>
 	  <ul>
 		  <li>LinkedIn Learning for Library. This eLearning service offers thousands of video tutorials on technology, design and business. <a href="/get-started-with/learn/">Find out more about using LinkedIn Learning for Library</a>.</li>
-		  <li>Learn & Reeearch. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
+		  <li>Learn &amp; Research. This is a curated list of useful resources and databases on current affairs, upskilling and market research. 
 		  </li>
 	</ul>
 </div>
 
-<div id="qr"><p><h4>Using the QR Login Feature on NLB Websites</h4></p>
+<div id="qr"><p></p><h4>Using the QR Login Feature on NLB Websites</h4><p></p>
 
-<input type="checkbox"  id="acc21">
+<input id="acc21" type="checkbox">
 <label for="acc21">What’s NLB QR Login?</label>
 <div class="new-accordion-content">
         <p>It’s another method for you to sign in to our services without having to key in your myLibrary ID and password. When logging into NLB's websites (e.g. on your laptop), use your NLB Mobile app's camera feature to scan the QR code.</p>
-	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone">
+	<img alt="Screenshots of the QR login process on a laptop and a phone" src="/images/QRLogin_desktop-and-mobile_scan-smaller.png">
     </div>
 
-<input type="checkbox" id="acc22">
+<input id="acc22" type="checkbox">
 <label for="acc22">Which websites support NLB QR Login?</label>
 <div class="new-accordion-content">
-        <p>You can use NLB QR Login for every NLB website with a “Login” button, e.g. <a href="http://eresources.nlb.gov.sg/" target="_blank">eresources.nlb.gov.sg</a>, <a href="https://catalogue.nlb.gov.sg/" target="_blank">catalogue.nlb.gov.sg</a>.</p>
+        <p>You can use NLB QR Login for every NLB website with a “Login” button, e.g. <a target="_blank" href="http://eresources.nlb.gov.sg/">eresources.nlb.gov.sg</a>, <a target="_blank" href="https://catalogue.nlb.gov.sg/">catalogue.nlb.gov.sg</a>.</p>
     </div>
  
-<input type="checkbox" id="acc23">
+<input id="acc23" type="checkbox">
 <label for="acc23">How do I use NLB Mobile's QR Login feature?</label>
 <div class="new-accordion-content">
 		<p>Just follow these simple steps:</p>
@@ -377,28 +377,28 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 			<li>Open NLB Mobile app on your mobile device. If you have added other profiles, make sure you are logged into the right profile. Tap the camera icon on the bottom of the app. (If the app requests access to the device camera, please allow it. You will need to do this only once.)</li>
 			<li>Use your phone to scan the QR code displayed on the computer screen.</li>
 			<li>NLB Mobile will show you a confirmation screen that mentions the website you are trying to log into. Tap "Yes" to confirm.</li>
-			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB&rsquo;s resources!</li>
+			<li>You will be logged into the NLB website automatically. Enjoy seamless access to NLB’s resources!</li>
 		</ol>
-	<img src="/images/QRLogin_desktop-and-mobile_scan-smaller.png" alt="Screenshots of the QR login process on a laptop and a phone">
+	<img alt="Screenshots of the QR login process on a laptop and a phone" src="/images/QRLogin_desktop-and-mobile_scan-smaller.png">
     </div>
 </div>
 
-<div class="new-accordion" id="points"><p>
-<p><h4>Reading Challenges, Points and Rewards</h4></p>
-<input type="checkbox" id="acc24">
+<div id="points" class="new-accordion"><p>
+</p><p></p><h4>Reading Challenges, Points and Rewards</h4><p></p>
+<input id="acc24" type="checkbox">
 <label for="acc24">On my Profile page, I see ‘Challenges’. What is this about?</label>
 <div class="new-accordion-content">
       <p>We periodically hold Challenges to encourage our library members to read more. During the Challenge period, eligible library members can register to participate.</p>
 </div>
 
-<input type="checkbox" id="acc25">
+<input id="acc25" type="checkbox">
 <label for="acc25">What can I do with the ‘Points and Rewards’ in my Profile page?</label>
 <div class="new-accordion-content">
       <p>During promotional periods, the points earned from borrowing library items may be redeemed for rewards, e.g. Book Bugs X cards in 2021.</p>
     </div>
 
-<input type="checkbox" id="acc26">
+<input id="acc26" type="checkbox">
 <label for="acc26">I have questions about Book Bugs.</label>
 <div class="new-accordion-content">
       <p>Please visit the <a href="https://childrenandteens.nlb.gov.sg/events/bookbugsx/">Book Bugs website</a> for more information, e.g. about how to earn points to redeem Book Bugs cards, and how to redeem the cards.</p>
-    </div>
+    </div></div></div></div></div>
