@@ -4,7 +4,6 @@ date: 2021-01-01
 permalink: /spotlight/career-in-focus/permalink
 layout: post
 ---
-
 <img src="/images/FS-futureskillsmonth2020.jpg" alt="cover image">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/" target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
@@ -55,7 +54,7 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
 <br>
 <a href="https://nlb.overdrive.com/media/2506198"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
-			<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
+<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
 <a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>.</p> 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
