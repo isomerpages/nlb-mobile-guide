@@ -54,14 +54,13 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 <p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
 
 <h4>eBooks</h4>
-<h5>You're Not Listening: What You're Missing and Why It Matters</h5>
-<i>Kate Murphy</i>
+<h5>1. Greening the global economy</h5>
+Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
 <p>
 <a href="https://libbyapp.com/library/nlb/everything/page-1/4739630"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
-<p class="end-note">Call Number: English 153.69 MUR. Harvill Secker, 2020.</p> 
-Listening is a necessary skill to achieve effective communication. In her book <i>You’re not Listening</i>, Kate Murphy explains why we are not listening despite constant digital engagement and opportunities to connect. Read this book to learn the psychology and sociology of listening, as well as practical advice for becoming a better listener.<br/>
-<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630">Borrow the eBook</a> or <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204074080">find the book at the libraries</a>.<br/>
+			<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.</p>
+<a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>.
 
 <h5>The Communication Book. 44 Ideas for Better Conversations Every Day</h5>
 <i>Mikael Krogerus & Roman Tschäppeler</i>
