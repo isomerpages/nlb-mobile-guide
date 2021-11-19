@@ -45,16 +45,6 @@ Source: <a href="https://www.youtube.com/embed/VkOtfvhtawA" target="_blank">What
 <iframe width="560" height="315" src="https://www.youtube.com/embed/slbfAfEvnQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How to get everyone to care about a green economy</a> (2019, December 21). <i>TED.</i> Retrieved 2021, October 16
 
-<h5>3. How to Collaborate Effectively If Your Team Is Remote (The Explainer) by Harvard Business Review</h5> 
-<p>Working in remote teams require a slightly different communication skillset. Here are some rules of thumb to help you manage your online teams, from following pre-agreed norms at meetings, to minimising digital volume and finding ways to celebrate and socialise remotely.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vradYqcXfGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=vradYqcXfGQ" target="_blank">How to Collaborate Effectively If Your Team Is Remote (The Explainer)</a> (2020, March 6). Harvard Business Review. 
-
-<h5>4. The 7 Keys to Creative Collaboration by John Spencer</h5> 
-<p>Having a team that collaborates creatively requires a few building blocks – from encouraging ownership to dependability, to trust and candour, and a shared vision – this video reveals the seven keys to building a team that generates creative collaboration.</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/2DmFFS0dqQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=2DmFFS0dqQc" target="_blank">The 7 Keys to Creative Collaboration</a> (2017, September 17). John Spencer Videos. 
-
 <h4>Websites</h4>
 
 <h5>1. <a href="https://www.forbes.com/sites/forbescoachescouncil/2020/01/08/to-communicate-more-effectively-in-the-workplace-employ-these-two-questions/?sh=25f6d76f70de">To Communicate More Effectively In The Workplace, Employ These Two Questions</a><br/>
