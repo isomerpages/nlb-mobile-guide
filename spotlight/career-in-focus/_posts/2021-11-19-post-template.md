@@ -35,7 +35,8 @@ layout: post
 <h4>Videos</h4>
 <h5>What is a Green Economy?</h5>
 <p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/QGeHS4jO0X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkOtfvhtawA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=QGeHS4jO0X0" target="_blank">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
 
 <h5>2. How to Speak Up in Meetings by Harvard Business Review</h5> 
