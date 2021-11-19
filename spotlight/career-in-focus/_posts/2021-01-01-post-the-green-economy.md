@@ -26,7 +26,7 @@ layout: post
 				<li>Built environment</li>
 			</ul>
 			<p>Singapore, however, is not too far behind. Through policies to encourage sustainable production and consumption, such as the Extended Producer Responsibility (EPR)(9), Singapore has begun to embrace the circular economy approach in several areas.</p>
-			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m3 of ultra-pure recycled water into our system each day (10).</p>
+			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m<sup>3</sup> of ultra-pure recycled water into our system each day (10).</p>
 		</td>
 	</tr>
 	</tbody></table>
@@ -54,7 +54,7 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
 <br>
 <a href="https://nlb.overdrive.com/media/2506198"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
-All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
+<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.</p>
 <p><a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
