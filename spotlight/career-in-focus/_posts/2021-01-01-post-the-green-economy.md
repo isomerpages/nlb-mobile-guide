@@ -56,7 +56,7 @@ Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press
 <a href="https://nlb.overdrive.com/media/2506198"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
 <p><a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>. </p>
-Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<p style="end-note">Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h5>2. The Sustainable City </h5>
 Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
