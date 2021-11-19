@@ -4,8 +4,8 @@ date: 2021-11-19
 permalink: /spotlight/career-in-focus/permalink
 layout: post
 ---
-<img alt="cover image" src="/images/FS-futureskillsmonth2020.jpg">
-<p style="font-size:8pt;">Photo credit: Retrieved from <a target="_blank" href="https://www.skillsfuture.sg/">https://www.skillsfuture.sg/</a></p>
+<img src="/images/FS-futureskillsmonth2020.jpg" alt="cover image">
+<p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/" target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
 <h1>Introduction</h1>
 <p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare. (1) </p>
@@ -35,14 +35,14 @@ layout: post
 <h5>1. What is a Green Economy?</h5>
 <p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VkOtfvhtawA" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/VkOtfvhtawA">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkOtfvhtawA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/VkOtfvhtawA" target="_blank">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
 
 <h5>2. How to Get Everyone to Care about a Green Economy</h5> 
 <p>Watch this video to gather tips on how to convince people about the Green Economy. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/slbfAfEvnQ0" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/slbfAfEvnQ0">How to get everyone to care about a green economy</a> (2019, December 21). <i>TED.</i> Retrieved 2021, October 16
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slbfAfEvnQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How to get everyone to care about a green economy</a> (2019, December 21). <i>TED.</i> Retrieved 2021, October 16
 
 <h4>Websites</h4>
 
@@ -53,7 +53,7 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/slbfAfEvnQ0">How 
 <h5>1. Greening the global economy</h5>
 Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
 <p>
-<a href="https://nlb.overdrive.com/media/2506198"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/CCS-2-YoureNotListening.jpg"></a>
+<a href="https://nlb.overdrive.com/media/2506198"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
 			<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
 <a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>.</p> 
@@ -62,7 +62,7 @@ Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press
 <h5>2. The Sustainable City </h5>
 Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 <p>
-<a href="https://nlb.overdrive.com/media/3294693"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/CCS-2-YoureNotListening.jpg"></a>
+<a href="https://nlb.overdrive.com/media/3294693"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
 			<p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
 			<p><a href="https://nlb.overdrive.com/media/3294693">Borrow the eBook here</a>.</p> 
@@ -71,7 +71,7 @@ Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 			</p><h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
 Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy green growth</i>, New York: The MIT Press.
 <p>
-<a href="https://nlb.overdrive.com/media/5461605"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/CCS-2-YoureNotListening.jpg"></a>
+<a href="https://nlb.overdrive.com/media/5461605"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
 			<p>How does the economy and climate change intertwine? Giving real examples and tactics to ensure a business, individual, or institution is moving towards healthy, green, growth and limiting its impacts on climate change, Tomorrow’s economy: A guide to creating healthy green growth reframes the hot-button issue of economic growth.
 				</p><p><a href="https://nlb.overdrive.com/media/5461605">Borrow the eBook here</a>.</p> 
@@ -82,12 +82,11 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 </p>
 			
 <h4>References</h4>
-<p>
-	</p><ol>
+<ol>
     <li>Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential. <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
     <li> Singapore green plan 2030. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, October 1 from <a href="https://www.greenplan.gov.sg/">https://www.greenplan.gov.sg/</a> </li>
-    <li>Green economy. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, Sept iber 28 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.greenplan.gov.sg/key-focus-areas/green-economy/</a></li>
-    <li> Green economy | UNEP - UN environment programme. (2021). <i>UN Environment Programme</i>. Retrieved 2021, Sept iber 28 from <a href="https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy>https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy</a ></li>
+    <li>Green economy. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, September 28 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.greenplan.gov.sg/key-focus-areas/green-economy/</a></li>
+    <li> Green economy | UNEP - UN environment programme. (2021). <i>UN Environment Programme</i>. Retrieved 2021, September 28 from <a href="https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy>https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy</a ></li>
     <li>Developing a roadmap for the First Circular City: Amsterdam. <i>Circle Economy</i>. Retrieved 2021, October 21 from <a href=">https://www.circle-economy.com/resources/developing-a-roadmap-for-the-first-circular-city-amsterdam</a></li>
     <li>Amsterdam: Adding the doughnut to the circular economy. (2021, February 3). <i>Circular City Funding Guide</i>. Retrieved 2021, October 21 from<a href="https://www.circularcityfundingguide.eu/case-studies/amsterdam-adding-the-doughnut-to-the-circular-economy">https://www.circularcityfundingguide.eu/case-studies/amsterdam-adding-the-doughnut-to-the-circular-economy</a></li>
     <li>Mijatovic, S. (2016, May 26). Circle City Scan of the City of Amsterdam. <i>Amsterdam Smart City</i>. Retrieved 2021, October 21 from <a href="https://amsterdamsmartcity.com/updates/project/circle-scan-amsterdam">https://amsterdamsmartcity.com/updates/project/circle-scan-amsterdam</a></li>
