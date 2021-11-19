@@ -33,10 +33,10 @@ layout: post
 	</table>
 	
 <h4>Videos</h4>
-<h5>1. It’s Not Manipulation, It’s Strategic Communication by Keisha Brewer</h5>
-<p>Keisha Brewer is a strategic communication professional and CEO of the PR Alliance LLC. In her TED talk, she shares steps we can take to achieve specific responses from our target audience, in both our professional and personal lives.</p>
+<h5>What is a Green Economy?</h5>
+<p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/QGeHS4jO0X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=QGeHS4jO0X0" target="_blank">It’s Not Manipulation, It’s Strategic Communication</a> (2020, January 9). TEDxGeorgetown. 
+Source: <a href="https://www.youtube.com/watch?v=QGeHS4jO0X0" target="_blank">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
 
 <h5>2. How to Speak Up in Meetings by Harvard Business Review</h5> 
 <p>Christine Liu is an Innovation Editor at Harvard Business Review and like many of us, she is apprehensive to speak up in meetings. She seeks help from Justin Hale, host of “One Productive Minute” who shares the Fact-Story-Ask method to communicate better at meetings.</p>
