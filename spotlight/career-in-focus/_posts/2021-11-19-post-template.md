@@ -98,6 +98,3 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
     <li>Circular economy. <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a href="https://www.towardszerowaste.gov.sg/circular-economy>https://www.towardszerowaste.gov.sg/circular-economy</a></li>
     <li>What is circular economy? <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21<a href=">https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/</a></li>
 </ol>
-
-
-</td></tr></tbody></table>
