@@ -78,7 +78,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 			
 <h4>References</h4>
 <ol>
-    <li><a id="footnote-one">Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential.</a> <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</li>
+    <li><a id="footnote-one">Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential.</a> <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
     <li> Singapore green plan 2030. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, October 1 from <a href="https://www.greenplan.gov.sg/">https://www.greenplan.gov.sg/</a> </li>
     <li>Green economy. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, September 28 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.greenplan.gov.sg/key-focus-areas/green-economy/</a></li>
 	    <li>Green economy | UNEP - UN environment programme. (2021). <i>UN Environment Programme</i>. Retrieved 2021, September 28 from <a href="https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy">https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy</a></li>
