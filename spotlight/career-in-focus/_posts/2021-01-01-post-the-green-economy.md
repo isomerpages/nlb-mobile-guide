@@ -8,7 +8,7 @@ layout: post
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/" target="_blank">https://www.skillsfuture.sg/</a></p>
 ---
 <h1>Introduction</h1>
-<p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare. (1) </p>
+<p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><a href=#>1</a></sup>
 <p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development (2) developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage (3).</p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.(4)</p>
 <p>In the Green Plan, Singapore’s key targets are to Introduce an Enterprise Sustainability Programme, Create business and job opportunities, Be a leading centre for Green Finance in Asia and globally and to Promote homegrown innovation under the Research, Innovation and Enterprise Plan 2025.(3)</p>
@@ -56,7 +56,7 @@ Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press
 <a href="https://nlb.overdrive.com/media/2506198"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
 <p><a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>. </p>
-<p style="end-note">Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>2. The Sustainable City </h5>
 Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
@@ -78,7 +78,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 			
 <h4>References</h4>
 <ol>
-    <li>Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential. <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
+    <li><a id="footnote-one">Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential. <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
     <li> Singapore green plan 2030. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, October 1 from <a href="https://www.greenplan.gov.sg/">https://www.greenplan.gov.sg/</a> </li>
     <li>Green economy. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, September 28 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.greenplan.gov.sg/key-focus-areas/green-economy/</a></li>
 	    <li>Green economy | UNEP - UN environment programme. (2021). <i>UN Environment Programme</i>. Retrieved 2021, September 28 from <a href="https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy">https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy</a></li>
