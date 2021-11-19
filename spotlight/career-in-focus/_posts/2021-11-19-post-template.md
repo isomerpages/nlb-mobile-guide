@@ -17,9 +17,6 @@ layout: post
 <table border="1">
 	<tbody><tr>
 		<td>
-<table border="1">
-	<tbody><tr>
-		<td>
 			<h2>Did you know...</h2>
 			<p>In 2015, Amsterdam become one of the world’s first circular cities.(5) They were also the first city to get a circular city scan, in collaboration with Circle Economy (6), which identifies those areas where the most significant, tangible progress in realizing a circular economy can be achieved (7). Through the circular city scan, they found out that both the food and the construction sector had large circular potential, with potentially high economic and environmental impact.</p>
 			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains(8).</p>
