@@ -54,7 +54,6 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
 <p>
 <a href="https://nlb.overdrive.com/media/2506198"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
-</p>
 			<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
 <a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>.</p> 
 			Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
@@ -63,8 +62,7 @@ Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press
 Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 <p>
 <a href="https://nlb.overdrive.com/media/3294693"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
-</p>
-			<p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
+<p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
 			<p><a href="https://nlb.overdrive.com/media/3294693">Borrow the eBook here</a>.</p> 
 			Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 			<p>
