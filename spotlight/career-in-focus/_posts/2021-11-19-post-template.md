@@ -57,7 +57,7 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 <h5>1. Greening the global economy</h5>
 Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
 <p>
-<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<a href="https://nlb.overdrive.com/media/2506198"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
 			<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
 <a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>.</p> 
@@ -66,17 +66,17 @@ Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press
 <h5>2. The Sustainable City </h5>
 Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 <p>
-<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<a href="https://nlb.overdrive.com/media/3294693"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
 			<p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
 			<p><a href="https://nlb.overdrive.com/media/3294693">Borrow the eBook here</a>.</p> 
 			Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 			<p>
-			<h5>1. Greening the global economy</h5>
-Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
+			<h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
+Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy green growth</i>, New York: The MIT Press.
 <p>
-<a href="https://libbyapp.com/library/nlb/everything/page-1/4739630"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<a href="https://nlb.overdrive.com/media/5461605"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p>
-			<p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.
-<a href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>.</p> 
+			<p>How does the economy and climate change intertwine? Giving real examples and tactics to ensure a business, individual, or institution is moving towards healthy, green, growth and limiting its impacts on climate change, Tomorrow’s economy: A guide to creating healthy green growth reframes the hot-button issue of economic growth.
+<a href="https://nlb.overdrive.com/media/5461605">Borrow the eBook here</a>.</p> 
 			Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
