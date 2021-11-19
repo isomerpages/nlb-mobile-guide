@@ -52,61 +52,6 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 
 <h5>1. <a href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
 <p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
-<h5>2. <a href="https://ideas.ted.com/7-ways-to-be-a-better-communicator-by-tweaking-your-body-language/">7 Ways to Be a Better Communicator — by Tweaking Your Body Language</a><br/>
-<i>Abhimanyu Das.</i> Published on IDEAS.TED.COM on 25 Feb 2020.</h5>
-<p>Communication expert David JP Philips has an arsenal of 100 communication and public speaking techniques from his years of analysing public speakers. In this article, TEDx content specialist Abhimanyu Das condenses Philips’ techniques, and shares 7 key body language tips that we can employ to become a better communicator.</p>
-
-<h5>3. <a href="https://www.thebalancecareers.com/collaboration-skills-with-examples-2059686">What Are Collaboration Skills?</a><br/>
-<i>Alison Doyle.</i> Published on The Balance Careers on 26 June 2020.</h5>
-<p>In this article, learn about the skills required to collaborate successfully at work. These include being a clear communicator, listening actively, taking responsibility for mistakes, and respecting and being conscious of team diversity.</p>
-
-<h5>4. <a href="https://www.cio.com/article/3262704/diversity-and-inclusion-8-best-practices-for-changing-your-culture.amp.html">Diversity and Inclusion: 8 Best Practices for Changing Your Culture</a><br/>
-<i>Sharon Florentine.</i> Published on CIO on 14 Feb 2020.</h5>
-<p>Companies are realising that improving their diversity and inclusion programmes and policies can lead to greater profitability and value creation. This article outlines eight best practices to help organisations get on track.</p>
-
-<h5>5. <a href="https://www.smartsheet.com/how-workplace-collaboration-can-change-your-company">How Workplace Collaboration Can Change Your Company</a><br/>
-<i>Smartstreet.</i> Published on Harvard Business Review.</h5>
-<p>This article explains what workplace collaboration looks like, including the different types of collaborative practices, its benefits and challenges, and shares best practices to maximise success.</p>
-
-
-
-
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg" target="_blank">Communicating with Empathy</a></strong></p>
-<p>Empathetic communication is a cornerstone of organisational success. It helps to create a safe and inclusive workplace where each employee feels comfortable speaking up. Learn the principles of empathetic communication and the strategies we can employ for difficult conversations, to improve team communications at the workplace.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Communicating-Empathy/534584-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CommunicatingWithEmpathy.jpg" style="width:400px;" alt="communicating with empathy"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Leadership-Management-tutorials/Preparing-Successful-Communication/743144-2.html?org=nlb.gov.sg" target="_blank">Preparing for Successful Communication</a></strong></p>
-<p>Discover how you can capture and keep people’s attention, and gain respect and support when delivering a report, speaking at a conference, or making a request of your boss. In this course, Sam Horn, CEO of the Intrigue Agency shares a step-by step process to achieve clear, concise and compelling communication.</p>
-<a href="https://www.lynda.com/Leadership-Management-tutorials/Preparing-Successful-Communication/743144-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-PreparingForSuccessfulCommunication.jpg" style="width:400px;" alt="preparing for successful communication"></a>
-
-<p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg" target="_blank">Skills for Inclusive Conversations</a></strong></p>
-<p>Learn the skills necessary to engage in inclusive conversations. These include an exploratory self-assessment to better understand yourself and your team, tactics to find common ground, and techniques when conversing about challenging issues.</p>
-<a href="https://www.lynda.com/Business-tutorials/Skills-Inclusive-Conversations/5025098-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-SkillsForInclusiveConversations.jpg" style="width:400px;" alt="skills for inclusive conversations"></a>
-
-<p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg" target="_blank">Diversity, Inclusion, Belonging</a></strong></p>
-<p>The importance of belonging is crucial as it helps employees feel accepted for who they are. Pat Wakors explains how to activate the Diversity, Inclusion, and Belonging (DIB) approach in organisations, including the importance of storytelling and the purpose of listening.</p>
-<a href="https://www.lynda.com/Business-tutorials/Diversity-Inclusion-Belonging/2819028-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DiversityInclusionBelonging.jpg" style="width:400px;" alt="diversity inclusion belonging"></a>
-
-<p><strong>5. <a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg" target="_blank">Collaboration Principles and Process</a></strong></p>
-<p>Collaboration includes a range of activities that are crucial to successful teamwork and partnerships. This video details the ways to improve team collaboration and conduct effective meetings by establishing roles and responsibilities and assigning a group facilitator.</p>
-<a href="https://www.lynda.com/Leadership-Management-tutorials/Collaboration-Principles-Process/758614-2.html?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-CollaborationPrinciplesAndProcess.jpg" style="width:400px;" alt="collaboration principles and process"></a>
-
-<p><strong>6. <a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg" target="_blank">Develop Your Communication Skills and Interpersonal Influence</a></strong></p>
-<p>Learn how to clearly convey information and ideas in an engaging manner, with strategies to ignite curiosity, attention, trust, and respect through this curated set of videos on communication skills and interpersonal influence.</p>
-<a href="https://www.lynda.com/learning-paths/Business/develop-your-communication-skills-and-interpersonal-influence?org=nlb.gov.sg"><img src="/images/CCS-2-Lynda-DevelopYourCommunicationSkills.jpg" style="width:400px;" alt="develop your communication skills"></a>
-
-<i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
-
-<div class="bp-youtube">
-<!--Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube-->
- 	 <iframe title="Learn New Skills with LinkedIn Learning and NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/G1rq-4l3iQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-	 </iframe>
-	 </div>
-
 
 <h4>eBooks</h4>
 <h5>You're Not Listening: What You're Missing and Why It Matters</h5>
