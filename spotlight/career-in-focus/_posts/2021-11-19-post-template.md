@@ -47,9 +47,8 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 
 <h4>Websites</h4>
 
-<h5>1. <a href="https://www.forbes.com/sites/forbescoachescouncil/2020/01/08/to-communicate-more-effectively-in-the-workplace-employ-these-two-questions/?sh=25f6d76f70de">To Communicate More Effectively In The Workplace, Employ These Two Questions</a><br/>
-<i>Katharina Schmidt.</i> Published on Forbes on 8 Jan 2020.</h5>
-<p>Katharina Schmidt, an executive coach, shares that an obstacle to communicating clearly and accurately is how we each translate messages differently at a neurological level. In this article, she shares how two questions can be asked to overcome this latent barrier and foster more effective communication.</p>
+<h5>1. <a href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
+<p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
 
 <h5>2. <a href="https://ideas.ted.com/7-ways-to-be-a-better-communicator-by-tweaking-your-body-language/">7 Ways to Be a Better Communicator — by Tweaking Your Body Language</a><br/>
 <i>Abhimanyu Das.</i> Published on IDEAS.TED.COM on 25 Feb 2020.</h5>
