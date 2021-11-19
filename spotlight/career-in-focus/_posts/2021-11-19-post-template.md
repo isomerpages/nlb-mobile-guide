@@ -65,8 +65,8 @@ Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 <p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
 			<p><a href="https://nlb.overdrive.com/media/3294693">Borrow the eBook here</a>.</p> 
 			Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
-			<p>
-			</p><h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
+	
+<h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
 Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy green growth</i>, New York: The MIT Press.
 <p>
 <a href="https://nlb.overdrive.com/media/5461605"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
