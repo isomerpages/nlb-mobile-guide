@@ -70,8 +70,8 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy green growth</i>, New York: The MIT Press.
 <br>
 <a href="https://nlb.overdrive.com/media/5461605"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
-How does the economy and climate change intertwine? Giving real examples and tactics to ensure a business, individual, or institution is moving towards healthy, green, growth and limiting its impacts on climate change, Tomorrow’s economy: A guide to creating healthy green growth reframes the hot-button issue of economic growth.
-				</p><p><a href="https://nlb.overdrive.com/media/5461605">Borrow the eBook here</a>.</p> 
+<p>How does the economy and climate change intertwine? Giving real examples and tactics to ensure a business, individual, or institution is moving towards healthy, green, growth and limiting its impacts on climate change, Tomorrow’s economy: A guide to creating healthy green growth reframes the hot-button issue of economic growth.</p>
+<p><a href="https://nlb.overdrive.com/media/5461605">Borrow the eBook here</a>.</p> 
 			Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h4>Sustainability Programmes in NLB</h4>
