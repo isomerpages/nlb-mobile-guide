@@ -18,6 +18,9 @@ layout: post
 <table border="1">
 	<tr>
 		<td>
+<table border="1">
+	<tr>
+		<td>
 			<h2>Did you know...</h2>
 			<p>In 2015, Amsterdam become one of the world’s first circular cities.(5) They were also the first city to get a circular city scan, in collaboration with Circle Economy (6), which identifies those areas where the most significant, tangible progress in realizing a circular economy can be achieved (7). Through the circular city scan, they found out that both the food and the construction sector had large circular potential, with potentially high economic and environmental impact.</p>
 			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains(8).</p>
@@ -49,7 +52,6 @@ Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How 
 
 <h5>1. <a href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
 <p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
-
 <h5>2. <a href="https://ideas.ted.com/7-ways-to-be-a-better-communicator-by-tweaking-your-body-language/">7 Ways to Be a Better Communicator — by Tweaking Your Body Language</a><br/>
 <i>Abhimanyu Das.</i> Published on IDEAS.TED.COM on 25 Feb 2020.</h5>
 <p>Communication expert David JP Philips has an arsenal of 100 communication and public speaking techniques from his years of analysing public speakers. In this article, TEDx content specialist Abhimanyu Das condenses Philips’ techniques, and shares 7 key body language tips that we can employ to become a better communicator.</p>
