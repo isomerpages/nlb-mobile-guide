@@ -9,24 +9,24 @@ layout: post
 ---
 <h1>Introduction</h1>
 <p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><a href="#footnote-one">1</a></sup>
-<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development (2) developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage (3).</p>
-<p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.(4)</p>
-<p>In the Green Plan, Singapore’s key targets are to Introduce an Enterprise Sustainability Programme, Create business and job opportunities, Be a leading centre for Green Finance in Asia and globally and to Promote homegrown innovation under the Research, Innovation and Enterprise Plan 2025.(3)</p>
+<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><a href="#footnote-two">2</a></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><a href="#footnote-three">3</a></sup>.</p>
+<p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><a href="#footnote-four">4</a></sup></p>
+<p>In the Green Plan, Singapore’s key targets are to Introduce an Enterprise Sustainability Programme, Create business and job opportunities, Be a leading centre for Green Finance in Asia and globally and to Promote homegrown innovation under the Research, Innovation and Enterprise Plan 2025.<sup><a href="#footnote-three">3</a></sup></p>
 <p>As the global awareness for sustainability efforts increase, more corporations are heading towards more sustainable business models. 
 </p>
 <table border="1">
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>In 2015, Amsterdam become one of the world’s first circular cities.(5) They were also the first city to get a circular city scan, in collaboration with Circle Economy (6), which identifies those areas where the most significant, tangible progress in realizing a circular economy can be achieved (7). Through the circular city scan, they found out that both the food and the construction sector had large circular potential, with potentially high economic and environmental impact.</p>
-			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains(8).</p>
+			<p>In 2015, Amsterdam become one of the world’s first circular cities.<sup><a href="#footnote-five">5</a></sup> They were also the first city to get a circular city scan, in collaboration with Circle Economy<sup><a href="#footnote-six">6</a></sup>, which identifies those areas where the most significant, tangible progress in realizing a circular economy can be achieved<sup><a href="#footnote-seven">7</a></sup>. Through the circular city scan, they found out that both the food and the construction sector had large circular potential, with potentially high economic and environmental impact.</p>
+			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains<sup><a href="#footnote-eight">8</a></sup>.</p>
 			<ul>
 				<li>Food and organic waste streams</li>
 				<li>Consumer goods</li>
 				<li>Built environment</li>
 			</ul>
-			<p>Singapore, however, is not too far behind. Through policies to encourage sustainable production and consumption, such as the Extended Producer Responsibility (EPR)(9), Singapore has begun to embrace the circular economy approach in several areas.</p>
-			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m<sup>3</sup> of ultra-pure recycled water into our system each day (10).</p>
+			<p>Singapore, however, is not too far behind. Through policies to encourage sustainable production and consumption, such as the Extended Producer Responsibility (EPR)<sup><a href="#footnote-nine">9</a></sup>, Singapore has begun to embrace the circular economy approach in several areas.</p>
+			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m<sup>3</sup> of ultra-pure recycled water into our system each day <sup><a href="#footnote-ten">10</a></sup>.</p>
 		</td>
 	</tr>
 	</tbody></table>
