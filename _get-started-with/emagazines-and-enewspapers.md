@@ -13,14 +13,6 @@ title: eMagazines and eNewspapers
 		<li><a href="#AboutPressReader">Reading international newspapers and magazines</a></li>
 </ul>
 <p></p>
-
-<div id="sph">
-<h3>How to Read SPH Media eNewspapers From Home</h3>
-<div class="bp-youtube">
-<!--NLB Mobile app video 2021 - Read eNewspapers from Home with NLB and SPH-->
- 	 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlYnB_anDj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-	</div> 
 	
 <h4>Get started</h4>
 <div class="new-accordion">
