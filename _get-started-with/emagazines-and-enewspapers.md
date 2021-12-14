@@ -80,12 +80,12 @@ title: eMagazines and eNewspapers
 <p>After signing in with your myLibrary username at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH Media ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
 	<p>The following papers will not be available:</p>
 	<p>10 Dec 2021: The New Paper:
-	</p><ul>
-	<li>The last print issue (including the PDF edition) of The New Paper will be on 10 Dec 2021.</li>
-	<li>NLB patrons may access The New Paper digital website for the current and archived articles under https://tnp.straitstimes.com, for free.</li>
+	<ul>
+	The last print issue (including the PDF edition) of The New Paper will be on 10 Dec 2021.
+	NLB patrons may access The New Paper digital website for the current and archived articles under https://tnp.straitstimes.com, for free.</p>
 	<p>26 Dec 2021: Lianhe Wanbao
-	</p><ul>
-	<li>Lianhe Wanbao and Shin Min Daily News will be merged from 26 Dec 2021. Moving forward, the merged publication will be titled Shin Min Daily News. The last issue of Lianhe Wanbao (including the e-paper) will be on 24 Dec 2021.</li>
+	<ul>
+	Lianhe Wanbao and Shin Min Daily News will be merged from 26 Dec 2021. Moving forward, the merged publication will be titled Shin Min Daily News. The last issue of Lianhe Wanbao (including the e-paper) will be on 24 Dec 2021.</p>
 </div>
 </div>
 
