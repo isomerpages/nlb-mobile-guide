@@ -81,9 +81,9 @@ title: eMagazines and eNewspapers
 	<p>The following papers will not be available:</p>
 	<p>10 Dec 2021: The New Paper
 	<br>The last print issue (including the PDF edition) of The New Paper will be on 10 Dec 2021.
-	NLB patrons may access The New Paper digital website for the current and archived articles under https://tnp.straitstimes.com, for free.</br></p>
+	NLB patrons may access The New Paper digital website for the current and archived articles under https://tnp.straitstimes.com, for free.</p>
 	<p>26 Dec 2021: Lianhe Wanbao
-	<br>Lianhe Wanbao and Shin Min Daily News will be merged from 26 Dec 2021. Moving forward, the merged publication will be titled Shin Min Daily News. The last issue of Lianhe Wanbao (including the e-paper) will be on 24 Dec 2021.</br></p>
+	<br>Lianhe Wanbao and Shin Min Daily News will be merged from 26 Dec 2021. Moving forward, the merged publication will be titled Shin Min Daily News. The last issue of Lianhe Wanbao (including the e-paper) will be on 24 Dec 2021.</p>
 </div>
 </div>
 
