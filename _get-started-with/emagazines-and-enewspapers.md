@@ -47,15 +47,14 @@ title: eMagazines and eNewspapers
 		</ul><p></p>
 
 	<p>For users of Android devices, not all the browsers may work (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers.</p>
-	<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser.</p>
+	<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please indicate your device brand, model, operating system and browser.</p>
 </div>
 
 <input id="sph4" type="checkbox">
 <label for="sph4">Can I access SPH Media newspapers from the NLB Mobile app? </label>
 <div class="new-accordion-content">
-	<p>Yes, you can! Tap on the SPH logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
-	<p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>
-	<p>Yes, you can. Make sure your devices' operating systems are updated. </p> 	
+	<p>Yes, you can! Tap on the SPH Media logo in NLB Mobile's home tab. Make sure your devices' operating systems are updated, e.g. Apple devices should be on iOS / iPadOS 13 and above. </p>	
+	<p>For users of Android devices, some browsers may not be supported (e.g. Opera). Additionally, do note that some newspaper titles do not display as well on smartphones compared to tablets and desktop / laptop computers. </p>	
 	<p>Minimum device operating systems:
 	</p><ul>
 		<li>iOS13</li>
@@ -73,14 +72,18 @@ title: eMagazines and eNewspapers
 	  <ol>
 		<li>The Straits Times</li> 
 		<li>The Business Times</li> 
-		<li>The New Paper</li> 
 		<li>Lianhe Zaobao</li>
-		<li>Lianhe Wanbao</li>
 		<li>Shin Min Daily News</li> 
 		<li>Berita Harian</li>
 		<li>Tamil Murasu</li> 
 	</ol>
 <p>After signing in with your myLibrary username at <a href="https://eresources.nlb.gov.sg/main/sphnewspapers">go.gov.sg/nlb-enews</a>, select the newspaper you wish to read, and you will be brought to the SPH Media ePaper site. At this site, you will be able to read the issues from previous days as well. Depending on the newspaper, this varies from 7 to 13 days.</p>
+	<p>The following papers will not be available:</p>
+	<p>10 Dec 2021: The New Paper
+	<br>The last print issue (including the PDF edition) of The New Paper will be on 10 Dec 2021.
+	NLB patrons may access The New Paper digital website for the current and archived articles under https://tnp.straitstimes.com, for free.</p>
+	<p>26 Dec 2021: Lianhe Wanbao
+	<br>Lianhe Wanbao and Shin Min Daily News will be merged from 26 Dec 2021. Moving forward, the merged publication will be titled Shin Min Daily News. The last issue of Lianhe Wanbao (including the e-paper) will be on 24 Dec 2021.</p>
 </div>
 </div>
 
@@ -90,7 +93,7 @@ title: eMagazines and eNewspapers
 <label for="sph2a">How do I zoom in to the newspaper page / turn pages / read issues from other dates?</label>
 <div class="new-accordion-content">
 	<p>The interface differs depending on which SPH ePaper you are reading.</p>
-	<h4>For all SPH ePapers (except The New Paper) </h4>
+	<h4>For all SPH Media ePapers </h4>
 	<h5>When Reading from Desktop / Laptop Computers</h5>
 	<p>Zooming in and out: Click on the magnifying glass on the right, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want.</p>
 
@@ -106,23 +109,7 @@ title: eMagazines and eNewspapers
 <p>Reading an issue from another date: Pinch the screen to zoom out completely (until you can see the whole page on your screen). Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.
 </p>
 
-<p></p><h4>For The New Paper</h4><p></p>
-	<h5>When Reading from Desktop / Laptop Computers</h5>
-		<p>Zooming in and out: Navigation and zoom settings are displayed above the pages of the ePaper. Click on the magnifying glass on top, then click and drag on the white slider to adjust how much you want to zoom in. Then, drag the page around to read the segment you want.</p>
-
-<p>Turning pages: Click on the left or right arrow. If you do not see the arrows, click on the magnifying glass first.</p>
-
-<p>Reading an issue from another date: Click on the calendar icon (the leftmost icon) on top, then select the desired date. If you do not see the calendar icon, click on the magnifying glass first.
-</p> 
-	<h5>When Reading from Mobile Phones / Tablets</h5>
-	<p>Zooming in and out: Simply pinch the screen, as you would on a normal webpage.</p>
-
-<p>Turning pages: Pinch the screen to zoom out completely (until you can see the whole page on your screen), then swipe right or left.</p>
-
-<p>Reading an issue from another date: Tap once near the middle of the screen. Tap on the calendar icon, then scroll down to see the issues available. Select the desired date.
-</p>
-
-<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please tell us your device brand, model, operating system and browser. Thank you.</p>
+<p>If you have problems zooming into or turning pages in the ePaper, please contact <a href="mailto:stics@sph.com.sg">stics@sph.com.sg</a> and use "NLB inquiry" as the subject. To help with troubleshooting, please indicate your device brand, model, operating system and browser. Thank you.</p>
 </div>
 
 <input id="sph6" type="checkbox">
