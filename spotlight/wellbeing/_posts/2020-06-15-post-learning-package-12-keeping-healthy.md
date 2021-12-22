@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 12 - Keeping Healthy'
+title: Learning Package 12 - Keeping Healthy
 date: 2020-06-15T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-06-15-keeping-healthy
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm.'
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm.
 image: /images/PL-12-Intro-image-keeping-healthy.jpg
-
 ---
-
 <img src="/images/PL-12-Intro-image-keeping-healthy.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg" target="_blank">https://images.pexels.com/photos/1882003/pexels-photo-1882003.jpeg</a></p>
 <p><q>Exercise and application produce order in our affairs, health of body, cheerfulness of mind, and these make us precious to our friends.</q> - Thomas Jefferson</p>
@@ -24,17 +23,6 @@ Source: <a href="https://www.youtube.com/watch?v=9JJYWx2HoqM" target="_blank">Ho
 The early identification of unrecognized diseases in an asymptomatic person increases the success of treatment, and this can be done by means of a simple breath analysis. The speaker explains how. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/aQsOmGflf1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=aQsOmGflf1o" target="_blank">What your breath could reveal about your health</a> (2019, Feb 25). TED Talks. 
-
-<h4>eLearning Videos From Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg " target="_blank">Wellness and Health Journals</a></strong><br/>
-Starting a habit tracker in a journal or diary is a great way to keep track and be aware of what you eat (nutrition) and workouts (fitness). This can help you create good habits and even break bad ones.</p>
-<a href="https://www.lynda.com/OneNote-tutorials/Wellness-health-journals/5026550/2222666-4.html?org=nlb.gov.sg"><img src="/images/PL-12-Lyndalibrary-health-journals.jpg" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg" target="_blank">Avoiding Burnout</a></strong><br/>
-This succinct course tells you how to recognize the signs of burnout and the steps you can take to avoid that happening in your work life.</p>
-<a href="https://www.lynda.com/Business-tutorials/Avoiding-Burnout/2811713-2.html?org=nlb.gov.sg"><img src="/images/PL-12-Lyndalibrary-burnout.jpg" style="width:400px;"></a>
 
 
 <h4>Stories on the Internet</h4>
@@ -118,4 +106,3 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6ED31BCA
     </td>
   </tr>
   </table>
-
