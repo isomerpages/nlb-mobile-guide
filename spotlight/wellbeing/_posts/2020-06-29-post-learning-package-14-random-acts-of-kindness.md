@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 14 - Random Acts of Kindness'
+title: Learning Package 14 - Random Acts of Kindness
 date: 2020-06-29T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-06-29-random-acts-of-kindness
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
-image: '/images/PL14-Intro Image.jpg'
-
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm and feel at peace.
+image: /images/PL14-Intro Image.jpg
 ---
-
 <img src="/images/PL14-Intro Image.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/mini-red-hearts-wallpaper-776635/
 " target="_blank">http://pexels.com/photo/background-board-chart-data-590041/</a></p>
@@ -24,17 +23,6 @@ Source: <a href="https://www.youtube.com/watch?v=mdSfg8qO8ts" target="_blank">Th
 Can we use science to explain the benefits of kindness? Probably. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/O9UByLyOjBM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=O9UByLyOjBM" target="_blank">The Science of Kindness</a> (2017, Nov 14). randomactsofkindness. 
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Leading-Kindness-Strength/2814066-2.html?org=nlb.gov.sg" target="_blank">Leading with Kindness and Strength</a></strong><br/>
-Being kind yet successful need not be a yin and yang dichotomy. This leadership course explains how to practice empathy, build confidence and network effectively to achieve career success. </p>
-<a href="https://www.lynda.com/Business-tutorials/Leading-Kindness-Strength/2814066-2.html?org=nlb.gov.sg"><img src="/images/PL14-Lynda-leading-kindness.jpg" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/How-being-kind-improves-productivity/2815117/3518002-4.html?org=nlb.gov.sg" target="_blank">How Being Kind Improves Productivity</a></strong><br/>
-Using kind words in an amiable tone of voice is a skill that can result in increased productivity. Learn more about how such actions may have a positive effect on those around you.</p>
-<a href="https://www.lynda.com/Business-tutorials/How-being-kind-improves-productivity/2815117/3518002-4.html?org=nlb.gov.sg"><img src="/images/PL14-Lynda-kindness-productivity.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
