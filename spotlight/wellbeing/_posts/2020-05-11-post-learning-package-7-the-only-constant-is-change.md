@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 7 - The Only Constant Is Change'
+title: Learning Package 7 - The Only Constant Is Change
 date: 2020-05-11T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-05-11-dealing-with-uncertainty
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm and feel at peace.
 image: /images/PL-7-Intro-Image.jpg
-
 ---
-
 <img src="/images/PL-7-Intro-Image.jpg">
 <p><q>The only constant is change.</q> - Heraclitus.</p>
 <p>When life throws you lemons, you make…. wait. What if they aren’t even lemons? Uncertainty is an inevitable part of life, so how can we deal with the metaphorical lemon (or any other fruit, really?) to reset ourselves and emerge a stronger person? Here are some resources on dealing with uncertainty in exceptional times.</p>
@@ -21,18 +20,6 @@ Source: <a href="https://www.youtube.com/watch?v=veEQQ-N9xWU" target="_blank">Th
 According to Steven Zanella, who had spent a large part of his life worrying about uncertainties, practising positive thoughts allows you to feel less fearful about the unknown, and instead, see it as an infinite possibility. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/EgU3i-g8ZRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=EgU3i-g8ZRY" target="_blank">Breaking the Anxiety Cycle through Kindness</a> (2016, February 2). TED. 
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Listen-empathy/746310/5012291-4.html?org=nlb.gov.sg" target="_blank">Listening with Empathy</a></strong><br/>
-There is a difference between hearing and listening. Beyond listening, there is the art of empathic listening. Learn how listening with empathy can help create more precise solutions.</p>
-<a href="https://www.lynda.com/Business-tutorials/Listen-empathy/746310/5012291-4.html?org=nlb.gov.sg"><img src="/images/PL-7-lynda-empathy.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Dealing-your-own-frustration/784281/2700055-4.html?org=nlb.gov.sg" target="_blank">Dealing with Your Own Frustration</a></strong><br/>
-Improve your wellbeing with two simple activities – meditation and sleep!</p>
-<a href="https://www.lynda.com/Business-tutorials/Dealing-your-own-frustration/784281/2700055-4.html?org=nlb.gov.sg"><img src="/images/PL-7-lynda-frustration.png" style="width:400px;"></a>
-
 
 <h4>Stories on the Internet</h4>
 
