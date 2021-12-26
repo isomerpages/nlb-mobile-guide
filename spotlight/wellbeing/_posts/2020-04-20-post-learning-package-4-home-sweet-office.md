@@ -1,12 +1,13 @@
 ---
-title: 'Learning Package 4 - Home Sweet Office'
+title: Learning Package 4 - Home Sweet Office
 date: 2020-04-20T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-04-20-home-sweet-office
-description: 'Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment.'
-image: '/images/PL-4-Intro Image.jpg'
-
+description: Working from home is the new reality for many. Turn your home into
+  an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether
+  you are a newbie or veteran, here is a list of resources to enrich your work
+  from home experience and environment.
+image: /images/PL-4-Intro Image.jpg
 ---
-
 <img src="/images/PL-4-Intro Image.jpg">
 <p><q>The fact that tools like Skype and digital collaboration are letting people work better at a distance — that is a wonderful thing.</q> - Bill Gates, Cofounder of Microsoft.</p>
 <p>Working from home is the new reality for many. Turn your home into an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether you are a newbie or veteran, here is a list of resources to enrich your work from home experience and environment.</p>
@@ -21,17 +22,6 @@ Source: <a href="https://www.youtube.com/watch?v=fc3c3OrpKSI" target="_blank">Ho
 Feeling more productive working from home than you ever were in the office? Here’s why. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/0UmUgaJwEr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=0UmUgaJwEr0" target="_blank">Why Work Doesn't Happen at Work</a> (2012, August 30). TEDx. 
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/397387-2.html?org=nlb.gov.sg" target="_blank">Time Management Fundamentals</a></strong><br/>
-Learn how to get more done in the shortest time possible, and avoid the obstacles and distractions that can get in the way of good time management.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/397387-2.html?org=nlb.gov.sg"><img src="/images/PL-4-lynda-timemgt.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-Software-tutorials/Improving-Your-Focus/533302-2.html?org=nlb.gov.sg" target="_blank">Improving Your Focus</a></strong><br/>
-It is easy to get distracted – even more so if you’re working from home! Learn the techniques to improve your focus in this timely course.</p>
-<a href="https://www.lynda.com/Business-Software-tutorials/Improving-Your-Focus/533302-2.html?org=nlb.gov.sg"><img src="/images/PL-4-lynda-focus.png" style="width:400px;"></a>
 
 <h4>Articles</h4>
 
