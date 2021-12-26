@@ -48,7 +48,7 @@ Find out which of the Marvel women characters inspire the female staff who work 
 
 Source: <a target="_blank" href="https://www.youtube.com/embed/CEbAmLU05Ic"> Happy International Women's Day from the Women of Marvel!</a> (2018, March 9). Marvel Entertainment.
 
-<p></p>
+</p>
 
 <h4>eBooks</h4>
 <p>Check out these graphic novels and books that feature women and girls surviving school, camp and the struggles of their day to day lives. If you have only encountered female leads in romance and chick-lit novels, borrow these reads now and broaden your reading profile!</p>
