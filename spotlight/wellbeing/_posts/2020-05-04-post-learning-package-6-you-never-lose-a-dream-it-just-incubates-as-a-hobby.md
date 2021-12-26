@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 6 - You Never Lose a Dream, It Just Incubates as a Hobby'
+title: Learning Package 6 - You Never Lose a Dream, It Just Incubates as a Hobby
 date: 2020-05-04T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-05-04-you-never-lose-a-dream-it-just-incubates-as-a-hobby
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
-image: '/images/PL-6-Intro Image.jpg'
-
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm and feel at peace.
+image: /images/PL-6-Intro Image.jpg
 ---
-
 <img src="/images/PL-6-Intro Image.jpg">
 <p><q>You never lose a dream, it just incubates as a hobby.</q> - Larry Page</p>
 <p>With most of us spending our days cooped up at home, it's never been more important to prioritise one’s wellbeing. Indulging in a hobby is a great way to improve one’s mental health, pass time meaningfully and reduce stress. Here are some ideas to inspire your creative streak.</p>
@@ -21,18 +20,6 @@ Source: <a href="https://www.youtube.com/watch?v=YKACzIrog24" target="_blank">Ho
 Dong Woo Jang has an unusual after-school hobby. Jang, who was 15 when he gave the talk, tells the story of how living in the concrete jungle of Seoul inspired him to build the perfect bow. Watch him demo one of his beautiful hand-crafted archer's bows. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/WfTZ5iIUn4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=WfTZ5iIUn4s" target="_blank">The Art of Bow-Making</a> (2013, November 1). TED. 
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg" target="_blank">Become a Craft Business Owner</a></strong><br/>
-Turn your crafting hobby and passion into a full-fledged business by embarking on this learning journey. Discover the exciting world of entrepreneurship, learn the fundamentals of running a small craft business, and get ready to set up shop! This is the second video in the <i>Learning Path: Become a Craft Business Owner</i> series of videos.</p>
-<a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/PL-6-Lynda-Become-craft-business-owner.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/32-Ways-Make-Extra-Money/2808540-2.html?org=nlb.gov.sg" target="_blank">32 Ways to Make Extra Money</a></strong><br/>
-In this fast-paced and fun course, hear 32 inspiring stories of busy people who used their existing skills to create revenue during their off-hours from regular jobs.</p>
-<a href="https://www.lynda.com/Business-tutorials/32-Ways-Make-Extra-Money/2808540-2.html?org=nlb.gov.sg"><img src="/images/PL-6-Lynda-Ways-to-make-money.png" style="width:400px;"></a>
-
 
 <h4>Stories on the Internet</h4>
 
