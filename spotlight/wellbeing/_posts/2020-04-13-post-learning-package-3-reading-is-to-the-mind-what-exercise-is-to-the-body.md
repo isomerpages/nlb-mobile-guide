@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 3 - Reading Is to the Mind What Exercise Is to the Body'
+title: Learning Package 3 - Reading Is to the Mind What Exercise Is to the Body
 date: 2020-04-13T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-04-13-reading-is-to-the-mind-what-exercise-is-to-the-body
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm and feel at peace.
 image: /images/PL-3-video-banner-image.png
-
 ---
-
 <img src="/images/PL-3-video-banner-image.png">
 <p><q>Reading is to the mind what exercise is to the body.</q> - Richard Steele</p>
 <p>It is important to take care of your mental health and wellbeing as we adapt to a new normal.</p> 
@@ -23,18 +22,6 @@ Source: <a href="https://www.youtube.com/watch?v=w6T02g5hnT4" target="_blank">Wh
 Now more than ever, it is important to practice self-compassion – to be less critical of ourselves. Here’s an exercise to jumpstart your journey. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/-kfUE41-JFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=-kfUE41-JFw" target="_blank">Self-Compassion</a> (2016, February 1). The School of Life. 
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/mindful-work-surface/2802031/3508187-4.html?org=nlb.gov.sg" target="_blank">The Mindful Workday</a></strong><br/>
-What does a mindful workday look like? From creating a healthy working environment to communicating better with your boss, learn how you can incorporate mindfulness to keep you connected, grounded and focused at work.</p>
-<a href="https://www.lynda.com/Business-tutorials/mindful-work-surface/2802031/3508187-4.html?org=nlb.gov.sg"><img src="/images/PL-3-lynda-the-mindful-workday.jpg" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Mindful-Meditations-Work-Life/2212156-2.html?org=nlb.gov.sg" target="_blank">Mindful Meditations for Work and Life</a></strong><br/>
-Simple meditation exercises that you can incorporate into your workday.</p>
-<a href="https://www.lynda.com/Business-tutorials/Mindful-Meditations-Work-Life/2212156-2.html?org=nlb.gov.sg"><img src="/images/PL-3-lynda-mindful-meditations.png" style="width:400px;"></a>
-
 
 <h4>eBooks</h4>
 
@@ -101,6 +88,3 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=3dbc87c3
     </td>
   </tr>
   </table>
-
-
-
