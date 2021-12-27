@@ -1,12 +1,13 @@
 ---
-title: 'SkillsFuture Month 3-Looking to Recruit'
+title: SkillsFuture Month 3-Looking to Recruit
 date: 2020-07-23T00:00:00.000Z
 permalink: /spotlight/skillsfuture-month-2020/looking-to-recruit
-description: 'SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)'
+description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has
+  curated learning packages with books, articles and videos, on the areas of job
+  search, upskilling, recruitment, and business transformation. Get a head start
+  on your learning journey with NLB! Happy reading :)
 image: /images/FS-futureskillsmonth2020.jpg
-
 ---
-
 <img src="/images/FS-futureskillsmonth2020.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
@@ -187,22 +188,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=6C36A4D3
 <p>Technology is a useful enabler in managing various aspects of human resource functions like analysing employee performance and storing files. Using technology effectively will also result in greater efficiency and better use of time. Read on to find out more about how technology impacts HR practices.</p>
 
 
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg" target="_blank">Strategic Human Resources</a></strong></p>
-<p>There are various ways to develop a strategic focus when it comes to HR planning. One way is by guiding leadership on how to build an effective structure and culture. These include linking HR activities into your organisation’s vision and mission, engaging employees, and job analysis.</p>
-<a href="https://www.lynda.com/Business-tutorials/Develop-strategic-focus-your-talent/434461/2265525-4.html?org=nlb.gov.sg"><img src="/images/FS-3A-Lynda-Strategic-HR.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg" target="_blank"> Social Recruiting for Recruiters </a></strong></p>
-<p>Learn the best ways to use social channels in the area of recruitment including how to find and approach ideal candidates and collaborating with hiring managers. A valuable resource to add to your toolkit with important steps on setting realistic expectations, having profiles that stand out, keeping promises and building strong networks to reach out to more candidates.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/622063/713199-4.html?org=nlb.gov.sg"><img src="/images/FS-3B-Lynda-Social-recruiting.png" style="width:400px;"></a>
-
-<p><strong>3. <a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg" target="_blank">Talent Sourcing</a></strong></p>
-<p>This video provides viewers with a sound strategy on effective recruitment, which requires proactive searching to identify and attract top talent even before there is a position open. It explains how technologies like big data, social media and tools like LinkedIn Recruiter help in recruitment to reap the best returns on investments.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Welcome/471664/544065-4.html?org=nlb.gov.sg"><img src="/images/FS-3C-Lynda-talent-sourcing.png" style="width:400px;"></a>
-
-
 <h4>Videos</h4>
 <h5>1. HR Basics: Recruitment by Gregg Learning</h5>
 <p>HR professionals are aware of the need to attract candidates who best fit the brand of their company. To do this, first the company should be able to assess, define, communicate and evaluate their own unique brand. Next comes other important methods including recruitment processes and recruitment methods. Learn the basics in this short video.</p>
@@ -225,5 +210,3 @@ Source: <a href="https://www.youtube.com/watch?v=B4EqhvSuv4o" target="_blank">Wh
 <p>Find out how new technologies are helping HR practitioners to manage dynamic teams. The ideas shared in this video illustrate how technology can be used to manage teams of different sizes, and increase efficiency at work.</p>
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/e2iMASyAF6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=e2iMASyAF6k " target="_blank">Awesome New Technologies for HR: ADP Next Gen HCM </a> (2019, Nov 21). ADP Careers.
-
-
