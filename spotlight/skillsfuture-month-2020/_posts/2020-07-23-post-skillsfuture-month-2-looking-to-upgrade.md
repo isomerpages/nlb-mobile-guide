@@ -1,12 +1,13 @@
 ---
-title: 'SkillsFuture Month 2-Looking to Upgrade'
+title: SkillsFuture Month 2-Looking to Upgrade
 date: 2020-07-23T00:00:00.000Z
 permalink: /spotlight/skillsfuture-month-2020/looking-to-upgrade
-description: 'SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading :)'
+description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has
+  curated learning packages with books, articles and videos, on the areas of job
+  search, upskilling, recruitment, and business transformation. Get a head start
+  on your learning journey with NLB! Happy reading :)
 image: /images/FS-futureskillsmonth2020.jpg
-
 ---
-
 <img src="/images/FS-futureskillsmonth2020.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
@@ -175,29 +176,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=ACF0D001
 <p>Developed from her encounters with fellow entrepreneurs from all around the world, entrepreneur Nina Angelovska shares the eight ‘P’ traits which she believes are what set successful entrepreneurs apart from others.</p>
 
 
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg" target="_blank">Data visualization</a></strong><br/>
-Amy Balliett shares some of the commonly seen mistakes in data visualization and how you can rectify them in minutes.</p>
-<a href="https://www.lynda.com/Graphic-Design-tutorials/Data-visualization/738879/765966-4.html?org=nlb.gov.sg"><img src="/images/FS-2A-lynda-data_visualization.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg" target="_blank">Instagram Marketing Opportunities</a></strong><br/>
-Instagram marketing is one of the most commonly seen digital marketing tools in Singapore. Why is it popular? Is it effective? This short video will explain Instagram marketing’s impact and its functionality.</p>
-<a href="https://www.lynda.com/Instagram-tutorials/Instagram-marketing-opportunities/2823346/2319020-4.html?org=nlb.gov.sg"><img src="/images/FS-2B-lynda-Instagram.jpg" style="width:400px;"></a>
-
-<p><strong>3. <a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg" target="_blank">Mindfulness Practices</a></strong><br/>
-Explore mindfulness practices with executive coach Henna Inam, as she guides viewers on techniques for expanding emotional intelligence, growing self-confidence, dealing with difficult people, managing change, and confronting fears.</p>
-<a href="https://www.lynda.com/Business-tutorials/Mindfulness-Practices/794115-2.html?org=nlb.gov.sg"><img src="/images/FS-2C-lynda-mindful.jpg" style="width:400px;"></a>
-
-<p><strong>4. <a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg" target="_blank">Entrepreneurship Foundations</a></strong><br/>
-Build up the foundations of entrepreneurship with Kim Kaupe, as she provides a set of tools to assess potential business opportunities, gives tips on how to start and maintain your own company, and identify the elements that will contribute to your company’s success.</p>
-<a href="https://www.lynda.com/Business-tutorials/Entrepreneurship-Foundations/2804653-2.html?org=nlb.gov.sg"><img src="/images/FS-2D-lynda-entrepreneur.png" style="width:400px;"></a>
-
-<p><strong>5. <a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg" target="_blank">Small Business Secrets</a></strong><br/>
-Learn the secrets of small business success with coach Dave Crenshaw, who will cover topics from determining your most valuable product or service, to managing processes and creating culture.</p>
-<a href="https://www.lynda.com/Business-Skills-tutorials/Small-Business-Secrets/156584-2.html?org=nlb.gov.sg"><img src="/images/FS-2E-lynda-smallbiz.png" style="width:400px;"></a>
-
 <h4>Videos</h4>
 <h5>1. What REALLY is Data Science? Told by a Data Scientist by Joma</h5>
 What is Data Science? Is it all about AI? 
@@ -218,4 +196,4 @@ Source: <a href="https://www.youtube.com/watch?v=xy3uAzwM1M8" target="_blank">Pa
 <h5>4. The Power of an Entrepreneurial Mindset by Bill Roche</h5>
 Bill Roche shares real-life stories of how his students created their own business ventures, showcasing abilities to take charge of their learning (with the freedom to make mistakes), and developing entrepreneurial skills. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ihs4VFZWwn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=Ihs4VFZWwn4" target="_blank">The Power of an Entrepreneurial Mindset </a> (2018, March 21). TEDx Talks. 
+Source: <a href="https://www.youtube.com/watch?v=Ihs4VFZWwn4" target="_blank">The Power of an Entrepreneurial Mindset </a> (2018, March 21). TEDx Talks.
