@@ -98,12 +98,6 @@ Call Number: Young Adult Lending Singapore 741.595957 CHU. Epigram Books, 2012.<
 Set in Singapore, during the Hungry Ghost Month, The Girl Under the Bed is a spooky and thrilling tale about Jingli, who is in Secondary One. She finds a ghost sleeping under her bed and they become friends. With another boy, Weizhong, who is also a medium, they set out to find out more about Xiaomei and why she appeared to Jingli.<br>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14493659">Find the book at the libraries</a>. 
 
-<h5>Giant days. Volume 1, Not on the Test Edition, Fall Semester</h5>
-<i>John Allison</i><br>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089"><img style="width:300px; text-align:left;" src="/images/FR-1-giant-days-autumn.jpg"></a><br>
-Call Number: English 741.5973 ALL -[CMX]. Boom! Studios, 2017.<br> 
-Esther, Susan and Daisy meet at university and become fast friends. Read their often humorous adventures as they navigate their time at university. <br>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=203946089">Find the book at the libraries</a>. 
 
 <h5>Persepolis</h5>
 <i>Marjane Satrapi</i><br>
@@ -111,13 +105,7 @@ Esther, Susan and Daisy meet at university and become fast friends. Read their o
 Call Number: English 741.5944 SAT -[ART]. Pantheon Books, 2003.<br> 
 Persepolis, The story of a childhood, illustrates in comic form the author’s life from six to fourteen years old in Tehran during the Islamic Revolution. With the turmoil in the larger society, her family’s love is much needed to get her through the days.<br>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123201">Find the book at the libraries</a>. 
-
-<h5>Persepolis 2</h5>
-<i>Marjane Satrapi</i><br>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12445475"><img style="width:300px; text-align:left;" src="/images/FR-1-Persepolis-book-2.jpg"></a><br>
-Call Number: English 741.5944 SAT -[ART]. Pantheon Books, 2004.<br> 
-The second graphic novel in Marjane Satrapi’s memoirs depicts her four years of high school in Vienna away from her family, followed by four years back in Iran growing into adulthood.<br>
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12445475">Find the book at the libraries</a>. 
+ 
 
 <h5>Lumberjanes. Beware the Kitten Holy. [Volume One]</h5>
 <i>Noelle Stevenson</i><br>
