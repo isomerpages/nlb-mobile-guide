@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 8 - The Quieter You Become, the More You Can Hear'
+title: Learning Package 8 - The Quieter You Become, the More You Can Hear
 date: 2020-05-18T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-05-18-The-quieter-you-become-the-more-you-can-hear
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm and feel at peace.'
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm and feel at peace.
 image: /images/PL-8-Intro-image.jpg
-
 ---
-
 <img src="/images/PL-8-Intro-image.jpg">
 <p><q>The quieter you become, the more you can hear.</q> - Ram Dass</p>
 <p>How do you stay calm and relaxed in a world that is seemingly not? Make yourself a cup of coffee, find a cosy corner in your house and get inspired by these recommended videos, articles and eReads.  
@@ -22,18 +21,6 @@ Source: <a href="https://www.youtube.com/watch?v=JTW1kSxeFy0" target="_blank">AS
 Feeling stressed? Just breathe. Here are some easy breathing techniques to get you started.  
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/CQjGqtH-2YI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=CQjGqtH-2YI" target="_blank">How to Reduce Stress with the 2:1 Breathing Technique</a> (2019, April 3). Tufts Medical Centre. 
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Identifying-triggers/2810626/2236627-4.html?org=nlb.gov.sg" target="_blank">Managing Stress with Todd Dewett</a></strong><br/>
-Check out these simple and practical tips on managing stress by Todd Dewett.</p>
-<a href="https://www.lynda.com/Business-tutorials/Identifying-triggers/2810626/2236627-4.html?org=nlb.gov.sg"><img src="/images/PL-8-Lyndalibrary-managing-stress.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/How-Slow-Down-More-Productive/2822203-2.html?org=nlb.gov.sg" target="_blank">Slowing Down in a Fast World</a></strong><br/>
-Sometimes, we need to slow down to be more productive.</p>
-<a href="https://www.lynda.com/Business-tutorials/How-Slow-Down-More-Productive/2822203-2.html?org=nlb.gov.sg"><img src="/images/PL-8-Lyndalibrary-Slowing-down-in-a-fast-world.png" style="width:400px;"></a>
-
 
 <h4>Stories on the Internet</h4>
 

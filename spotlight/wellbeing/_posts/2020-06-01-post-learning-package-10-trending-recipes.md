@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 10 - Trending Recipes'
+title: Learning Package 10 - Trending Recipes
 date: 2020-06-01T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-06-01-trending-recipes
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm.'
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm.
 image: /images/PL-10-banner-no-text-raw2.jpg
-
 ---
-
 <img src="/images/PL-10-banner-no-text-raw2.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/burger-and-vegetables-placed-on-brown-wood-surface-1565982/" target="_blank">https://www.pexels.com/photo/burger-and-vegetables-placed-on-brown-wood-surface-1565982/</a></p>
 <p><q>Eating and reading are two pleasures that combine admirably.</q> - C.S. Lewis.</p>
@@ -22,18 +21,6 @@ Source: <a href="https://youtu.be/zViTlqmE-UI" target="_blank">We Tried Making S
 Going bananas? Why not make a loaf of banana bread? All it takes is 40 minutes of baking time. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/vPUuY-bEK2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=vPUuY-bEK2w" target="_blank">Easy Banana Bread Recipe</a> (2020, January 10). Cooking with Rila. 
-
-<h4>eLearning Videos From Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg" target="_blank">What Makes a Good Team, Dividing up the Work</a></strong><br/>
-A great chef needs to know how to assign tasks to his crew in the kitchen. Learn about the ideal roles for a successful team.</p>
-<a href="https://www.lynda.com/Business-tutorials/Dividing-up-work/2823195/2302163-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo1-team.jpg" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg" target="_blank">The Ingredients of Good Routines: Identifying Routine Tasks</a></strong><br/>
-Cooking is a routine everyday task. Learn some steps to add routines into your life so you can get more done after preparing your meals.</p>
-<a href="https://www.lynda.com/Business-tutorials/Identifying-routine-tasks/2825479/2274101-4.html?org=nlb.gov.sg"><img src="/images/PL-10-Lyndavideo2-routines.jpg" style="width:400px;"></a>
-
 
 <h4>Stories on the Internet</h4>
 
@@ -110,4 +97,3 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=EFE3135B
     </td>
   </tr>
   </table>
-

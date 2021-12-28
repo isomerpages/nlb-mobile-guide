@@ -1,12 +1,13 @@
 ---
-title: 'SkillsFuture Month 1-Searching for a Job'
+title: SkillsFuture Month 1-Searching for a Job
 date: 2020-07-23T00:00:00.000Z
 permalink: /spotlight/skillsfuture-month-2020/2020-07-23-job-searching
-description: 'SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has curated learning packages with books, articles and videos, on the areas of job search, upskilling, recruitment, and business transformation. Get a head start on your learning journey with NLB! Happy reading.'
+description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has
+  curated learning packages with books, articles and videos, on the areas of job
+  search, upskilling, recruitment, and business transformation. Get a head start
+  on your learning journey with NLB! Happy reading.
 image: /images/FS-futureskillsmonth2020.jpg
-
 ---
-
 <img src="/images/FS-futureskillsmonth2020.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.skillsfuture.sg/
 " target="_blank">https://www.skillsfuture.sg/</a></p>
@@ -93,24 +94,6 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=B6CA9F41
 <i>Biron Clark.</i> Published on Career Sidekick on 20 June 2020.</h5>
 <p>Executive Recruiter Biron Clark guides readers on three best ways to finding jobs quickly and easily, and offers a few more additional tips to ease your job search process.</p>
 
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as a NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-Skills-tutorials/Job-Search-Strategies/97580-2.html?org=nlb.gov.sg" target="_blank">Job Search Strategies</a></strong><br/>
-A collection of latest job search techniques shared by a top career coach, for both online and offline platforms.</p>
-<a href=" https://www.lynda.com/Business-Skills-tutorials/Job-Search-Strategies/97580-2.html?org=nlb.gov.sg"><img src="/images/FS-1A-lynda-jobsearch.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Job-Searching-Interviewing-Negotiating-Salary/2804655-2.html?org=nlb.gov.sg" target="_blank"> Job Searching, Interviewing, and Negotiating Salary</a></strong><br/>
-A tool kit of practical tips, tricks, and insights from experts on how to equip yourself with strategies for boosting confidence, negotiation skills, and more.</p>
-<a href=" https://www.lynda.com/Business-tutorials/Job-Searching-Interviewing-Negotiating-Salary/2804655-2.html?org=nlb.gov.sg"><img src="/images/FS-1B-lynda-salary.jpg" style="width:400px;"></a>
-
-<p><strong>3. <a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times" target="_blank"> Finding a Job during Challenging Economic Times</a></strong><br/>
-Discover strategies for creating a recovery plan, cultivating resilience, and improving job search and interview skills during difficult economic times.</p>
-<i>All NLB members can enjoy <b>perpetual</b> free access to LyndaLibrary courses after logging in with myLibrary ID. Do not click on 'Try for Free' or 'Start my Free Month'. Watch our video below for a step-by-step guide on how to sign in.</i>
-<p>
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/MAUe9l6nSZM?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</p>
-<a href="https://www.lynda.com/learning-paths/Business/finding-a-job-during-challenging-economic-times"><img src="/images/FS-1C-lynda-challenging.png" style="width:400px;"></a>
 
 <h4>Videos</h4>
 <h5>1. Burn Your Old Resume, the Future of Work Is Here by Kerri Twigg</h5>
@@ -127,4 +110,3 @@ Source: <a href="https://www.youtube.com/watch?v=guXxy8LH2QM" target="_blank"> L
 Careers consultant and speaker, Aimee Bateman, shares her six best tips on how to remain motivated during your job search, a period which can be very stressful and discouraging for many people. 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=CcNQUbVOYbU" target="_blank"> How to stay motivated while job hunting</a> (2014, December 5). Careercake.
-

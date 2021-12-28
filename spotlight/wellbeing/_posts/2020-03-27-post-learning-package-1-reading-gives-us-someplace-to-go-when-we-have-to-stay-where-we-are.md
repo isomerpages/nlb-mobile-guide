@@ -1,12 +1,12 @@
 ---
-title: 'Learning Package 1 - Reading Gives Us Someplace to Go When We Have to Stay Where We Are'
+title: Learning Package 1 - Reading Gives Us Someplace to Go When We Have to
+  Stay Where We Are
 date: 2020-03-27T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-03-27-reading-gives-us-someplace-to-go
-description: 'What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace.'
+description: What we read feeds our soul and this list of eBooks, articles and
+  videos have suggestions to help you stay calm and feel at peace.
 image: /images/PL-1-intro.jpg
-
 ---
-
 <img src="/images/PL-1-intro.jpg">
 <p><q>Reading gives us someplace to go when we have to stay where we are.</q> - Mason Cooley</p>
 <p>What we read feeds our soul and this list of eBooks, articles and videos have suggestions to help you stay calm and feel at peace. Learn from the experiences and insights of others and get tips that we hope you can apply to your life.</p>
@@ -74,15 +74,3 @@ Source: <a href="https://www.youtube.com/watch?v=iCvmsMzlF7o" target="_blank">Th
 Cooped up at home?<br/>
 Among all professions, perhaps it is the astronauts who know best how to handle isolation: here are tips from ex-NASA astronouts Scott Kelly and Peggy Whitson, and retired Canadian astronaut Chris Hadfield.<br/>
 <a href="https://www.space.com/astronaut-tips-for-handling-isolation-coronavirus.html" target="_blank">Visit this website</a> to find out how they manage well in a small space when going outside is not as easy as opening the front door of your home.</p>
-
-<h4>eLearning videos from Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html" target="_blank">De-stress: Meditation and Movement for Stress Management: Out of Mind</a></strong><br/>
-A set of calming exercises that can be done anytime at your work desk or home office all while seated down.</p>
-<a href="https://www.lynda.com/Business-tutorials/Out-your-mind/2803040/3508312-4.html"><img src="/images/PL-1-Lynda-out-of.png" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html" target="_blank">Health and Wellness When You Work Remotely</a></strong><br/>
-To be productive when working remotely, you have to take care of yourself.</p>
-<a href="https://www.lynda.com/Business-tutorials/Health-wellness/743143/807643-4.html"><img src="/images/PL-1-Lynda-work-remotely.png" style="width:400px;"></a>
-

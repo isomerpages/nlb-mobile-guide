@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 13 - Living on a Budget'
+title: Learning Package 13 - Living on a Budget
 date: 2020-06-22T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-06-22-living-on-a-budget
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm'
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm
 image: /images/PL-13-Intro-Image-Charts.jpg
-
 ---
-
 <img src="/images/PL-13-Intro-Image-Charts.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="https://www.pexels.com/photo/background-board-chart-data-590041/" target="_blank">http://pexels.com/photo/background-board-chart-data-590041/</a></p>
 
@@ -23,17 +22,6 @@ Source: <a href="https://www.youtube.com/watch?v=s0H1jxF5TWQ" target="_blank"> 6
 How can you trick your brain into saving more and spending less? Behavioural scientist Wendy De La Rosa offers three psychological ways to do so.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/DOisAG9yoNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=DOisAG9yoNk" target="_blank">3 Psychological Tricks to Help You Save Money </a> (2019, February 9). TED.
-
-<h4>eLearning Videos From Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Finance-Accounting-tutorials/5-Personal-Finance-Tips/368914-2.html?org=nlb.gov.sg" target="_blank">5 Personal Finance Tips</a></strong><br/>
-Learn classic, time-tested tips to manage your spending, such as how to create good budgets and pick up telltale signs of bad investments.</p>
-<a href="https://www.lynda.com/Finance-Accounting-tutorials/5-Personal-Finance-Tips/368914-2.html?org=nlb.gov.sg"><img src="/images/PL-13-Lyndalibrary-tips.jpg" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Business-tutorials/Understanding-your-relationship-money/373523/2330670-4.html?org=nlb.gov.sg" target="_blank">Financial Wellness: Managing Personal Cash Flow</a></strong><br/>
-Financial therapist Amanda Clayman shares the different ways you can plan your financial habits and manage your cash flow.</p>
-<a href="https://www.lynda.com/Business-tutorials/Understanding-your-relationship-money/373523/2330670-4.html?org=nlb.gov.sg"><img src="/images/PL-13-Lyndalibrary-rs.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
@@ -109,4 +97,3 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=BD3FFA9A
     </td>
   </tr>
   </table>
-

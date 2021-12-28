@@ -1,12 +1,11 @@
 ---
-title: 'Learning Package 11 - Improving Your Social Media Game'
+title: Learning Package 11 - Improving Your Social Media Game
 date: 2020-06-08T00:00:00.000Z
 permalink: /spotlight/wellbeing/2020-06-08-improving-your-social-media-game
-description: 'What we read feeds our soul and this list of eBooks and videos have suggestions to help you stay calm'
+description: What we read feeds our soul and this list of eBooks and videos have
+  suggestions to help you stay calm
 image: /images/PL-11-Intro-image.jpg
-
 ---
-
 <img src="/images/PL-11-Intro-image.jpg">
 <p style="font-size:8pt;">Photo credit: Retrieved from <a href="http://pexels.com/photo/white-smartphone-1851415/" target="_blank">http://pexels.com/photo/white-smartphone-1851415/</a></p>
 
@@ -23,17 +22,6 @@ Source: <a href="https://www.youtube.com/watch?v=sQaGlGHDyF8" target="_blank"> L
 In this video, Neil Patel explains seven marketing trends that will help users dominate social media in 2020.
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/10IuyBkrB7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=10IuyBkrB7o" target="_blank">7 Marketing Trends to Help you DOMINATE Social Media in 2020 </a> (2020, March 9). Neil Patel.
-
-<h4>eLearning Videos From Lynda Library</h4>
-<p>LyndaLibrary by LinkedIn is an eLearning platform with video tutorials by industry experts. Learn software, creative, and business skills to achieve your personal and professional goals. You can sign in to LyndaLibrary as an NLB library member to access its collection - <a href="/get-started-with/lynda/">find out how</a>.</p>
-
-<p><strong>1. <a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg" target="_blank">What is Social Media Marketing?</a></strong><br/>
-Enjoy engaging with your friends and family on Instagram and Facebook, but keen to explore further? Learn the basics in this course all about social media marketing.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/What-social-media-marketing/2825133/2824398-4.html?org=nlb.gov.sg"><img src="/images/PL-11-Lyndalibrary-what-is.jpg" style="width:400px;"></a>
-
-<p><strong>2. <a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg" target="_blank">Make Social Media More Effective for Your Business</a></strong><br/>
-These series of videos from digital communication strategist, Martin Waxman, teaches viewers how to analyse what’s working and what’s not with their current social media marketing strategy and also reviews the latest developments on various platforms for viewers to better understand how to position their brand correctly.</p>
-<a href="https://www.lynda.com/Marketing-tutorials/Make-social-media-more-effective-your-business/2819186/2293752-4.html?org=nlb.gov.sg"><img src="/images/PL-11-LyndaLibrary-effective.jpg" style="width:400px;"></a>
 
 <h4>Stories on the Internet</h4>
 
@@ -114,4 +102,3 @@ Borrow the eBook <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=035ce534
     </td>
   </tr>
   </table>
-
