@@ -3,7 +3,6 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
 ---
-
 <h2> A username that lets you borrow ebooks, access digital resources, check library accounts and more! </h2>
 <p><b>Forgot your username or password?</b> <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
 <p><b>Not yet a library member? </b> Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
@@ -31,7 +30,7 @@ title: Library Membership and myLibrary username
 		<label for="acc1">Can I sign up for library membership online?</label>
 		<div class="new-accordion-content">
 			<p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password.</p>
-			<p>Do note that:</p>
+			<p>Please do note that:</p>
 			<ul>
 				<li>If you are a Singaporean/PR who recently signed up to be a new PAssion card member, you do not have to sign up for library membership online (see related question below).</li>
 				<li>If you are a foreigner who recently signed up to be a new PAssion card member, you are eligible for a waiver on the registration fee ($10.50). The annual membership fee ($42.80) will still be chargeable. To sign up and enjoy the waiver, please approach a staff member at any library. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</li>
