@@ -37,7 +37,8 @@ title: eLearning
         <p>NLB’s subscription is to Udemy Business. The main difference between Udemy Business vs the Udemy.com (individual subscription) is that Udemy Business is selectively curated by Udemy’s curation team with selection criteria such as high learner satisfaction, instructor reputation, and market demand i.e. courses with high ratings in the Udemy.com Marketplace. </p>
 
 <p>Courses that do not meet the Udemy curation team’s selection criteria will not be included in NLB’s Udemy Business.
-    </p></div>
+    </p>
+</div>
     
 <input type="checkbox" id="acc3">
         <label for="acc3">Why is there an age restriction of at least 13 years of age to use Udemy Business?</label>
@@ -56,7 +57,7 @@ title: eLearning
 
 	<p>Refer to the <a href="https://eresources.nlb.gov.sg/main/Open/FAQ/11">step-by-step guide</a> located under the Help resources on NLB’s eResources website.
 		
-	</p>
+	</p></div> 
 	
 <input type="checkbox" id="acc5">
         <label for="acc5">What can I expect as a first-time user of Udemy Business? </label>
@@ -105,6 +106,27 @@ title: eLearning
 
 <li>      The Udemy Business Android mobile app is not supported on Chromebooks or Chrome OS devices.</li>
    </p> 
+</div>  
+
+<div class="new-accordion" id="eReads-get-started">          
+<input type="checkbox" id="acc8">
+        <label for="acc8">What are the features available on the Udemy Business mobile app? </label>
+<div class="new-accordion-content">
+        <p>The Udemy Business mobile app lets users:</p>
+<li>	Stream course videos, listen to audio lectures and view course materials</li>
+<li>    Discover and search for relevant content</li>
+<li>    View archived or favorite courses </li>
+<li>	Optimise learning with the ability to take quizzes or practice exams on your phone</li>
+<li>	Download and watch lessons offline</li>
+<li>	Adjust download Quality: Select the video resolution for the offline content and manage the file size to be downloaded</li>
+<li>	Set your own pace and choose different speed options</li>
+<li>	Interact with instructors through our Q&A feature</li>
+<li>	Use Mini Player: Multi-task while learning</li>
+<li>	Apply Background Player: Listen to course lectures in the background</li>
+<li>	Download certificates of completion. 
+        (For instructions on how to download certificates of completion, please refer to # 13.)</li>
+
+</p> 
 </div>  
 
 </div><!--close FAQ-section-->
