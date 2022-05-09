@@ -441,7 +441,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <label for="acc30">What happens if the QR code has expired?</label>
 <div class="new-accordion-content">
       <p>If the patron scans the QR code after it has expired, an invalid QR code message will be displayed on the patron’s screen. There will be a Back to Reservations button for the patron to go back to the previous screen that lists all the items which are ready for collection as well as the Open Locker button. The patron can tap on this button to generate the QR code again.</p>
-    </div></div></div></div></div>
+
 	
 <div id="points" class="new-accordion"><p>
 </p><p></p><h4>Reading Challenges, Points and Rewards</h4><p></p>
