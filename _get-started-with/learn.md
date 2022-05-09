@@ -56,7 +56,7 @@ title: eLearning
 
 	<p>Refer to the <a href="https://eresources.nlb.gov.sg/main/Open/FAQ/11">step-by-step guide</a> located under the Help resources on NLB’s eResources website.
 		
-	</p></div> 
+	</p>
 	
 <input type="checkbox" id="acc5">
         <label for="acc5">What can I expect as a first-time user of Udemy Business? </label>
