@@ -136,13 +136,13 @@ title: eLearning
 
 	<p>	Minimum System Requirements</p>
 	<li>	The latest <a href="http://www.google.com/intl/en-US/chrome/browser/">Chrome</a>, <a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a>, <a href="http://www.apple.com/safari/">Safari</a>, <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge</a> or <a href="https://www.opera.com/">Opera</a> for desktop/laptop</li>
-	<li>	A broadband connection with a minimum speed of 5Mbit or 800kbps</li>
+	<li>	A broadband connection with a minimum speed of 5Mbit or 800kbps</li><br>
 
 	<p>PC Specific Requirements</p>
 	<li>	Platform: Windows 8.1 or higher with the latest updates installed</li>
 	<li>	RAM: 4GB or more</li>
 	<li>	Video: Graphics output capability</li>
-	<li>	Sound: Sound output capability</li>
+	<li>	Sound: Sound output capability</li><br>
 
 	<p>Mac Specific Requirements</p>
 	<li>	Platform: Mac OS X 10.12 or higher with the latest updates installed
@@ -156,5 +156,47 @@ title: eLearning
 
 <p>For latest updates on minimum system requirements, please refer to the link <a href="https://business-support.udemy.com/hc/en-us/articles/115005533888-System-Requirements">here</a>.
 	</p></div> 
+
+<input type="checkbox" name="acc" id="acc10">
+        <label for="acc10">Will I incur any cost when I access the courses and video tutorials on Udemy Business?</label>
+<div class="new-accordion-content">
+        <p>No. Library members will not be charged for the online training videos provided by NLB’s subscription to Udemy Business. (Do note that if you download the video tutorials using your mobile data plan, you may incur charges from your telco for the data used.) </p>
+</div>
+
+<input type="checkbox" name="acc" id="acc11">
+        <label for="acc11">Is there a limit to the number of courses I can access?</label>
+<div class="new-accordion-content">
+        <p>There is no limit to the number of online training courses that users can access and download from Udemy Business. </p>
+</div>
+
+<input type="checkbox" name="acc" id="acc12">
+        <label for="acc12">Is there a limit to the number of concurrent access that NLB subscribed to?</label>
+<div class="new-accordion-content">
+        <p>No. NLB’s subscription to Udemy Business is for unlimited user concurrent access. </p>
+</div>
+
+<input type="checkbox" name="acc" id="acc13">
+        <label for="acc13">How do I save, download and view learning videos offline?</label>
+<div class="new-accordion-content">
+        <p>Entire courses, course sections, and course lectures can be saved for offline viewing via Udemy Business mobile app. </p>
+
+<p>Please note:</p>
+<li>	Practice activities like quizzes and practice tests, etc. cannot be downloaded and completed offline.</li>
+<li>	Course content that has been downloaded for offline viewing on the Udemy Business mobile app will expire after 30 days. To regain access to the downloaded content, simply connect your mobile device to the internet.<li>
+
+	<p>More information available <a href="https://business-support.udemy.com/hc/en-us/articles/115005536308-Save-Courses-for-Offline-Viewing">here</a>. </p>
+</p>
+</div> 
+
+
+<input type="checkbox" name="acc" id="acc144">
+        <label for="acc14">Can I download a certificate of completion with my name on it?</label>
+<div class="new-accordion-content">
+        <p>Yes. All courses in the Udemy Business content collection offer a Udemy certificate of completion, which you can access after you have completed all of the curriculum items of a course.  </p>
+	<li>	Learn  <a href="https://business-support.udemy.com/hc/articles/115005370507-How-to-Download-Your-Certificate-of-Completion">how to download your certificate of completion on a browser</a>.</li>
+	<li>	Learn <a href="https://business-support.udemy.com/hc/en-us/articles/4404723752855-How-to-Download-Your-Certificate-of-Completion-on-The-Udemy-Business-Mobile-App">how to download your certificate of completion on the Udemy Business mobile app</a>.</li>
+ </p>
+</p>
+</div> 
 
 </div><!--close FAQ-section-->
