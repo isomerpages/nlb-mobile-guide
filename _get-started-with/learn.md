@@ -129,4 +129,32 @@ title: eLearning
 </p> 
 </div>  
 
+<input type="checkbox" id="acc9">
+        <label for="acc9">What are the minimum system requirements for Udemy Business?</label>
+<div class="new-accordion-content">
+	<p>You can access Udemy Business from various devices and platforms, on both PC and Mac desktops / laptops, as well as Android and iOS mobile devices. The system requirements are as follows:</p>
+
+	<p>	Minimum System Requirements</p>
+	<li>	The latest <a href="http://www.google.com/intl/en-US/chrome/browser/">Chrome</a>, <a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a>, <a href="http://www.apple.com/safari/">Safari</a>, <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge</a> or <a href="https://www.opera.com/">Opera</a> for desktop/laptop</li>
+	<li>	A broadband connection with a minimum speed of 5Mbit or 800kbps</li>
+
+	<p>PC Specific Requirements</p>
+	<li>	Platform: Windows 8.1 or higher with the latest updates installed</li>
+	<li>	RAM: 4GB or more</li>
+	<li>	Video: Graphics output capability</li>
+	<li>	Sound: Sound output capability</li>
+
+	<p>Mac Specific Requirements</p>
+	<li>	Platform: Mac OS X 10.12 or higher with the latest updates installed
+	<li>	RAM: 4GB or more
+	<li>	Video: Graphics output capability</li>
+	<li>	Sound: Sound output capability</li>
+
+	<p>Mobile Requirements</p>	
+	<li>	iOS 13.0 and above </li>
+	<li>	Android 6.0 and above </li>
+
+<p>For latest updates on minimum system requirements, please refer to the link <a href="https://business-support.udemy.com/hc/en-us/articles/115005533888-System-Requirements">here</a>.
+	</p></div> 
+
 </div><!--close FAQ-section-->
