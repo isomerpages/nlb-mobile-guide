@@ -43,7 +43,7 @@ title: eLearning
         <label for="acc3">Why is there an age restriction of at least 13 years of age to use Udemy Business?</label>
 <div class="new-accordion-content">
 	<p>This is in accordance to Udemy’s terms and conditions of use. 
-</div> 
+	</p></div> 
 	
 <input type="checkbox" id="acc4">
         <label for="acc4">Do I need a myLibrary username and/or password to access Udemy Business?</label>
