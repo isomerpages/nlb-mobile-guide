@@ -28,7 +28,7 @@ title: eLearning
 
  
 
-	<p>Please note that you must be at least 13 years of age to use Udemy Business   </p> 
+	<p>Please note that you must be at least 13 years of age to use Udemy Business.</p> 
 </div>  
 
 <input type="checkbox" name="acc" id="acc2">
@@ -54,9 +54,9 @@ title: eLearning
 	
 	<p>For registration & recovery of an existing myLibrary username/password, please go to:  <a href="http://account.nlb.gov.sg/">http://account.nlb.gov.sg/</a>.<p>
 
-	<p>Refer to the <a href="https://eresources.nlb.gov.sg/main/Open/FAQ/11">step-by-step guide</a> located under the Help resources on NLB’s eResources website.</p>
-	
-        </div> 
+	<p>Refer to the <a href="https://eresources.nlb.gov.sg/main/Open/FAQ/11">step-by-step guide</a> located under the Help resources on NLB’s eResources website.
+		
+	</p></div> 
 	
 <input type="checkbox" id="acc5">
         <label for="acc5">What can I expect as a first-time user of Udemy Business? </label>
