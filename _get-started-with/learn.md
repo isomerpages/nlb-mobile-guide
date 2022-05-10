@@ -192,9 +192,9 @@ title: eLearning
         <label for="acc14">Can I download a certificate of completion with my name on it?</label>
 <div class="new-accordion-content">
         <p>Yes. All courses in the Udemy Business content collection offer a Udemy certificate of completion, which you can access after you have completed all of the curriculum items of a course.  </p>
-	<li>	Learn  <a href="https://business-support.udemy.com/hc/articles/115005370507-How-to-Download-Your-Certificate-of-Completion">how to download your certificate of completion on a browser</a>.</li>
-	<li>	Learn <a href="https://business-support.udemy.com/hc/en-us/articles/4404723752855-How-to-Download-Your-Certificate-of-Completion-on-The-Udemy-Business-Mobile-App">how to download your certificate of completion on the Udemy Business mobile app</a>.</li>
- </p>
+	<p><li>	Learn  <a href="https://business-support.udemy.com/hc/articles/115005370507-How-to-Download-Your-Certificate-of-Completion">how to download your certificate of completion on a browser</a>.</li>
+	<li>	Learn <a href="https://business-support.udemy.com/hc/en-us/articles/4404723752855-How-to-Download-Your-Certificate-of-Completion-on-The-Udemy-Business-Mobile-App">how to download your certificate of completion on the Udemy Business mobile app</a>.</li></p>
+
  
 <input type="checkbox" name="acc" id="acc15">
         <label for="acc15">Can I edit my profile information or change the name on my certificate of completion?</label>
