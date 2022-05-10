@@ -399,14 +399,13 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><strong>Step 3:</strong> The Reservations section will display the number of items to be collected. Tap on this.</p>
 <p><strong>Step 4:</strong> Tap the Collect button at the bottom of the screen. If the patron has any outstanding charges to be paid, they will need to make payment first before they can proceed.</p>
 	
-	<p><img alt="Screenshots of Reservation" src="/images/Reservation%20Collections%20Screen.png" width="200px" 
+	<p><img alt="Screenshots of Reservation" src="/images/resized.png" width="200px" 
      height="auto"></p>
 	
 <p><strong>Step 5:</strong> On the Reservations for Collection screen, the patron will see the list of reserved items that are ready for collection grouped according to the lockers in which they are placed. If the patron is at a particular library (or within 500m radius of it), the lockers of that library would be displayed at the top. Following this, the patron would see lockers from their preferred libraries. The rest are sorted in alphabetical order according to the names of the library branch and the names of the locker.</p>
 <p><strong>Step 6:</strong> When the patron arrives at the locker in the specified library branch, tap on the Open Locker button. If the item to be collected is age-restricted, the patron will have to verify their account by entering their password.</p>
 
-	<p><img alt="Screenshots of the QR Collection" src="/images/Reservation%20Collections%20QR%20Code.png" width="200" 
-     height="auto"></p>
+	<p><img alt="Screenshots of the QR Collection" src="/images/Reservation%20Collections%20QR%20Code.png" width="200" /></p>
 
 <p><strong>Step 7:</strong> Tapping on the Open Locker button will generate a QR code.</p>
 <p><strong>Step 8:</strong> Scan the QR code at the Reservation Locker scanner and the locker will open.</p>
