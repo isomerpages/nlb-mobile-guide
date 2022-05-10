@@ -53,7 +53,7 @@ title: eLearning
 
 <p>Additionally, do ensure you have added or updated your email address in your myLibrary username/account as the NLB’s Udemy Business account requires the email address for a personalised learning experience. Refer to #16 in FAQs below on how to add/update your email address.</p>
 	
-	<p>For registration & recovery of an existing myLibrary username/password, please go to:  <a href="http://account.nlb.gov.sg/">http://account.nlb.gov.sg/</a>.<p>
+	<p>For registration & recovery of an existing myLibrary username/password, please go to:  <a href="http://account.nlb.gov.sg/">http://account.nlb.gov.sg/</a>.</p>
 
 	<p>Refer to the <a href="https://eresources.nlb.gov.sg/main/Open/FAQ/11">step-by-step guide</a> located under the Help resources on NLB’s eResources website.
 		
@@ -64,7 +64,7 @@ title: eLearning
 <div class="new-accordion-content">
       	<p>If you are accessing Udemy Business for the first time, you will be asked to complete an initial onboarding. This sets up your Udemy Business profile to personalise your learning experience. </p>
 
-	</p>Refer to the <a href="https://eresources.nlb.gov.sg/main/Open/FAQ/11">step-by-step guide</a> located under the Help resources on NLB’s eResources website.
+	<p>Refer to the <a href="https://eresources.nlb.gov.sg/main/Open/FAQ/11">step-by-step guide</a> located under the Help resources on NLB’s eResources website.
    </p> 
 </div>  
 
@@ -108,10 +108,10 @@ title: eLearning
    </p> 
 </div>  
 
-<div class="new-accordion" id="eReads-get-started">          
 <input type="checkbox" id="acc8">
         <label for="acc8">What are the features available on the Udemy Business mobile app? </label>
 <div class="new-accordion-content">
+
         <p>The Udemy Business mobile app lets users:</p>
 <li>	Stream course videos, listen to audio lectures and view course materials</li>
 <li>    Discover and search for relevant content</li>
@@ -145,14 +145,14 @@ title: eLearning
 	<li>	Sound: Sound output capability</li><br>
 
 	<p>Mac Specific Requirements</p>
-	<li>	Platform: Mac OS X 10.12 or higher with the latest updates installed
-	<li>	RAM: 4GB or more
+	<li>	Platform: Mac OS X 10.12 or higher with the latest updates installed</li>
+	<li>	RAM: 4GB or more</li>
 	<li>	Video: Graphics output capability</li>
-	<li>	Sound: Sound output capability</li>
+	<li>	Sound: Sound output capability</li><br>
 
 	<p>Mobile Requirements</p>	
 	<li>	iOS 13.0 and above </li>
-	<li>	Android 6.0 and above </li>
+	<li>	Android 6.0 and above </li><br>
 
 <p>For latest updates on minimum system requirements, please refer to the link <a href="https://business-support.udemy.com/hc/en-us/articles/115005533888-System-Requirements">here</a>.
 	</p></div> 
@@ -185,7 +185,6 @@ title: eLearning
 <li>	Course content that has been downloaded for offline viewing on the Udemy Business mobile app will expire after 30 days. To regain access to the downloaded content, simply connect your mobile device to the internet.<li>
 
 	<p>More information available <a href="https://business-support.udemy.com/hc/en-us/articles/115005536308-Save-Courses-for-Offline-Viewing">here</a>. </p>
-</p>
 </div> 
 
 
@@ -203,7 +202,6 @@ title: eLearning
         <p>No. You will not be able to edit your profile information or change the name that appears on your certificate of completion on Udemy Business. The certificates of completion are generated using the name that you registered for your NLB library account.</p>
 
 <p>You will encounter the below message prompt when accessing “Edit profile”. This is an expected user experience.
-</p>
 </p>
 </div> 
 
