@@ -3,7 +3,6 @@ permalink: /get-started-with/myLibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
 ---
-
 <h2> A username that lets you borrow ebooks, access digital resources, check library accounts and more! </h2>
 <p><b>Forgot your username or password?</b> <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
 <p><b>Not yet a library member? </b> Sign up <a href="https://account.nlb.gov.sg">online</a> or at our libraries.&nbsp;</p>
@@ -97,12 +96,16 @@ title: Library Membership and myLibrary username
         </div>
 
 <input type="checkbox" id="acc8">
-        <label for="acc8">I have recently signed up for a PAssion card, which entitles me to a Partner library membership. How do I activate my library membership?</label>
+        <label for="acc8">I have recently signed up for a PAssion card which entitles me to a Partner Membership. What should I do to enjoy this membership?</label>
 	<div class="new-accordion-content">
 		<h4>For Singaporeans/PRs</h4>
-		<p>Good news! Your library membership is automatically processed, so you don't have to activate it. This will take up to 7 working days after you have received your new PAssion card. </p>
-          <p>To check that your library membership has been activated, sign in <a href="https://account.nlb.gov.sg">online</a> with your Singpass or using your NRIC number. The online service will let you know if your membership is activated and prompt you to create a myLibrary username and password. With this myLibrary username, you can instantly check your account online, <a href="/get-started-with/nlb-mobile/">read eBooks or borrow physical library items</a>, and access the resources in our digital collection.</p> 
-	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
+		<p>If you are already our Basic library member, you can upgrade your membership account online after a valid login <a href="https://www.nlb.gov.sg/mylibrary/Account/UpgradeMembership">here</a>. 
+The Partner Membership allows member to borrow up to TWENTY-FOUR (24) library items with no additional fees or charges. The expiry date of the Partner Membership will correspond to the expiry date of the PAssion Card membership. Members will continue to be library members with basic membership privileges upon expiry of their Partner Membership.
+ </p>
+          <p>For upgrade requests that are not successful via our online platform,  please seek assistance at our libraries by producing your valid PAssion card with proof of expiry. </p> 
+	<p>For non-library members, you may login with your SingPass at <a href="https://account.nlb.gov.sg/">Membership registration page</a> to register for the Partner Membership.
+
+</p>
 	<h4>For Foreigners</h4>
 	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($42.80). The registration fee ($10.50) will be waived. To sign up, please <strong>approach a staff member at any library</strong>. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
 	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
