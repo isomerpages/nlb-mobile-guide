@@ -394,37 +394,37 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <input id="acc25" type="checkbox">
 <label for="acc25">How do patrons collect their reserved items from the Reservation Locker using the NLB Mobile app?</label>
 <div class="new-accordion-content">
-      <p>Step 1: Log into NLB Mobile</p>
-<p>Step 2: Tap on Account on the menu bar at the bottom of the screen</p>
-<p>Step 3: The Reservations section will display the number of items to be collected. Tap on this.</p>
-<p>Step 4: Tap the Collect button at the bottom of the screen. If the patron has any outstanding charges to be paid, they will need to make payment first before they can proceed.</p>
+      <p><strong>Step 1:</strong> Log into NLB Mobile</p>
+<p><strong>Step 2:</strong> Tap on Account on the menu bar at the bottom of the screen</p>
+<p><strong>Step 3:</strong> The Reservations section will display the number of items to be collected. Tap on this.</p>
+<p><strong>Step 4:</strong> Tap the Collect button at the bottom of the screen. If the patron has any outstanding charges to be paid, they will need to make payment first before they can proceed.</p>
 	
 	<p><img alt="Screenshots of Reservation" src="/images/Reservation%20Collections%20Screen.png" width="400" 
      height="auto"></p>
 	
-<p>Step 5: On the Reservations for Collection screen, the patron will see the list of reserved items that are ready for collection grouped according to the lockers in which they are placed. If the patron is at a particular library (or within 500m radius of it), the lockers of that library would be displayed at the top. Following this, the patron would see lockers from their preferred libraries. The rest are sorted in alphabetical order according to the names of the library branch and the names of the locker.</p>
-<p>Step 6: When the patron arrives at the locker in the specified library branch, tap on the Open Locker button. If the item to be collected is age-restricted, the patron will have to verify their account by entering their password.</p>
+<p><strong>Step 5:</strong> On the Reservations for Collection screen, the patron will see the list of reserved items that are ready for collection grouped according to the lockers in which they are placed. If the patron is at a particular library (or within 500m radius of it), the lockers of that library would be displayed at the top. Following this, the patron would see lockers from their preferred libraries. The rest are sorted in alphabetical order according to the names of the library branch and the names of the locker.</p>
+<p><strong>Step 6:</strong> When the patron arrives at the locker in the specified library branch, tap on the Open Locker button. If the item to be collected is age-restricted, the patron will have to verify their account by entering their password.</p>
 
 	<p><img alt="Screenshots of the QR Collection" src="/images/Reservation%20Collections%20QR%20Code.png" width="400" 
      height="auto"></p>
 
-<p>Step 7: Tapping on the Open Locker button will generate a QR code.</p>
-<p>Step 8: Scan the QR code at the Reservation Locker scanner and the locker will open.</p>
-<p>Step 9: If the locker opens successfully, the patron will see a success message displayed as well as the list of items within the locker and their due date.</p>
+<p><strong>Step 7:</strong> Tapping on the Open Locker button will generate a QR code.</p>
+<p><strong>Step 8:</strong> Scan the QR code at the Reservation Locker scanner and the locker will open.</p>
+<p><strong>Step 9:</strong> If the locker opens successfully, the patron will see a success message displayed as well as the list of items within the locker and their due date.</p>
     </div>
 
 <input id="acc26" type="checkbox">
 <label for="acc26">How do patrons retrieve their reservations under Assisted Collection? For e.g. when the patron had been informed that their reserved items are too big to fit into the locker, when the locker runs out space, or in situations where staff would need to personally hand the items to patrons.</label>
 <div class="new-accordion-content">
-      <p>Step 1: Log into NLB Mobile</p>
-<p>Step 2: Tap on Account on the menu bar at the bottom of the screen</p>
-<p>Step 3: The Reservations section will display the number of items to be collected. Tap on this.</p>
-<p>Step 4: Tap the Collect button at the bottom of the screen. If the patron has any outstanding charges to be paid, they will need to make payment first before they can proceed.</p>
-<p>Step 5: On the Reservations for Collection screen, patron will see the list of reserved items that are ready for collection grouped according to the lockers in which they are placed. If the user is at a particular (or within 500m radius of it), the lockers of that library would be displayed at the top. Following this, the patron would see lockers from their preferred libraries. The rest are sorted in alphabetical order according to the names of the library branch and the names of the locker.</p>
-<p>Step 6: When the patron arrives at the locker in the specified library branch, tap on the Request Assisted Collection button.</p>
-<p>Step 7: Tapping on the Request Assisted Collection button will generate a QR code for assistance.</p>
-<p>Step 8: Scan the QR code at the Reservation Locker scanner and this will notify the staff.</p>
-<p>Step 9: The patron will be able to see the success message on their screen and staff will tend to them shortly.</p>
+      <p><strong>Step 1:</strong> Log into NLB Mobile</p>
+<p><strong>Step 2:</strong> Tap on Account on the menu bar at the bottom of the screen</p>
+<p><strong>Step 3:</strong> The Reservations section will display the number of items to be collected. Tap on this.</p>
+<p><strong>Step 4:</strong> Tap the Collect button at the bottom of the screen. If the patron has any outstanding charges to be paid, they will need to make payment first before they can proceed.</p>
+<p><strong>Step 5:</strong> On the Reservations for Collection screen, patron will see the list of reserved items that are ready for collection grouped according to the lockers in which they are placed. If the user is at a particular (or within 500m radius of it), the lockers of that library would be displayed at the top. Following this, the patron would see lockers from their preferred libraries. The rest are sorted in alphabetical order according to the names of the library branch and the names of the locker.</p>
+<p><strong>Step 6:</strong> When the patron arrives at the locker in the specified library branch, tap on the Request Assisted Collection button.</p>
+<p><strong>Step 7:</strong> Tapping on the Request Assisted Collection button will generate a QR code for assistance.</p>
+<p><strong>Step 8:</strong> Scan the QR code at the Reservation Locker scanner and this will notify the staff.</p>
+<p><strong>Step 9:</strong> The patron will be able to see the success message on their screen and staff will tend to them shortly.</p>
     </div>	
     
 <input id="acc27" type="checkbox">
