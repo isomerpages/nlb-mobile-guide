@@ -416,9 +416,9 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <label for="acc26">How do patrons retrieve their reservations under Assisted Collection?</label>
 <div class="new-accordion-content">
 	<p>Some examples may include
-		<li>When the locker runs out space,</li>
-		<li>When the patron had been informed that their reserved items are too big to fit into the locker</li>
-		<li>In situations where staff would need to personally hand the items to patrons</li>
+		<li>When the locker runs out space.</li>
+		<li>When the patron had been informed that their reserved items are too big to fit into the locker.</li>
+		<li>In situations where staff would need to personally hand the items to patrons.</li>
 	</p><br>
       <p><strong>Step 1:</strong> Log into NLB Mobile</p>
 <p><strong>Step 2:</strong> Tap on Account on the menu bar at the bottom of the screen</p>
