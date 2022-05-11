@@ -180,10 +180,10 @@ title: eLearning
 
 <p>Please note:</p>
 <li>	Practice activities like quizzes and practice tests, etc. cannot be downloaded and completed offline.</li>
-<li>	Course content that has been downloaded for offline viewing on the Udemy Business mobile app will expire after 30 days. To regain access to the downloaded content, simply connect your mobile device to the internet.<li>
+<li>	Course content that has been downloaded for offline viewing on the Udemy Business mobile app will expire after 30 days. To regain access to the downloaded content, simply connect your mobile device to the internet.</li>
 
-	<p>More information available <a href="https://business-support.udemy.com/hc/en-us/articles/115005536308-Save-Courses-for-Offline-Viewing">here</a>. </p>
-</div> 
+	<p>More information available <a href="https://business-support.udemy.com/hc/en-us/articles/115005536308-Save-Courses-for-Offline-Viewing">here</a>. 
+	</p></div> 
 
 
 <input type="checkbox" name="acc" id="acc14">
