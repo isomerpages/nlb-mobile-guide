@@ -413,7 +413,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
     </div>
 
 <input id="acc26" type="checkbox">
-<label for="acc26">How do patrons retrieve their reservations under Assisted Collection? For e.g. when the patron had been informed that their reserved items are too big to fit into the locker, when the locker runs out space, or in situations where staff would need to personally hand the items to patrons.</label>
+<label for="acc26">How do patrons retrieve their reservations under Assisted Collection?</label>
 <div class="new-accordion-content">
 	<p>Some examples include
 		<li>When the locker runs out space,</li>
