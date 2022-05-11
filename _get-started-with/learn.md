@@ -83,7 +83,7 @@ title: eLearning
 
 <p>(iv)           Learning Pods @ Yishun Public Library and library@harbourfront</p>
 
-<p>(v)            Udemy Business mobile app (Refer to #6 in FAQs below)
+<p>(v)            Udemy Business mobile app
    </p> 
 </div> 
 
@@ -105,7 +105,6 @@ title: eLearning
 <li>      The Udemy Business app is distinct from the Udemy.com app. Udemy Business accounts cannot be accessed via the Udemy.com mobile app.</li>
 
 <li>      The Udemy Business Android mobile app is not supported on Chromebooks or Chrome OS devices.</li>
-   </p> 
 </div>  
 
 <input type="checkbox" id="acc8">
@@ -124,9 +123,8 @@ title: eLearning
 <li>	Use Mini Player: Multi-task while learning</li>
 <li>	Apply Background Player: Listen to course lectures in the background</li>
 <li>	Download certificates of completion. 
-        (For instructions on how to download certificates of completion, please refer to # 13.)</li>
+        (For instructions on how to download certificates of completion, please refer below)</li>
 
-</p> 
 </div>  
 
 <input type="checkbox" id="acc9">
@@ -194,7 +192,7 @@ title: eLearning
         <p>Yes. All courses in the Udemy Business content collection offer a Udemy certificate of completion, which you can access after you have completed all of the curriculum items of a course.  </p>
 	<p><li>	Learn  <a href="https://business-support.udemy.com/hc/articles/115005370507-How-to-Download-Your-Certificate-of-Completion">how to download your certificate of completion on a browser</a>.</li>
 	<li>	Learn <a href="https://business-support.udemy.com/hc/en-us/articles/4404723752855-How-to-Download-Your-Certificate-of-Completion-on-The-Udemy-Business-Mobile-App">how to download your certificate of completion on the Udemy Business mobile app</a>.</li></p>
-
+</div>
  
 <input type="checkbox" name="acc" id="acc15">
         <label for="acc15">Can I edit my profile information or change the name on my certificate of completion?</label>
@@ -203,6 +201,63 @@ title: eLearning
 
 <p>You will encounter the below message prompt when accessing “Edit profile”. This is an expected user experience.
 </p>
+</div> 
+	
+<input type="checkbox" name="acc" id="acc16">
+        <label for="acc16">Can I update or change my email address for my NLB’s Udemy Business account using myLibrary username/account?</label>
+<div class="new-accordion-content">
+        <p>Yes. You will be able to update or change your email address for your NLB’s Udemy Business account using the below steps or as prompted. </p>
+
+<p><ol type="1">
+  <li>Login to myLibrary account via<a href="https://www.nlb.gov.sg/mylibrary/Account">https://www.nlb.gov.sg/mylibrary/Account</a></li>
+  <li>Click to edit “Email”</li>
+  <li>Click “Send OTP” to your valid email address</li>
+	<li>Enter “OTP” sent to your valid email address, and click “Verify OTP and Update Email”</li>
+	<li>You will see the below email address update success screen.</li></ol></p>
+	<p>Please note that your updated email address will be reflected for NLB services (including Udemy Business) using your myLibrary username/account. </p>
+</div> 
+
+<input type="checkbox" name="acc" id="acc17">
+        <label for="acc17">How can I unsubscribe from Udemy Notifications?</label>
+<div class="new-accordion-content">
+        <p>If you no longer wish to receive promotional email notifications from Udemy, you can unsubscribe from them by changing your <a href="https://www.udemy.com/user/edit-notifications/">notification settings here.</a>
+</p>
+
+<p>Alternatively, you can navigate to your NLB’s Udemy Business profile, “Account settings”, “Notifications” and uncheck “Personalized learning recommendations, tips to accelerate my progress and helpful reminders”. Click Save.</p>
+</div> 
+
+<input type="checkbox" name="acc" id="acc18">
+        <label for="acc18">I have a Udemy account. Can I still enjoy NLB’s subscription to Udemy Business to access training courses?</label>
+<div class="new-accordion-content">
+        <p>Yes. All NLB patrons can enjoy free access to training courses from NLB’s subscription to Udemy Business, even if they have their own personal subscriptions to Udemy. Both accounts are separate, and users are encouraged to “Log out” from their personal account before accessing Udemy Business.
+</p>
+</div> 
+
+<input type="checkbox" name="acc" id="acc19">
+        <label for="acc19">Can I suggest a new course to be added to the Udemy Business collection?</label>
+<div class="new-accordion-content">
+        <p>The Udemy Business content collection includes over 13,000 courses that are curated from the consumer marketplace (<a href="http://www.udemy.com/">(www.udemy.com)</a>. Udemy curates the most relevant and high-quality courses from the marketplace’s extensive catalog, using a number of criteria, including course ratings, user engagement and demand from Udemy’s global customers.
+</p>
+	<p>If you would like to suggest a new course be added to the Udemy Business collection, you can do so using the form under <a href="https://business-support.udemy.com/hc/requests/new?ticket_form_id=610488">Submit a course suggestion here</a>. Note that this form submits suggestions for courses to be added to the general Udemy Business collection, which is available to all Udemy Business users, not just users in NLB’s account. </p>
+	
+	<p>After you submit your recommendation, Udemy’s Content team will assess your suggestion based on a number of criteria, such as course ratings, user engagement and demand from all of our customers. The Content Team will notify you of our decision whether to approve, or deny your suggestion, within 3 - 5 weeks.</p>
+</div>  
+
+<input type="checkbox" name="acc" id="acc20">
+        <label for="acc20">What happens when I have enrolled in a Udemy Business course that is retired or set to retire?</label>
+<div class="new-accordion-content">
+        <p>Udemy is always updating the Udemy Business collection to make sure the courses are up-to-date and relevant. Therefore, Udemy do retire courses from the collection and add new courses to the collection regularly</p>
+	<p>For courses that are set to retire, you will receive Udemy notifications 3 months before the scheduled removal date. There will also be alerts shown across different areas of the Udemy Business platform, such as course pages and learning paths, as shown below.</p>
+	<p>If you have enrolled in that course at the time of retirement, you will continue to have access. However, if you unenroll from a course that has been retired, you will no longer be able to access the course. Additionally, you may also consider alternative course recommendations in the retirement alert, where available. </p>
+	<p>More information are available on <a href="https://business-support.udemy.com/hc/en-us/articles/115005650668-Retired-Courses">retired courses</a> and <a href="https://business-support.udemy.com/hc/en-us/articles/115005650648-New-Courses">new courses</a>.</p>
+</div> 
+
+<input type="checkbox" name="acc" id="acc21">
+        <label for="acc21">I am not able to log in to Udemy Business. What should I do?</label>
+<div class="new-accordion-content">
+        <p>Please email us at <a href="mailto:enquiry@nlb.gov.sg">enquiry@nlb.gov.sg</a> and provide details of the issue you face e.g. the screenshot of the issue encountered.</p>
+	<p>More help topics are available on: <a href="https://business-support.udemy.com/hc/en-us">https://business-support.udemy.com/hc/en-us</a></p>
+	
 </div> 
 
 </div><!--close FAQ-section-->
