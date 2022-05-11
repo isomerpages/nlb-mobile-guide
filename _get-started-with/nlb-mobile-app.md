@@ -415,6 +415,11 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <input id="acc26" type="checkbox">
 <label for="acc26">How do patrons retrieve their reservations under Assisted Collection? For e.g. when the patron had been informed that their reserved items are too big to fit into the locker, when the locker runs out space, or in situations where staff would need to personally hand the items to patrons.</label>
 <div class="new-accordion-content">
+	<p>Some examples include
+		<li>When the locker runs out space,</li>
+		<li>When the patron had been informed that their reserved items are too big to fit into the locker</li>
+		<li>In situations where staff would need to personally hand the items to patrons</li>
+	</p>
       <p><strong>Step 1:</strong> Log into NLB Mobile</p>
 <p><strong>Step 2:</strong> Tap on Account on the menu bar at the bottom of the screen</p>
 <p><strong>Step 3:</strong> The Reservations section will display the number of items to be collected. Tap on this.</p>
