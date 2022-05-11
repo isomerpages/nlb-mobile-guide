@@ -258,6 +258,4 @@ title: eLearning
         <p>Please email us at <a href="mailto:enquiry@nlb.gov.sg">enquiry@nlb.gov.sg</a> and provide details of the issue you face e.g. the screenshot of the issue encountered.</p>
 	<p>More help topics are available on: <a href="https://business-support.udemy.com/hc/en-us">https://business-support.udemy.com/hc/en-us</a></p>
 	
-</div> 
-
-</div><!--close FAQ-section-->
+</div> <!--close FAQ-section-->
