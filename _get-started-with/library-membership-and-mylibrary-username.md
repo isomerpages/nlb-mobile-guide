@@ -32,7 +32,7 @@ title: Library Membership and myLibrary username
 			<p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password.</p>
 			<p>Do note that:</p>
 			<ul>
-				<li>Singaporean/ PR PAssion card holders are eligible for the NLB Partner Membership and registration is available online. For more details on this, please refer <a href="/https://www.passioncard.gov.sg/passion-partners/national-library-board-partner-membership">here</a>. </li>
+				<li>Singaporean/ PR PAssion card holders are eligible for the NLB Partner Membership and registration is available online. For more details on this, please refer <a href="https://www.passioncard.gov.sg/passion-partners/national-library-board-partner-membership">here</a>. </li>
 				<li>If you are a foreigner who recently signed up to be a new PAssion card member, you are eligible for a waiver on the registration fee ($10.50). The annual membership fee ($42.80) will still be chargeable. To sign up and enjoy the waiver, please approach a staff member at any library. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</li>
 				<li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:
 				<ul>
