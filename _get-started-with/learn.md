@@ -5,7 +5,7 @@ description: How to Access Complimentary eLearning Courses using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eLearning
 ---
-<h2>LinkedIn Learning to be replaced with Udemy Business</h2>
+<h2>Access quality Udemy Business content via the NLB Mobile app</h2>
 
 <p></p>
 
