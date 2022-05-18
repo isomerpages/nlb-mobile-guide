@@ -5,21 +5,19 @@ description: How to Access Complimentary eLearning Courses using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eLearning
 ---
-<h2>LinkedIn Learning to be replaced with Udemy Business</h2>
+<h2>Start Your Learning Journey Today with Udemy Business</h2>
 
-<p></p>
-
-
-<p>Discover eBooks and audiobooks selected by NLB librarians on eReads screens.</p>  
-
-<p>Sign in with myLibraryID on the NLB Mobile app to scan and borrow eBooks conveniently using QR codes from the eReads screens.<br/><br/>Overdue fines will be a thing of the past since eBooks and audiobooks will automatically be returned on the due date.
-<br/><br/>Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
+<p>
+Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
 
 
 <div class="new-accordion" id="eReads-get-started">          
 <input type="checkbox" id="acc1">
         <label for="acc1">What is Udemy Business? </label>
 <div class="new-accordion-content">
+	
+	<p><img alt="Udemy Business" src="/images/Udemy_Biz_TM_Pos_RGB.png" width="200" height="auto"></p>
+	
       	<p>Udemy Business is an online learning platform that offers thousands of courses on key soft skills and technical topics such as Software Development, Leadership, Marketing, Sales, Programming, IT, and more. Through the National Library Board (NLB), users have access to over 13,000 courses.
 </p>
  
