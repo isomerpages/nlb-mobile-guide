@@ -5,7 +5,7 @@ description: How to Access Complimentary eLearning Courses using NLB Mobile
 image: /images/NLB-Mobile-logo-square.png
 title: eLearning
 ---
-<h2>Access quality Udemy Business content via the NLB Mobile app</h2>
+<h2>Start Your Learning Journey Today with Udemy Business</h2>
 
 <p>
 Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
