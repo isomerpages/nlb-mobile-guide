@@ -15,6 +15,10 @@ title: eLearning
 <input type="checkbox" id="acc1">
         <label for="acc1">What is Udemy Business? </label>
 <div class="new-accordion-content">
+	
+	<img src="udemybiz.png" alt="Udemy Business">
+
+	
       	<p>Udemy Business is an online learning platform that offers thousands of courses on key soft skills and technical topics such as Software Development, Leadership, Marketing, Sales, Programming, IT, and more. Through the National Library Board (NLB), users have access to over 13,000 courses.
 </p>
  
