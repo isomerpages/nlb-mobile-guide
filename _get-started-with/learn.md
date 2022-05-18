@@ -7,12 +7,7 @@ title: eLearning
 ---
 <h2>Access quality Udemy Business content via the NLB Mobile app</h2>
 
-<p></p>
-
-
-<p>Discover eBooks and audiobooks selected by NLB librarians on eReads screens.</p>  
-
-<p>Sign in with myLibraryID on the NLB Mobile app to scan and borrow eBooks conveniently using QR codes from the eReads screens.<br/><br/>Overdue fines will be a thing of the past since eBooks and audiobooks will automatically be returned on the due date.
+<p>
 <br/><br/>Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
 
 
