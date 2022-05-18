@@ -8,7 +8,7 @@ title: eLearning
 <h2>Access quality Udemy Business content via the NLB Mobile app</h2>
 
 <p>
-<br/><br/>Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
+Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Library Membership and myLibraryID guide</a>.</p>
 
 
 <div class="new-accordion" id="eReads-get-started">          
