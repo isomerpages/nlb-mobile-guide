@@ -16,7 +16,7 @@ Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Li
         <label for="acc1">What is Udemy Business? </label>
 <div class="new-accordion-content">
 	
-	<p><img alt="Udemy Business" src="/images/udemybiz.png" width="200" height="auto"></p>
+	<p><img alt="Udemy Business" src="/images/Udemy_Biz_Rev_Black_RGB_L.png" width="200" height="auto"></p>
 	
       	<p>Udemy Business is an online learning platform that offers thousands of courses on key soft skills and technical topics such as Software Development, Leadership, Marketing, Sales, Programming, IT, and more. Through the National Library Board (NLB), users have access to over 13,000 courses.
 </p>
