@@ -273,35 +273,33 @@ NLB’s eCard from 15 July to 31 Dec 2022</h3></a>
 <input type="checkbox" id="acc17">
         <label for="acc17">What does the collaboration with BreadTalk involve? </label>
         <div class="new-accordion-content">
-        <p>A collaboration with BreadTalk is planned for 15 July 2022 until 31 Dec 2022 where library members can enjoy a 20 per cent discount when they purchase the Food Junction Tap Tap card by simply showing their library eCard. This discount is only valid for new Tap Tap cards and not for top ups.<br>
-The Food Junction Tap Tap Card is sold at the drink stalls located in all Food Junction, The Food Market and the Food Place outlets at $10 with a $7 stored value credit. NLB members who are using the NLB Mobile app will get to purchase the $10 card at $8 for the same stored value credit amount. Patrons are able to purchase multiple cards during the promotion as long as they can show their library eCard.<br>
-With the Tap Tap card, members can dine at the outlets and enjoy a 10% discount on all regular-priced items. It also holds a separate e-wallet and doubles up as a NETS Flashpay Card which can be used to pay for retail purchases, transportation, ERP and parking charges. </p>
+        <p>A collaboration with BreadTalk is planned for 15 July 2022 until 31 Dec 2022 where library members can enjoy a 20 per cent discount when they purchase the Food Junction Tap Tap card by simply showing their library eCard. This discount is only valid for new Tap Tap cards and not for top ups.</p>
+<p>The Food Junction Tap Tap Card is sold at the drink stalls located in all Food Junction, The Food Market and the Food Place outlets at $10 with a $7 stored value credit. NLB members who are using the NLB Mobile app will get to purchase the $10 card at $8 for the same stored value credit amount. Patrons are able to purchase multiple cards during the promotion as long as they can show their library eCard.</p>
+<p>With the Tap Tap card, members can dine at the outlets and enjoy a 10% discount on all regular-priced items. It also holds a separate e-wallet and doubles up as a NETS Flashpay Card which can be used to pay for retail purchases, transportation, ERP and parking charges. </p>
         </div>
 
 
 <input type="checkbox" id="acc18">
         <label for="acc18">Can the Tap Tap card be used at all BreadTalk outlets? </label>
         <div class="new-accordion-content">
-        <ul>
         <p>The 10% Food Junction Tap Tap Card discount is only applicable at all stalls within Food Junction, The Food Market and The Food Place food courts and not at other BreadTalk outlets.</p>
-        </ul>
         </div>
 
 <div class="new-accordion">          
 <input type="checkbox" id="acc19">
 		<label for="acc19">How can patrons access their library eCard? </label>
 		<div class="new-accordion-content">
-        <p>They can access their library eCard by simply logging into the NLB Mobile app and tapping on the circle icon featuring the patron’s initials at the top right-hand corner of the home screen. Then tap eCard and their eCard number and QR code will pop up.<br>
-If the patron does not have the NLB Mobile app, do encourage them to download the app from the Google Play Store (for Android phone users) or the Apple App Store (for the iPhone users). Alternatively, they may scan the QR code below: </p>
+        <p>They can access their library eCard by simply logging into the NLB Mobile app and tapping on the circle icon featuring the patron’s initials at the top right-hand corner of the home screen. Then tap eCard and their eCard number and QR code will pop up.</p>
+<p>If the patron does not have the NLB Mobile app, do encourage them to download the app from the Google Play Store (for Android phone users) or the Apple App Store (for the iPhone users). Alternatively, they may scan the QR code below: </p>
         </div>
 
 <div class="new-accordion">          
 <input type="checkbox" id="acc20">
 		<label for="acc20">Why is NLB partnering with BreadTalk? Why are we having this promotion? </label>
 		<div class="new-accordion-content">
-        <p>NLB LAB25, our Library and Archives Blueprint, is an invitation to partners and the community to collaborate with NLB in this journey of innovation and experimentation to reimagine libraries and archives.<br>
-Hence, NLB partnered with BreadTalk which presented the opportunity for this collaboration.<br>
-The rationale behind this collaboration is to promote the adoption of the NLB Mobile app and the use of the eCard. This collaboration helps to nudge our customers to download the app, increase awareness and drive traffic to the app as NLB is moving away from issuing physical library cards. </p>
+        <p>NLB LAB25, our Library and Archives Blueprint, is an invitation to partners and the community to collaborate with NLB in this journey of innovation and experimentation to reimagine libraries and archives.</p>
+<p>Hence, NLB partnered with BreadTalk which presented the opportunity for this collaboration.</p>
+<p>The rationale behind this collaboration is to promote the adoption of the NLB Mobile app and the use of the eCard. This collaboration helps to nudge our customers to download the app, increase awareness and drive traffic to the app as NLB is moving away from issuing physical library cards. </p>
         </div>
 
 <div class="new-accordion">          
@@ -329,12 +327,12 @@ The rationale behind this collaboration is to promote the adoption of the NLB Mo
 <input type="checkbox" id="acc24">
 		<label for="acc24">How will this be publicised?</label>
 		<div class="new-accordion-content">
-        <p>The promotion will be communicated for public awareness via:
+			<p>The promotion will be communicated for public awareness via:<ul>
 			<br>a. GoLibrary eDM
 			<br>b. Social media
 			<br>c. Mobile app highlights
 			<br>d. Digital bulletin board at NLB’s libraries.
-			<br>e. Posters at Food Junction outlets.</p>
+			<br>e. Posters at Food Junction outlets.</ul></p>
         </div>
 	
 </div><!--close accordion style-->
