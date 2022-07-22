@@ -328,7 +328,7 @@ NLB’s eCard from 15 July to 31 Dec 2022</h3></a>
 		<label for="acc24">How will this be publicised?</label>
 		<div class="new-accordion-content">
 			<p>The promotion will be communicated for public awareness via:<ul>
-			<br>a. GoLibrary eDM
+			a. GoLibrary eDM
 			<br>b. Social media
 			<br>c. Mobile app highlights
 			<br>d. Digital bulletin board at NLB’s libraries.
