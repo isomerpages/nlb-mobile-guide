@@ -2,4 +2,4 @@ collections:
   promotion:
     output: true
     order:
-      - Promotion.md
+      - ND Giveaway.md
