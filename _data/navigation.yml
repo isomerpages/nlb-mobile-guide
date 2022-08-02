@@ -17,6 +17,7 @@ links:
       - title: eLearning
         url: /get-started-with/learn/
   - title: Promotion
+    url: /promotion
   - title: Spotlight
     resource_room: true
   - title: Contact Us
