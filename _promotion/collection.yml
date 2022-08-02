@@ -1,4 +1,5 @@
 collections:
   promotion:
     output: true
-    order: []
+    order:
+      - Promotion.md
