@@ -73,7 +73,7 @@ Not a library member yet? Refer to our <a href="/get-started-with/mylibrary/">Li
 
  
 
-<p>(i)              NLB’s eResources website (Go to <a href="hhttps://eresources.nlb.gov.sg/elearn">https://eresources.nlb.gov.sg/elearn</a></p>
+<p>(i)              NLB’s eResources website (Go to <a href="https://eresources.nlb.gov.sg/elearn">https://eresources.nlb.gov.sg/elearn</a></p>
 
 <p>(ii)            NLB’s Corporate website (Go to  <a href="https://www.nlb.gov.sg/static/digitalresources/">https://www.nlb.gov.sg/static/digitalresources/</a></p>
 
