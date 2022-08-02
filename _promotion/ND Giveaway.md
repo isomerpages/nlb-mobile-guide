@@ -27,13 +27,13 @@ description: promotion
 											 (ii)  physical materials<b>using the NLB Mobile app</b></p>
 									<p>Note:  This means that borrowing via the Book Borrowing Stations and Reservation Lockers at the library branches, renewal loans as well as digital items borrowed via the Libby app will not count for the National Day Giveaway.</p><br> 
 										If you are not yet an NLB member, please go to  <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> to sign up online or simply visit any library branch (except library@chinatown) and seek staff assistance.<p></p><br> If you do not yet have an NLB Mobile app account, please download the app from the Apple App or Google Play stores or visit <a href=" https://go.nlb.gov.sg/nlbmobile"> https://go.nlb.gov.sg/nlbmobile</a>. <p></p><br>You may also scan the following QR code:
-							</ol>
 	
 		 	<div style="max-width: 400px"><img src="/images/Grabgiveaway.png" alt="Grabgiveaway"></div><br>
          <li>NLB staff are not permitted to participate in the National Day Giveaway.  </li><br>
 	<li>From <b>9 August 2022 to 8 October 2022</b>, for every 5,700th borrowed item <b>using the NLB Mobile App</b> as stated in paragraph 2 above, NLB will give a Grab Gift card to the eligible participant.</li><br>
 	<li>Winners will be <b>announced every Wednesday</b> in the NLB Mobile app’s Highlights section from 17 Aug 2022 to 12 Oct 2022.  The prizes will be sent via email so this is a friendly reminder for participants to update their contact details (email address and phone number) in their NLB Mobile app account.</li><br>
-         <li>Check the  for updates on the terms and conditions.  Unexpected circumstances may require NLB to change the terms and conditions or prizes at any time or to cancel the National Day Giveaway at NLB’s sole discretion.</li>
+         <li>Check the  for updates on the terms and conditions.  Unexpected circumstances may require NLB to change the terms and conditions or prizes at any time or to cancel the National Day Giveaway at NLB’s sole discretion.</li></ol>
+
           
 </div>  
  
