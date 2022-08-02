@@ -1,0 +1,4 @@
+collections:
+  promotion:
+    output: true
+    order: []
