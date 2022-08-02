@@ -24,7 +24,7 @@ description: promotion
 									<li>be an NLB member;</li>
 									<li>physical materials using the NLB Mobile app.<p><br>
 									Note:  This means that borrowing via the Book Borrowing Stations and Reservation Lockers at the library branches, renewal loans as well as digital items borrowed via the Libby app will not count for the National Day Giveaway.</p><br> 
-										If you are not yet an NLB member, please go to https://account.nlb.gov.sg to sign up online or simply visit any library branch (except library@chinatown) and seek staff assistance.<p></p><br> If you do not yet have an NLB Mobile app account, please download the app from the Apple App or Google Play stores or visit https://go.nlb.gov.sg/nlbmobile. <p></p><br>You may also scan the following QR code:</li>
+										If you are not yet an NLB member, please go to [ https://account.nlb.gov.sg]( https://account.nlb.gov.sg) to sign up online or simply visit any library branch (except library@chinatown) and seek staff assistance.<p></p><br> If you do not yet have an NLB Mobile app account, please download the app from the Apple App or Google Play stores or visit [ https://go.nlb.gov.sg/nlbmobile]( https://go.nlb.gov.sg/nlbmobile). <p></p><br>You may also scan the following QR code:</li>
 							</ol>
 												<ol type="i">
 								 <li>digital materials such as eBooks, eAudiobooks and eMagazines using the NLB Mobile app; or</li>
