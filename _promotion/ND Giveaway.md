@@ -30,7 +30,7 @@ description: promotion
 								 <li>digital materials such as eBooks, eAudiobooks and eMagazines using the NLB Mobile app; or</li>
 								 <li>have an NLB Mobile app account; and</li>
 	</ol>
-		 ![grabgiveaway](/images/Grabgiveaway.jpg)
+		 	<div style="max-width: 400px"><img src="/images/Grabgiveaway.jpg" alt="Grabgiveaway"></div> 
          <li>NLB staff are not permitted to participate in the National Day Giveaway.  </li><br>
          <li>From 9 August 2022 to 8 October 2022, for every 5,700th borrowed item using the NLB Mobile App as stated in paragraph 2 above, NLB will give a Grab Gift card to the eligible participant.</li><br>
          <li>Winners will be announced every Wednesday in the NLB Mobile app’s Highlights section from 17 Aug 2022 to 12 Oct 2022.  The prizes will be sent via email so this is a friendly reminder for participants to update their contact details (email address and phone number) in their NLB Mobile app account.</li><br>
