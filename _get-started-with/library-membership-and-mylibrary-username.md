@@ -264,5 +264,5 @@ The Partner Membership allows member to borrow up to TWENTY-FOUR (24) library it
         </li>
         </ul>
        </div>
-
+	
 </div><!--close accordion style-->
