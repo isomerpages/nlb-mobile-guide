@@ -3,7 +3,6 @@ title: National Day Giveaway
 permalink: /promotion/ND
 description: promotion
 ---
-
 <h2>National Library Board’s (NLB) National Day Giveaway</h2>
  <p>	<div style="max-width: 500px"><img src="/images/Grabgiveawaypic.png" alt="Grabgiveawaypic"></div>
 	National Library Board’s (NLB) National Day Giveaway 2022</p>  
@@ -28,9 +27,9 @@ description: promotion
          <li>NLB staff are not permitted to participate in the National Day Giveaway.  </li><br>
 	<li>From <b>9 August 2022 to 8 October 2022</b>, for every 5,700th borrowed item <b>using the NLB Mobile App</b> as stated in paragraph 2 above, NLB will give a Grab Gift card to the eligible participant.</li><br>
 	<li>Winners will be <b>announced every Wednesday</b> in the NLB Mobile app’s Highlights section from 17 Aug 2022 to 12 Oct 2022.  The prizes will be sent via email so this is a friendly reminder for participants to update their contact details (email address and phone number) in their NLB Mobile app account.</li><br>
-         <li>Check the  for updates on the terms and conditions.  Unexpected circumstances may require NLB to change the terms and conditions or prizes at any time or to cancel the National Day Giveaway at NLB’s sole discretion.</li></ol>
+         <li>Check this page regularly for updates on the terms and conditions.  Unexpected circumstances may require NLB to change the terms and conditions or prizes at any time or to cancel the National Day Giveaway at NLB’s sole discretion.</li></ol>
 
           
 </div>  
  
-</div><!--close FAQ-section-->
+</div>
