@@ -72,5 +72,3 @@ NLB’s eCard from 15 July to 31 Dec 2022</h3><br>
 				<li>Digital bulletin board at NLB’s libraries.</li> 
 				<li>Posters at Food Junction outlets</li> 
 			</ol>
-	
-</div><!--close accordion style-->
