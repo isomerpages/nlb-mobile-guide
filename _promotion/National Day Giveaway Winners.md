@@ -8,16 +8,7 @@ description: ""
         <label for="acc1">First batch of Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 <table style="width: auto;">
-<tbody>
-<tr>
-<td style="width: 20%; height: auto;"><p></p><h4>S/N</h4><p></p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20<br>21<br>22<br>23</td>
-	
-<td style="width: 70%; height: auto;"><p></p><h4>MyLibrary Username</h4><p></p>chowhoongan<br>adam3004<br>desmentpoo<br>SohGakHeo<br>isabelsoh29<br>chris2018<br>YuEn1504<br>TanMelaniie<br>teotzehuat<br>jessicasyk<br>LeeYinJen<br>wackygurl89<br>k<br>k<br>k<br>k<br>k<br>k<br>k<br>k<br>k<br>k<br>k<br>k<br>k<br></td>
-	
-<td style="width: 70%; height:auto;"><p></p><h4>NRIC</h4><p></p>xxxxx906F<br>xxxxx845F<br>xxxxx257C<br>xxxxx759G<br>xxxxx607C<br>xxxxx224H</td>
-</tr>
-</tbody>
-</table>
+
 	
 <table>
   <tr>
@@ -86,5 +77,52 @@ description: ""
     <td>13</td>
     <td>alexloong</td>
     <td>xxxxx154C</td>
+  </tr>
+	 <tr>
+    <td>14</td>
+    <td>SohGakHeo</td>
+    <td>xxxxx759G</td>
+  </tr>
+	 <tr>
+    <td>15</td>
+    <td>isabelsoh29</td>
+    <td>xxxxx607C</td>
+  </tr>
+	 <tr>
+    <td>16</td>
+    <td>chris2018</td>
+    <td>xxxxx224H</td>
+  </tr>
+	 <tr>
+    <td>17</td>
+    <td>YuEn1504</td>
+    <td>xxxxx095I</td>
+  </tr> <tr>
+    <td>18</td>
+    <td>TanMelaniie</td>
+    <td>xxxxx690Z</td>
+  </tr> <tr>
+    <td>19</td>
+    <td>teotzehuat</td>
+    <td>xxxxx324H</td>
+  </tr>
+	 <tr>
+    <td>20</td>
+    <td>jessicasyk</td>
+    <td>xxxxx720J</td>
+  </tr>
+	 <tr>
+    <td>21</td>
+    <td>LeeYinJen</td>
+    <td>xxxxx294C</td>
+  </tr>
+	 <tr>
+    <td>22</td>
+    <td>wackygurl89</td>
+    <td>xxxxx668G</td>
+  </tr> <tr>
+    <td>23</td>
+    <td>TIANMEI</td>
+    <td>xxxxx218F</td>
   </tr>
 </table>
