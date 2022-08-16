@@ -32,8 +32,8 @@ description: promotion
           
 </div>  
  <div id="eReads-get-started" class="new-accordion">          
-<input id="acc1" type="checkbox">
-        <label for="acc1">First batch of Giveaway winners (9 – 14 Aug 2022)</label>
+<input id="acc2" type="checkbox">
+        <label for="acc2">First batch of Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 <table style="width: auto;">
 
