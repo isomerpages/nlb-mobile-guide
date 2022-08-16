@@ -154,4 +154,3 @@ Congratulations to the following members
     <td>xxxxx218F</td>
   </tr>
 </table>
-</div>
