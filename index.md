@@ -48,7 +48,7 @@ sections:
       button: Learn How to Get Access
   - infopic:
       title: Learn New Skills
-      description: Upskill with more than 16,000 courses on LinkedIn Learning for Library.
+      description: Upskill with more than 13,000 courses on Udemy Business for Library.
       url: /get-started-with/learn
       image: /images/Home_learn.png
       alt: Video courses on business, design and technology
