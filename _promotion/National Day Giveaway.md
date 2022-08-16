@@ -36,7 +36,7 @@ description: promotion
         <label for="acc2">First batch of Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 <table style="width: auto;">
-
+Congratulations to the following members
 	
 <table>
   <tr>
