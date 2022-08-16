@@ -24,3 +24,12 @@ links:
     url: /contact-us/
   - title: NLB Homepage
     url: https://www.nlb.gov.sg/
+  - title: Promotion
+    url: /promotion/ND
+    sublinks:
+      - title: National Day Giveaway
+        url: /promotion/ND
+      - title: National Day Giveaway Winners
+        url: /promotion/NDgiveaway
+      - title: Breadtalk
+        url: /permalink
