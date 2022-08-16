@@ -3,6 +3,11 @@ title: National Day Giveaway Winners
 permalink: /promotion/NDwinners
 description: ""
 ---
+</p><h2>National Day Giveaway Winners</h2>
+<p>
+	We are announcing the winners of our National Day Giveaway here! For more information on this Giveaway, <a href="https://mobileapp.nlb.gov.sg/promotion/nd">click here</a>
+	</p>
+
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
         <label for="acc1">First batch of Giveaway winners (9 – 14 Aug 2022)</label>
