@@ -127,7 +127,7 @@ Keep checking this space every week from 17 August to 12 October 2022 to see if 
     <td>TIANMEI</td>
     <td>xxxxx218F</td>
   </tr>
-</table>
+	</table></div>
 
  <p>	<div style="max-width: 500px"><img src="/images/Grabgiveawaypic.png" alt="Grabgiveawaypic"></div>
 	National Library Board’s (NLB) National Day Giveaway 2022</p>  
