@@ -34,9 +34,8 @@ description: promotion
 	</tbody></table>
 	</div>
 
- <p>	
-	</p><div style="max-width: 500px"><img src="/images/Grabgiveawaypic.png" alt="Grabgiveawaypic"></div>
-	National Library Board’s (NLB) National Day Giveaway 2022<p></p>  
+<p><div style="max-width: 500px"><img src="/images/Grabgiveawaypic.png" alt="Grabgiveawaypic"></div>
+	National Library Board’s (NLB) National Day Giveaway 2022</p>  
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
