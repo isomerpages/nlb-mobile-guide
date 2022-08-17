@@ -10,7 +10,7 @@ description: promotion
         <label for="acc2">First batch of Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 <table style="width: auto;">
-Congratulations to the following members
+Keep checking this space every week from 17 August to 12 October 2022 to see if you are one of the lucky winners. Remember, there are $10 eVouchers up for GRABs! Pro tip: To increase your chances of winning, borrow more and more frequently using the [NLB Mobile app](https://go.gov.sg/nlb-mobile).
 	
 <table>
   <tr>
@@ -155,4 +155,4 @@ Congratulations to the following members
          <li>Check this page regularly for updates on the terms and conditions.  Unexpected circumstances may require NLB to change the terms and conditions or prizes at any time or to cancel the National Day Giveaway at NLB’s sole discretion.</li></ol>
 
           
-</div>  
+</div>
