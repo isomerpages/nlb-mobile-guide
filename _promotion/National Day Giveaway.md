@@ -10,7 +10,8 @@ description: promotion
         <label for="acc2">First batch of Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 
-Keep checking this space every week from 17 August to 12 October 2022 to see if you are one of the lucky winners. Remember, there are $10 eVouchers up for <p style="color:green;">GRAB</p>s! Pro tip: To increase your chances of winning, borrow more and more frequently using the <table style="width: auto;"></table>
+Keep checking this space every week from 17 August to 12 October 2022 to see if you are one of the lucky winners. Remember, there are $10 eVouchers up for GRABs! 
+<br>Pro tip: To increase your chances of winning, borrow more and more frequently using the <table style="width: auto;"></table>
 &nbsp; 
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp; 
