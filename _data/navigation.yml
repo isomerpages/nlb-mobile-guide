@@ -18,6 +18,11 @@ links:
         url: /get-started-with/learn/
   - title: Promotion
     url: /promotion/ND
+    sublinks:
+      - title: National Day Giveaway
+        url: /promotion/ND
+      - title: Breadtalk
+        url: /promotion/Breadtalk
   - title: Spotlight
     resource_room: true
   - title: Contact Us
