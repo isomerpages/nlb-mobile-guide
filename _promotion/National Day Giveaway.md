@@ -39,13 +39,15 @@ description: promotion
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
-<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr><tr><td>1</td><td>chowhoongan</td><td>xxxxx906F</td></tr><tr><td>2</td><td>adam3004</td><td>xxxxx845F</td></tr>
-	 <tr><td>3</td><td>SohPingYen</td><td>xxxxx873F</td></tr>
-	 <tr><td>4</td><td>SohGakHeo</td><td>xxxxx759G</td></tr>
-	 <tr><td>5</td><td>isabelsoh29</td><td>xxxxx607C</td></tr>
-	 <tr><td>6</td><td>chris2018</td><td>xxxxx224H</td></tr>
-	 <tr><td>7</td><td>YuEn1504</td><td>xxxxx095I</td></tr> 
-	<tr><td>8</td><td>TanMelaniie</td><td>xxxxx690Z</td></tr> 
+<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
+	<tr><td>1</td><td>   SohPingYen</td><td>xxxxx906F</td></tr>
+	<tr><td>2</td><td>   19781002</td><td>xxxxx845F</td></tr>
+	 <tr><td>3</td><td>  ClareCheng82</td><td>xxxxx873F</td></tr>
+	 <tr><td>4</td><td>yankc1234</td><td>xxxxx104C</td></tr>
+	 <tr><td>5</td><td>kennylim808</td><td>xxxxx725J</td></tr>
+	 <tr><td>6</td><td>huinee</td><td>xxxxx224H</td></tr>
+	 <tr><td>7</td><td>dandelion</td><td>xxxxx095I</td></tr> 
+	<tr><td>8</td><td>thatoney</td><td>xxxxx690Z</td></tr> 
 	<tr><td>9</td><td>teotzehuat</td><td>xxxxx324H</td></tr>
 	 <tr><td>10</td><td>jessicasyk</td><td>xxxxx720J</td></tr>
 	 <tr><td>11</td><td>LeeYinJen</td><td>xxxxx294C</td></tr>
@@ -64,9 +66,9 @@ description: promotion
 	<tr><td>24</td><td>altheal</td><td>xxxxx071F</td></tr>
 	<tr><td>25</td><td>mnizanh</td><td>xxxxx379Z</td></tr>
 	 <tr><td>26</td><td>yongjie</td><td>xxxxx533I</td></tr>
-	 <tr><td>27</td><td>laurenoh</td><td>xxxxx545C</td></tr>
-	 <tr><td>28</td><td>MOHITNIR</td><td>xxxxx727L</td></tr> 
-	<tr><td>29</td><td>TIANMEI</td><td>xxxxx218F</td></tr>
+	 <tr><td>27</td><td>drysdon</td><td>xxxxx545C</td></tr>
+	 <tr><td>28</td><td>heidiquahyixuan</td><td>xxxxx727L</td></tr> 
+	<tr><td>29</td><td>kiewwh39</td><td>xxxxx218F</td></tr>
 	</tbody></table>
 	</div>
 		
