@@ -59,9 +59,9 @@ description: promotion
 	 <tr><td>17</td><td>weefoonyong</td><td>xxxxx550F</td></tr>
 	<tr><td>18</td><td>alanathaw</td><td>xxxxx035C</td></tr>
 	<tr><td>19</td><td>sethzxchew</td><td>xxxxx330J</td></tr>
-	 <tr><td>20</td><td>828287</td><td>xxxxx533I</td></tr>
-	 <tr><td>21</td><td>ayaayayo</td><td>xxxxx545C</td></tr>
-	 <tr><td>22</td><td>tanlayhuah</td><td>xxxxx727L</td></tr> 
+	 <tr><td>20</td><td>828287</td><td>xxxxx448D</td></tr>
+	 <tr><td>21</td><td>ayaayayo</td><td>xxxxx656J</td></tr>
+	 <tr><td>22</td><td>tanlayhuah</td><td>xxxxx036A</td></tr> 
 	<tr><td>23</td><td>Ang08111989</td><td>xxxxx502Z</td></tr>
 	<tr><td>24</td><td>junyoulim</td><td>xxxxx637I</td></tr>
 	<tr><td>25</td><td>fatin21</td><td>xxxxx821Z</td></tr>
