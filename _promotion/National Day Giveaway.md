@@ -76,8 +76,8 @@ description: promotion
 	National Library Board’s (NLB) National Day Giveaway 2022</p>  
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc2" type="checkbox">
-        <label for="acc2">Terms and Conditions </label>
+<input id="acc98" type="checkbox">
+        <label for="acc98">Terms and Conditions </label>
 <div class="new-accordion-content">
       	
    <ol type="1">
