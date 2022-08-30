@@ -15,8 +15,8 @@ description: promotion
 	
 <table style="width: auto;"></table>
 <table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
-	<tr><td>1</td><td>   SohPingYen</td><td>xxxxx873F</td></tr>
-	<tr><td>2</td><td>   19781002</td><td>xxxxx104C</td></tr>
+	<tr><td>1</td><td>   altjs1349</td><td>XXXXX489M</td></tr>
+	<tr><td>2</td><td>   ruelle28</td><td>XXXXX905I</td></tr>
 	 <tr><td>3</td><td>  ClareCheng82</td><td>xxxxx725J</td></tr>
 	 <tr><td>4</td><td>yankc1234</td><td>xxxxx025D</td></tr>
 	 <tr><td>5</td><td>kennylim808</td><td>xxxxx886A</td></tr>
@@ -42,8 +42,6 @@ description: promotion
 	<tr><td>25</td><td>fatin21</td><td>xxxxx821Z</td></tr>
 	 <tr><td>26</td><td>jaerius2013</td><td>xxxxx777B</td></tr>
 	 <tr><td>27</td><td>drysdon</td><td>xxxxx435B</td></tr>
-	 <tr><td>28</td><td>heidiquahyixuan</td><td>xxxxx804A</td></tr> 
-	<tr><td>29</td><td>kiewwh39</td><td>xxxxx787B</td></tr>
 	</tbody></table>
 	</div>
 
