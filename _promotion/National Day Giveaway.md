@@ -22,9 +22,9 @@ description: promotion
 	 <tr><td>5</td><td>syafiqahj</td><td>XXXXX827A</td></tr>
 	 <tr><td>6</td><td>KaiXuan11</td><td>XXXXX757D</td></tr>
 	 <tr><td>7</td><td>JASMINELQY</td><td>XXXXX437G</td></tr> 
-	<tr><td>8</td><td>thatoney</td><td>xxxxx361F</td></tr> 
-	<tr><td>9</td><td>ruthkoh19</td><td>xxxxx702H</td></tr>
-	 <tr><td>10</td><td>JAYDEWEI</td><td>xxxxx765I</td></tr>
+	<tr><td>8</td><td>ozxozx</td><td>XXXXX775A</td></tr> 
+	<tr><td>9</td><td>wongut99</td><td>XXXXX612A</td></tr>
+	 <tr><td>10</td><td>valenaw</td><td>XXXXX443E</td></tr>
 	 <tr><td>11</td><td>foong1950</td><td>xxxxx000B</td></tr>
 	 <tr><td>12</td><td>Wenyu1234</td><td>xxxxx462J</td></tr> 
 	<tr><td>13</td><td>bfvino</td><td>xxxxx108B</td></tr>
