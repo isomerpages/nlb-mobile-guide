@@ -25,11 +25,11 @@ description: promotion
 	<tr><td>8</td><td>ozxozx</td><td>XXXXX775A</td></tr> 
 	<tr><td>9</td><td>wongut99</td><td>XXXXX612A</td></tr>
 	 <tr><td>10</td><td>valenaw</td><td>XXXXX443E</td></tr>
-	 <tr><td>11</td><td>foong1950</td><td>xxxxx000B</td></tr>
-	 <tr><td>12</td><td>Wenyu1234</td><td>xxxxx462J</td></tr> 
-	<tr><td>13</td><td>bfvino</td><td>xxxxx108B</td></tr>
-	 <tr><td>14</td><td>gerwinphua</td><td>xxxxx231H</td></tr>
-	 <tr><td>15</td><td>guozhen8</td><td>xxxxx358G</td></tr>
+	 <tr><td>11</td><td>isaacngsh</td><td>XXXXX003I</td></tr>
+	 <tr><td>12</td><td>Ed081204</td><td>XXXXX795C</td></tr> 
+	<tr><td>13</td><td>JasonLin</td><td>XXXXX319I</td></tr>
+	 <tr><td>14</td><td>wangruozhang</td><td>XXXXX939C</td></tr>
+	 <tr><td>15</td><td>aldenangzr</td><td>XXXXX948G</td></tr>
 	 <tr><td>16</td><td>Eleanorchoong</td><td>xxxxx780E</td></tr>
 	 <tr><td>17</td><td>weefoonyong</td><td>xxxxx550F</td></tr>
 	<tr><td>18</td><td>alanathaw</td><td>xxxxx035C</td></tr>
