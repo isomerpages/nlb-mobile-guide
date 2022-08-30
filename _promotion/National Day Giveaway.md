@@ -30,18 +30,18 @@ description: promotion
 	<tr><td>13</td><td>JasonLin</td><td>XXXXX319I</td></tr>
 	 <tr><td>14</td><td>wangruozhang</td><td>XXXXX939C</td></tr>
 	 <tr><td>15</td><td>aldenangzr</td><td>XXXXX948G</td></tr>
-	 <tr><td>16</td><td>Eleanorchoong</td><td>xxxxx780E</td></tr>
-	 <tr><td>17</td><td>weefoonyong</td><td>xxxxx550F</td></tr>
-	<tr><td>18</td><td>alanathaw</td><td>xxxxx035C</td></tr>
+	 <tr><td>16</td><td>ChloeChankh</td><td>XXXXX698I</td></tr>
+	 <tr><td>17</td><td>noorayn</td><td>XXXXX894A</td></tr>
+	<tr><td>18</td><td>RaeChow123</td><td>XXXXX411C</td></tr>
 	<tr><td>19</td><td>sethzxchew</td><td>xxxxx330J</td></tr>
 	 <tr><td>20</td><td>828287</td><td>xxxxx448D</td></tr>
 	 <tr><td>21</td><td>ayaayayo</td><td>xxxxx656J</td></tr>
 	 <tr><td>22</td><td>tanlayhuah</td><td>xxxxx036A</td></tr> 
-	<tr><td>23</td><td>Ang08111989</td><td>xxxxx502Z</td></tr>
-	<tr><td>24</td><td>junyoulim</td><td>xxxxx637I</td></tr>
-	<tr><td>25</td><td>fatin21</td><td>xxxxx821Z</td></tr>
-	 <tr><td>26</td><td>jaerius2013</td><td>xxxxx777B</td></tr>
-	 <tr><td>27</td><td>drysdon</td><td>xxxxx435B</td></tr>
+	<tr><td>23</td><td>hinslouis</td><td>XXXXX954G</td></tr>
+	<tr><td>24</td><td>umbrellalin</td><td>XXXXX668H</td></tr>
+	<tr><td>25</td><td>lumingjow</td><td>XXXXX589C</td></tr>
+	 <tr><td>26</td><td>yide13</td><td>XXXXX283Z</td></tr>
+	 <tr><td>27</td><td>yapming</td><td>XXXXX642H</td></tr>
 	</tbody></table>
 	</div>
 
