@@ -1,6 +1,6 @@
 ---
 title: National Day Giveaway
-permalink: /promotion/ND
+permalink: /promotion/ND/
 description: promotion
 ---
 <h2>National Library Board’s (NLB) National Day Giveaway</h2>
@@ -10,7 +10,7 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
-	<label for="acc1">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
+	<label for="acc1">Week 3 Giveaway winners (22 – 28 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -49,7 +49,46 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc2" type="checkbox">
-	<label for="acc2">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
+	<label for="acc2">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
+<div class="new-accordion-content">
+	
+<table style="width: auto;"></table>
+<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
+	<tr><td>1</td><td>   SohPingYen</td><td>xxxxx873F</td></tr>
+	<tr><td>2</td><td>   19781002</td><td>xxxxx104C</td></tr>
+	 <tr><td>3</td><td>  ClareCheng82</td><td>xxxxx725J</td></tr>
+	 <tr><td>4</td><td>yankc1234</td><td>xxxxx025D</td></tr>
+	 <tr><td>5</td><td>kennylim808</td><td>xxxxx886A</td></tr>
+	 <tr><td>6</td><td>huinee</td><td>xxxxx377A</td></tr>
+	 <tr><td>7</td><td>dandelion</td><td>xxxxx426U</td></tr> 
+	<tr><td>8</td><td>thatoney</td><td>xxxxx361F</td></tr> 
+	<tr><td>9</td><td>ruthkoh19</td><td>xxxxx702H</td></tr>
+	 <tr><td>10</td><td>JAYDEWEI</td><td>xxxxx765I</td></tr>
+	 <tr><td>11</td><td>foong1950</td><td>xxxxx000B</td></tr>
+	 <tr><td>12</td><td>Wenyu1234</td><td>xxxxx462J</td></tr> 
+	<tr><td>13</td><td>bfvino</td><td>xxxxx108B</td></tr>
+	 <tr><td>14</td><td>gerwinphua</td><td>xxxxx231H</td></tr>
+	 <tr><td>15</td><td>guozhen8</td><td>xxxxx358G</td></tr>
+	 <tr><td>16</td><td>Eleanorchoong</td><td>xxxxx780E</td></tr>
+	 <tr><td>17</td><td>weefoonyong</td><td>xxxxx550F</td></tr>
+	<tr><td>18</td><td>alanathaw</td><td>xxxxx035C</td></tr>
+	<tr><td>19</td><td>sethzxchew</td><td>xxxxx330J</td></tr>
+	 <tr><td>20</td><td>828287</td><td>xxxxx448D</td></tr>
+	 <tr><td>21</td><td>ayaayayo</td><td>xxxxx656J</td></tr>
+	 <tr><td>22</td><td>tanlayhuah</td><td>xxxxx036A</td></tr> 
+	<tr><td>23</td><td>Ang08111989</td><td>xxxxx502Z</td></tr>
+	<tr><td>24</td><td>junyoulim</td><td>xxxxx637I</td></tr>
+	<tr><td>25</td><td>fatin21</td><td>xxxxx821Z</td></tr>
+	 <tr><td>26</td><td>jaerius2013</td><td>xxxxx777B</td></tr>
+	 <tr><td>27</td><td>drysdon</td><td>xxxxx435B</td></tr>
+	 <tr><td>28</td><td>heidiquahyixuan</td><td>xxxxx804A</td></tr> 
+	<tr><td>29</td><td>kiewwh39</td><td>xxxxx787B</td></tr>
+	</tbody></table>
+	</div>
+
+<div id="eReads-get-started" class="new-accordion">          
+<input id="acc3" type="checkbox">
+	<label for="acc3">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
