@@ -30,16 +30,16 @@ description: promotion
 	<tr><td>13</td><td>andrewkcs</td><td>XXXXX797I</td></tr>
 	 <tr><td>14</td><td>mazlin07</td><td>XXXXX250D</td></tr>
 	 <tr><td>15</td><td>Aydenread2</td><td>XXXXX723G</td></tr>
-	 <tr><td>16</td><td>ChloeChankh</td><td>XXXXX698I</td></tr>
-	 <tr><td>17</td><td>noorayn</td><td>XXXXX894A</td></tr>
-	<tr><td>18</td><td>RaeChow123</td><td>XXXXX411C</td></tr>
-	<tr><td>19</td><td>terhan82</td><td>XXXXX896J</td></tr>
-	 <tr><td>20</td><td>MengSegy</td><td>XXXXX973E</td></tr>
-	 <tr><td>21</td><td>gnehsaij</td><td>XXXXX672A</td></tr>
-	 <tr><td>22</td><td>Wendy1512</td><td>XXXXX491C</td></tr> 
-	<tr><td>23</td><td>hinslouis</td><td>XXXXX954G</td></tr>
-	<tr><td>24</td><td>umbrellalin</td><td>XXXXX668H</td></tr>
-	<tr><td>25</td><td>lumingjow</td><td>XXXXX589C</td></tr>
+	 <tr><td>16</td><td>ShanAydenJace</td><td>XXXXX304F</td></tr>
+	 <tr><td>17</td><td>simonafoong</td><td>XXXXX153C</td></tr>
+	<tr><td>18</td><td>taysiewhoon</td><td>XXXXX914H</td></tr>
+	<tr><td>19</td><td>radhs0110</td><td>XXXXX182L</td></tr>
+	 <tr><td>20</td><td>evelyn512</td><td>XXXXX826E</td></tr>
+	 <tr><td>21</td><td>kaichin29</td><td>XXXXX453G</td></tr>
+	 <tr><td>22</td><td>rexus79</td><td>XXXXX358Z</td></tr> 
+	<tr><td>23</td><td>rianneang</td><td>XXXXX465F</td></tr>
+	<tr><td>24</td><td>jeryeo</td><td>XXXXX266A</td></tr>
+	<tr><td>25</td><td>0136626</td><td>XXXXX859Z</td></tr>
 	 <tr><td>26</td><td>yide13</td><td>XXXXX283Z</td></tr>
 	 <tr><td>27</td><td>yapming</td><td>XXXXX642H</td></tr>
 	</tbody></table>
