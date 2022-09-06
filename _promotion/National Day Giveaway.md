@@ -10,7 +10,45 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
-	<label for="acc1">Week 3 Giveaway winners (22 – 28 Aug 2022)</label>
+	<label for="acc1">Week 4 Giveaway winners (29 Aug – 04 Sept 2022)</label>
+<div class="new-accordion-content">
+	
+<table style="width: auto;"></table>
+<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
+	<tr><td>1</td><td>   arieljasminelo</td><td>XXXXX297J</td></tr>
+	<tr><td>2</td><td>   kayde4479c</td><td>XXXXX479C</td></tr>
+	 <tr><td>3</td><td>  taykainingcarine</td><td>XXXXX444F</td></tr>
+	 <tr><td>4</td><td>juleeiah</td><td>XXXXX104H</td></tr>
+	 <tr><td>5</td><td>imkohyida</td><td>XXXXX754B</td></tr>
+	 <tr><td>6</td><td>tinglydia</td><td>XXXXX260F</td></tr>
+	 <tr><td>7</td><td>hannahenmin</td><td>XXXXX191J</td></tr> 
+	<tr><td>8</td><td>Saedahmen</td><td>XXXXX065H</td></tr> 
+	<tr><td>9</td><td>cheryltantan</td><td>XXXXX596I</td></tr>
+	 <tr><td>10</td><td>keansonsudilan</td><td>XXXXX201E</td></tr>
+	 <tr><td>11</td><td>gcheah2628</td><td>XXXXX733A</td></tr>
+	 <tr><td>12</td><td>elishajaze</td><td>XXXXX566Z</td></tr> 
+	<tr><td>13</td><td>andrewkcs</td><td>XXXXX797I</td></tr>
+	 <tr><td>14</td><td>mazlin07</td><td>XXXXX250D</td></tr>
+	 <tr><td>15</td><td>Aydenread2</td><td>XXXXX723G</td></tr>
+	 <tr><td>16</td><td>ShanAydenJace</td><td>XXXXX304F</td></tr>
+	 <tr><td>17</td><td>simonafoong</td><td>XXXXX153C</td></tr>
+	<tr><td>18</td><td>taysiewhoon</td><td>XXXXX914H</td></tr>
+	<tr><td>19</td><td>radhs0110</td><td>XXXXX182L</td></tr>
+	 <tr><td>20</td><td>evelyn512</td><td>XXXXX826E</td></tr>
+	 <tr><td>21</td><td>kaichin29</td><td>XXXXX453G</td></tr>
+	 <tr><td>22</td><td>rexus79</td><td>XXXXX358Z</td></tr> 
+	<tr><td>23</td><td>rianneang</td><td>XXXXX465F</td></tr>
+	<tr><td>24</td><td>jeryeo</td><td>XXXXX266A</td></tr>
+	<tr><td>25</td><td>0136626</td><td>XXXXX859Z</td></tr>
+	 <tr><td>26</td><td>divingd</td><td>XXXXX894D</td></tr>
+	 <tr><td>27</td><td>ljiaxuan28</td><td>XXXXX563F</td></tr>
+	 <tr><td>28</td><td>Lph1025</td><td>XXXXX135D</td></tr>
+	</tbody></table>
+	</div>
+
+<div id="eReads-get-started" class="new-accordion">          
+<input id="acc2" type="checkbox">
+	<label for="acc2">Week 3 Giveaway winners (22 – 28 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -46,8 +84,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc2" type="checkbox">
-	<label for="acc2">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
+<input id="acc3" type="checkbox">
+	<label for="acc3">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -85,8 +123,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc3" type="checkbox">
-	<label for="acc3">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
+<input id="acc4" type="checkbox">
+	<label for="acc4">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
