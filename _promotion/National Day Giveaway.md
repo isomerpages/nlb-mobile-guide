@@ -40,8 +40,9 @@ description: promotion
 	<tr><td>23</td><td>rianneang</td><td>XXXXX465F</td></tr>
 	<tr><td>24</td><td>jeryeo</td><td>XXXXX266A</td></tr>
 	<tr><td>25</td><td>0136626</td><td>XXXXX859Z</td></tr>
-	 <tr><td>26</td><td>yide13</td><td>XXXXX283Z</td></tr>
-	 <tr><td>27</td><td>yapming</td><td>XXXXX642H</td></tr>
+	 <tr><td>26</td><td>divingd</td><td>XXXXX894D</td></tr>
+	 <tr><td>27</td><td>ljiaxuan28</td><td>XXXXX563F</td></tr>
+	 <tr><td>28</td><td>Lph1025</td><td>XXXXX135D</td></tr>
 	</tbody></table>
 	</div>
 
