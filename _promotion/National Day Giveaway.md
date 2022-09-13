@@ -87,8 +87,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc2" type="checkbox">
-	<label for="acc2">Week 3 Giveaway winners (22 – 28 Aug 2022)</label>
+<input id="acc3" type="checkbox">
+	<label for="acc3">Week 3 Giveaway winners (22 – 28 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -124,8 +124,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc3" type="checkbox">
-	<label for="acc3">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
+<input id="acc4" type="checkbox">
+	<label for="acc4">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -163,8 +163,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc4" type="checkbox">
-	<label for="acc4">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
+<input id="acc5" type="checkbox">
+	<label for="acc5">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
