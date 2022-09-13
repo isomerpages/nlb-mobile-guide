@@ -25,20 +25,20 @@ description: promotion
 	<tr><td>8</td><td>EthenYap</td><td>XXXXX291A</td></tr> 
 	<tr><td>9</td><td>fynnng1</td><td>XXXXX621D</td></tr>
 	 <tr><td>10</td><td>jervyn</td><td>XXXXX562C</td></tr>
-	 <tr><td>11</td><td>gcheah2628</td><td>XXXXX733A</td></tr>
-	 <tr><td>12</td><td>elishajaze</td><td>XXXXX566Z</td></tr> 
-	<tr><td>13</td><td>andrewkcs</td><td>XXXXX797I</td></tr>
-	 <tr><td>14</td><td>mazlin07</td><td>XXXXX250D</td></tr>
-	 <tr><td>15</td><td>Aydenread2</td><td>XXXXX723G</td></tr>
-	 <tr><td>16</td><td>ShanAydenJace</td><td>XXXXX304F</td></tr>
-	 <tr><td>17</td><td>simonafoong</td><td>XXXXX153C</td></tr>
-	<tr><td>18</td><td>taysiewhoon</td><td>XXXXX914H</td></tr>
-	<tr><td>19</td><td>radhs0110</td><td>XXXXX182L</td></tr>
-	 <tr><td>20</td><td>evelyn512</td><td>XXXXX826E</td></tr>
-	 <tr><td>21</td><td>kaichin29</td><td>XXXXX453G</td></tr>
-	 <tr><td>22</td><td>rexus79</td><td>XXXXX358Z</td></tr> 
-	<tr><td>23</td><td>rianneang</td><td>XXXXX465F</td></tr>
-	<tr><td>24</td><td>jeryeo</td><td>XXXXX266A</td></tr>
+	 <tr><td>11</td><td>Tohkok</td><td>XXXXX972D</td></tr>
+	 <tr><td>12</td><td>bengabriel</td><td>XXXXX102G</td></tr> 
+	<tr><td>13</td><td>moonyremus</td><td>XXXXX600E</td></tr>
+	 <tr><td>14</td><td>83012270</td><td>XXXXX264J</td></tr>
+	 <tr><td>15</td><td>garfielddebbie</td><td>XXXXX185Z</td></tr>
+	 <tr><td>16</td><td>lowxuantong</td><td>XXXXX671J</td></tr>
+	 <tr><td>17</td><td>ongnlnlb</td><td>XXXXX547G</td></tr>
+	<tr><td>18</td><td>KaydenSng</td><td>XXXXX910J</td></tr>
+	<tr><td>19</td><td>asetoh</td><td>XXXXX294C</td></tr>
+	 <tr><td>20</td><td>Staceyte</td><td>XXXXX426G</td></tr>
+	 <tr><td>21</td><td>bolehlahctc</td><td>XXXXX698C</td></tr>
+	 <tr><td>22</td><td>minjie21</td><td>XXXXX066B</td></tr> 
+	<tr><td>23</td><td>josanch</td><td>XXXXX507Z</td></tr>
+	<tr><td>24</td><td>marvwoo</td><td>XXXXX725A</td></tr>
 	<tr><td>25</td><td>kookitnlb</td><td>XXXXX417D</td></tr>
 	 <tr><td>26</td><td>joenjj</td><td>XXXXX185I</td></tr>
 	 <tr><td>27</td><td>AdeleCHC2017</td><td>XXXXX666E</td></tr>
