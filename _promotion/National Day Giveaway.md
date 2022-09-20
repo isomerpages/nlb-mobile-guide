@@ -42,7 +42,7 @@ description: promotion
 	<tr><td>25</td><td>ZubMor</td><td>XXXXX137C</td></tr>
 	<tr><td>26</td><td>Hannahgraciatay</td><td>XXXXX912C</td></tr>
 	<tr><td>27</td><td>seraphynsee</td><td>XXXXX814H</td></tr>
-	<tr><td>28</td><td>herbertpang</td><td>-XXXXX531J</td></tr>
+	<tr><td>28</td><td>herbertpang</td><td>XXXXX531J</td></tr>
 	<tr><td>29</td><td>limchinhui</td><td>XXXXX464Z</td></tr>
 	<tr><td>30</td><td>shaumeng4</td><td>XXXXX145A</td></tr>
 	</tbody></table>
