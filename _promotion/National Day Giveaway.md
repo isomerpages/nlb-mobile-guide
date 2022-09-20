@@ -10,7 +10,47 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
-	<label for="acc1">Week 5 Giveaway winners (05 – 11 Sept 2022)</label>
+	<label for="acc1">Week 6 Giveaway winners (12 – 18 Sept 2022)</label>
+<div class="new-accordion-content">
+	
+<table style="width: auto;"></table>
+<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
+	<tr><td>1</td><td>Leah18</td><td>XXXXX537B</td></tr>
+	<tr><td>2</td><td>jhwu87</td><td>XXXXX276I</td></tr>
+	<tr><td>3</td><td>amberzhao2011</td><td>XXXXX383B</td></tr>
+	<tr><td>4</td><td>hosannakim</td><td>XXXXX902I</td></tr>
+	<tr><td>5</td><td>Skittle003</td><td>XXXXX058A</td></tr>
+	<tr><td>6</td><td>wilsonangmw</td><td>XXXXX696A</td></tr>
+	<tr><td>7</td><td>AngelaRen</td><td>XXXXX852Z</td></tr> 
+	<tr><td>8</td><td>faiza88</td><td>XXXXX486C</td></tr> 
+	<tr><td>9</td><td>chenxiaodan82</td><td>XXXXX704A </td></tr>
+	<tr><td>10</td><td>shubanrt</td><td>XXXXX374P</td></tr>
+	<tr><td>11</td><td>beatrice20</td><td>XXXXX115I</td></tr>
+	<tr><td>12</td><td>WZwang12</td><td>XXXXX977B</td></tr> 
+	<tr><td>13</td><td>amandailing</td><td>XXXXX724Z</td></tr>
+	<tr><td>14</td><td>beverlyn78</td><td>XXXXX300J</td></tr>
+	<tr><td>15</td><td>PHOOWARLWIN</td><td>XXXXX249E</td></tr>
+	<tr><td>16</td><td>ruixsi</td><td>XXXXX874A</td></tr>
+	<tr><td>17</td><td>sharise</td><td>XXXXX220C</td></tr>
+	<tr><td>18</td><td>brucetanyz</td><td>XXXXX548Z</td></tr>
+	<tr><td>19</td><td>Mengtan11</td><td>XXXXX466F</td></tr>
+	<tr><td>20</td><td>Sofia0709</td><td>XXXXX372D</td></tr>
+	<tr><td>21</td><td>lannyl</td><td>XXXXX501F</td></tr>
+	<tr><td>22</td><td>leozhixing</td><td>XXXXX894B</td></tr> 
+	<tr><td>23</td><td>simlinda13</td><td>XXXXX058I</td></tr>
+	<tr><td>24</td><td>abbyweng</td><td>XXXXX629Z</td></tr>
+	<tr><td>25</td><td>ZubMor</td><td>XXXXX137C</td></tr>
+	<tr><td>26</td><td>Hannahgraciatay</td><td>XXXXX912C</td></tr>
+	<tr><td>27</td><td>seraphynsee</td><td>XXXXX814H</td></tr>
+	<tr><td>28</td><td>herbertpang</td><td>XXXXX531J</td></tr>
+	<tr><td>29</td><td>limchinhui</td><td>XXXXX464Z</td></tr>
+	<tr><td>30</td><td>shaumeng4</td><td>XXXXX145A</td></tr>
+	</tbody></table>
+	</div>
+
+<div id="eReads-get-started" class="new-accordion">          
+<input id="acc93" type="checkbox">
+	<label for="acc93">Week 5 Giveaway winners (5 – 11 Sept 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -49,8 +89,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc2" type="checkbox">
-	<label for="acc2">Week 4 Giveaway winners (29 Aug – 04 Sept 2022)</label>
+<input id="acc94" type="checkbox">
+	<label for="acc94">Week 4 Giveaway winners (29 Aug – 04 Sept 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -87,8 +127,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc3" type="checkbox">
-	<label for="acc3">Week 3 Giveaway winners (22 – 28 Aug 2022)</label>
+<input id="acc95" type="checkbox">
+	<label for="acc95">Week 3 Giveaway winners (22 – 28 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -124,8 +164,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc4" type="checkbox">
-	<label for="acc4">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
+<input id="acc96" type="checkbox">
+	<label for="acc96">Week 2 Giveaway winners (15 – 21 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
@@ -163,8 +203,8 @@ description: promotion
 	</div>
 
 <div id="eReads-get-started" class="new-accordion">          
-<input id="acc5" type="checkbox">
-	<label for="acc5">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
+<input id="acc97" type="checkbox">
+	<label for="acc97">Week 1 Giveaway winners (9 – 14 Aug 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
