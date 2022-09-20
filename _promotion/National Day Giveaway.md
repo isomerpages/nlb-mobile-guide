@@ -50,7 +50,7 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc93" type="checkbox">
-	<label for="acc93">Week 5 Giveaway winners (05 – 11 Sept 2022)</label>
+	<label for="acc93">Week 5 Giveaway winners (5 – 11 Sept 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
