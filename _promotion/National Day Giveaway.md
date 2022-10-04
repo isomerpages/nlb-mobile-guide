@@ -10,6 +10,43 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
+	<label for="acc1">Week 8 Giveaway winners (26 Sept – 4 Oct 2022)</label>
+<div class="new-accordion-content">
+	
+<table style="width: auto;"></table>
+<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
+	<tr><td>1</td><td>Jovienneo</td><td>XXXXX111Z</td></tr>
+	<tr><td>2</td><td>dmurali</td><td>XXXXX985Z</td></tr>
+	<tr><td>3</td><td>suechia</td><td>XXXXX497E</td></tr>
+	<tr><td>4</td><td>adibhaziq13</td><td>XXXXX747J</td></tr>
+	<tr><td>5</td><td>Gengcheongw13</td><td>XXXXX442Z</td></tr>
+	<tr><td>6</td><td>Wgjinjin</td><td>XXXXX099Z</td></tr>
+	<tr><td>7</td><td>EstherCheongWY</td><td>XXXXX619F</td></tr> 
+	<tr><td>8</td><td>aloysiustaybk</td><td>XXXXX849G</td></tr> 
+	<tr><td>9</td><td>siewpeiheng</td><td>XXXXX768J </td></tr>
+	<tr><td>10</td><td>AnnieKoo</td><td>XXXXX711H</td></tr>
+	<tr><td>11</td><td>akeemrizqin</td><td>XXXXX873Z</td></tr>
+	<tr><td>12</td><td>HsienDragon125</td><td>XXXXX020E</td></tr> 
+	<tr><td>13</td><td>Jensenseah</td><td>XXXXX773C</td></tr>
+	<tr><td>14</td><td>jaasminee05</td><td>XXXXX013I</td></tr>
+	<tr><td>15</td><td>zhuann</td><td>XXXXX601G</td></tr>
+	<tr><td>16</td><td>LESSSUGAR</td><td>XXXXX173C</td></tr>
+	<tr><td>17</td><td>angka7753i</td><td>XXXXX753I</td></tr>
+	<tr><td>18</td><td>Giselvong2019</td><td>XXXXX758I</td></tr>
+	<tr><td>19</td><td>nxinrui</td><td>XXXXX186G</td></tr>
+	<tr><td>20</td><td>eliotttanlyuzhe</td><td>XXXXX257B</td></tr>
+	<tr><td>21</td><td>nofhof</td><td>XXXXX446W</td></tr>
+	<tr><td>22</td><td>yopieyopie</td><td>XXXXX726D</td></tr> 
+	<tr><td>23</td><td>Jotan777</td><td>XXXXX126Z</td></tr>
+	<tr><td>24</td><td>moneypower</td><td>XXXXX240A</td></tr>
+	<tr><td>25</td><td>shellytan</td><td>XXXXX177E</td></tr>
+	<tr><td>26</td><td>Happyrayn</td><td>XXXXX206R</td></tr>
+	<tr><td>27</td><td>weejinglong</td><td>XXXXX440I</td></tr>
+	</tbody></table>
+	</div>
+
+<div id="eReads-get-started" class="new-accordion">          
+<input id="acc1" type="checkbox">
 	<label for="acc1">Week 7 Giveaway winners (19 – 25 Sept 2022)</label>
 <div class="new-accordion-content">
 	
