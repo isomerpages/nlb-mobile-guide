@@ -15,11 +15,11 @@ description: promotion
 	
 <table style="width: auto;"></table>
 <table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
-	<tr><td>1</td><td>Jovienneo</td><td>XXXXX111Z</td></tr>
-	<tr><td>2</td><td>dmurali</td><td>XXXXX985Z</td></tr>
-	<tr><td>3</td><td>suechia</td><td>XXXXX497E</td></tr>
-	<tr><td>4</td><td>adibhaziq13</td><td>XXXXX747J</td></tr>
-	<tr><td>5</td><td>Gengcheongw13</td><td>XXXXX442Z</td></tr>
+	<tr><td>1</td><td>Jovienneo</td><td>XXXXX878F</td></tr>
+	<tr><td>2</td><td>kak201422</td><td>XXXXX070H</td></tr>
+	<tr><td>3</td><td>yeophjohn</td><td>XXXXX563E</td></tr>
+	<tr><td>4</td><td>SueGwee</td><td>XXXXX320G</td></tr>
+	<tr><td>5</td><td>smchou168</td><td>XXXXX874C</td></tr>
 	<tr><td>6</td><td>Wgjinjin</td><td>XXXXX099Z</td></tr>
 	<tr><td>7</td><td>EstherCheongWY</td><td>XXXXX619F</td></tr> 
 	<tr><td>8</td><td>aloysiustaybk</td><td>XXXXX849G</td></tr> 
@@ -38,10 +38,11 @@ description: promotion
 	<tr><td>21</td><td>nofhof</td><td>XXXXX446W</td></tr>
 	<tr><td>22</td><td>yopieyopie</td><td>XXXXX726D</td></tr> 
 	<tr><td>23</td><td>Jotan777</td><td>XXXXX126Z</td></tr>
-	<tr><td>24</td><td>moneypower</td><td>XXXXX240A</td></tr>
-	<tr><td>25</td><td>shellytan</td><td>XXXXX177E</td></tr>
-	<tr><td>26</td><td>Happyrayn</td><td>XXXXX206R</td></tr>
-	<tr><td>27</td><td>weejinglong</td><td>XXXXX440I</td></tr>
+	<tr><td>24</td><td>Spidie</td><td>XXXXX676Z</td></tr>
+	<tr><td>25</td><td>noahmah</td><td>XXXXX896J</td></tr>
+	<tr><td>26</td><td>opunk1234</td><td>XXXXX707B</td></tr>
+	<tr><td>27</td><td>ivyben</td><td>XXXXX824G</td></tr>
+	<tr><td>28</td><td>tristanrigg</td><td>XXXXX201Z</td></tr>
 	</tbody></table>
 	</div>
 
