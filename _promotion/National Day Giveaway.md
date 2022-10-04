@@ -20,10 +20,10 @@ description: promotion
 	<tr><td>3</td><td>yeophjohn</td><td>XXXXX563E</td></tr>
 	<tr><td>4</td><td>SueGwee</td><td>XXXXX320G</td></tr>
 	<tr><td>5</td><td>smchou168</td><td>XXXXX874C</td></tr>
-	<tr><td>6</td><td>Wgjinjin</td><td>XXXXX099Z</td></tr>
-	<tr><td>7</td><td>EstherCheongWY</td><td>XXXXX619F</td></tr> 
-	<tr><td>8</td><td>aloysiustaybk</td><td>XXXXX849G</td></tr> 
-	<tr><td>9</td><td>siewpeiheng</td><td>XXXXX768J </td></tr>
+	<tr><td>6</td><td>chialit</td><td>XXXXX141B</td></tr>
+	<tr><td>7</td><td>hoshernen</td><td>XXXXX783G</td></tr> 
+	<tr><td>8</td><td>Auraag17</td><td>XXXXX040W</td></tr> 
+	<tr><td>9</td><td>Xingyu163</td><td>XXXXX982H </td></tr>
 	<tr><td>10</td><td>AnnieKoo</td><td>XXXXX711H</td></tr>
 	<tr><td>11</td><td>akeemrizqin</td><td>XXXXX873Z</td></tr>
 	<tr><td>12</td><td>HsienDragon125</td><td>XXXXX020E</td></tr> 
