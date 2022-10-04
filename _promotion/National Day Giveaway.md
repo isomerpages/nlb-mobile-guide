@@ -24,20 +24,20 @@ description: promotion
 	<tr><td>7</td><td>hoshernen</td><td>XXXXX783G</td></tr> 
 	<tr><td>8</td><td>Auraag17</td><td>XXXXX040W</td></tr> 
 	<tr><td>9</td><td>Xingyu163</td><td>XXXXX982H </td></tr>
-	<tr><td>10</td><td>AnnieKoo</td><td>XXXXX711H</td></tr>
-	<tr><td>11</td><td>akeemrizqin</td><td>XXXXX873Z</td></tr>
-	<tr><td>12</td><td>HsienDragon125</td><td>XXXXX020E</td></tr> 
+	<tr><td>10</td><td>Kelly27</td><td>XXXXX692B</td></tr>
+	<tr><td>11</td><td>rabiahashraff</td><td>XXXXX522J</td></tr>
+	<tr><td>12</td><td>simbqalice</td><td>XXXXX024F</td></tr> 
 	<tr><td>13</td><td>Jensenseah</td><td>XXXXX773C</td></tr>
 	<tr><td>14</td><td>jaasminee05</td><td>XXXXX013I</td></tr>
 	<tr><td>15</td><td>zhuann</td><td>XXXXX601G</td></tr>
 	<tr><td>16</td><td>LESSSUGAR</td><td>XXXXX173C</td></tr>
 	<tr><td>17</td><td>angka7753i</td><td>XXXXX753I</td></tr>
 	<tr><td>18</td><td>Giselvong2019</td><td>XXXXX758I</td></tr>
-	<tr><td>19</td><td>nxinrui</td><td>XXXXX186G</td></tr>
-	<tr><td>20</td><td>eliotttanlyuzhe</td><td>XXXXX257B</td></tr>
-	<tr><td>21</td><td>nofhof</td><td>XXXXX446W</td></tr>
-	<tr><td>22</td><td>yopieyopie</td><td>XXXXX726D</td></tr> 
-	<tr><td>23</td><td>Jotan777</td><td>XXXXX126Z</td></tr>
+	<tr><td>19</td><td>cassiekam</td><td>XXXXX306I</td></tr>
+	<tr><td>20</td><td>terineo</td><td>XXXXX964A</td></tr>
+	<tr><td>21</td><td>lumin770</td><td>XXXXX031G</td></tr>
+	<tr><td>22</td><td>Lovellkoh07</td><td>XXXXX037H</td></tr> 
+	<tr><td>23</td><td>elainee79</td><td>XXXXX151I</td></tr>
 	<tr><td>24</td><td>Spidie</td><td>XXXXX676Z</td></tr>
 	<tr><td>25</td><td>noahmah</td><td>XXXXX896J</td></tr>
 	<tr><td>26</td><td>opunk1234</td><td>XXXXX707B</td></tr>
