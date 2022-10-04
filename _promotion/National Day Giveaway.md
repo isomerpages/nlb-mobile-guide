@@ -32,7 +32,7 @@ description: promotion
 	<tr><td>15</td><td>gina1601</td><td>XXXXX899I</td></tr>
 	<tr><td>16</td><td>ixfang</td><td>XXXXX006A</td></tr>
 	<tr><td>17</td><td>TsaiFamily</td><td>XXXXX035F</td></tr>
-	<tr><td>18</td><td>dancingteddy</td><td>XXXXX758I</td></tr>
+	<tr><td>18</td><td>dancingteddy</td><td>XXXXX743J</td></tr>
 	<tr><td>19</td><td>cassiekam</td><td>XXXXX306I</td></tr>
 	<tr><td>20</td><td>terineo</td><td>XXXXX964A</td></tr>
 	<tr><td>21</td><td>lumin770</td><td>XXXXX031G</td></tr>
