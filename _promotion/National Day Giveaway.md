@@ -10,7 +10,45 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
-	<label for="acc1">Week 7 Giveaway winners (19 – 25 Sept 2022)</label>
+	<label for="acc1">Week 8 Giveaway winners (26 Sept – 2 Oct 2022)</label>
+<div class="new-accordion-content">
+	
+<table style="width: auto;"></table>
+<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
+	<tr><td>1</td><td>Ashraf2011</td><td>XXXXX878F</td></tr>
+	<tr><td>2</td><td>kak201422</td><td>XXXXX070H</td></tr>
+	<tr><td>3</td><td>yeophjohn</td><td>XXXXX563E</td></tr>
+	<tr><td>4</td><td>SueGwee</td><td>XXXXX320G</td></tr>
+	<tr><td>5</td><td>smchou168</td><td>XXXXX874C</td></tr>
+	<tr><td>6</td><td>chialit</td><td>XXXXX141B</td></tr>
+	<tr><td>7</td><td>hoshernen</td><td>XXXXX783G</td></tr> 
+	<tr><td>8</td><td>Anuraag17</td><td>XXXXX040W</td></tr> 
+	<tr><td>9</td><td>Xingyu163</td><td>XXXXX982H </td></tr>
+	<tr><td>10</td><td>Kelly27</td><td>XXXXX692B</td></tr>
+	<tr><td>11</td><td>rabiahashraff</td><td>XXXXX522J</td></tr>
+	<tr><td>12</td><td>simbqalice</td><td>XXXXX024F</td></tr> 
+	<tr><td>13</td><td>xinyichoy</td><td>XXXXX443E</td></tr>
+	<tr><td>14</td><td>Shuang99</td><td>XXXXX585C</td></tr>
+	<tr><td>15</td><td>gina1601</td><td>XXXXX899I</td></tr>
+	<tr><td>16</td><td>ixfang</td><td>XXXXX006A</td></tr>
+	<tr><td>17</td><td>TsaiFamily</td><td>XXXXX035F</td></tr>
+	<tr><td>18</td><td>dancingteddy</td><td>XXXXX743J</td></tr>
+	<tr><td>19</td><td>cassiekam</td><td>XXXXX306I</td></tr>
+	<tr><td>20</td><td>terineo</td><td>XXXXX964A</td></tr>
+	<tr><td>21</td><td>lumin770</td><td>XXXXX031G</td></tr>
+	<tr><td>22</td><td>Lovellkoh07</td><td>XXXXX037H</td></tr> 
+	<tr><td>23</td><td>elainee79</td><td>XXXXX151I</td></tr>
+	<tr><td>24</td><td>Spidie</td><td>XXXXX676Z</td></tr>
+	<tr><td>25</td><td>noahmah</td><td>XXXXX896J</td></tr>
+	<tr><td>26</td><td>opunk1234</td><td>XXXXX707B</td></tr>
+	<tr><td>27</td><td>ivyben</td><td>XXXXX824G</td></tr>
+	<tr><td>28</td><td>tristanrigg</td><td>XXXXX201Z</td></tr>
+	</tbody></table>
+	</div>
+
+<div id="eReads-get-started" class="new-accordion">          
+<input id="acc91" type="checkbox">
+	<label for="acc91">Week 7 Giveaway winners (19 – 25 Sept 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
