@@ -22,7 +22,7 @@ description: promotion
 	<tr><td>5</td><td>smchou168</td><td>XXXXX874C</td></tr>
 	<tr><td>6</td><td>chialit</td><td>XXXXX141B</td></tr>
 	<tr><td>7</td><td>hoshernen</td><td>XXXXX783G</td></tr> 
-	<tr><td>8</td><td>Auraag17</td><td>XXXXX040W</td></tr> 
+	<tr><td>8</td><td>Anuraag17</td><td>XXXXX040W</td></tr> 
 	<tr><td>9</td><td>Xingyu163</td><td>XXXXX982H </td></tr>
 	<tr><td>10</td><td>Kelly27</td><td>XXXXX692B</td></tr>
 	<tr><td>11</td><td>rabiahashraff</td><td>XXXXX522J</td></tr>
