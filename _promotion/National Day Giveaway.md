@@ -22,14 +22,14 @@ description: promotion
 	<tr><td>5</td><td>babybear</td><td>XXXXX960Q</td></tr>
 	<tr><td>6</td><td>limmengshunjason</td><td>XXXXX400I</td></tr>
 	<tr><td>7</td><td>Oliveg</td><td>XXXXX779J</td></tr> 
-	<tr><td>8</td><td>Anuraag17</td><td>XXXXX040W</td></tr> 
-	<tr><td>9</td><td>Xingyu163</td><td>XXXXX982H </td></tr>
-	<tr><td>10</td><td>Kelly27</td><td>XXXXX692B</td></tr>
-	<tr><td>11</td><td>rabiahashraff</td><td>XXXXX522J</td></tr>
-	<tr><td>12</td><td>simbqalice</td><td>XXXXX024F</td></tr> 
-	<tr><td>13</td><td>xinyichoy</td><td>XXXXX443E</td></tr>
-	<tr><td>14</td><td>Shuang99</td><td>XXXXX585C</td></tr>
-	<tr><td>15</td><td>gina1601</td><td>XXXXX899I</td></tr>
+	<tr><td>8</td><td>Pokedel</td><td>XXXXX027C</td></tr> 
+	<tr><td>9</td><td>lorjes90</td><td>XXXXX807D </td></tr>
+	<tr><td>10</td><td>aadenawyong</td><td>XXXXX535C</td></tr>
+	<tr><td>11</td><td>YQYFiona</td><td>XXXXX151C</td></tr>
+	<tr><td>12</td><td>1310867</td><td>XXXXX867B</td></tr> 
+	<tr><td>13</td><td>alyssangqx</td><td>XXXXX236I</td></tr>
+	<tr><td>14</td><td>Noorizal77</td><td>XXXXX167J</td></tr>
+	<tr><td>15</td><td>josephlim6066</td><td>XXXXX616H</td></tr>
 	<tr><td>16</td><td>dinadaman</td><td>XXXXX362B</td></tr>
 	<tr><td>17</td><td>Serena00</td><td>XXXXX425C</td></tr>
 	<tr><td>18</td><td>BeatriceHuanJX</td><td>XXXXX093D</td></tr>
