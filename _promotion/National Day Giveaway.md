@@ -197,7 +197,7 @@ description: promotion
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc94" type="checkbox">
-	<label for="acc94">Week 4 Giveaway winners (29 Aug – 04 Sept 2022)</label>
+	<label for="acc94">Week 4 Giveaway winners (29 Aug – 4 Sept 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
