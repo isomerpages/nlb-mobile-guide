@@ -5,12 +5,12 @@ description: promotion
 ---
 <h2>National Library Board’s (NLB) National Day Giveaway</h2>
 
-<p>Keep checking this space every week from <b>17 August to 12 October 2022</b> to see if you are one of the lucky winners. Remember, there are $10 eVouchers up for <font color="#00B14F">GRAB</font>s! </p>
+<p>Keep checking this space every week from <b>17 August to 8 October 2022</b> to see if you are one of the lucky winners. Remember, there are $10 eVouchers up for <font color="#00B14F">GRAB</font>s! </p>
 <p><b>Pro tip:</b> To increase your chances of winning, borrow more and more frequently using the <a href="https://go.gov.sg/nlb-mobile">NLB Mobile app</a>.</p>
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc1" type="checkbox">
-	<label for="acc1">Week 9 Giveaway winners (3 – 9 Oct 2022)</label>
+	<label for="acc1">Week 9 Giveaway winners (3 – 8 Oct 2022)</label>
 <div class="new-accordion-content">
 	
 <table style="width: auto;"></table>
