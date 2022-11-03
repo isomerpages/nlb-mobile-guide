@@ -26,7 +26,9 @@ We understand some patrons may still be receiving alerts through SMS, and we wis
 		<label for="acc3">How do I download and start using the NLB Mobile app?</label>
 		<div class="new-accordion-content">
         <p>
-You can go directly to the App Store or the Google Play Store by scanning the QR code below.</p><br><div style="max-width: 400px"><img src="/images/QRcodeFAQ.jpg" alt="QRcode FAQ"></div></br></p><p>Do more with the NLB Mobile app when you log in with your myLibrary username. Sign up for one now at <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> if you don’t have one.</p>
+You can go directly to the App Store or the Google Play Store by scanning the QR code below.</p>
+			<br><div style="max-width: 400px"><img src="/images/QR code FAQ.jpg" alt="QRcode FAQ"></div>
+		</p><p>Do more with the NLB Mobile app when you log in with your myLibrary username. Sign up for one now at <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> if you don’t have one.</p>
 <p>If you need more help, please approach our staff at the library branches. You may also write in to enquiry@nlb.gov.sg. </p>
         </div>
 
@@ -42,13 +44,13 @@ ii)	E-mail
 			<p><u>NLB Mobile app</u></p>
 				<p>
 This is a good time to get the NLB Mobile app because all library notices and reminders will be sent as push notifications on the app. You must enable your mobile notification both in the NLB Mobile App as well as your devices to receive the push notifications via the app.
-			</p> <p>To get notified via the NLB Mobile app, please follow these steps:</p>
-			<p>i.	Launch the NLB Mobile App</p>
-<p>ii.	When signed in, members to tap on their profile icon at the top right corner which bears their initials</p>
-			<p>iii.	Tap on “Settings”</p>
-			<p>iv.	Tap on “Notification Settings”</p>
-			<p>v.	Enable “Notify me via Mobile Notification”</p>
-			<p>Ensure that your device is set to display push notifications by enabling the necessary functions in its notification settings.</p> 
+			</p> <br>To get notified via the NLB Mobile app, please follow these steps:
+			<br>i.	Launch the NLB Mobile App
+<br>ii.	When signed in, members to tap on their profile icon at the top right corner which bears their initials
+			<br>iii.	Tap on “Settings”
+			<br>iv.	Tap on “Notification Settings”
+			<br>v.	Enable “Notify me via Mobile Notification”
+			<br>Ensure that your device is set to display push notifications by enabling the necessary functions in its notification settings.</p> 
 			<p><u>E-mail</u></p>
-<p>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly. </p><p>You can also manage your library account at our Catalogue stations for free.</p>
+<br>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly.<br><br>You can also manage your library account at our Catalogue stations for free.
         </div>
