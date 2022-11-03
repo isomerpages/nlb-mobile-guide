@@ -28,7 +28,7 @@ We understand some patrons may still be receiving alerts through SMS, and we wis
         <p>
 You can go directly to the App Store or the Google Play Store by scanning the QR code below to download or update the NLB Mobile app:</p>
 			<br><div style="max-width: 400px"><img src="/images/QR code FAQ.jpg" alt="QRcode FAQ"></div>
-		</p><p>Do more with the NLB Mobile app when you log in with your myLibrary username. Sign up for one now at <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> if you don’t have one.</p>
+		<p>Do more with the NLB Mobile app when you log in with your myLibrary username. Sign up for one now at <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> if you don’t have one.</p>
 <p>If you need more help, please approach our staff at the library branches. You may also write in to enquiry@nlb.gov.sg. </p>
         </div>
 
