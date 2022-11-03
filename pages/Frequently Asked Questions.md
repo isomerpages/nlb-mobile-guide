@@ -10,7 +10,7 @@ description: Frequently Asked Questions
         <label for="acc1">Why will NLB no longer send out SMS notices and reminders? </label>
         <div class="new-accordion-content">
         <p>  Most patrons are currently receiving regular updates and notifications about NLB’s  programmes and initiatives through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from <b>6 February 2023</b>.
-
+<br><br>
 We understand some patrons may still be receiving alerts through SMS, and we wish to encourage them tap on the NLB Mobile app as a one-stop portal for a fuller suite of services. Through the NLB Mobile App, they can find a host of library-related activities such as searching and browsing of NLB collections, borrowing books and other items, receive notices and reminders, and pay outstanding charges conveniently and securely.</p>
         </div>
 
@@ -26,7 +26,7 @@ We understand some patrons may still be receiving alerts through SMS, and we wis
 		<label for="acc3">How do I download and start using the NLB Mobile app?</label>
 		<div class="new-accordion-content">
         <p>
-You can go directly to the App Store or the Google Play Store by scanning the QR code below.</p>
+You can go directly to the App Store or the Google Play Store by scanning the QR code below to download or update the NLB Mobile app:</p>
 			<br><div style="max-width: 400px"><img src="/images/QR code FAQ.jpg" alt="QRcode FAQ"></div>
 		</p><p>Do more with the NLB Mobile app when you log in with your myLibrary username. Sign up for one now at <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> if you don’t have one.</p>
 <p>If you need more help, please approach our staff at the library branches. You may also write in to enquiry@nlb.gov.sg. </p>
@@ -42,9 +42,9 @@ ii)	E-mail
 </p>
 <p>Our libraries are equipped with Wireless@SGx and is available to you free. Connect your personal devices to Wireless@SGx and download or update the app, read your email, or surf the Internet at no charge. </p>
 			<p><u>NLB Mobile app</u></p>
-				<p>
+			<br>
 This is a good time to get the NLB Mobile app because all library notices and reminders will be sent as push notifications on the app. You must enable your mobile notification both in the NLB Mobile App as well as your devices to receive the push notifications via the app.
-			</p> <br>To get notified via the NLB Mobile app, please follow these steps:
+	<br><br>To get notified via the NLB Mobile app, please follow these steps:
 			<br>i.	Launch the NLB Mobile App
 <br>ii.	When signed in, members to tap on their profile icon at the top right corner which bears their initials
 			<br>iii.	Tap on “Settings”
