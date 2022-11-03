@@ -9,7 +9,7 @@ description: Frequently Asked Questions
 <input type="checkbox" id="acc1">
         <label for="acc1">Why will NLB no longer send out SMS notices and reminders? </label>
         <div class="new-accordion-content">
-        <p>  Most patrons are currently receiving regular updates and notifications about NLB’s  programmes and initiatives through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from <b>6 February 2023</b>.
+        <p>  Most patrons are currently receiving notifications about their library transactions through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from <b>6 February 2023</b>.
 <br><br>
 We understand some patrons may still be receiving alerts through SMS, and we wish to encourage them tap on the NLB Mobile app as a one-stop portal for a fuller suite of services. Through the NLB Mobile App, they can find a host of library-related activities such as searching and browsing of NLB collections, borrowing books and other items, receive notices and reminders, and pay outstanding charges conveniently and securely.</p>
         </div>
@@ -37,9 +37,8 @@ You can go directly to the App Store or the Google Play Store by scanning the QR
 		<label for="acc4">How do I continue to receive notices and reminders from NLB? </label>
 		<div class="new-accordion-content">
         <p>There are two key ways to receive notices and reminders:
-i)	NLB Mobile app
-ii)	E-mail 
-</p>
+			<br>i)	NLB Mobile app
+<br>ii)	E-mail (patrons would have registered their e-mail addresses when they sign up for their library membership and myLibrary Username)
 <p>Our libraries are equipped with Wireless@SGx and is available to you free. Connect your personal devices to Wireless@SGx and download or update the app, read your email, or surf the Internet at no charge. </p>
 			<p><u>NLB Mobile app</u></p>
 			<br>
@@ -52,5 +51,5 @@ This is a good time to get the NLB Mobile app because all library notices and re
 			<br>v.	Enable “Notify me via Mobile Notification”
 			<br>Ensure that your device is set to display push notifications by enabling the necessary functions in its notification settings.
 			<p><u>E-mail</u></p>
-<br>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly.<br><br>You can also manage your library account at our Catalogue stations for free.
+<br>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly. If you have not provided us with a valid e-mail address, please do so via your myLibrary account or in your Profile Settings of the NLB Mobile pp.<br><br>You can also manage your library account at our Catalogue stations for free.
         </div>
