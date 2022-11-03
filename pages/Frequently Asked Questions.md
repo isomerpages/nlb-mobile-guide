@@ -51,5 +51,5 @@ This is a good time to get the NLB Mobile app because all library notices and re
 			<br>v.	Enable “Notify me via Mobile Notification”
 			<br>Ensure that your device is set to display push notifications by enabling the necessary functions in its notification settings.
 			<p><u>E-mail</u></p>
-<br>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly. If you have not provided us with a valid e-mail address, please do so via your myLibrary account or in your Profile Settings of the NLB Mobile pp.<br><br>You can also manage your library account at our Catalogue stations for free.
+<br>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly. If you have not provided us with a valid e-mail address, please do so via your myLibrary account or in your Profile Settings of the NLB Mobile app.<br><br>You can also manage your library account at our Catalogue stations for free.
         </div>
