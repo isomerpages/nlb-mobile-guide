@@ -35,7 +35,8 @@ We understand some patrons may still be receiving alerts through SMS, and we wis
 <p>To get notified via the NLB Mobile app, please follow these steps:</p>
 <ol>
 <li>Launch the NLB Mobile App</li>
-<li>When signed in, members to tap on their profile icon at the top right corner which bears their initials<br/><div style="max-width:300px"><img src="/images/step2-faq-sms-cessation.png" border="1" alt="Step 2 of mobile notification setting" /></div></li>
+<li>When signed in, members to tap on their profile icon at the top right corner which bears their initials<br/>
+<div style="max-width:300px"><img src="/images/step2-faq-sms-cessation.png" style="border: 1px solid #6699CC;" alt="Step 2 of mobile notification setting" /></div></li>
 <li>Tap on “Settings”</li>
 <li>Tap on “Notification Settings”</li>
 <li>Enable “Notify me via Mobile Notification”</li>
