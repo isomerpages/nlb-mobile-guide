@@ -9,7 +9,7 @@ description: Frequently Asked Questions
 <input type="checkbox" id="acc1">
 		<label for="acc1">How do I continue to receive notices and reminders from NLB? </label>
 		<div class="new-accordion-content">
-        <p>There are two key ways to receive notices and reminders:
+			<p>There are two key ways to receive notices and reminders:</p>
 			<br>i)	NLB Mobile app
 <br>ii)	E-mail (patrons would have registered their e-mail addresses when they sign up for their library membership and myLibrary Username)
 <p>Our libraries are equipped with Wireless@SGx and is available to you free. Connect your personal devices to Wireless@SGx and download or update the app, read your email, or surf the Internet at no charge. </p>
@@ -25,7 +25,7 @@ This is a good time to get the NLB Mobile app because all library notices and re
 			<br>Ensure that your device is set to display push notifications by enabling the necessary functions in its notification settings.
 			<p><u>E-mail</u></p>
 <br>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly. If you have not provided us with a valid e-mail address, please do so via your myLibrary account or in your Profile Settings of the NLB Mobile app.<br><br>You can also manage your library account at our Catalogue stations for free. 
-        
+	</div>
 	
 <div class="new-accordion">          
 <input type="checkbox" id="acc2">
