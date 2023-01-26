@@ -22,7 +22,7 @@ description: Frequently Asked Questions
         <label for="acc2">When will NLB stop sending out SMS notices and reminder</label>
 <div class="new-accordion-content">
 
-	h
+	h</div>
 
 <div class="new-accordion">       
 		<input type="checkbox" id="acc2">
