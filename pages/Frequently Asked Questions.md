@@ -25,7 +25,7 @@ description: Frequently Asked Questions
 <label for="acc3">How do I continue to receive notices and reminders from NLB?</label>
 <div class="new-accordion-content">
 <p>There are two key ways to receive notices and reminders:</p>
-<ol style="list-style-type:lower-roman">
+<ol>
 <li>NLB Mobile app</li>
 <li>E-mail<br/>(patrons would have registered their e-mail addresses when they sign up for their library membership and myLibrary username)</li>
 </ol>
@@ -33,7 +33,7 @@ description: Frequently Asked Questions
 <h4>NLB Mobile app</h4>
 <p>This is a good time to get the NLB Mobile app because all library notices and reminders will be sent as push notifications on the app. You must enable your mobile notification both in the NLB Mobile App as well as your devices to receive the push notifications via the app.</p>
 <p>To get notified via the NLB Mobile app, please follow these steps:</p>
-<ol style="list-style-type:lower-roman">
+<ol>
 <li>Launch the NLB Mobile App</li>
 <li>When signed in, members to tap on their profile icon at the top right corner which bears their initials</li>
 <li>Tap on “Settings”</li>
