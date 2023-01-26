@@ -53,6 +53,6 @@ description: Frequently Asked Questions
 <p>You can go directly to the App Store or the Google Play Store by scanning the QR code below to download or update the NLB Mobile app:</p>
 <p><div style="max-width: 400px"><img src="/images/QR code FAQ.jpg" alt="QRcode FAQ" /></div></p>
 <p>Do more with the NLB Mobile app when you log in with your myLibrary username. Sign up for one now at <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> if you don’t have one.</p>
-<p>If you need more help, please approach our staff at the library branches. You may also write in to <a href="mailto:enquiry@nlb.gov.sg?cc=nln_mobile_app@nlb.gov.sg&subject=SMS%20Cessation%20Enquiry">enquiry@nlb.gov.sg</a>.</p>
+<p>If you need more help, please approach our staff at the library branches. You may also write in to <a href="mailto:enquiry@nlb.gov.sg?cc=nlb_mobile_app@nlb.gov.sg&subject=SMS%20Cessation%20Enquiry">enquiry@nlb.gov.sg</a>.</p>
 </div>
 </div>
