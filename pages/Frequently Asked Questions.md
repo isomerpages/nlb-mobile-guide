@@ -7,7 +7,7 @@ description: Frequently Asked Questions
 
 <div class="new-accordion">          
 	<input type="checkbox" id="acc1">
-    <label for="acc2">Why will NLB no longer send out SMS notices and reminders</label>
+    <label for="acc1">Why will NLB no longer send out SMS notices and reminders</label>
 	<div class="new-accordion-content">
 		<p>
 			Most patrons are currently receiving notifications about their library transactions through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from <strong>6 February 2023</strong>.
@@ -20,7 +20,7 @@ description: Frequently Asked Questions
 
 <div class="new-accordion">       
 		<input type="checkbox" id="acc2">
-		<label for="acc3">When will NLB stop sending out SMS notices and reminders</label>
+		<label for="acc2">When will NLB stop sending out SMS notices and reminders</label>
 		<div class="new-accordion-content">
         	<p>
 				NLB will stop its SMS notices and reminders (except OTP) from <strong>6 February 2023.</strong>
@@ -32,8 +32,8 @@ description: Frequently Asked Questions
 </div>
 
 <div class="new-accordion">
-	<input type="checkbox" id="acc1">
-	<label for="acc1">How do I continue to receive notices and reminders from NLB?</label>
+	<input type="checkbox" id="acc3">
+	<label for="acc3">How do I continue to receive notices and reminders from NLB?</label>
 	<div class="new-accordion-content">
 		<p>There are two key ways to receive notices and reminders:</p>
 		<ol style="list-style-type:lower-roman">
