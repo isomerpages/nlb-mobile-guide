@@ -22,7 +22,7 @@ We understand some patrons may still be receiving alerts through SMS, and we wis
 </div>
 <div class="new-accordion">
 <input type="checkbox" id="acc3"/>
-<label for="acc3">How do I continue to receive notices and reminders from NLB?</label>
+	<label for="acc3">How do I <strong>continue to receive notices and reminders</strong> from NLB?</label>
 <div class="new-accordion-content">
 <p>There are two key ways to receive notices and reminders:</p>
 <ol>
