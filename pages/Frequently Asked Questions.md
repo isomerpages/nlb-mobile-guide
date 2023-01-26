@@ -8,8 +8,8 @@ description: Frequently Asked Questions
 <input type="checkbox" id="acc1"/>
 <label for="acc1">Why will NLB no longer send out SMS notices and reminders</label>
 <div class="new-accordion-content">
-<p>Most patrons are currently receiving notifications about their library transactions through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from <strong>6 February 2023</strong>.</p>
-<p>We understand some patrons may still be receiving alerts through SMS, and we wish to encourage them tap on the NLB Mobile app as a one-stop portal for a fuller suite of services. Through the NLB Mobile App, they can find a host of library-related activities such as searching and browsing of NLB collections, borrowing books and other items, receive notices and reminders, and pay outstanding charges conveniently and securely.</p>
+Most patrons are currently receiving notifications about their library transactions through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from <strong>6 February 2023</strong>.<br/><br/>
+We understand some patrons may still be receiving alerts through SMS, and we wish to encourage them tap on the NLB Mobile app as a one-stop portal for a fuller suite of services. Through the NLB Mobile App, they can find a host of library-related activities such as searching and browsing of NLB collections, borrowing books and other items, receive notices and reminders, and pay outstanding charges conveniently and securely.
 </div>
 </div>
 <div class="new-accordion">
@@ -35,7 +35,7 @@ description: Frequently Asked Questions
 <p>To get notified via the NLB Mobile app, please follow these steps:</p>
 <ol>
 <li>Launch the NLB Mobile App</li>
-<li>When signed in, members to tap on their profile icon at the top right corner which bears their initials<br/><div style="max-width: 300px"><img src="/images/step2-faq-sms-cessation.png" alt="QRcode FAQ" /><</li>
+<li>When signed in, members to tap on their profile icon at the top right corner which bears their initials<br/><div style="max-width:300px"><img src="/images/step2-faq-sms-cessation.png" border="1" alt="Step 2 of mobile notification setting" /></div></li>
 <li>Tap on “Settings”</li>
 <li>Tap on “Notification Settings”</li>
 <li>Enable “Notify me via Mobile Notification”</li>
@@ -51,8 +51,8 @@ description: Frequently Asked Questions
 <label for="acc4">How do I download and start using the NLB Mobile app?</label>
 <div class="new-accordion-content">
 <p>You can go directly to the App Store or the Google Play Store by scanning the QR code below to download or update the NLB Mobile app:</p>
-<p><div style="max-width: 300px"><img src="/images/QR code FAQ.jpg" alt="QRcode FAQ" /></div></p>
+<p><div style="max-width:300px"><img src="/images/QR code FAQ.jpg" alt="QRcode FAQ" /></div></p>
 <p>Do more with the NLB Mobile app when you log in with your myLibrary username. Sign up for one now at <a href="https://account.nlb.gov.sg">https://account.nlb.gov.sg</a> if you don’t have one.</p>
-<p>If you need more help, please approach our staff at the library branches. You may also write in to <a href="mailto:enquiry@nlb.gov.sg?cc=nlb_mobile_app@nlb.gov.sg&subject=SMS%20Cessation%20Enquiry">enquiry@nlb.gov.sg</a>.</p>
+<p>If you need more help, please approach our staff at the library branches. You may also write in to <a href="mailto:enquiry@nlb.gov.sg?subject=SMS%20Cessation%20Enquiry">enquiry@nlb.gov.sg</a>.</p>
 </div>
 </div>
