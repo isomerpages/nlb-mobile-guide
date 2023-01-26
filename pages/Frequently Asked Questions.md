@@ -18,11 +18,6 @@ description: Frequently Asked Questions
 	</div>
 </div>
 
-<input type="checkbox" name="acc" id="acc2">
-        <label for="acc2">When will NLB stop sending out SMS notices and reminder</label>
-<div class="new-accordion-content">
-
-	h</div>
 
 <div class="new-accordion">       
 		<input type="checkbox" id="acc2">
