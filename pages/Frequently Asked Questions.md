@@ -32,7 +32,7 @@ This is a good time to get the NLB Mobile app because all library notices and re
 <input type="checkbox" id="acc2">
         <label for="acc2">Why will NLB no longer send out SMS notices and reminders</label>
         <div class="new-accordion-content">
-        <p>  Most patrons are currently receiving notifications about their library transactions through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from <b>6 February 2023</p>.
+        <p>  Most patrons are currently receiving notifications about their library transactions through its Mobile App. As such, NLB will stop sending out SMS notices and reminders (except OTP) from 6 February 2023</p>.
 <p>
 We understand some patrons may still be receiving alerts through SMS, and we wish to encourage them tap on the NLB Mobile app as a one-stop portal for a fuller suite of services. Through the NLB Mobile App, they can find a host of library-related activities such as searching and browsing of NLB collections, borrowing books and other items, receive notices and reminders, and pay outstanding charges conveniently and securely.</p>
         </div>
@@ -41,7 +41,8 @@ We understand some patrons may still be receiving alerts through SMS, and we wis
 <input type="checkbox" id="acc3">
         <label for="acc3">When will NLB stop sending out SMS notices and reminders</label>
         <div class="new-accordion-content">
-					<p>NLB will stop its SMS notices and reminders (except OTP) from <b>6 February 2023.</b></p><p> Instances of when OTP will be triggered include when patrons want to use the Multimedia Stations for printing and surfing the Internet and when patrons want to retrieve and/or reset their myLibrary Usernames and passwords.</p>
+					<p>NLB will stop its SMS notices and reminders (except OTP) from <b>6 February 2023.</b></p>
+					<p> Instances of when OTP will be triggered include when patrons want to use the Multimedia Stations for printing and surfing the Internet and when patrons want to retrieve and/or reset their myLibrary Usernames and passwords.</p>
         </div>
 
 <div class="new-accordion">          
