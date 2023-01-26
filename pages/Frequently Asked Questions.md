@@ -35,7 +35,7 @@ description: Frequently Asked Questions
 <p>To get notified via the NLB Mobile app, please follow these steps:</p>
 <ol>
 <li>Launch the NLB Mobile App</li>
-<li>When signed in, members to tap on their profile icon at the top right corner which bears their initials</li>
+<li>When signed in, members to tap on their profile icon at the top right corner which bears their initials<br/><div style="max-width: 300px"><img src="/images/step2-faq-sms-cessation.png" alt="QRcode FAQ" /><</li>
 <li>Tap on “Settings”</li>
 <li>Tap on “Notification Settings”</li>
 <li>Enable “Notify me via Mobile Notification”</li>
