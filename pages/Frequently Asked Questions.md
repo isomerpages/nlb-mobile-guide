@@ -37,13 +37,13 @@ We understand some patrons may still be receiving alerts through SMS, and we wis
 <li>Launch the NLB Mobile App</li>
 <li>When signed in, members to tap on their profile icon at the top right corner which bears their initials<br/>
 <div style="max-width:300px"><img src="/images/step2-faq-sms-cessation.png" style="border: 1px solid #6699CC;" alt="Step 2 of mobile notification setting" /></div></li>
-<li>Tap on “Settings”<br/>
+<li>Tap on “Profile settings”<br/>
 <div style="max-width:300px"><img src="/images/step3-faq-sms-cessation.png" style="border: 1px solid #6699CC;" alt="Step 3 of mobile notification setting" /></div></li>
-<li>Tap on “Notification Settings”</li>
-<li>Enable “Notify me via Mobile Notification”<br/>
+<li>Tap on “Notification Settings”<br/>
 <div style="max-width:300px"><img src="/images/step4-faq-sms-cessation.png" style="border: 1px solid #6699CC;" alt="Step 4 of mobile notification setting" /></div></li>
-<li>Ensure that your device is set to display push notifications by enabling the necessary functions in its notification settings.<br/>
+<li>Enable “Notify me via Mobile Notification”<br/>
 <div style="max-width:300px"><img src="/images/step5-faq-sms-cessation.png" style="border: 1px solid #6699CC;" alt="Step 5 of mobile notification setting" /></div></li>
+<li>Ensure that your device is set to display push notifications by enabling the necessary functions in its notification settings.</li>
 </ol>
 <h4>E-mail</h4>
 <p>If you have registered an e-mail address with us, you will continue to receive notices and reminders at that e-mail. Please verify your email address and update it accordingly. If you have not provided us with a valid e-mail address, please do so via your myLibrary account or in your Profile Settings of the NLB Mobile app.</p>
