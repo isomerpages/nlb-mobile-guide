@@ -1,5 +1,5 @@
 ---
-permalink: /get-started-with/myLibrary/
+permalink: /get-started-with/mylibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
 ---

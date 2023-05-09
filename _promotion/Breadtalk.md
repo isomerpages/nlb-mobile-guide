@@ -1,6 +1,6 @@
 ---
 title: Breadtalk
-permalink: /promotion/Breadtalk
+permalink: /promotion/breadtalk/
 description: ""
 ---
 <h3>Frequently Asked Questions on the collaboration with BreadTalk to promote

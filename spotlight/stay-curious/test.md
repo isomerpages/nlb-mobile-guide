@@ -1,7 +1,7 @@
 ---
 title: testing
 date: '2020-05-6'
-permalink: /spotlight/kids/test
+permalink: /spotlight/kids/test/
 description: 'Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.'
 image: /images/PL-1-header.jpg
 

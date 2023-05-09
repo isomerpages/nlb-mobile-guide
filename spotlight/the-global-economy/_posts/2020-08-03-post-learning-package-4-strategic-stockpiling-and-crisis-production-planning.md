@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 4- Strategic Stockpiling and Crisis Production Planning'
 date: 2020-08-03T00:00:00.000Z
-permalink: /spotlight/the-global-economy/strategic-stockpiling-crisis-production-planning
+permalink: /spotlight/the-global-economy/strategic-stockpiling-crisis-production-planning/
 description: 'The importance of strategic stockpiling comes to the forefront when global supply chains and production lines are disrupted during times of crisis. Stockpiling is not only about storing supplies and equipment but a broader consideration of what are the more pressing dangers or threats that may disrupt national economies and livelihoods.'
 image: /images/NL-b4-overview.jpg
 

@@ -11,16 +11,16 @@ title: 'Top Tips for Avid Readers'
 <a href="/images/Reader_highres.png">Click to enlarge</a>
 
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
-<p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
+<p>Find out more about the <a href="/get-started-with/libby/">Libby app</a>.</p>
 <p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
-<p><h1>More Tips</h1></p>
+<p></p><h1>More Tips</h1><p></p>
 <div class="acc-kontainer">          
 	<div>
-		<input type="radio" name="acc" id="acc1" checked>
+		<input type="radio" name="acc" id="acc1" checked="">
 		<label for="acc1"><i></i> Any recommendations on what to read next?</label>
 		<div class="acc-body">
 			<p><a href="https://go.nlb.gov.sg/nlbmobile">Install or update the NLB Mobile app</a> and take a look at the Librarian’s Pick section, or scroll down to look at other selections. The Librarian’s Pick title will always be available while it’s being featured - no waiting time required!</p>
-			<p>You could also launch the Libby app and tap on the 'Library' button located at the bottom left corner of your screen, and scroll down to browse book lists by category,  e.g. thrillers or what’s trending. Just tap on the theme you’re in the mood for, and select 'Refine' > 'Availability' > 'Available Now' if you only want to see titles you can borrow immediately. Let Libby lead you to your next great read!</p>
+			<p>You could also launch the Libby app and tap on the 'Library' button located at the bottom left corner of your screen, and scroll down to browse book lists by category,  e.g. thrillers or what’s trending. Just tap on the theme you’re in the mood for, and select 'Refine' &gt; 'Availability' &gt; 'Available Now' if you only want to see titles you can borrow immediately. Let Libby lead you to your next great read!</p>
 		</div>
 	</div>
     <div>
@@ -35,7 +35,7 @@ title: 'Top Tips for Avid Readers'
 		<br>
 		<img src="/images/Reader_screenshot_audiobook_search_Becoming.jpg" alt="A screenshot showing how to filter search results by eAudiobooks." style="max-width:300px;height:auto;width:auto;">
 		<p>If you just want to explore what is available, tap on 'Library' in the Libby app, scroll down to the yellow 'What's Available?' speech bubble and and select 'Available Audiobooks'. If you listen before bedtime, Libby can automatically pause the narration after a specific amount of time set by you. Open the audiobook and drag down the moon icon to set the sleep timer.</p>
-		<p>Short stories are also a great way to squeeze in some reading. To find them, go to Library -> Explore -> Subjects -> Short Stories in the Libby app. Some of these are also available as audiobooks!</p>
+		<p>Short stories are also a great way to squeeze in some reading. To find them, go to Library -&gt; Explore -&gt; Subjects -&gt; Short Stories in the Libby app. Some of these are also available as audiobooks!</p>
 		</div>
 	</div>
 	<div>

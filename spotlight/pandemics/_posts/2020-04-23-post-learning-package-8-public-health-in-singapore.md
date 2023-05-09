@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 8 - Public Health in Singapore'
 date: 2020-04-23T00:00:00.000Z
-permalink: /spotlight/pandemics/public-health-in-Singapore
+permalink: /spotlight/pandemics/public-health-in-singapore/
 description: 'The World Health Organization defines public health as “the art and science of preventing disease, prolonging life and promoting health through the organised efforts of society.”'
 image: /images/NL-8-public-health.png
 

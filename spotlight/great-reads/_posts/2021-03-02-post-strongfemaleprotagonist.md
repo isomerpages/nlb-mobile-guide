@@ -2,7 +2,7 @@
 layout: post
 title: Fiction Reads 1- Strong Female Protagonist – International Women’s Day
 date: 2021-03-02
-permalink: /spotlight/great-reads/2021-03-02-strongfemaleprotagonist
+permalink: /spotlight/great-reads/2021-03-02-strongfemaleprotagonist/
 description: Fiction is full of exciting and meaningful stories. This series
   features books which tie in with different themes including some articles and
   videos thrown in for good measure. Get a head start on your reading and

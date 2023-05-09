@@ -15,12 +15,12 @@ title: Quick Guide to the New NLB Mobile app
 <table style="width: auto;">
 <tbody>
 <tr>
-	<td style="width: auto; height: auto;"><p><h4>Forgot your myLibrary username/password? Tap on "Forgot username/password".</h4></p>
+	<td style="width: auto; height: auto;"><p></p><h4>Forgot your myLibrary username/password? Tap on "Forgot username/password".</h4><p></p>
 	<div style="max-width: 400px"><img src="/images/Tutorial-screen-Welcome-smartmockup.png" alt="A tutorial screenshot for the app, showing the sign-in screen and how to recover or reset your password if you have forgotten it."></div> 
 	</td>
 </tr>
 <tr>
-	<td style="width: auto; height: auto;"><p><h4>Want to add your family's accounts? Use "Profile".</h4></p>
+	<td style="width: auto; height: auto;"><p></p><h4>Want to add your family's accounts? Use "Profile".</h4><p></p>
 	<div style="max-width: 400px"><img src="/images/Tutorial-screen-AddProfile-smartmockup-small2.png" alt="A tutorial screenshot for the app, showing how to add other profiles (e.g. your family members' accounts)."></div>
 	</td>
 </tr>
@@ -28,7 +28,7 @@ title: Quick Guide to the New NLB Mobile app
 </table>
 
 
-<p><h4>Want to check or renew your loans? Use "Account".</h4></p>
+<p></p><h4>Want to check or renew your loans? Use "Account".</h4><p></p>
 <table style="width: auto;">
 <tbody>
 <tr>
@@ -49,7 +49,7 @@ title: Quick Guide to the New NLB Mobile app
 </tbody>
 </table>
 
-<p><h3>Commonly Asked Questions</h3></p>
+<p></p><h3>Commonly Asked Questions</h3><p></p>
 
 <div class="new-accordion">         
 <input type="checkbox" id="acc10">
@@ -57,13 +57,13 @@ title: Quick Guide to the New NLB Mobile app
 <div class="new-accordion-content">
   <p>Each member can borrow up to 16 eBooks / Audiobooks. You can check your quota by selecting ‘Account’, then ‘eBook Loans’ in the app. </p>
 	<table border="0">
-	<tr>
+	<tbody><tr>
 		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-eBookLoans-quota.png" height="800px" alt="A screenshot from the app, showing the Account tab, where one would find the 'eBook Loans' button."></div></td>
 	</tr>
 	<tr>
 		<td><div style="max-width: 400px"><img src="/images/App-Bookshelf-Mar32021_eBooksLoan-Quota.png" height="800px" alt="A screenshot from the app, showing the details in the 'eBook Loans' page."></div></td>
 	</tr>
-		</table>
+		</tbody></table>
 	<p>
 		Note: eMagazines do not contribute to your eBooks loan quota. For example, if you borrowed 14 eMagazines and 8 eBooks, your loan quota in the NLB Mobile app will show “Borrowed 8/16”. You can borrow an unlimited number of eMagazines.
 	</p>
@@ -84,8 +84,8 @@ title: Quick Guide to the New NLB Mobile app
 </tbody>
 </table>
 <p><strong>Step Two:</strong>Tap on your desired title.</p>
-<p><strong>Step Three:</strong> If you have signed in using your myLibrary username, you can select &lsquo;Borrow&rsquo; on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
-<p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
+<p><strong>Step Three:</strong> If you have signed in using your myLibrary username, you can select ‘Borrow’ on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
+<p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
 <p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Account’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 </div>
@@ -94,10 +94,10 @@ title: Quick Guide to the New NLB Mobile app
 		<label for="acc12">How do I read the eBooks or listen to the Audiobooks that I have borrowed?</label>
 <div class="new-accordion-content">
  <p>Here are the steps:</p>
-<p><b>Step One:</b> In the app, select the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo; and tap on the title you want to read or listen to. </p>
-<p><b>Step Two:</b> You will see a &lsquo;Read in Browser &rsquo; option for eBooks or a &lsquo;Listen in Browser&rsquo; option for audiobooks. Select this option to read / listen online immediately within the app. </p>
+<p><b>Step One:</b> In the app, select the ‘Account’ tab on the bottom right corner, then ‘eBook Loans’ and tap on the title you want to read or listen to. </p>
+<p><b>Step Two:</b> You will see a ‘Read in Browser ’ option for eBooks or a ‘Listen in Browser’ option for audiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi, and may incur charges from your telco.</em></p>
-<p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">&lsquo;Read in Libby&rsquo;</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
+<p>If you wish to read or listen offline, you may select the <a href="/get-started-with/libby/">‘Read in Libby’</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
 </div>
 
 <input type="checkbox" id="acc12a">
@@ -143,7 +143,7 @@ title: Quick Guide to the New NLB Mobile app
         <label for="acc13">How do I return eBooks / Audiobooks?</label>
 <div class="new-accordion-content">
   <p>One of the most convenient features of borrowing eBooks / Audiobooks is that they will be returned automatically after 21 days. But if you are done with them before the 21-day loan period is up, you can also return them earlier so that another person can enjoy them sooner.</p>
-<p>Just go to the ‘Account’ tab on the bottom right corner, then &lsquo;eBook Loans&rsquo;, and select the title you wish to return. You will see the option to &lsquo;Return Title Early&rsquo; under the title&rsquo;s cover image.</p>
+<p>Just go to the ‘Account’ tab on the bottom right corner, then ‘eBook Loans’, and select the title you wish to return. You will see the option to ‘Return Title Early’ under the title’s cover image.</p>
 </div>
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Interacting With Others
 date: 2021-04-07
-permalink: /spotlight/career-in-focus/2021-04-07-interacting-with-others-01
+permalink: /spotlight/career-in-focus/2021-04-07-interacting-with-others-01/
 description: The Singapore economy and business environment are rapidly
   transforming. SkillsFuture Singapore (SSG) has identified 16 generic
   competencies that will help workers keep up with the future economy. These are

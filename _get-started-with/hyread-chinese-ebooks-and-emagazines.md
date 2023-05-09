@@ -7,16 +7,16 @@ title: HyRead Chinese eBooks and eMagazines
 ---
 <h2>About HyRead</h2>
 <p>
-<ul>
+</p><ul>
 <li>Chinese eBooks and eMagazines platform offering mainly titles published in Taiwan, and some publications from Hong Kong, China, Singapore and Malaysia</li>
 <li>A wide variety of books, from fiction to business and comics</li>
 </ul>
-<p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。<a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">点击链接,观看视频学习如何使用Hyread!</a>
+<p>平台主要提供台湾的中文电子书与电子杂志，但也包括了来自香港﹑中国大陆﹑新马等地的中文出版品。内容种类包括文学小说﹑人文﹑商业、漫画等。可供网上阅读或下载到个人电脑及移动装置。<a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&amp;id=2985780164802018" target="_blank" rel="noopener">点击链接,观看视频学习如何使用Hyread!</a>
 </p>
 
-<p><h3>How to Read Chinese eBooks and eMagazines with HyRead</h3></p>
+<p></p><h3>How to Read Chinese eBooks and eMagazines with HyRead</h3><p></p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" title="HyRead video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlNEZW0QDIM" title="HyRead video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 <p>If you are using a laptop or a PC, you can access HyRead from <a href="https://nlbsg.ebook.hyread.com.tw/index.jsp" target="_blank" rel="noopener">its website</a> or the app from the <a href="https://goo.gl/kGEflg" target="_blank" rel="noopener">Microsoft Store</a>.If you are using a mobile device, you can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>. To avoid incurring charges from your telco for exceeding your data quota, we recommend downloading only when there is a WiFi connection available.</p>
@@ -26,7 +26,7 @@ title: HyRead Chinese eBooks and eMagazines
 	<input type="checkbox" id="acc1"><!--question 1-->
         <label for="acc1">What can I do with the HyRead 3 app?</label>
         <div class="new-accordion-content"><!--answer for question 1-->
-		<p>After signing in with your <a href="/get-started-with/myLibrary/" target="_blank" rel="noopener">myLibrary ID</a>, you can browse, checkout, download and read Chinese eBooks and eMagazines from NLB’s HyRead collection.</p>
+		<p>After signing in with your <a href="/get-started-with/mylibrary/" target="_blank" rel="noopener">myLibrary ID</a>, you can browse, checkout, download and read Chinese eBooks and eMagazines from NLB’s HyRead collection.</p>
 		<p>You can download the HyRead 3 app from the <a href="https://goo.gl/1ZkUJb">Apple App Store</a> or <a href="https://goo.gl/WNmstc">Google Play Store</a>.</p>
 </div><!--close div for question 1-->
 
@@ -86,11 +86,11 @@ title: HyRead Chinese eBooks and eMagazines
 <div class="new-accordion-content">
   <p>Borrowed and downloaded eBooks / eMagazines are available under the ‘Borrowed’ tab.</p>
 <table>
-	<tr>
+	<tbody><tr>
 		<td><img src="/images/HyRead_borrowed_1.png"></td>
 		<td><img src="/images/HyRead_borrowed_2.png"></td>
 	</tr>
-	</table>
+	</tbody></table>
 </div>
 
 <input type="checkbox" id="acc7">
@@ -98,17 +98,17 @@ title: HyRead Chinese eBooks and eMagazines
 <div class="new-accordion-content">
   <p>Yes, you can return an eBook and/or eMagazine early via the ‘HyRead 3’ mobile app. Go to the ‘Borrowed’ tab, tap on the 3 dots under the cover image, then tap on the ‘Return’ button.</p>
 	<table>
-	<tr>
+	<tbody><tr>
 		<td><img src="/images/HyRead_return_1.png"></td>
 		<td><img src="/images/HyRead_return_2.png"></td>
 	</tr>
-	</table>
+	</tbody></table>
 </div>
 
 <input type="checkbox" id="acc8">
 <label for="acc8">Are there any charges for reading, borrowing or reserving the eBooks and/or eMagazines in HyRead?</label>
 <div class="new-accordion-content">
-    	  <p>No, it is free of charge as long as you have logged in with your <a href="/get-started-with/myLibrary/" target="_blank" rel="noopener">myLibrary ID</a>. Tip: To avoid incurring charges from your telco for exceeding your data quota, download the HyRead 3 app, eBooks and eMagazines only when there is a WiFi connection available.</p>
+    	  <p>No, it is free of charge as long as you have logged in with your <a href="/get-started-with/mylibrary/" target="_blank" rel="noopener">myLibrary ID</a>. Tip: To avoid incurring charges from your telco for exceeding your data quota, download the HyRead 3 app, eBooks and eMagazines only when there is a WiFi connection available.</p>
 </div>
 </div><!--close accordion-->
 

@@ -1,7 +1,7 @@
 ---
 title: Learning Package 12 - Keeping Healthy
 date: 2020-06-15T00:00:00.000Z
-permalink: /spotlight/wellbeing/2020-06-15-keeping-healthy
+permalink: /spotlight/wellbeing/2020-06-15-keeping-healthy/
 description: What we read feeds our soul and this list of eBooks and videos have
   suggestions to help you stay calm.
 image: /images/PL-12-Intro-image-keeping-healthy.jpg

@@ -1,7 +1,7 @@
 ---
 title: Learning Package 4 - Home Sweet Office
 date: 2020-04-20T00:00:00.000Z
-permalink: /spotlight/wellbeing/2020-04-20-home-sweet-office
+permalink: /spotlight/wellbeing/2020-04-20-home-sweet-office/
 description: Working from home is the new reality for many. Turn your home into
   an inspiring sanctuary. Relegate spaces for work, play and relaxation. Whether
   you are a newbie or veteran, here is a list of resources to enrich your work

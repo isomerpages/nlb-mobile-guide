@@ -1,7 +1,7 @@
 ---
 title: 'Stay Curious with Your Child - Yoga for Kids'
 date: 2020-05-13T00:00:00.000Z
-permalink: /spotlight/stay-curious/2020-05-13-yogaforkids
+permalink: /spotlight/stay-curious/2020-05-13-yogaforkids/
 description: 'Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.'
 image: /images/PL-1-header.jpg
 

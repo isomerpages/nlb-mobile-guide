@@ -1,7 +1,7 @@
 ---
 title: Learning Package 11 - Improving Your Social Media Game
 date: 2020-06-08T00:00:00.000Z
-permalink: /spotlight/wellbeing/2020-06-08-improving-your-social-media-game
+permalink: /spotlight/wellbeing/2020-06-08-improving-your-social-media-game/
 description: What we read feeds our soul and this list of eBooks and videos have
   suggestions to help you stay calm
 image: /images/PL-11-Intro-image.jpg

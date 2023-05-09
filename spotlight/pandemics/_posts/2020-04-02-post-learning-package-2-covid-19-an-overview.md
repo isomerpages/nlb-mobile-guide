@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 2 - COVID-19 - An Overview'
 date: 2020-04-02T00:00:00.000Z
-permalink: /spotlight/pandemics/covid-19-overview
+permalink: /spotlight/pandemics/covid-19-overview/
 description: 'COVID-19 is a respiratory illness caused by a new type of coronavirus (SARS-CoV-2) whose origins have yet to be determined.'
 image: /images/NL-2-overview.jpg
 

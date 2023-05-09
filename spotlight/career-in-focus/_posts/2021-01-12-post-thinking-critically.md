@@ -1,7 +1,7 @@
 ---
 title: Thinking Critically
 date: 2021-01-12T00:00:00.000Z
-permalink: /spotlight/career-in-focus/2021-01-12-thinking-critically-01
+permalink: /spotlight/career-in-focus/2021-01-12-thinking-critically-01/
 description: The Singapore economy and business environment are rapidly
   transforming. SkillsFuture Singapore (SSG) has identified 16 generic
   competencies that will help workers keep up with the future economy. These are

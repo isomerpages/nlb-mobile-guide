@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 3 - Home-based Learning'
 date: 2020-05-11T00:00:00.000Z
-permalink: /spotlight/a-new-normal/home-based-learning
+permalink: /spotlight/a-new-normal/home-based-learning/
 description: 'In response to COVID-19, many schools across the globe have closed and transitioned to home-based learning (HBL), or distance learning, affecting over 90 percent of the world’s student population.'
 image: /images/NL-a3-overview.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 1 - Viruses - An Overview'
 date: 2020-03-27T00:00:00.000Z
-permalink: /spotlight/pandemics/viruses-an-overview
+permalink: /spotlight/pandemics/viruses-an-overview/
 description: 'Viruses are microscopic organisms that require a living host such as people, plants or animals to survive and reproduce.'
 image: /images/NL-1-overview.jpg
 
