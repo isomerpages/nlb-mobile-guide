@@ -1,7 +1,7 @@
 ---
 title: 'Stay Curious with Your Child - High-Intensity Interval Training (HIIT) Workout for Kids'
 date: 2020-05-27T00:00:00.000Z
-permalink: /spotlight/stay-curious/2020-05-27-HIIT-workout-for-kids
+permalink: /spotlight/stay-curious/2020-05-27-hiit-workout-for-kids/
 description: 'Get the whole family moving with this 8-minute HIIT workout. Have fun sweating it out!'
 image: /images/PL-1-header.jpg
 

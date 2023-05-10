@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 3 - Supply Chains in a Globalised World'
 date: 2020-07-20T00:00:00.000Z
-permalink: /spotlight/the-global-economy/supply-chains
+permalink: /spotlight/the-global-economy/supply-chains/
 description: 'The COVID-19 pandemic has drastically changed the global economy, creating uncertainties in demand and disruptions in global supply chains. These have in turn not only restricted movements of people and materials but also caused delivery delays and shortages of goods and materials.'
 image: /images/NL-b3-overview.jpg
 

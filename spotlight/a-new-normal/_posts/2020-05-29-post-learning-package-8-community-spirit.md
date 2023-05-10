@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 8 - Community Spirit'
 date: 2020-05-29T00:00:00.000Z
-permalink: /spotlight/a-new-normal/community-spirit
+permalink: /spotlight/a-new-normal/community-spirit/
 description: 'The COVID-19 pandemic is more than just a health crisis. It encompasses human, economic and social crises that have indiscriminately disrupted and affected people’s lives and livelihoods.'
 image: /images/NL-a8-main.png
 

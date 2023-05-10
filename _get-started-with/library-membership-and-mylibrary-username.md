@@ -1,5 +1,5 @@
 ---
-permalink: /get-started-with/myLibrary/
+permalink: /get-started-with/mylibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
 ---
@@ -23,7 +23,7 @@ title: Library Membership and myLibrary username
 <p>If you are already a library member, <a href="https://account.nlb.gov.sg">create a myLibrary ID, or find out if you already have one</a> now.</p> 
 -->
 <p>
-	<a name="membership"><h3>Sign Up for Library Membership Online</h3></a>
+	<a name="membership"></a></p><h3><a name="membership">Sign Up for Library Membership Online</a></h3>
 <p></p>
 <div class="new-accordion">          
 		<input type="checkbox" id="acc1">
@@ -72,8 +72,13 @@ title: Library Membership and myLibrary username
 
 <input type="checkbox" id="acc4">
         <label for="acc4">Can I sign up for library membership online when I am overseas?  Will a One-Time Pin (OTP) be sent?</label>
-        <div class="new-accordion-content"> <p>Yes, you can sign up <a href="https://account.nlb.gov.sg">online</a> with your Singpass when you are overseas. An OTP is <u>not</u> required to complete the registration <b>when you use your Singpass</b>.</p>
-    </div>
+        <div class="new-accordion-content">
+<p>Yes, you can sign up&nbsp;<a href="https://account.nlb.gov.sg">online</a>&nbsp;with your Singpass when you are overseas. You may use the Singpass app or Face Verification to authenticate before proceeding.&nbsp;</p>
+<p>Alternatively, if you are authenticating using your Singpass ID and password, you will need a <b>Singapore-registered mobile number</b> in order to receive a One-Time Password sent to you via SMS before proceeding.</p>
+
+<p>Please refer to the Singpass FAQs for more information<br>
+	https://www.singpass.gov.sg/main/html/faq.html</p>	
+</div>
 
 <input type="checkbox" id="acc5">
         <label for="acc5">If I sign up for membership online, when will the membership be activated? Will I receive a library card?</label>
@@ -131,8 +136,8 @@ The Partner Membership allows member to borrow up to TWENTY-FOUR (24) library it
 </div><!--close new-accordion class-->
 
 <p>
-    <a name="mylibrary"><h3>myLibrary username</h3></a>
-</p>
+    <a name="mylibrary"></a></p><h3><a name="mylibrary">myLibrary username</a></h3>
+<p></p>
 <div class="new-accordion">          
 <input type="checkbox" id="acc11">
 		<label for="acc11">Why do I need a myLibrary username? </label>
@@ -195,7 +200,7 @@ The Partner Membership allows member to borrow up to TWENTY-FOUR (24) library it
         <p><strong> Use the Multimedia Stations</strong></p>
         </td>
         <td style="width: 69.6051%; height: 45px;">
-        <p>These are located at libraries and you can use them to access the Internet and surf NLB&rsquo;s websites</p>
+        <p>These are located at libraries and you can use them to access the Internet and surf NLB’s websites</p>
         </td>
         </tr>
         <tr style="height: 45px;">
@@ -210,7 +215,7 @@ The Partner Membership allows member to borrow up to TWENTY-FOUR (24) library it
         </table>
         <p>You may also use a myLibrary username to:</p>
         <ol>
-        <li><a href="/get-started-with/nlb-mobile/"><strong>Borrow physical items</strong> at the libraries&rsquo; borrowing stations</a> .</li>
+        <li><a href="/get-started-with/nlb-mobile/"><strong>Borrow physical items</strong> at the libraries’ borrowing stations</a> .</li>
         <li><strong>Register for programmes.</strong></li>
         </ol>
         </div>

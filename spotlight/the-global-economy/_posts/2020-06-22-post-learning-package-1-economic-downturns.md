@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 1 - Economic Downturns'
 date: 2020-06-22T00:00:00.000Z
-permalink: /spotlight/the-global-economy/economic-downturns
+permalink: /spotlight/the-global-economy/economic-downturns/
 description: 'An economic downturn or recession is “a significant decline in economic activity spread across the economy, lasting more than a few months.” Economies can slow down within a nation, a specific region or on a global scale. Reasons for recessions can include, but are not limited to, a wide range of internal and external factors such as loss of confidence in investment and the economy, high interest rates, post-war slowdown, wage-price controls, stock market crash and falling housing prices.'
 image: /images/NL-b1-overview.jpg
 

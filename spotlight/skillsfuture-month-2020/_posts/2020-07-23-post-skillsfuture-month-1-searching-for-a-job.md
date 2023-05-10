@@ -1,7 +1,7 @@
 ---
 title: SkillsFuture Month 1-Searching for a Job
 date: 2020-07-23T00:00:00.000Z
-permalink: /spotlight/skillsfuture-month-2020/2020-07-23-job-searching
+permalink: /spotlight/skillsfuture-month-2020/2020-07-23-job-searching/
 description: SkillsFuture Month 2020-In support of SkillsFuture Month, NLB has
   curated learning packages with books, articles and videos, on the areas of job
   search, upskilling, recruitment, and business transformation. Get a head start

@@ -1,5 +1,5 @@
 ---
-permalink: /get-started-with/PressReader/
+permalink: /get-started-with/pressreader/
 breadcrumb: 'eMagazines and eNewspapers'
 description: 'How to Read eMagazines and eNewspapers using NLB Mobile'
 image: /images/NLB-Mobile-logo-square.png

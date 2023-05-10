@@ -48,8 +48,8 @@ colors:
       color: "#01565d"
     - title: media-color-six
       color: "#007722"
-staging: https://staging-nlb-mobile-guide.netlify.app
-prod: https://prod-nlb-mobile-guide.netlify.app
+staging: https://staging.dkour595f8iyi.amplifyapp.com/
+prod: https://master.dkour595f8iyi.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

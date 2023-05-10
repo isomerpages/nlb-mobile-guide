@@ -10,7 +10,7 @@ title: 'Top Tips for Learners'
 <a href="/images/Learner_highres.png">![An infographic describing four ways to learn anytime, anywhere.](/images/Learner.png)</a>
 <a href="/images/Learner_highres.png">Click to enlarge</a>
 
-<head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion {
@@ -50,13 +50,13 @@ title: 'Top Tips for Learners'
   transition: max-height 0.2s ease-out;
 }
 </style>
-</head>
 
-<body>
+
+
 
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
 <p>Find out more about <a href="/get-started-with/enews/">how to access eNewspapers and eMagazines on PressReader</a>.</p>
-<p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
+<p>Find out more about the <a href="/get-started-with/libby/">Libby app</a>.</p>
 <p>Find out more about <a href="/get-started-with/lynda/">LyndaLibrary</a>.</p>
 <h3>I want to learn but I can't seem to find the time to do it! Do you have tips for me?</h3>
 <p>We recommend audiobooks as they allow you to multitask. You can learn something just by listening to audiobooks anytime, anywhere, whether you're stuck in traffic or doing chores. Just search for a subject you wish to explore and tap on 'audiobooks' underneath the search term to see what is available.</p>

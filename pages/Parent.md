@@ -10,19 +10,19 @@ title: 'Top Tips for Families and Children'
 <a href="/images/Parent_highres.png">![An infographic with tips on how to bond through reading and learning.](/images/Parent.png)</a>
 <a href="/images/Parent_highres.png">Click to enlarge</a>
 
-<html>
 
-<head>
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-</head>
 
-<body>
+
+
 
 <p>Find out more about the <a href="/get-started-with/nlb-mobile/">NLB Mobile app</a>.</p>
-<p>Find out more about the <a href="/get-started-with/Libby/">Libby app</a>.</p>
+<p>Find out more about the <a href="/get-started-with/libby/">Libby app</a>.</p>
    <p>Find out more about <a href="https://www.tumblebooklibrary.com/Help.aspx">Tumblebook Library</a>.</p>
-<p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">Libby&rsquo;s 'Read-alongs'</a>.</p>
+<p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">Libby’s 'Read-alongs'</a>.</p>
 <h2>More Tips</h2>
 <div class="acc-kontainer">          
 	<div>
@@ -58,7 +58,7 @@ title: 'Top Tips for Families and Children'
 		<input type="radio" name="acc" id="acc3">
         <label for="acc3"><i></i> eBooks with narration sounds interesting. How do I search for these books?</label>
         <div class="acc-body">
-			<p>In the Libby app, tap on Library -> Explore -> Guide: Kids and scroll down until you see 'I Can Read! Series Read-Alongs' and 'Read-Alongs'.</p>
+			<p>In the Libby app, tap on Library -&gt; Explore -&gt; Guide: Kids and scroll down until you see 'I Can Read! Series Read-Alongs' and 'Read-Alongs'.</p>
 		</div>
     </div>
 
@@ -68,9 +68,10 @@ title: 'Top Tips for Families and Children'
         <div class="acc-body">
 			<p>Both types of interactive eBooks feature professionally-recorded narration that plays along while you read. The animated picture books in Tumblebook Library are fully-animated videos whilst the 'Read-alongs' in Libby are more like eBooks with the words highlighted as they are read.</p>
 			 <p>Find out more about <a href="https://www.tumblebooklibrary.com/Help.aspx">Tumblebook Library</a>.</p>
-<p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">Libby&rsquo;s 'Read-alongs'</a>.</p>
+<p>Find out more about <a href="https://help.overdrive.com/en-us/1152.htm#thundercontent">Libby’s 'Read-alongs'</a>.</p>
    	</div>
 	</div>
 
 
 
+</div>

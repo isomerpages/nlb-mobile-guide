@@ -1,6 +1,6 @@
 ---
 title: National Day Giveaway
-permalink: /promotion/ND/
+permalink: /promotion/nd/
 description: promotion
 ---
 <h2>National Library Board’s (NLB) National Day Giveaway</h2>

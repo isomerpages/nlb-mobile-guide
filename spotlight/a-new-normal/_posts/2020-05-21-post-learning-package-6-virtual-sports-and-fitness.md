@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 6 - Virtual Sports and Fitness'
 date: 2020-05-21T00:00:00.000Z
-permalink: /spotlight/a-new-normal/virtual-sports-and-fitness
+permalink: /spotlight/a-new-normal/virtual-sports-and-fitness/
 description: 'The outbreak of the COVID-19 pandemic has disrupted the sports and fitness industry and severely impacted the staging of sporting events around the world.'
 image: /images/NL-a6-main.jpg
 

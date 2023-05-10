@@ -1,7 +1,7 @@
 ---
 title: Learning Package 9 - Bring the Green In
 date: 2020-05-22T00:00:00.000Z
-permalink: /spotlight/wellbeing/2020-05-22-bring-the-green-in
+permalink: /spotlight/wellbeing/2020-05-22-bring-the-green-in/
 description: What we read feeds our soul and this list of eBooks and videos have
   suggestions to help you stay calm
 image: /images/PL-9-Intro-Image.jpg

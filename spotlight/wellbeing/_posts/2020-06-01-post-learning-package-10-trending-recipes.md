@@ -1,7 +1,7 @@
 ---
 title: Learning Package 10 - Trending Recipes
 date: 2020-06-01T00:00:00.000Z
-permalink: /spotlight/wellbeing/2020-06-01-trending-recipes
+permalink: /spotlight/wellbeing/2020-06-01-trending-recipes/
 description: What we read feeds our soul and this list of eBooks and videos have
   suggestions to help you stay calm.
 image: /images/PL-10-banner-no-text-raw2.jpg

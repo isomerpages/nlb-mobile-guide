@@ -253,7 +253,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 </table>
 <p><strong>Step Two:</strong>Tap on your desired title.</p>
 <p><strong>Step Three:</strong> If you have signed in using your myLibrary ID, you can select ‘Borrow’ on the title details page. If you see a “Reserve” button, it means that all the copies are currently on loan and you have to join a waitlist. eBook reservations are free, while there is a fee to reserve physical items.</p>
-<p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/Libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
+<p><strong>Step Four:</strong> If you have successfully borrowed the title, you will be prompted to choose among these options: continue browsing (for other books), read / listen in browser (online), or <a href="/get-started-with/libby/">read in Libby</a> (to download the book for reading/listening offline).</p>
 <p>You may view all your borrowed eBook / Audiobook titles by selecting the ‘Account’ icon on the bottom right corner of the app, then ‘eBook Loans’.
 	</p>
 </div>
@@ -265,7 +265,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><b>Step One:</b> In the app, select the ‘Account’ tab on the bottom right corner, then ‘eBook Loans’ and tap on the title you want to read or listen to. </p>
 <p><b>Step Two:</b> You will see a ‘Read in Browser ’ option for eBooks or a ‘Listen in Browser’ option for audiobooks. Select this option to read / listen online immediately within the app. </p>
 <p><em>Please note: Reading or listening online will tap on your mobile data allowance if you are not connected to WiFi, and may incur charges from your telco.</em></p>
-<p>If you wish to read or listen offline, you may select the <a href="/get-started-with/Libby/">‘Read in Libby’</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
+<p>If you wish to read or listen offline, you may select the <a href="/get-started-with/libby/">‘Read in Libby’</a> option. The app will automatically launch a free third-party app, Libby, to download the title. If you do not have the Libby app, the NLB Mobile app will prompt you to install it.</p>
 </div>
 
 <input id="acc13" type="checkbox">
@@ -399,8 +399,7 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <p><strong>Step 3:</strong> The Reservations section will display the number of items to be collected. Tap on this.</p>
 <p><strong>Step 4:</strong> Tap the Collect button at the bottom of the screen. If the patron has any outstanding charges to be paid, they will need to make payment first before they can proceed.</p>
 	
-	<p><img alt="Screenshots of Reservation" src="/images/ReservationCollectionsScreenWhite.png" width="200" 
-     height="auto"></p>
+	<p><img alt="Screenshots of Reservation" src="/images/ReservationCollectionsScreenWhite.png" width="200" height="auto"></p>
 	
 <p><strong>Step 5:</strong> On the Reservations for Collection screen, the patron will see the list of reserved items that are ready for collection grouped according to the lockers in which they are placed. If the patron is at a particular library (or within 500m radius of it), the lockers of that library would be displayed at the top. Following this, the patron would see lockers from their preferred libraries. The rest are sorted in alphabetical order according to the names of the library branch and the names of the locker.</p>
 <p><strong>Step 6:</strong> When the patron arrives at the locker in the specified library branch, tap on the Open Locker button. If the item to be collected is age-restricted, the patron will have to verify their account by entering their password.</p>
@@ -416,10 +415,10 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <label for="acc26">How do patrons retrieve their reservations under Assisted Collection?</label>
 <div class="new-accordion-content">
 	<p>Some examples may include
-		<li>When the locker runs out space.</li>
+		</p><li>When the locker runs out space.</li>
 		<li>When the patron had been informed that their reserved items are too big to fit into the locker.</li>
 		<li>In situations where staff would need to personally hand the items to patrons.</li>
-	</p><br>
+	<p></p><br>
       <p><strong>Step 1:</strong> Log into NLB Mobile</p>
 <p><strong>Step 2:</strong> Tap on Account on the menu bar at the bottom of the screen</p>
 <p><strong>Step 3:</strong> The Reservations section will display the number of items to be collected. Tap on this.</p>
@@ -473,4 +472,4 @@ You can also learn more about <a href="#enews">eNewspapers and eMagazines</a>, <
 <label for="acc33">I have questions about Book Bugs.</label>
 <div class="new-accordion-content">
       <p>Please visit the <a href="https://childrenandteens.nlb.gov.sg/events/bookbugsx/">Book Bugs website</a> for more information, e.g. about how to earn points to redeem Book Bugs cards, and how to redeem the cards.</p>
-</div></div></div></div></div>
+</div></div></div></div></div></div>

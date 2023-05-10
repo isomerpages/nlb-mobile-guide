@@ -1,7 +1,7 @@
 ---
 title: 'Stay Curious with Your Child - Science Exploration'
 date: 2020-05-20T00:00:00.000Z
-permalink: /spotlight/stay-curious/2020-05-20-Science-Exploration
+permalink: /spotlight/stay-curious/2020-05-20-science-exploration/
 description: 'Sink or float? Get creative in exploring the concept of density and find out!'
 image: /images/PL-1-header.jpg
 

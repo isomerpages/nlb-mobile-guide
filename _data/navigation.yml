@@ -5,24 +5,24 @@ links:
     url: /get-started-with/NLB-Mobile/
     sublinks:
       - title: "Membership and myLibrary "
-        url: /get-started-with/myLibrary/
+        url: /get-started-with/mylibrary/
       - title: NLB Mobile app
         url: /get-started-with/nlb-mobile/
       - title: eMagazines and eNewspapers
         url: /get-started-with/enews/
       - title: eBooks and Audiobooks
-        url: /get-started-with/Libby/
+        url: /get-started-with/libby/
       - title: HyRead Chinese eBooks and eMagazines
         url: /get-started-with/hyread/
       - title: eLearning
         url: /get-started-with/learn/
   - title: Promotion
-    url: /promotion/ND
+    url: /promotion/nd
     sublinks:
       - title: National Day Giveaway
-        url: /promotion/ND
+        url: /promotion/nd
       - title: Breadtalk
-        url: /promotion/Breadtalk
+        url: /promotion/breadtalk
   - title: Spotlight
     resource_room: true
   - title: Contact Us

@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 2 - Digital Transformation in Businesses'
 date: 2020-05-08T00:00:00.000Z
-permalink: /spotlight/a-new-normal/digital-transformation-in-businesses
+permalink: /spotlight/a-new-normal/digital-transformation-in-businesses/
 description: 'While businesses in recent years have understood the need for digital transformation, the COVID-19 pandemic has radically altered work and business models very quickly.'
 image: /images/NL-a2-main.jpg
 

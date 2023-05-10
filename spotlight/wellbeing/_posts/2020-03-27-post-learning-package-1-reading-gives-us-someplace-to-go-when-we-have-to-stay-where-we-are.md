@@ -2,7 +2,7 @@
 title: Learning Package 1 - Reading Gives Us Someplace to Go When We Have to
   Stay Where We Are
 date: 2020-03-27T00:00:00.000Z
-permalink: /spotlight/wellbeing/2020-03-27-reading-gives-us-someplace-to-go
+permalink: /spotlight/wellbeing/2020-03-27-reading-gives-us-someplace-to-go/
 description: What we read feeds our soul and this list of eBooks, articles and
   videos have suggestions to help you stay calm and feel at peace.
 image: /images/PL-1-intro.jpg

@@ -1,7 +1,7 @@
 ---
 title: 'Learning Package 7 - Social Relationships'
 date: 2020-05-26T00:00:00.000Z
-permalink: /spotlight/a-new-normal/social-relationships
+permalink: /spotlight/a-new-normal/social-relationships/
 description: 'Technological advances have enabled us to access art and culture from across the world in unprecedented ways. Today, we can visit a museum virtually in the middle of the night without crossing the thresholds of our doors.'
 image: /images/NL-a7-overview.jpg
 
