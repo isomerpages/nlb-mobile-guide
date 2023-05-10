@@ -76,8 +76,8 @@ title: Library Membership and myLibrary username
 <p>Yes, you can sign up&nbsp;<a href="https://account.nlb.gov.sg">online</a>&nbsp;with your Singpass when you are overseas. You may use the Singpass app or Face Verification to authenticate before proceeding.&nbsp;</p>
 <p>Alternatively, if you are authenticating using your Singpass ID and password, you will need a <b>Singapore-registered mobile number</b> in order to receive a One-Time Password sent to you via SMS before proceeding.</p>
 
-Please refer to the Singpass FAQs for more information&nbsp;
-https://www.singpass.gov.sg/main/html/faq.html 					
+<p>Please refer to the Singpass FAQs for more information<br>
+	https://www.singpass.gov.sg/main/html/faq.html</p>	
 </div>
 
 <input type="checkbox" id="acc5">
