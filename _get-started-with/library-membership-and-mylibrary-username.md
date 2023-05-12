@@ -89,7 +89,7 @@ title: Library Membership and myLibrary username
 <input type="checkbox" id="acc5a">
         <label for="acc5a">[For Foreigners Only] Can I renew my membership online?</label>
         <div class="new-accordion-content">
-        <p>Yes, you can renew <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password. You will need a debit/credit card to pay for the registration fee ($10.50; payable again upon renewal, if membership has expired for more than 6 months) and the annual membership fee ($42.80).</p>
+        <p>Yes, you can renew <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password. You will need a debit/credit card to pay for the registration fee ($10.59; payable again upon renewal, if membership has expired for more than 6 months) and the annual membership fee ($42.80).</p>
         </div>
 
 <input type="checkbox" id="acc6">
@@ -112,7 +112,7 @@ The Partner Membership allows member to borrow up to TWENTY-FOUR (24) library it
 
 </p>
 	<h4>For Foreigners</h4>
-	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($42.80). The registration fee ($10.50) will be waived. To sign up, please <strong>approach a staff member at any library</strong>. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
+	<p>Currently, NLB Partner Membership is only free for PAssion ez-link Holders who are Singaporeans or PRs. Foreigners can choose to register as a Partner Member by paying the annual fee ($43.20). The registration fee ($10.59) will be waived. To sign up, please <strong>approach a staff member at any library</strong>. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</p>
 	<p>(Note: If there are issues with your membership, please visit any library, except library@Chinatown, with a valid PAssion card and approach staff for assistance.)</p>
           </div>
 
