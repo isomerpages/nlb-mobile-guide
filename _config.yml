@@ -46,8 +46,6 @@ colors:
       color: "#5a1954"
     - title: media-color-five
       color: "#01565d"
-    - title: media-color-six
-      color: "#007722"
 staging: https://staging.dkour595f8iyi.amplifyapp.com/
 prod: https://master.dkour595f8iyi.amplifyapp.com/
 plugins:
