@@ -89,7 +89,7 @@ title: Library Membership and myLibrary username
 <input type="checkbox" id="acc5a">
         <label for="acc5a">[For Foreigners Only] Can I renew my membership online?</label>
         <div class="new-accordion-content">
-        <p>Yes, you can renew <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password. You will need a debit/credit card to pay for the registration fee ($10.59; payable again upon renewal, if membership has expired for more than 6 months) and the annual membership fee ($42.80).</p>
+        <p>Yes, you can renew <a href="https://account.nlb.gov.sg">online</a> if you have a Singpass ID and password. You will need a debit/credit card to pay for the registration fee ($10.59; payable again upon renewal, if membership has expired for more than 6 months) and the annual membership fee ($43.20).</p>
         </div>
 
 <input type="checkbox" id="acc6">
