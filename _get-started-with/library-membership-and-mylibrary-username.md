@@ -77,7 +77,7 @@ title: Library Membership and myLibrary username
 <p>Alternatively, if you are authenticating using your Singpass ID and password, you will need a <b>Singapore-registered mobile number</b> in order to receive a One-Time Password sent to you via SMS before proceeding.</p>
 
 <p>Please refer to the Singpass FAQs for more information<br>
-	https://www.singpass.gov.sg/main/html/faq.html</p>	
+	<a href="https://www.singpass.gov.sg/main/html/faq.html">https://www.singpass.gov.sg/main/html/faq.html</a></p>	
 </div>
 
 <input type="checkbox" id="acc5">
