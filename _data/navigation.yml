@@ -4,7 +4,7 @@ links:
     false_collection: true
     url: /get-started-with/NLB-Mobile/
     sublinks:
-      - title: "Membership and myLibrary "
+      - title: Membership and myLibrary
         url: /get-started-with/mylibrary/
       - title: NLB Mobile app
         url: /get-started-with/nlb-mobile/

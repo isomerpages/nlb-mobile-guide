@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: NLB Mobile app - User Guide
-description: A guide to using the NLB Mobile app and our digital library
+title: National Library Board - Guide to NLB Mobile app
+description: Find out how the NLB Mobile app can be your personal library to let
+  you read and learn anytime, anywhere. Get help on using NLB Mobile.
 permalink: /
 sections:
   - hero:
@@ -69,5 +70,6 @@ sections:
       subtitle: Spotlight
       button: More Resources
       url: /spotlight/
-notification: "\n"
+notification: ""
+image: /images/isomer-logo.svg
 ---
