@@ -280,12 +280,11 @@ title: eMagazines and eNewspapers
 <input id="acc6a" type="checkbox">
 	<label for="acc6a">I heard that NLB has The Economist. Where is it available? </label>
 <div class="new-accordion-content">
-		<p><b>The Economist is accessible via NLB’s PressReader subscription, for both onsite and remote access. NLB members may also access PressReader via the NLB Mobile app, by simply tapping on “eNewspapers &amp; eMagazines” icon.</b>
+		<p><b>The Economist is accessible via NLB’s PressReader subscription, for both onsite and remote access. NLB members may also access PressReader via the NLB Mobile app, by simply tapping on “eNewspapers &amp; eMagazines” icon.</b></p>
 
-As of 1 February 2023, Overdrive is no longer offering The Economist due to changes in the publisher’s access model.
+<p>As of 1 February 2023, Overdrive is no longer offering The Economist due to changes in the publisher’s access model. </p>
 
-PressReader offers both digital newspapers and magazines while Libby currently only offers magazines, but no newspapers. There will be some overlaps in the both collections.
- </p>
+<p>PressReader offers both digital newspapers and magazines while Libby currently only offers magazines, but no newspapers. There will be some overlaps in the both collections.</p>
   
 
 </div>
