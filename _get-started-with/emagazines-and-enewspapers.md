@@ -188,7 +188,7 @@ title: eMagazines and eNewspapers
 	
 	<div class="bp-youtube">
 <!--NLB Mobile app video 2021 - Read eNewspapers and eMagazines with NLB Mobile app-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uE0_PdTNWKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE0_PdTNWKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 <div id="PressReaderStart" class="new-accordion"> 
   <p></p><h4>Get Started with PressReader</h4><p></p> 
@@ -278,21 +278,13 @@ title: eMagazines and eNewspapers
 <h4>Magazine titles on PressReader and Libby</h4>
 <div class="new-accordion">
 <input id="acc6a" type="checkbox">
-<label for="acc6a">I heard that NLB has <i>The Economist</i>, but I can't find it in PressReader.</label>
+	<label for="acc6a">I heard that NLB has The Economist. Where is it available? </label>
 <div class="new-accordion-content">
-		<p>We're sorry for the confusion! <i>The Economist</i> is only available through another application - not PressReader. <a rel="noopener" href="https://libbyapp.com/library/nlb/guide/magazines">Click here to read</a> <i>The Economist</i> on your browser or the Libby app.</p>
-		<p>PressReader offers both digital newspapers and magazines. Libby has magazines, but not newspapers. The magazine collection in the two apps overlap. Here are some titles found in <b>Libby</b> and not PressReader:</p>
-		<ol>
-			<li>The Economist</li>
-			<li>The Hollywood Reporter</li>
-			<li>The New Yorker</li>
-			<li>Bon Appetit</li>
-			<li>Wired</li>
-			<li>New Scientist</li>
-			<li>National Geographic</li>
-			<li>Gramophone</li>
-		</ol>
-		
+		<p><b>The Economist is accessible via NLB’s PressReader subscription, for both onsite and remote access. NLB members may also access PressReader via the NLB Mobile app, by simply tapping on “eNewspapers &amp; eMagazines” icon.</b></p>
+
+<p>As of 1 February 2023, Overdrive is no longer offering The Economist due to changes in the publisher’s access model. </p>
+
+<p>PressReader offers both digital newspapers and magazines while Libby currently only offers magazines, but no newspapers. There will be some overlaps in the both collections.</p>
   
 
 </div>
