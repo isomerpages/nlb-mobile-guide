@@ -1,7 +1,6 @@
 logo: /images/NLB-Mobile-Logo-and-Name.png
 links:
   - title: Get Started
-    false_collection: true
     url: /get-started-with/NLB-Mobile/
     sublinks:
       - title: Membership and myLibrary
