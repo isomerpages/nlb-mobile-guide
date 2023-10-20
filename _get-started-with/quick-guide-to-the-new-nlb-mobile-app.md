@@ -158,8 +158,9 @@ By default, the app is set to ‘Use Device’s Dark Mode Setting’, which mean
 Alternatively, you can easily switch between ‘Always Light’ and ‘Always Dark’ mode.
 
 Enjoy the enhanced viewing experience in Dark Mode!
-![Enable Dark Mode](/images/website.PNG)
-	</p></div>
+		
+	</p><div style="max-width: 400px"><img src="/images/website.PNG" alt="Enable dark mode."></div> 
+	<p></p></div>
 
 <input type="checkbox" id="acc26">
         <label for="acc26">I have questions about Book Bugs.</label>
