@@ -158,7 +158,7 @@ By default, the app is set to ‘Use Device’s Dark Mode Setting’, which mean
 Alternatively, you can easily switch between ‘Always Light’ and ‘Always Dark’ mode.
 
 Enjoy the enhanced viewing experience in Dark Mode!
-![](/images/website.PNG)
+![Enable Dark Mode](/images/website.PNG)
 	</p></div>
 
 <input type="checkbox" id="acc26">
