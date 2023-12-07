@@ -36,7 +36,7 @@ sections:
       title: Read on the Go
       description: With an ever-expanding collection of eBooks and eAudiobooks,
         there’s always something to check out.
-      url: /get-started-with/Libby/
+      url: get-started-with/nlb-mobile/
       image: /images/homepage-ebooks.jpg
       alt: Screenshot of NLB Mobile app
       button: Learn How to Download eBooks and audiobooks
