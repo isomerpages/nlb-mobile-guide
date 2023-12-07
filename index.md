@@ -15,8 +15,6 @@ sections:
             url: /get-started-with/Libby/
           - title: eMagazines and eNewspapers
             url: /get-started-with/enews/
-          - title: eLearning
-            url: /get-started-with/learn/
           - title: Library membership and myLibrary ID
             url: /get-started-with/myLibrary/
           - title: Chinese eBooks
