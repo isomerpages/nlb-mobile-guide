@@ -48,13 +48,6 @@ sections:
       alt: Publications include The Washington Post, NewsWeek, Bloomsberg Businessweek
       button: Learn How to Get Access
   - infopic:
-      title: Learn New Skills
-      description: Upskill with more than 13,000 courses on Udemy Business for Library.
-      url: /get-started-with/learn
-      image: /images/Home_learn.png
-      alt: Video courses on business, design and technology
-      button: Learn anytime, anywhere
-  - infopic:
       title: Manage Your Account
       description: Manage all your family members’ accounts from one app. Check due
         dates, manage reservations and more!
