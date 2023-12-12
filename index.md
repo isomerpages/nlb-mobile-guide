@@ -15,8 +15,6 @@ sections:
             url: /get-started-with/Libby/
           - title: eMagazines and eNewspapers
             url: /get-started-with/enews/
-          - title: eLearning
-            url: /get-started-with/learn/
           - title: Library membership and myLibrary ID
             url: /get-started-with/myLibrary/
           - title: Chinese eBooks
@@ -36,7 +34,7 @@ sections:
       title: Read on the Go
       description: With an ever-expanding collection of eBooks and eAudiobooks,
         there’s always something to check out.
-      url: /get-started-with/Libby/
+      url: get-started-with/nlb-mobile/
       image: /images/homepage-ebooks.jpg
       alt: Screenshot of NLB Mobile app
       button: Learn How to Download eBooks and audiobooks
@@ -47,13 +45,6 @@ sections:
       image: /images/Home_news_landscape.png
       alt: Publications include The Washington Post, NewsWeek, Bloomsberg Businessweek
       button: Learn How to Get Access
-  - infopic:
-      title: Learn New Skills
-      description: Upskill with more than 13,000 courses on Udemy Business for Library.
-      url: /get-started-with/learn
-      image: /images/Home_learn.png
-      alt: Video courses on business, design and technology
-      button: Learn anytime, anywhere
   - infopic:
       title: Manage Your Account
       description: Manage all your family members’ accounts from one app. Check due

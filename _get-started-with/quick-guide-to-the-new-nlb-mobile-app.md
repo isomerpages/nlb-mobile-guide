@@ -146,6 +146,21 @@ title: Quick Guide to the New NLB Mobile app
 <p>Just go to the ‘Account’ tab on the bottom right corner, then ‘eBook Loans’, and select the title you wish to return. You will see the option to ‘Return Title Early’ under the title’s cover image.</p>
 </div>
 
+<input type="checkbox" id="acc14">
+        <label for="acc14">How do I enable dark mode?</label>
+<div class="new-accordion-content">
+	<p>Dark Mode allows you to browse comfortably in low-light environment.
+	</p><p>Enabling Dark Mode is easy. Just follow these simple steps: 
+	</p><p> 1. Navigate to the ‘More’ Tab.
+	</p><p> 2. Click on ‘Switch Theme’.
+
+By default, the app is set to ‘Use Device’s Dark Mode Setting’, which means it would automatically adapt to your device’s dark mode settings. 
+Alternatively, you can easily switch between ‘Always Light’ and ‘Always Dark’ mode.
+
+Enjoy the enhanced viewing experience in Dark Mode!
+		
+	</p><div style="max-width: 400px"><img src="/images/website.PNG" alt="Enable dark mode."></div> 
+	<p></p></div>
 
 <input type="checkbox" id="acc26">
         <label for="acc26">I have questions about Book Bugs.</label>

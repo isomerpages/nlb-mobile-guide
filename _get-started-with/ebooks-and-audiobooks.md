@@ -4,6 +4,7 @@ breadcrumb: eBooks and Audiobooks
 description: How to Read NLB's eBooks and Audiobooks
 image: /images/libby_socmed.png
 title: eBooks and Audiobooks
+variant: markdown
 ---
 <h2>Read eBooks, even when you're offline</h2>
 <ul>
@@ -18,7 +19,7 @@ title: eBooks and Audiobooks
 
 <div class="bp-youtube">
 <!--Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube-->
- 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/QG7pVDXIBx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/QG7pVDXIBx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 	 </iframe>
 	 </div>
 
@@ -37,7 +38,7 @@ title: eBooks and Audiobooks
 <div class="new-accordion-content">
   <p>NLB Mobile and Libby are apps that let you borrow and read NLB's eBooks and audiobooks.</p>
 <p><strong>NLB Mobile</strong> lets you easily check your account and access our resources. You can borrow eBooks / Audiobooks, access eNewspapers / eMagazines and online courses. </p><p>While NLB Mobile lets you read or listen to eBooks / Audiobooks while you are connected to the Internet, it does not have an in-built reader for you to read downloaded eBooks.</p>
-<p><strong>Libby </strong>is a third-party app by OverDrive, a global distributor of content for libraries and schools. You can borrow and download NLB's eBooks / Audiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch a short introduction video on how to set up Libby</a>.</p>
+<p><strong>Libby </strong>is a third-party app by OverDrive, a global distributor of content for libraries and schools. You can borrow and download NLB's eBooks / Audiobooks, so that you can enjoy them even when you are offline. <a href="https://help.libbyapp.com/6103.htm?tocpath=Home%7CGetting%20started%7C_____2">Watch&nbsp;a short introduction video on how to set up Libby</a>.</p>
 </div>
 
 <input type="checkbox" id="acc10">
@@ -64,9 +65,9 @@ If you want to know why your titles are not downloading or how to adjust your au
 <input type="checkbox" id="acc6a">
 <label for="acc6a">How can I renew the eBooks / audiobooks? </label>
 <div class="new-accordion-content">
-  <p>You can renew a title a few days before it's due using these steps:<br/>
-Go to Shelf.<br/>
-Tap 'Manage Loan'.<br/>
+  <p>You can renew a title a few days before it's due using these steps:<br>
+Go to Shelf.<br>
+Tap 'Manage Loan'.<br>
 Tap 'Renew Loan', then 'Renew'. </p>
 </div>
 
@@ -96,7 +97,7 @@ Tap 'Renew Loan', then 'Renew'. </p>
 			<p>
 			The publishers require that each eBook copy is only lent to one user at a time - much like a physical book. This business model assures publishers and creators that they will be paid as fairly for digital copies as they are for physical copies. You can <a href="https://help.overdrive.com/en-us/0720.html">read about the details</a> here from our eBooks vendor, OverDrive.</p>
 			<p>If there aren’t any copies available, you can select “Place Hold” or “Reserve” and you will be alerted once it is available. We constantly monitor the waiting lists per title and buy more copies, as far as our budget allows.</p>
-			<p>To find books that are available right now, you can browse "Available" categories in Libby, such as <a href="https://libbyapp.com/library/nlb/curated-1119234/page-1">this list of popular but available books for adults</a>. In any category in Libby, you can also filter out unavailable books by tapping on Refine > Available Now. We also have this special category called Skip the Line, where you can immediately borrow popular books which otherwise have very long waiting lists. You can borrow such special copies for 7 days. The list is ever-changing and exciting, and you can <a href="https://libbyapp.com/library/nlb/curated-1029173/page-1">check it out here</a>.</p>
+			<p>To find books that are available right now, you can browse "Available" categories in Libby, such as <a href="https://libbyapp.com/library/nlb/curated-1119234/page-1">this list of popular but available books for adults</a>. In any category in Libby, you can also filter out unavailable books by tapping on Refine &gt; Available Now. We also have this special category called Skip the Line, where you can immediately borrow popular books which otherwise have very long waiting lists. You can borrow such special copies for 7 days. The list is ever-changing and exciting, and you can <a href="https://libbyapp.com/library/nlb/curated-1029173/page-1">check it out here</a>.</p>
 			<p>In addition, eMagazines like Readers' Digest, Wired, HELLO!, National Geographic and The Economist are always available. <a href="https://libbyapp.com/library/nlb/guide/magazines">See the full list</a> and borrow them.</p>
 			<p>We acquire unlimited copies of certain popular titles for a limited period, whenever opportunities arise. For updates, follow us at @publiclibrarysg on our social media channels (we're on <a href="https://www.facebook.com/publiclibrarysg/">Facebook</a>, <a href="https://www.instagram.com/publiclibrarysg/">Instagram</a>, <a href="https://medium.com/publiclibrarysg">Medium</a>).
 			</p>
@@ -106,7 +107,7 @@ Tap 'Renew Loan', then 'Renew'. </p>
 <h4><a name="mag">eMagazines on Libby</a></h4>
 <div class="new-accordion"><!--accordion--> 
 
-<input type="checkbox" id="acc7a" checked>
+<input type="checkbox" id="acc7a" checked="">
 <label for="acc7a">How can I borrow eMagazines in Libby?</label>
 <div class="new-accordion-content">
 		<p>
@@ -114,7 +115,7 @@ Tap 'Renew Loan', then 'Renew'. </p>
 		</p>
 	<div class="bp-youtube">
 <!--Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube-->
- 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/QG7pVDXIBx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/QG7pVDXIBx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 	 </iframe>
 	 </div>
 			<p>
@@ -268,7 +269,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div><!--close accordion-->
 <p>
 	
-<h3><a name="ereader">NLB's eBooks - Compatibility with eReaders / apps</a></h3>
+</p><h3><a name="ereader">NLB's eBooks - Compatibility with eReaders / apps</a></h3>
 <div class="new-accordion"><!--accordion--> 
 <input type="checkbox" id="acc19">
         <label for="acc19">Can I read NLB's eBooks using eReaders (e.g. Kindle, Kobo, Nook) or apps (e.g. Apple Books, Google Play Books, Adobe Digital Editions)?</label>
@@ -276,17 +277,8 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>Format availability for eBooks is subject to the negotiations between OverDrive* and the respective companies, e.g. Amazon. NLB will purchase eBooks in the best formats that are available in Singapore.&nbsp;</p>
 
 <p><strong>Kindle</strong>: Currently, Kindle is not supported.</p>
-		<p><strong>Kobo</strong>: Yes, you can access NLB's eBooks <b>directly</b>, if you have any of the following models:&nbsp;</p>
-<ul>
-  <li>Kobo Nia,&nbsp;</li>
-  <li>Kobo Libra H2O,&nbsp;</li>
-  <li>Kobo Forma,&nbsp;</li>
-  <li>Kobo Aura ONE,&nbsp;</li>
-  <li>Kobo Aura Edition 2,</li>
-  <li>Kobo Aura H2O Edition 2, or&nbsp;</li>
-  <li>Kobo Clara HD devices.</li>
-</ul>
-<p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive* on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
+		<p><strong>Kobo</strong>: A built-in Overdrive feature is available in Kobo eReaders. Please refer to this <a href="https://help.kobo.com/hc/en-us/articles/360018160953-Which-Kobo-eReaders-have-OverDrive-">link</a> for details. 
+</p><p>Log in with your myLibrary ID via the OverDrive integration under Settings &gt; &nbsp;OverDrive* on these Kobo devices to read NLB's eBooks. Titles do not need to be available in Kobo format to be downloaded on a Kobo device. However, only NLB eBooks which are found in the Kobo store can be borrowed directly from these Kobo devices. 
   <a href="https://help.overdrive.com/en-us/2194.htm" target="_blank" rel="noopener">Read this article</a> for a step-by-step guide on how to borrow ebooks on your Kobo device.
 </p>
 <p class="end-note">*The Libby app is developed by OverDrive. </p>
@@ -300,7 +292,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>Here are the steps to do so:</p>
 <p>i. Connect your eReader to your computer.</p>
 <p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer.</p>
-<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary username. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
+<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary username. Go to My Account -&gt; Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
   <a href="https://help.overdrive.com/en-us/0047.html" target="_blank" rel="noopener">what to do if your eReader is not detected by ADE</a>.&nbsp;
@@ -324,7 +316,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <p>Here are the steps to do so:</p>
 <p>i. Connect your eReader to your computer.</p>
 <p>ii. Install and authorise Adobe Digital Editions (ADE) on your computer.</p>
-<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary username. Go to My Account -> Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
+<p>iii. Go to <a href="https://nlb.overdrive.com">nlb.overdrive.com</a>. Sign in with your myLibrary username. Go to My Account -&gt; Loans and click on the "Download EPUB ebook" button under each of the titles you want to read in your eReader. Downloaded eBooks should open automatically in ADE.</p>
 <p>iv. In ADE, make sure you’re in the “Library” view. Your eReader should show up under “Devices”. You may need to accept a file-transfer prompt in your eReader in order to appear in ADE.</p>
 <p>v. If your eReader is not detected by ADE, you might have to update to the most recent version of ADE. For more information, read this article on 
   <a href="https://help.overdrive.com/en-us/0047.html" target="_blank" rel="noopener">what to do if your eReader is not detected by ADE</a>.&nbsp;
@@ -337,7 +329,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div><!--close accordion-->
 
 <p>
-<div class="new-accordion" id="LibbyTroubleshoot">
+</p><div class="new-accordion" id="LibbyTroubleshoot">
 	<h3><a name="troubleshooting">Troubleshooting</a></h3>
 
 <input type="checkbox" id="acc20">
@@ -350,7 +342,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 <input type="checkbox" id="acc21">
         <label for="acc21">My eBook/eAudiobook isn't downloading.</label>
         <div class="new-accordion-content">
-  <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf &#8594; Actions &#8594; Change Download Rules.</p>
+  <p>Are you connected to WiFi? The default setting is to only download titles over WiFi. If you are connected, your eBook/eAudiobook may not be downloading automatically because of your download settings in Libby. You can check these settings under Shelf → Actions → Change Download Rules.</p>
 	<p>Step 1: Tap on the 'Shelf' button.</p>
 	<p><img src="/images/Libby-shelf-highlighted.png" alt="A screenshot of the Libby app, showing where the Shelf button is." style="max-width:300px;height:auto;width:auto;"></p>
 	<p>Step 2: Tap on the 'Actions' button, then select 'Change Download Rules'.</p>
@@ -361,13 +353,13 @@ eBooks / eAudiobooks you currently have on loan.</p>
   
   <input type="checkbox" id="acc22">
 		<label for="acc22">I checked out a book using OverDrive, and now I can’t return it early on Libby.</label>
-	<div class="new-accordion-content"><p>You can return all your eBooks from the NLB Mobile app. Go to Account > eBook Loans. </p>
+	<div class="new-accordion-content"><p>You can return all your eBooks from the NLB Mobile app. Go to Account &gt; eBook Loans. </p>
       <p class="end-note">eBooks added to the Libby app are in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats. If you download a book in EPUB format or an audiobook in MP3 format on the OverDrive app (where the title is not offered in the <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats), it will not display in Libby and cannot be returned early via the Libby app.</p> 
       <p class="end-note">With the exception of <i>OverDrive Read</i> or <i>OverDrive Listen</i> formats, titles you download can be returned early from the device you downloaded them to, or on the OverDrive website. All titles expire automatically after the loan period.
 </p>
 </div>
 
-<input type="checkbox"  id="acc23">
+<input type="checkbox" id="acc23">
         <label for="acc23">Can I read in landscape mode on my phone using Libby?</label>
         <div class="new-accordion-content">
   <p>Regular eBooks are always presented in portrait mode on small screens.</p> <p class="end-note"> This is because OverDrive has not settled on a landscape reading experience on small screens that meets their standard. </p><p>For magazines and picture books, landscape mode is usually available regardless of screen size.</p>
@@ -382,9 +374,9 @@ eBooks / eAudiobooks you currently have on loan.</p>
 			To keep using the OverDrive app and OverDrive websites, you will need to do one of the following:
 		</p>
 		<ul>
-			<li>Update your device's <b>browser</b> to a version that supports TLS 1.2. This will allow you to use the <a href="http://nlb.overdrive.com/">OverDrive website</a> but not the OverDrive app. </li>
+			<li>Update your device's&nbsp;<b>browser</b>&nbsp;to a version that supports TLS 1.2. This will allow you to use the&nbsp;<a href="http://nlb.overdrive.com/">OverDrive website</a>&nbsp;but not the OverDrive app. </li>
 			<li><b>If you are using an eReader</b>, use a PC/laptop that supports TLS 1.2 to transfer eBooks to your eReader. Read <a href="https://help.overdrive.com/en-us/0005.html">OverDrive's article</a> on how to do this.</li>
-			<li>If possible, update your device’s operating system to a version that supports TLS 1.2. Android users need to update to Android 5 (see <a href="https://support.google.com/android/answer/7680439?hl=en">Google's steps for updating your Android version</a>). Apple users need to update to iOS 5 (see <a href="https://support.apple.com/en-us/HT204204">Apple's steps for updating your iOS version</a>). If you are seeing this message on a Windows 7 computer, try installing Windows updates.</li>
+			<li>If possible, update your device’s operating system to a version that supports TLS 1.2. Android users need to update to Android 5 (see&nbsp;<a href="https://support.google.com/android/answer/7680439?hl=en">Google's steps for updating your Android version</a>). Apple users need to update to iOS 5 (see&nbsp;<a href="https://support.apple.com/en-us/HT204204">Apple's steps for updating your iOS version</a>).&nbsp;If you are seeing this message on a Windows 7 computer, try installing Windows updates.</li>
 			<li>Switch to a device that supports TLS 1.2.</li>
 		</ul>
 		<p>For more information, please read <a href="https://help.overdrive.com/en-us/2271.htm">OverDrive's Help article on this topic</a>.</p>
@@ -392,7 +384,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 </div><!--close section-->
 <p>
 	
-<div class="new-accordion" id="Others">
+</p><div class="new-accordion" id="Others">
 <h3><a name="findmoreebooks">Find more eBooks</a></h3>
 
 <input type="checkbox" id="acc25">
@@ -403,7 +395,7 @@ eBooks / eAudiobooks you currently have on loan.</p>
 				<li><a href="https://libbyapp.com/library/nlb/guide/chinese" target="_blank" rel="noopener">Chinese</a></li>
 					<li><a href="https://libbyapp.com/library/nlb/guide/malay" target="_blank" rel="noopener">Malay</a></li>
 					<li><a href="https://libbyapp.com/library/nlb/guide/tamil" target="_blank" rel="noopener">Tamil</a></li></ul>
-		<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="/get-started-with/hyread/" target="_blank" rel="noopener">FAQ page on HyRead</a>.</p>
+		<p>In addition, we have another eBooks platform, HyRead, which is dedicated to Chinese eBooks. <a href="https://www.facebook.com/yangqinli07/videos/10156636791555793/?view=permalink&amp;id=2985780164802018" target="_blank" rel="noopener">Here is a step-by-step video guide (in Chinese)</a>, on how to use HyRead. There is also an <a href="/get-started-with/hyread/" target="_blank" rel="noopener">FAQ page on HyRead</a>.</p>
 </div>
 
 <input type="checkbox" id="acc26">
@@ -421,13 +413,13 @@ eBooks / eAudiobooks you currently have on loan.</p>
 		<p>Here is a <a href="/images/UsingNLB'sresourcepackage_guide_20200204.pdf" target="blank">step-by-step guide (463 KB)</a> on how to read the eBook online. If you wish to download the eBook so you can read even when offline, please watch the video below. After setting up the Libby app, simply search for the book title to borrow and download it.</p>
 <div class="bp-youtube">
 <!--Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube-->
- 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/QG7pVDXIBx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ 	 <iframe title="Introducing Libby, the reading companion app to NLB Mobile - PLS YouTube" width="560" height="315" src="https://www.youtube.com/embed/QG7pVDXIBx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 	 </iframe>
 	 </div>
 </div><!--close div for acc-body-->
 	</div><!--accordion--> 
   <p>
-<div class="new-accordion" id="LibbyVsOverDrive">  
+</p><div class="new-accordion" id="LibbyVsOverDrive">  
   <h4>Libby versus OverDrive</h4>
 <input type="checkbox" id="acc12">
         <label for="acc12">Is Libby replacing the OverDrive app?</label>
@@ -436,4 +428,4 @@ eBooks / eAudiobooks you currently have on loan.</p>
       </p>
 </div>
 </div><!--div class="FAQ-section" id="LibbyVsOverDrive-->
-<p>
+<p></p>

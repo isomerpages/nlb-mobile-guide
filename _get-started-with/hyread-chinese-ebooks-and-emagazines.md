@@ -4,6 +4,7 @@ breadcrumb: HyRead Chinese eBooks and eMagazines
 description: How to Read Chinese eBooks and eMagazines on HyRead
 image: /images/hyread_socmed.jpg
 title: HyRead Chinese eBooks and eMagazines
+variant: markdown
 ---
 <h2>About HyRead</h2>
 <p>
