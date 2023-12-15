@@ -2,6 +2,7 @@
 permalink: /get-started-with/mylibrary/
 breadcrumb: Library Membership and myLibrary ID
 title: Library Membership and myLibrary username
+variant: markdown
 ---
 <h2> A username that lets you borrow ebooks, access digital resources, check library accounts and more! </h2>
 <p><b>Forgot your username or password?</b> <a href="https://account.nlb.gov.sg">Retrieve them with this online service.</a></p>
@@ -33,7 +34,7 @@ title: Library Membership and myLibrary username
 			<p>Do note that:</p>
 			<ul>
 				<li>Singaporean/ PR PAssion card holders are eligible for the NLB Partner Membership and registration is available online. For more details on this, please refer <a href="https://www.passioncard.gov.sg/passion-partners/national-library-board-partner-membership">here</a>. </li>
-				<li>If you are a foreigner who recently signed up to be a new PAssion card member, you are eligible for a waiver on the registration fee ($10.59). The annual membership fee ($43.20) will still be chargeable. To sign up and enjoy the waiver, please approach a staff member at any library. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</li>
+				<li>If you are a foreigner who recently signed up to be a new PAssion card member, you are eligible for a waiver on the registration fee ($10.69). The annual membership fee ($43.60) will still be chargeable. To sign up and enjoy the waiver, please approach a staff member at any library. Check our <a href="https://www.nlb.gov.sg/VisitUs/Membership.aspx#membership_for_foreigners">membership guide</a> to find out what documents you will need to bring, in addition to a valid PAssion card.</li>
 				<li>If you are a PR or a foreigner who is studying at an MOE school, you are eligible for a waiver on:
 				<ul>
 					<li style="margin-left: 20px;">the one-time registration fee (for PRs)</li>
