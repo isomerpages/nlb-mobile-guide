@@ -2,6 +2,7 @@
 title: National Day Giveaway
 permalink: /promotion/nd/
 description: promotion
+variant: markdown
 ---
 <h2>National Library Board’s (NLB) National Day Giveaway</h2>
 
@@ -15,7 +16,7 @@ description: promotion
 	
 <table style="width: auto;"></table>
 <table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
-	<tr><td>1</td><td>DeeDeeOng</td><td>XXXXX593A</td></tr>
+	<tr><td>1</td><td>DeeDeeOng</td><td>XXXXXXXX</td></tr>
 	<tr><td>2</td><td>junchen22</td><td>XXXXX132B</td></tr>
 	<tr><td>3</td><td>evelynliow</td><td>XXXXX577B</td></tr>
 	<tr><td>4</td><td>tanlarksai</td><td>XXXXX182Z</td></tr>
@@ -336,8 +337,8 @@ description: promotion
 
 
 		
-<p><div style="max-width: 500px"><img src="/images/Grabgiveawaypic.png" alt="Grabgiveawaypic"></div>
-	National Library Board’s (NLB) National Day Giveaway 2022</p>  
+<p></p><div style="max-width: 500px"><img src="/images/Grabgiveawaypic.png" alt="Grabgiveawaypic"></div>
+	National Library Board’s (NLB) National Day Giveaway 2022<p></p>  
 
 <div id="eReads-get-started" class="new-accordion">          
 <input id="acc98" type="checkbox">
@@ -362,4 +363,4 @@ description: promotion
          <li>Check this page regularly for updates on the terms and conditions.  Unexpected circumstances may require NLB to change the terms and conditions or prizes at any time or to cancel the National Day Giveaway at NLB’s sole discretion.</li></ol>
 
           
-</div></div></div>
+</div></div></div></div></div></div></div></div></div></div></div>
