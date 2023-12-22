@@ -16,7 +16,7 @@ variant: markdown
 	
 <table style="width: auto;"></table>
 
-# 	<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr><tr><td>1</td><td>DeeDeeOng</td><td>xxxxxxxxxxxxxxxxxx</td></tr>
+# 	<table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr><tr><td>1</td><td>DeeDeeOng</td><td>xxxxxxxxx</td></tr>
 	<tr><td>2</td><td>junchen22</td><td>xxxxxxxxx</td></tr>
 	<tr><td>3</td><td>evelynliow</td><td>xxxxxxxxx</td></tr>
 	<tr><td>4</td><td>tanlarksai</td><td>xxxxxxxxx</td></tr>
