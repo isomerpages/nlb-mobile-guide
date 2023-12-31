@@ -129,7 +129,7 @@ variant: markdown
 	<tr><td>4</td><td>hosannakim</td><td>xxxxxxxxx</td></tr>
 	<tr><td>5</td><td>Skittle003</td><td>xxxxxxxxx</td></tr>
 	<tr><td>6</td><td>wilsonangmw</td><td>xxxxxxxxx</td></tr>
-	<tr><td>7</td><td>AngelaRen</td><td>XXXXX852Z</td></tr> 
+	<tr><td>7</td><td>AngelaRen</td><td>xxxxxxxxx</td></tr> 
 	<tr><td>8</td><td>faiza88</td><td>xxxxxxxxx</td></tr> 
 	<tr><td>9</td><td>chenxiaodan82</td><td>xxxxxxxxx </td></tr>
 	<tr><td>10</td><td>shubanrt</td><td>xxxxxxxxx</td></tr>
@@ -163,9 +163,9 @@ variant: markdown
 	
 <table style="width: auto;"></table>
 <table><tbody><tr><th>S/N</th><th>MyLibrary Username</th><th>NRIC</th></tr>
-	<tr><td>1</td><td>   sarazhanjiali</td><td>XXXXX050F</td></tr>
-	<tr><td>2</td><td>   ngandlum</td><td>XXXXX330I</td></tr>
-	 <tr><td>3</td><td>  s2nw2g</td><td>XXXXX299B</td></tr>
+	<tr><td>1</td><td>   sarazhanjiali</td><td>xxxxxxxxx</td></tr>
+	<tr><td>2</td><td>   ngandlum</td><td>xxxxxxxxx</td></tr>
+	 <tr><td>3</td><td>  s2nw2g</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>4</td><td>ElliotJLim</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>5</td><td>moneymoremore</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>6</td><td>ceceliachoye</td><td>xxxxxxxxx</td></tr>
@@ -321,17 +321,17 @@ variant: markdown
 	 <tr><td>4</td><td>SohGakHeo</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>5</td><td>isabelsoh29</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>6</td><td>chris2018</td><td>xxxxxxxxx</td></tr>
-	 <tr><td>7</td><td>YuEn1504</td><td>xxxxxxxxx</td></tr> <tr><td>8</td><td>TanMelaniie</td><td>xxxxx690Z</td></tr> <tr><td>9</td><td>teotzehuat</td><td>xxxxxxxxx</td></tr>
+	 <tr><td>7</td><td>YuEn1504</td><td>xxxxxxxxx</td></tr> <tr><td>8</td><td>TanMelaniie</td><td>xxxxxxxxx</td></tr> <tr><td>9</td><td>teotzehuat</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>10</td><td>jessicasyk</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>11</td><td>LeeYinJen</td><td>xxxxxxxxx</td></tr>
-	 <tr><td>12</td><td>wackygurl89</td><td>xxxxxxxxx</td></tr> <tr><td>13</td><td>alexloong</td><td>xxxxx154C</td></tr>
+	 <tr><td>12</td><td>wackygurl89</td><td>xxxxxxxxx</td></tr> <tr><td>13</td><td>alexloong</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>14</td><td>Ngdengpeng</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>15</td><td>Shopkins11</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>16</td><td>michelle129</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>17</td><td>janehansihui</td><td>xxxxxxxxx</td></tr> <tr><td>18</td><td>altheal</td><td>xxxxx071F</td></tr> <tr><td>19</td><td>mnizanh</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>20</td><td>yongjie</td><td>xxxxxxxxx</td></tr>
 	 <tr><td>21</td><td>laurenoh</td><td>xxxxxxxxx</td></tr>
-	 <tr><td>22</td><td>MOHITNIR</td><td>xxxxxxxxx</td></tr> <tr><td>23</td><td>TIANMEI</td><td>xxxxx218F</td></tr>
+	 <tr><td>22</td><td>MOHITNIR</td><td>xxxxxxxxx</td></tr> <tr><td>23</td><td>TIANMEI</td><td>xxxxxxxxx</td></tr>
 	</tbody></table>
 	</div>
 
