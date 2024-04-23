@@ -60,7 +60,6 @@ sections:
       title: Resources Curated by Our Librarians
       subtitle: Spotlight
       button: More Resources
-      url: /spotlight/
 notification: ""
 image: /images/isomer-logo.svg
 ---
