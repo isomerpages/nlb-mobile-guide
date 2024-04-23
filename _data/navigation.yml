@@ -1,0 +1,30 @@
+logo: /images/NLB-Mobile-Logo-and-Name.png
+links:
+  - title: Get Started
+    url: /get-started-with/nlb-mobile/
+    sublinks:
+      - title: Membership and myLibrary
+        url: /get-started-with/mylibrary/
+      - title: NLB Mobile app
+        url: /get-started-with/nlb-mobile/
+      - title: eMagazines and eNewspapers
+        url: /get-started-with/enews/
+      - title: eBooks and Audiobooks
+        url: /get-started-with/libby/
+      - title: HyRead Chinese eBooks and eMagazines
+        url: /get-started-with/hyread/
+  - title: Promotion
+    url: /promotion/nd
+    sublinks:
+      - title: National Day Giveaway
+        url: /promotion/nd
+      - title: Breadtalk
+        url: /promotion/breadtalk
+  - title: Spotlight
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  - title: NLB Homepage
+    url: https://www.nlb.gov.sg/
+  - title: FAQ
+    url: /faq
