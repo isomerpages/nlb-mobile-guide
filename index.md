@@ -60,7 +60,10 @@ sections:
       title: Resources Curated by Our Librarians
       subtitle: Spotlight
       button: More Resources
-      url: /spotlight/
-notification: ""
+notification: Please be informed that the NLB Mobile site will be fully migrated
+  to the NLB Corporate website starting from 2 May 2024. For NLB Mobile app
+  information, please visit the NLB Corporate Website > Services > NLB Mobile
+  (https://www.nlb.gov.sg/main/services/faqs/NLB-Mobile). Thank you for your
+  support.
 image: /images/isomer-logo.svg
 ---
